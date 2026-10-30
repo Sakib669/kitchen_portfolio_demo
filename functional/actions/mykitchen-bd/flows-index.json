@@ -1,0 +1,260 @@
+[
+  {
+    "id": "accordions",
+    "error": null,
+    "steps": 4,
+    "requests": 94,
+    "durationMs": 20794,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-1.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-2.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-3.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-4.png"
+    ],
+    "blockedWrites": 2
+  },
+  {
+    "id": "baseline",
+    "error": null,
+    "steps": 6,
+    "requests": 72,
+    "durationMs": 6341,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/baseline-home.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "carousel",
+    "error": null,
+    "steps": 3,
+    "requests": 80,
+    "durationMs": 25067,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-initial.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-next-1.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-next-2.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-next-3.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-prev.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "chat",
+    "error": null,
+    "steps": 2,
+    "requests": 92,
+    "durationMs": 10365,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/chat-opened.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "cookie",
+    "error": null,
+    "steps": 4,
+    "requests": 142,
+    "durationMs": 11661,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/cookie-banner.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/cookie-after.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "detailProbes",
+    "error": null,
+    "steps": 2,
+    "requests": 74,
+    "durationMs": 22983,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/detailProbes-catalogue-preview.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "finalise",
+    "error": null,
+    "steps": 1,
+    "requests": 8,
+    "durationMs": 38,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "forms",
+    "error": null,
+    "steps": 3,
+    "requests": 72,
+    "durationMs": 11959,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-form.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-validation.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-submit-click.png"
+    ],
+    "blockedWrites": 2
+  },
+  {
+    "id": "hoverStates",
+    "error": null,
+    "steps": 1,
+    "requests": 112,
+    "durationMs": 11240,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/hoverStates-hover-primary-cta.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/hoverStates-hover-secondary-pill.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/hoverStates-hover-image-tile.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "keyboard",
+    "error": null,
+    "steps": 3,
+    "requests": 71,
+    "durationMs": 8955,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/keyboard-keyboard-open.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "language",
+    "error": null,
+    "steps": 1,
+    "requests": 0,
+    "durationMs": 0,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "linksAssets",
+    "error": null,
+    "steps": 6,
+    "requests": 116,
+    "durationMs": 23360,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "mobileUi",
+    "error": null,
+    "steps": 2,
+    "requests": 70,
+    "durationMs": 11553,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/mobileUi-mobile-ui.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/mobileUi-mobile-scrolled.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "modal",
+    "error": null,
+    "steps": 5,
+    "requests": 214,
+    "durationMs": 17102,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/modal-onload.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/modal-closed.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "navDesktop",
+    "error": null,
+    "steps": 2,
+    "requests": 148,
+    "durationMs": 15667,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navDesktop-nav-0-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navDesktop-nav-1-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navDesktop-nav-2-open.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "navMobile",
+    "error": null,
+    "steps": 4,
+    "requests": 65,
+    "durationMs": 15348,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navMobile-home-mobile.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navMobile-menu-open.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "notFound",
+    "error": null,
+    "steps": 1,
+    "requests": 12,
+    "durationMs": 1608,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/notFound-404.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "pageProbe",
+    "error": null,
+    "steps": 6,
+    "requests": 285,
+    "durationMs": 52219,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-catalogue.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-catalogue-clicked.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-find-store.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-products.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-gallery.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-company-profile.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "scroll",
+    "error": null,
+    "steps": 3,
+    "requests": 93,
+    "durationMs": 7547,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/scroll-scrolled.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/scroll-bottom.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "search",
+    "error": null,
+    "steps": 2,
+    "requests": 77,
+    "durationMs": 10079,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "tabsFilters",
+    "error": null,
+    "steps": 3,
+    "requests": 149,
+    "durationMs": 30296,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-1.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-2.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-3.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-4.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "videoLightbox",
+    "error": null,
+    "steps": 1,
+    "requests": 56,
+    "durationMs": 9460,
+    "shots": [],
+    "blockedWrites": 0
+  }
+]

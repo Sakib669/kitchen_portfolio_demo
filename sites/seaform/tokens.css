@@ -1,0 +1,126 @@
+/* ============================================================
+   SEAFORM — design tokens (reverse-engineered)
+   Source: https://www.seaform.com · 2026-10-26
+   Values observed from computed styles + CSS custom properties.
+   ============================================================ */
+
+:root {
+  /* ---- brand & accents ---- */
+  --seaform-brand-100: #c9b195; /* orange */
+
+  /* ---- neutrals ---- */
+  --seaform-neutral-1: #000000; /* L0 */
+  --seaform-neutral-2: #121212; /* L7 */
+  --seaform-neutral-3: #54595f; /* L35 */
+  --seaform-neutral-4: #7a7a7a; /* L48 */
+  --seaform-neutral-5: #999999; /* L60 */
+  --seaform-neutral-6: #f7f7f7; /* L97 */
+  --seaform-neutral-7: #ffffff; /* L100 */
+
+  /* ---- surfaces & text ---- */
+  --seaform-surface-white: #ffffff;
+  --seaform-surface-black: #000000;
+  --seaform-surface-ink: #141414;
+  --seaform-surface-black-2: #121212;
+  --seaform-surface-ink-2: #171717;
+  --seaform-surface-ink-3: #151412;
+  --seaform-surface-cyan-dark: #121820;
+  --seaform-surface-black-3: #0e0e0e;
+
+  --seaform-text-white: #ffffff;
+  --seaform-text-black: #000000;
+  --seaform-text-grey: #999999;
+  --seaform-text-slate: #7a7a7a;
+  --seaform-text-mist: #f7f7f7;
+  --seaform-text-orange: #c9b195;
+
+  /* ---- type scale ---- */
+  --seaform-font-size-77: 77px; /* w400, lh 77px */
+  --seaform-font-size-60: 60px; /* w400, lh 60px */
+  --seaform-font-size-48: 48px; /* w300, lh 48px */
+  --seaform-font-size-40: 40px; /* w400, lh 50px */
+  --seaform-font-size-35: 35px; /* w300, lh 52.5px */
+  --seaform-font-size-30: 30px; /* w300, lh 40px */
+  --seaform-font-size-30: 30px; /* w400, lh 39px */
+  --seaform-font-size-25: 25px; /* w300, lh 37.5px */
+  --seaform-font-size-24: 24px; /* w300, lh 36px */
+  --seaform-font-size-24: 24px; /* w600, lh 36px */
+  --seaform-font-size-24: 24px; /* w400, lh 36px */
+  --seaform-font-size-23: 23px; /* w400, lh 23px */
+  --seaform-font-size-22: 22px; /* w400, lh 33px */
+  --seaform-font-size-20: 20px; /* w300, lh 30px */
+  --seaform-font-size-20: 20px; /* w600, lh 20px */
+  --seaform-font-size-20: 20px; /* w400, lh 30px */
+  --seaform-font-size-18: 18px; /* w400, lh 18px */
+  --seaform-font-size-16: 16px; /* w400, lh 1px */
+  --seaform-font-size-16: 16px; /* w600, lh 16px */
+  --seaform-font-size-16: 16px; /* w300, lh 24px */
+  --seaform-font-size-15: 15px; /* w400, lh 15px */
+  --seaform-font-size-14: 14px; /* w300, lh 14px */
+  --seaform-font-size-14: 14px; /* w400, lh 25.2px */
+  --seaform-font-size-14: 14px; /* w600, lh 14px */
+  --seaform-font-size-14: 14px; /* w700, lh 20px */
+
+  /* ---- spacing ---- */
+  --seaform-space-3: 3px;
+  --seaform-space-4: 4px;
+  --seaform-space-5: 5px;
+  --seaform-space-6: 6px;
+  --seaform-space-8: 8px;
+  --seaform-space-9: 9px;
+  --seaform-space-10: 10px;
+  --seaform-space-12: 12px;
+  --seaform-space-15: 15px;
+  --seaform-space-20: 20px;
+  --seaform-space-30: 30px;
+  --seaform-space-40: 40px;
+  --seaform-space-72: 72px;
+  --seaform-space-100: 100px;
+  --seaform-space-140: 140px;
+  --seaform-space-144: 144px;
+  --seaform-space-150: 150px;
+
+  /* ---- radius ---- */
+  --seaform-radius-1: 3px;
+  --seaform-radius-2: 50%;
+  --seaform-radius-3: 0;
+  --seaform-radius-4: 2px;
+  --seaform-radius-5: 6px;
+  --seaform-radius-6: 4px;
+  --seaform-radius-7: 5px;
+  --seaform-radius-8: var(--border-radius);
+  --seaform-radius-9: 100%;
+  --seaform-radius-10: 9999px;
+
+  /* ---- shadow ---- */
+  --seaform-shadow-1: none;
+  --seaform-shadow-2: none !important;
+  --seaform-shadow-3: 0 2px 6px rgba(0,0,0,.1);
+  --seaform-shadow-4: 0 0 10px 4px rgba(0,0,0,.1);
+  --seaform-shadow-5: 0 0 8px rgba(0,0,0,.6);
+  --seaform-shadow-6: none!important;
+  --seaform-shadow-7: 0 0 0 1px hsla(0,0%,100%,.2);
+  --seaform-shadow-8: 0 4px 6px rgba(0,0,0,.05);
+
+  /* ---- motion ---- */
+  --seaform-duration-1: .3s;
+  --seaform-duration-2: .25s;
+  --seaform-duration-3: .2s;
+  --seaform-duration-4: .4s;
+  --seaform-duration-5: 0.5s;
+  --seaform-duration-6: 0s;
+  --seaform-ease-1: ease;
+  --seaform-ease-2: ease-in-out;
+  --seaform-ease-3: ease-out;
+  --seaform-ease-4: linear;
+  --seaform-ease-5: cubic-bezier(.77,.2,.05,1);
+  --seaform-ease-6: cubic-bezier(.77,0,.175,1);
+}
+
+/* ---- breakpoints (observed) ---- */
+@media (min-width:480) { /* 11 rules */ }
+@media (min-width:481) { /* 11 rules */ }
+@media (min-width:601) { /* 11 rules */ }
+@media (min-width:768) { /* 11 rules */ }
+@media (min-width:959) { /* 11 rules */ }
+@media (min-width:992) { /* 11 rules */ }

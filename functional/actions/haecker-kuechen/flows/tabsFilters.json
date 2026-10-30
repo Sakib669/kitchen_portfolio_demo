@@ -1,0 +1,1025 @@
+{
+  "id": "tabsFilters",
+  "startedAt": "2026-10-26T08:36:45.081Z",
+  "steps": [
+    {
+      "name": "tabCandidates",
+      "at": 686783,
+      "data": []
+    },
+    {
+      "name": "results",
+      "at": 686783,
+      "data": []
+    }
+  ],
+  "durationMs": 25725,
+  "finishedAt": "2026-10-26T08:37:10.806Z",
+  "requests": [
+    {
+      "id": 429,
+      "flow": "tabsFilters",
+      "ts": 661061,
+      "url": "https://www.haecker-kuechen.com/en/kitchen-styles",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 430,
+      "flow": "tabsFilters",
+      "ts": 669651,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 431,
+      "flow": "tabsFilters",
+      "ts": 669652,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 432,
+      "flow": "tabsFilters",
+      "ts": 669653,
+      "url": "https://www.haecker-kuechen.com/_assets/0461cac7cf841c14e085cd32e5c0799e/images/logo_white.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 433,
+      "flow": "tabsFilters",
+      "ts": 669653,
+      "url": "https://www.haecker-kuechen.com/_assets/0461cac7cf841c14e085cd32e5c0799e/images/logo_black.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 434,
+      "flow": "tabsFilters",
+      "ts": 669891,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/a/0/csm_AV7080_Rauchblau_f_1700x1200_a73997e13a.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 435,
+      "flow": "tabsFilters",
+      "ts": 669893,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/f/1/csm_Ravenna_Weiss_f_1700x1200_1cfd195303.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 436,
+      "flow": "tabsFilters",
+      "ts": 670320,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/0/1/csm_100_JEK_Haecker_Kueche_1700x1200_db3f7efb76.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 437,
+      "flow": "tabsFilters",
+      "ts": 670321,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.js?1767948963",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 438,
+      "flow": "tabsFilters",
+      "ts": 670321,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/2/csm_Ha__cker_Fru__hling_1700x1200_0c0b3d998a.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 439,
+      "flow": "tabsFilters",
+      "ts": 670324,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/e/csm_haecker-drohne_21_1700x1200_73ee699e41.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 440,
+      "flow": "tabsFilters",
+      "ts": 670324,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/2/a/csm_nav-placeholder-xl_d3b9409eea.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 441,
+      "flow": "tabsFilters",
+      "ts": 670324,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/1/b/csm_nav-placeholder-medium-broschuere_e438e8de83.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 442,
+      "flow": "tabsFilters",
+      "ts": 670325,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/9/3/csm_Ruby_van_Zwol_Szene_65_1700x1200_375fac11f2.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 443,
+      "flow": "tabsFilters",
+      "ts": 670325,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Sonstiges/MegaMenu/nav-placeholder-medium-haeckerbuilding.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 444,
+      "flow": "tabsFilters",
+      "ts": 670325,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/a/0/csm_Softwareentwickler_Quadratisch_a3d1ee41e9.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 445,
+      "flow": "tabsFilters",
+      "ts": 670326,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/1/c/csm_Produktion_1700x1200_Quadratisch_139b050740.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 446,
+      "flow": "tabsFilters",
+      "ts": 670329,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/6/csm_Duale_Studenten_Quadratisch_0b6c10e1c5.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 447,
+      "flow": "tabsFilters",
+      "ts": 670330,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/7/a/csm_Azubi_Quadratisch_89dcf30891.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 448,
+      "flow": "tabsFilters",
+      "ts": 670330,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/0/1/csm_Industriekaufmann_frau_Quadratisch_36c110a5e5.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 449,
+      "flow": "tabsFilters",
+      "ts": 670331,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/6/c/csm_laptop_1700x1200_Quadratisch_b973247597.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 450,
+      "flow": "tabsFilters",
+      "ts": 670331,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/f/csm_AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Header_2560x1250_f07d775fd6.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 451,
+      "flow": "tabsFilters",
+      "ts": 670332,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/1/a/csm_Vegas_Urban_Brown_Metallic_Header_2560x1250_629d224e65.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 452,
+      "flow": "tabsFilters",
+      "ts": 670332,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/d/e/csm_Finanzmanagement_1700x1200_08d978a61c.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 453,
+      "flow": "tabsFilters",
+      "ts": 670333,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/b/8/csm_Perfect_Soft_Graphit_Satin_M_Querformat_1700x1200_8543334499.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 454,
+      "flow": "tabsFilters",
+      "ts": 670334,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/7/7/csm_AV_2042_Samteiche_Greige_Querformat_1700x1200_e54afc7eb8.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 455,
+      "flow": "tabsFilters",
+      "ts": 670334,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/a/csm_Scala_Olivgruen_M_Querformat_1700x1200_3f8b9de9aa.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 456,
+      "flow": "tabsFilters",
+      "ts": 670335,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/app.26e11a9b-min.js?1792961812",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 457,
+      "flow": "tabsFilters",
+      "ts": 670335,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/runtime.09724e43-min.js?1792961812",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 458,
+      "flow": "tabsFilters",
+      "ts": 670335,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/powermail_timeslots-min.js?1792961812",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 459,
+      "flow": "tabsFilters",
+      "ts": 670347,
+      "url": "https://www.haecker-kuechen.com/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.ff75bc54.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 460,
+      "flow": "tabsFilters",
+      "ts": 670348,
+      "url": "https://www.haecker-kuechen.com/build/fonts/fa-solid-900.2f8c3742.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 461,
+      "flow": "tabsFilters",
+      "ts": 670348,
+      "url": "https://www.haecker-kuechen.com/build/fonts/fa-light-300.441b5781.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 462,
+      "flow": "tabsFilters",
+      "ts": 670348,
+      "url": "https://www.haecker-kuechen.com/build/fonts/fa-brands-400.e24fcc1b.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 463,
+      "flow": "tabsFilters",
+      "ts": 670349,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_2010/Zement-dunkelgrau/AV2010-GL_Zement-dunkelgrau_Zeile_Quadratisch.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 464,
+      "flow": "tabsFilters",
+      "ts": 670350,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/e/csm_AV5015_Olivgruen_metallic_Negresco_satiniert_f_1700x1200_d96f814a5e.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 465,
+      "flow": "tabsFilters",
+      "ts": 670351,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/a/5/csm_Scala_Eukalyptus_Montreal_Feineiche_Natur_M1_Querformat_1700x1200_c9b295b2a1.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 466,
+      "flow": "tabsFilters",
+      "ts": 670352,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/TORONTO/Ulme_mocca/TORONTO_Ulme_Mocca_PERFECT_SOFT_Sandgrau_M4_1200x1700.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 467,
+      "flow": "tabsFilters",
+      "ts": 685062,
+      "url": "https://www.haecker-kuechen.com/en/?saveOptinHistory",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "------WebKitFormBoundaryBCVLyVp9kan2Ns4u\r\nContent-Disposition: form-data; name=\"lastPreferences\"\r\n\r\n{\"timestamp\":1793003829,\"cookieValue\":\"essential:1|statistics:1|marketing:1|iframes:1\",\"isAll\":true,\"version\":1,\"identifier\":7459,\"uuid\":\"9a7f9f1b-232c-4c35-8103-6a4efdd4909a\"}\r\n------WebKitFormBoundaryBCVLyVp9kan2Ns4u--\r\n",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 468,
+      "flow": "tabsFilters",
+      "ts": 685062,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-55MC6MX",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 469,
+      "flow": "tabsFilters",
+      "ts": 685063,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/statistics-1.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 470,
+      "flow": "tabsFilters",
+      "ts": 685063,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/marketing-1.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 471,
+      "flow": "tabsFilters",
+      "ts": 685662,
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-405188733&cx=c&gtm=4e6al1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 472,
+      "flow": "tabsFilters",
+      "ts": 685663,
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-GZRGMT838V&cx=c&gtm=4e6al1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 473,
+      "flow": "tabsFilters",
+      "ts": 685664,
+      "url": "https://cdn.mouseflow.com/projects/173ebfd2-d080-4826-a1e7-d56cd655c5eb.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 474,
+      "flow": "tabsFilters",
+      "ts": 685664,
+      "url": "https://www.google-analytics.com/analytics.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 475,
+      "flow": "tabsFilters",
+      "ts": 685666,
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 476,
+      "flow": "tabsFilters",
+      "ts": 685666,
+      "url": "https://s.pinimg.com/ct/core.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 477,
+      "flow": "tabsFilters",
+      "ts": 685667,
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1793003829682&tfd=24600&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 478,
+      "flow": "tabsFilters",
+      "ts": 685668,
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1753226637.1793003830&gtm=45He6al1v897070612za200zd897070612xeaxf1&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 479,
+      "flow": "tabsFilters",
+      "ts": 685671,
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1793003829682&tfd=24600&fmt=3",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 480,
+      "flow": "tabsFilters",
+      "ts": 685672,
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1753226637.1793003830&gtm=45He6al1v897070612za200zd897070612xeaxf1&fmt=3",
+      "method": "GET",
+      "type": "image",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "id": 481,
+      "flow": "tabsFilters",
+      "ts": 686272,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=1793003830245&cv=11&fst=1793003830245&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 482,
+      "flow": "tabsFilters",
+      "ts": 686273,
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830245&cv=11&fst=1793003830245&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 483,
+      "flow": "tabsFilters",
+      "ts": 686274,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=1793003830279&cv=11&fst=1793003830279&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 484,
+      "flow": "tabsFilters",
+      "ts": 686276,
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830279&cv=11&fst=1793003830279&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 485,
+      "flow": "tabsFilters",
+      "ts": 686276,
+      "url": "https://www.googleadservices.com/pagead/conversion/405188733/?random=1793003830285&cv=11&fst=1793003830285&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oid=GG_1572831907.1793003830&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+      "method": "GET",
+      "type": "fetch",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 486,
+      "flow": "tabsFilters",
+      "ts": 686277,
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25210&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 487,
+      "flow": "tabsFilters",
+      "ts": 686277,
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25211&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 488,
+      "flow": "tabsFilters",
+      "ts": 686278,
+      "url": "https://www.googleadservices.com/ccm/conversion/405188733/?random=1793003830285&cv=11&fst=1793003830285&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oid=GG_1572831907.1793003830&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 489,
+      "flow": "tabsFilters",
+      "ts": 686322,
+      "url": "https://connect.facebook.net/signals/config/785535859332469?v=2.9.427&r=stable&domain=www.haecker-kuechen.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 490,
+      "flow": "tabsFilters",
+      "ts": 686425,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 491,
+      "flow": "tabsFilters",
+      "ts": 686426,
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-GZRGMT838V&cid=1630181310.1793003830&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&rcb=2&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 492,
+      "flow": "tabsFilters",
+      "ts": 686427,
+      "url": "https://www.google.com.bd/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-GZRGMT838V&cid=1630181310.1793003830&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&rcb=2&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&z=7373207",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 493,
+      "flow": "tabsFilters",
+      "ts": 686428,
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830245&cv=11&fst=1793003830245&fmt=3&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 494,
+      "flow": "tabsFilters",
+      "ts": 686431,
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830279&cv=11&fst=1793003830279&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 495,
+      "flow": "tabsFilters",
+      "ts": 686431,
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25210&tids=AW-405188733&fmt=3",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 496,
+      "flow": "tabsFilters",
+      "ts": 686431,
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25211&tids=AW-405188733&fmt=3",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 497,
+      "flow": "tabsFilters",
+      "ts": 686433,
+      "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360&gaf=1",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 498,
+      "flow": "tabsFilters",
+      "ts": 686448,
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=1933910774&t=pageview&_s=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&ul=en-us&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&sr=1440x900&vp=1440x900&_u=YCDACEABBAAAACAAI~&jid=1683475595&gjid=911176596&cid=1630181310.1793003830&tid=UA-131723162-1&_gid=1058793428.1793003830&_r=1&_slc=1&gtm=45He6al1n8155MC6MXv897070612za200zd897070612xf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&z=1770365484",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 499,
+      "flow": "tabsFilters",
+      "ts": 686539,
+      "url": "https://s.pinimg.com/ct/lib/main.c61fa7c9.js",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    }
+  ],
+  "network": {
+    "total": 71,
+    "byDomain": [
+      {
+        "domain": "www.haecker-kuechen.com",
+        "count": 41
+      },
+      {
+        "domain": "www.google.com",
+        "count": 11
+      },
+      {
+        "domain": "www.googletagmanager.com",
+        "count": 3
+      },
+      {
+        "domain": "www.google-analytics.com",
+        "count": 2
+      },
+      {
+        "domain": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "domain": "s.pinimg.com",
+        "count": 2
+      },
+      {
+        "domain": "ad.doubleclick.net",
+        "count": 2
+      },
+      {
+        "domain": "googleads.g.doubleclick.net",
+        "count": 2
+      },
+      {
+        "domain": "www.googleadservices.com",
+        "count": 2
+      },
+      {
+        "domain": "cdn.mouseflow.com",
+        "count": 1
+      },
+      {
+        "domain": "analytics.google.com",
+        "count": 1
+      },
+      {
+        "domain": "stats.g.doubleclick.net",
+        "count": 1
+      },
+      {
+        "domain": "www.google.com.bd",
+        "count": 1
+      }
+    ],
+    "byType": [
+      {
+        "type": "image",
+        "count": 35
+      },
+      {
+        "type": "script",
+        "count": 17
+      },
+      {
+        "type": "fetch",
+        "count": 9
+      },
+      {
+        "type": "font",
+        "count": 4
+      },
+      {
+        "type": "stylesheet",
+        "count": 2
+      },
+      {
+        "type": "xhr",
+        "count": 2
+      },
+      {
+        "type": "document",
+        "count": 1
+      },
+      {
+        "type": "ping",
+        "count": 1
+      }
+    ],
+    "nonGet": [
+      {
+        "id": 467,
+        "flow": "tabsFilters",
+        "ts": 685062,
+        "url": "https://www.haecker-kuechen.com/en/?saveOptinHistory",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "------WebKitFormBoundaryBCVLyVp9kan2Ns4u\r\nContent-Disposition: form-data; name=\"lastPreferences\"\r\n\r\n{\"timestamp\":1793003829,\"cookieValue\":\"essential:1|statistics:1|marketing:1|iframes:1\",\"isAll\":true,\"version\":1,\"identifier\":7459,\"uuid\":\"9a7f9f1b-232c-4c35-8103-6a4efdd4909a\"}\r\n------WebKitFormBoundaryBCVLyVp9kan2Ns4u--\r\n",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 477,
+        "flow": "tabsFilters",
+        "ts": 685667,
+        "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1793003829682&tfd=24600&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 478,
+        "flow": "tabsFilters",
+        "ts": 685668,
+        "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1753226637.1793003830&gtm=45He6al1v897070612za200zd897070612xeaxf1&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 482,
+        "flow": "tabsFilters",
+        "ts": 686273,
+        "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830245&cv=11&fst=1793003830245&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 484,
+        "flow": "tabsFilters",
+        "ts": 686276,
+        "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830279&cv=11&fst=1793003830279&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 486,
+        "flow": "tabsFilters",
+        "ts": 686277,
+        "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25210&tids=AW-405188733&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 487,
+        "flow": "tabsFilters",
+        "ts": 686277,
+        "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25211&tids=AW-405188733&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 490,
+        "flow": "tabsFilters",
+        "ts": 686425,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 491,
+        "flow": "tabsFilters",
+        "ts": 686426,
+        "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-GZRGMT838V&cid=1630181310.1793003830&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&rcb=2&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 497,
+        "flow": "tabsFilters",
+        "ts": 686433,
+        "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360&gaf=1",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 498,
+        "flow": "tabsFilters",
+        "ts": 686448,
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=1933910774&t=pageview&_s=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&ul=en-us&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&sr=1440x900&vp=1440x900&_u=YCDACEABBAAAACAAI~&jid=1683475595&gjid=911176596&cid=1630181310.1793003830&tid=UA-131723162-1&_gid=1058793428.1793003830&_r=1&_slc=1&gtm=45He6al1n8155MC6MXv897070612za200zd897070612xf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&z=1770365484",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      }
+    ]
+  },
+  "shots": [],
+  "blockedWrites": [
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.haecker-kuechen.com/en/?saveOptinHistory",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryBCVLyVp9kan2Ns4u\r\nContent-Disposition: form-data; name=\"lastPreferences\"\r\n\r\n{\"timestamp\":1793003829,\"cookieValue\":\"essential:1|statistics:1|marketing:1|iframes:1\",\"isAll\":true,\"version\":1,\"identifier\":7459,\"uuid\":\"9a7f9f1b-232c-4c35-8103-6a4efdd4909a\"}\r\n------WebKitFormBoundaryBCVLyVp9kan2Ns4u--\r\n"
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1793003829682&tfd=24600&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1753226637.1793003830&gtm=45He6al1v897070612za200zd897070612xeaxf1&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830245&cv=11&fst=1793003830245&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830279&cv=11&fst=1793003830279&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25210&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25211&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-GZRGMT838V&cid=1630181310.1793003830&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&rcb=2&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360&gaf=1",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=1933910774&t=pageview&_s=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&ul=en-us&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&sr=1440x900&vp=1440x900&_u=YCDACEABBAAAACAAI~&jid=1683475595&gjid=911176596&cid=1630181310.1793003830&tid=UA-131723162-1&_gid=1058793428.1793003830&_r=1&_slc=1&gtm=45He6al1n8155MC6MXv897070612za200zd897070612xf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&z=1770365484",
+      "method": "POST",
+      "postData": ""
+    }
+  ]
+}

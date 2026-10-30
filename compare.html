@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kitchen websites — design reverse engineering</title>
+<style>
+:root{--bg:#0d0f10;--panel:#141718;--panel2:#1a1e20;--line:#2a3033;--ink:#e8e6e3;--muted:#9aa3a6;--dim:#6b7477;--serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:1380px;margin:0 auto;padding:0 28px}
+header.top{padding:86px 0 46px;border-bottom:1px solid var(--line);background:radial-gradient(80% 120% at 15% -20%,#1c2426 0%,transparent 60%)}
+.kicker{font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--dim)}
+h1{font-family:var(--serif);font-weight:400;font-size:clamp(38px,6vw,74px);line-height:1.02;margin:18px 0 20px;letter-spacing:-.02em}
+h1 em{font-style:italic;color:#c9a227}
+.lede{max-width:820px;color:var(--muted);font-size:17px}
+.meta{display:flex;flex-wrap:wrap;gap:14px 28px;margin-top:26px;font-family:var(--mono);font-size:11px;color:var(--dim);letter-spacing:.06em}
+.sitesnav{position:sticky;top:0;z-index:20;background:rgba(13,15,16,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.sitesnav .wrap{display:flex;gap:6px;align-items:center;height:58px;overflow:auto}
+.sitesnav a{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;color:var(--muted);padding:8px 14px;border:1px solid transparent;border-radius:999px;white-space:nowrap}
+.sitesnav a:hover{color:var(--ink);border-color:var(--line)}
+.sitesnav a.dot::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--d);margin-right:9px;vertical-align:1px}
+section.site{padding:74px 0 30px;border-bottom:1px solid var(--line)}
+.sitehead{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:20px;margin-bottom:34px}
+.sitehead h2{font-family:var(--serif);font-weight:400;font-size:clamp(32px,4.6vw,54px);line-height:1;margin:0;letter-spacing:-.02em}
+.sitehead h2 span{color:var(--accent)}
+.sitehead .url{font-family:var(--mono);font-size:12px;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:2px}
+.chips{display:flex;flex-wrap:wrap;gap:7px}
+.chip{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:3px;padding:4px 8px;background:#121516}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:24px;margin-bottom:22px}
+.panel h3{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);margin:0 0 20px;font-weight:500}
+.shots{display:grid;grid-template-columns:1.55fr .45fr 1fr;gap:16px;align-items:start}
+.shot{border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#000;position:relative}
+.shot img{display:block;width:100%;height:auto}
+.shot .tag{position:absolute;left:8px;top:8px;font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;background:rgba(0,0,0,.68);color:#cfd6d8;padding:3px 7px;border-radius:3px;border:1px solid rgba(255,255,255,.14)}
+.fullscroll{max-height:640px;overflow:auto;border:1px solid var(--line);border-radius:6px;background:#000}
+.fullscroll img{display:block;width:100%;height:auto}
+.palette{display:grid;grid-template-columns:repeat(auto-fit,minmax(122px,1fr));gap:10px}
+.sw{border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#121516}
+.sw .c{height:74px}
+.sw .m{padding:8px 9px;font-family:var(--mono);font-size:10px;color:var(--muted);line-height:1.5}
+.sw .m b{display:block;color:var(--ink);font-weight:500;letter-spacing:.04em}
+.typerow{display:grid;grid-template-columns:112px 1fr;gap:18px;padding:12px 0;border-top:1px solid var(--line);align-items:baseline}
+.typerow:first-child{border-top:0}
+.typerow .spec{font-family:var(--mono);font-size:10px;color:var(--dim);letter-spacing:.04em;line-height:1.6}
+.typerow .sample{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.gallery figure{margin:0;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#0a0c0d}
+.gallery img{display:block;width:100%;height:auto}
+.gallery figcaption{font-family:var(--mono);font-size:9px;color:var(--dim);padding:6px 8px;letter-spacing:.06em;border-top:1px solid var(--line);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim);font-weight:500}
+td.k{color:var(--muted);font-family:var(--mono);font-size:11px;white-space:nowrap}
+td.num{font-family:var(--mono);font-size:11px}
+.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.metric{border:1px solid var(--line);border-radius:6px;padding:13px 14px;background:#121516}
+.metric .k{font-family:var(--mono);font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.metric .v{font-size:15px;margin-top:5px}
+.metric .s{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:3px}
+.flow{display:flex;flex-direction:column;gap:0}
+.flow .row{display:grid;grid-template-columns:28px 1fr 90px 74px 150px;gap:12px;padding:7px 0;border-bottom:1px solid var(--line);font-size:12px;align-items:center}
+.flow .row .n{font-family:var(--mono);font-size:9px;color:var(--dim)}
+.flow .row .b{font-family:var(--mono);font-size:9px;color:var(--muted)}
+.flow .row .bg{width:100%;height:14px;border-radius:2px;border:1px solid rgba(255,255,255,.1)}
+@media(max-width:980px){.shots{grid-template-columns:1fr}.grid2,.grid3{grid-template-columns:1fr}}
+footer{padding:60px 0 100px;color:var(--dim);font-family:var(--mono);font-size:11px}
+.note{font-size:12px;color:var(--dim);margin-top:10px}
+.big-compare{overflow:auto}
+.big-compare table{min-width:900px}
+.crossaxis td:first-child{color:var(--muted);font-family:var(--mono);font-size:10px;text-transform:uppercase;letter-spacing:.12em}
+</style></head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="kicker">Design reverse engineering · 2026-10-26</div>
+  <h1>Three kitchens,<br><em>three design languages</em></h1>
+  <p class="lede">A rendered-DOM and CSS teardown of three kitchen brands: a Bangladeshi modular-cabinet manufacturer, a German premium kitchen group, and an Australian/German luxury kitchen house. Palettes, type scales, spacing rhythm, components and motion were extracted from computed styles at 1440 / 768 / 390, then cross-checked against the sites' own CSS custom properties.</p>
+  <div class="meta">
+    <span>3 sites</span><span>32 pages</span>
+    <span>321 sections measured</span>
+    <span>Playwright · computed styles · no downloaded brand assets</span>
+  </div>
+</div></header>
+<nav class="sitesnav"><div class="wrap"><a class="dot" style="--d:#e84538" href="#mykitchen-bd">My Kitchen</a><a class="dot" style="--d:#c9a227" href="#haecker-kuechen">Häcker Küchen</a><a class="dot" style="--d:#c9b195" href="#seaform">SEAFORM</a></div></nav>
+<main class="wrap">
+  
+<section class="site" id="mykitchen-bd" style="--accent:#e84538">
+  <div class="sitehead">
+    <div>
+      <div class="kicker">Site 01 · Next.js</div>
+      <h2><span>My Kitchen</span></h2>
+      <a class="url" href="https://www.mykitchen-bd.com" target="_blank" rel="noopener">https://www.mykitchen-bd.com</a>
+    </div>
+    <div class="chips">
+      <span class="chip">Inter</span>
+      <span class="chip">640</span><span class="chip">768</span><span class="chip">1024</span><span class="chip">1280</span>
+      <span class="chip">18 colors</span>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>First impression · desktop 1440 · mobile 390 · full page</h3>
+    <div class="shots">
+      <div class="shot"><img src="sites/mykitchen-bd/raw/home/viewport-1440.png" alt="desktop viewport"><span class="tag">1440 viewport</span></div>
+      <div class="shot"><img src="sites/mykitchen-bd/raw/home/viewport-390.png" alt="mobile viewport"><span class="tag">390</span></div>
+      <div class="fullscroll"><a href="sites/mykitchen-bd/raw/home/full-1440.jpg" target="_blank"><img src="sites/mykitchen-bd/raw/home/full-1440.jpg" alt="full page"></a></div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Palette from rendered pixels</h3>
+      <div class="palette"><div class="sw"><div class="c" style="background:#f5f5f5"></div><div class="m"><b>#f5f5f5</b>mist · bg 93119k · txt 784</div></div><div class="sw"><div class="c" style="background:#000000"></div><div class="m"><b>#000000</b>black · bg 6749k · txt 1393</div></div><div class="sw"><div class="c" style="background:#ffffff"></div><div class="m"><b>#ffffff</b>white · bg 8438k · txt 2815</div></div><div class="sw"><div class="c" style="background:#e6e6e6"></div><div class="m"><b>#e6e6e6</b>mist · bg 4743k · txt 0</div></div><div class="sw"><div class="c" style="background:#1c1c1c"></div><div class="m"><b>#1c1c1c</b>ink · bg 2121k · txt 5285</div></div><div class="sw"><div class="c" style="background:#e84538"></div><div class="m"><b>#e84538</b>red · bg 49k · txt 190</div></div><div class="sw"><div class="c" style="background:#010202"></div><div class="m"><b>#010202</b>black · bg 1293k · txt 6</div></div><div class="sw"><div class="c" style="background:#ebebeb"></div><div class="m"><b>#ebebeb</b>mist · bg 550k · txt 1265</div></div><div class="sw"><div class="c" style="background:#0a0a0a"></div><div class="m"><b>#0a0a0a</b>black · bg 1152k · txt 0</div></div><div class="sw"><div class="c" style="background:#ef4444"></div><div class="m"><b>#ef4444</b>red · bg 214k · txt 0</div></div><div class="sw"><div class="c" style="background:#444444"></div><div class="m"><b>#444444</b>slate · bg 9k · txt 7024</div></div><div class="sw"><div class="c" style="background:#646464"></div><div class="m"><b>#646464</b>slate · bg 0k · txt 45</div></div><div class="sw"><div class="c" style="background:#9ca3af"></div><div class="m"><b>#9ca3af</b>grey · bg 0k · txt 47</div></div><div class="sw"><div class="c" style="background:#e5e7eb"></div><div class="m"><b>#e5e7eb</b>mist · bg 5k · txt 1250</div></div><div class="sw"><div class="c" style="background:#212424"></div><div class="m"><b>#212424</b>ink · bg 33k · txt 0</div></div><div class="sw"><div class="c" style="background:#939494"></div><div class="m"><b>#939494</b>grey · bg 0k · txt 19</div></div><div class="sw"><div class="c" style="background:#25d366"></div><div class="m"><b>#25d366</b>green · bg 81k · txt 0</div></div><div class="sw"><div class="c" style="background:#d1d5db"></div><div class="m"><b>#d1d5db</b>grey · bg 0k · txt 1060</div></div></div>
+    </div>
+    <div class="panel">
+      <h3>Type scale as rendered</h3>
+      <div class="typerow"><div class="spec">72px / 400<br>lh 72px<br>Inter</div><div class="sample" style="font-size:64px;font-weight:400;line-height:1.15;">Company Profile</div></div><div class="typerow"><div class="spec">72px / 500<br>lh 72px<br>Inter</div><div class="sample" style="font-size:64px;font-weight:500;line-height:1.15;">Wardrobes</div></div><div class="typerow"><div class="spec">72px / 700<br>lh 72px<br>Inter</div><div class="sample" style="font-size:64px;font-weight:700;line-height:1.15;">Designs That Define Your Space</div></div><div class="typerow"><div class="spec">48px / 400<br>lh 48px<br>Inter</div><div class="sample" style="font-size:48px;font-weight:400;line-height:1.15;">Leading Innovation in</div></div><div class="typerow"><div class="spec">48px / 700<br>lh 48px<br>Inter</div><div class="sample" style="font-size:48px;font-weight:700;line-height:1.15;">We're Here</div></div><div class="typerow"><div class="spec">36px / 700<br>lh 40px<br>Inter</div><div class="sample" style="font-size:36px;font-weight:700;line-height:1.15;text-transform:uppercase;letter-spacing:.04em;">WARDROBES</div></div><div class="typerow"><div class="spec">36px / 400<br>lh 40px<br>Inter</div><div class="sample" style="font-size:36px;font-weight:400;line-height:1.15;">Who We Are</div></div><div class="typerow"><div class="spec">30px / 400<br>lh 36px<br>Inter</div><div class="sample" style="font-size:30px;font-weight:400;line-height:1.15;">About - Innovating Modular Solutions</div></div><div class="typerow"><div class="spec">24px / 700<br>lh 32px<br>Inter</div><div class="sample" style="font-size:24px;font-weight:700;line-height:1.15;">Showkot Imran Khan</div></div><div class="typerow"><div class="spec">20px / 700<br>lh 28px<br>Inter</div><div class="sample" style="font-size:20px;font-weight:700;line-height:1.15;">Precision Engineering</div></div><div class="typerow"><div class="spec">20px / 300<br>lh 28px<br>Inter</div><div class="sample" style="font-size:20px;font-weight:300;line-height:1.15;">What types of customized modular cabinets do you offer?</div></div><div class="typerow"><div class="spec">20px / 500<br>lh 28px<br>Inter</div><div class="sample" style="font-size:20px;font-weight:500;line-height:1.15;">Submit</div></div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>System metrics</h3>
+    <div class="metrics"><div class="metric"><div class="k">Container</div><div class="v">1400px</div><div class="s">pad 32px</div></div><div class="metric"><div class="k">Max font</div><div class="v">72px</div><div class="s">rendered display</div></div><div class="metric"><div class="k">Base font</div><div class="v">w700 w400 w600 w500</div><div class="s">body</div></div><div class="metric"><div class="k">Breakpoints</div><div class="v">8 min-width</div><div class="s">640 · 768 · 1024 · 1280</div></div><div class="metric"><div class="k">Section pad</div><div class="v">80/80px</div><div class="s">most common non-zero top/bottom</div></div><div class="metric"><div class="k">Radius</div><div class="v">0</div><div class="s">dominant</div></div><div class="metric"><div class="k">Shadow</div><div class="v">var(--tw-ring-offset-shadow,0 0 #0</div><div class="s">dominant</div></div><div class="metric"><div class="k">Motion</div><div class="v">.15s ease</div><div class="s">CSS only</div></div><div class="metric"><div class="k">Sections</div><div class="v">7</div><div class="s">homepage bands</div></div><div class="metric"><div class="k">Images</div><div class="v">146</div><div class="s">85% lazy · alt 100%</div></div><div class="metric"><div class="k">Contrast</div><div class="v">6</div><div class="s">pairs below 4.5:1</div></div><div class="metric"><div class="k">H1</div><div class="v">15</div><div class="s">across 10 pages</div></div></div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Homepage section rhythm</h3>
+      <div class="flow"><div class="row"><div class="n">01</div><div>header</div><div class="b">header</div><div class="b">96px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">02</div><div>display: Designs That Define Your Space</div><div class="b">section</div><div class="b">860px</div><div class="bg" style="background:rgb(1, 2, 2)" title="rgb(1, 2, 2)"></div></div><div class="row"><div class="n">03</div><div>display: WARDROBES</div><div class="b">section</div><div class="b">600px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">04</div><div>split: Sets Us Apart</div><div class="b">section</div><div class="b">582px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">05</div><div>section</div><div class="b">section</div><div class="b">1102px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">06</div><div>split: Brand Partners</div><div class="b">section</div><div class="b">635px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">07</div><div>h2: Social Links</div><div class="b">footer</div><div class="b">432px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div></div>
+    </div>
+    <div class="panel">
+      <h3>Sample of tokens</h3>
+      <table>
+        <tr><td class="k">brand</td><td><span style="display:inline-block;width:12px;height:12px;background:#e84538;border:1px solid #333;border-radius:2px;vertical-align:-2px;margin-right:5px"></span>#e84538</td></tr>
+        <tr><td class="k">neutrals</td><td class="num">#000000 · #1c1c1c · #444444 · #646464 · #939494 · #9ca3af · #d1d5db · #e6e6e6 · #f5f5f5 · #ffffff</td></tr>
+        <tr><td class="k">containers</td><td class="num">1400px / pad 32px<br>1440px / pad 0px<br>1400px / pad 16px<br>1400px / pad 40px</td></tr>
+        <tr><td class="k">grid</td><td class="num">1408px<br>174.656px 174.656px 174.672px 174.656px 174.672px 174.672px<br>408px 408px 408px</td></tr>
+        <tr><td class="k">radii</td><td class="num">0 · 4px · .5rem · .375rem · 9999px · 50%</td></tr>
+        <tr><td class="k">shadows</td><td class="num">var(--tw-ring-offset-shadow,0 0 #0000), var(--tw-rin<br>var(--tw-ring-offset-shadow), var(--tw-ring-shadow),<br>0 4px 12px #0000001a,0 0 0 2px #0003</td></tr>
+        <tr><td class="k">durations</td><td class="num">.15s · .2s · .4s · .3s · .5s</td></tr>
+        <tr><td class="k">easings</td><td class="num">ease<br>cubic-bezier(0.75, -0.02, 0.2, 0.97)</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>Component & section crops</h3>
+    <div class="gallery"><figure><a href="sites/mykitchen-bd/raw/home/components/button-1-about.jpg" target="_blank"><img loading="lazy" src="sites/mykitchen-bd/raw/home/components/button-1-about.jpg" alt=""></a><figcaption>button-1-about</figcaption></figure><figure><a href="sites/mykitchen-bd/raw/home/components/button-2-expertise.jpg" target="_blank"><img loading="lazy" src="sites/mykitchen-bd/raw/home/components/button-2-expertise.jpg" alt=""></a><figcaption>button-2-expertise</figcaption></figure><figure><a href="sites/mykitchen-bd/raw/home/components/card-1.jpg" target="_blank"><img loading="lazy" src="sites/mykitchen-bd/raw/home/components/card-1.jpg" alt=""></a><figcaption>card-1</figcaption></figure><figure><a href="sites/mykitchen-bd/raw/home/components/card-2.jpg" target="_blank"><img loading="lazy" src="sites/mykitchen-bd/raw/home/components/card-2.jpg" alt=""></a><figcaption>card-2</figcaption></figure><figure><a href="sites/mykitchen-bd/raw/home/components/overlay-popup.jpg" target="_blank"><img loading="lazy" src="sites/mykitchen-bd/raw/home/components/overlay-popup.jpg" alt=""></a><figcaption>overlay-popup</figcaption></figure></div>
+  </div>
+</section>
+
+<section class="site" id="haecker-kuechen" style="--accent:#c9a227">
+  <div class="sitehead">
+    <div>
+      <div class="kicker">Site 02 · TYPO3</div>
+      <h2><span>Häcker Küchen</span></h2>
+      <a class="url" href="https://www.haecker-kuechen.com" target="_blank" rel="noopener">https://www.haecker-kuechen.com</a>
+    </div>
+    <div class="chips">
+      <span class="chip">Nunito Sans</span><span class="chip">ACaslonPro</span>
+      <span class="chip">350</span><span class="chip">550</span><span class="chip">576</span><span class="chip">768</span>
+      <span class="chip">8 colors</span>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>First impression · desktop 1440 · mobile 390 · full page</h3>
+    <div class="shots">
+      <div class="shot"><img src="sites/haecker-kuechen/raw/en/viewport-1440.png" alt="desktop viewport"><span class="tag">1440 viewport</span></div>
+      <div class="shot"><img src="sites/haecker-kuechen/raw/en/viewport-390.png" alt="mobile viewport"><span class="tag">390</span></div>
+      <div class="fullscroll"><a href="sites/haecker-kuechen/raw/en/full-1440.jpg" target="_blank"><img src="sites/haecker-kuechen/raw/en/full-1440.jpg" alt="full page"></a></div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Palette from rendered pixels</h3>
+      <div class="palette"><div class="sw"><div class="c" style="background:#ffffff"></div><div class="m"><b>#ffffff</b>white · bg 341524k · txt 3098</div></div><div class="sw"><div class="c" style="background:#000000"></div><div class="m"><b>#000000</b>black · bg 15246k · txt 49872</div></div><div class="sw"><div class="c" style="background:#f7f7f7"></div><div class="m"><b>#f7f7f7</b>mist · bg 36128k · txt 0</div></div><div class="sw"><div class="c" style="background:#222222"></div><div class="m"><b>#222222</b>ink · bg 3041k · txt 0</div></div><div class="sw"><div class="c" style="background:#ced4da"></div><div class="m"><b>#ced4da</b>grey · bg 0k · txt 0</div></div><div class="sw"><div class="c" style="background:#f8f8f8"></div><div class="m"><b>#f8f8f8</b>mist · bg 399k · txt 0</div></div><div class="sw"><div class="c" style="background:#a2a2a2"></div><div class="m"><b>#a2a2a2</b>grey · bg 0k · txt 6413</div></div><div class="sw"><div class="c" style="background:#7a7a7a"></div><div class="m"><b>#7a7a7a</b>slate · bg 0k · txt 115</div></div></div>
+    </div>
+    <div class="panel">
+      <h3>Type scale as rendered</h3>
+      <div class="typerow"><div class="spec">90px / 500<br>lh 108px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:64px;font-weight:500;line-height:1.15;">Kitchen Magazine: Your Guide to All Things Kitchen</div></div><div class="typerow"><div class="spec">45px / 400<br>lh 50px<br>ACaslonPro</div><div class="sample" style="font-size:45px;font-weight:400;line-height:1.15;">Visit us on our Social Networks</div></div><div class="typerow"><div class="spec">36px / 500<br>lh 43.2px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:36px;font-weight:500;line-height:1.15;">Häcker Kitchens – Custom Designs for Your Home</div></div><div class="typerow"><div class="spec">32px / 400<br>lh 38.4px<br>ACaslonPro</div><div class="sample" style="font-size:32px;font-weight:400;line-height:1.15;">Smart Storage Room Planning: A Systematic Storage Solution</div></div><div class="typerow"><div class="spec">30.6px / 600<br>lh 36.72px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:30.6px;font-weight:600;line-height:1.15;">A Kitchen Designed Just for You</div></div><div class="typerow"><div class="spec">30.01px / 400<br>lh 30.006px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:30.01px;font-weight:400;line-height:1.15;">play video</div></div><div class="typerow"><div class="spec">25.2px / 600<br>lh 30.24px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:25.2px;font-weight:600;line-height:1.15;">Find a dealer near you now!</div></div><div class="typerow"><div class="spec">23.4px / 600<br>lh 28.08px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:23.4px;font-weight:600;line-height:1.15;">Plan now, get advice, and buy kitchen furniture: on site at one of our dealers!</div></div><div class="typerow"><div class="spec">18px / 400<br>lh 27px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:18px;font-weight:400;line-height:1.15;">We have a mission: We want to bring our customers’ kitchen visions to life world</div></div><div class="typerow"><div class="spec">18px / 700<br>lh 27px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:18px;font-weight:700;line-height:1.15;">Skip to content</div></div><div class="typerow"><div class="spec">16px / 400<br>lh 24px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:16px;font-weight:400;line-height:1.15;">A New Approach to Storage Rooms: Ideas for Planning, Shelving, and Organized Sto</div></div><div class="typerow"><div class="spec">16px / 600<br>lh 24px<br>&quot;Nunito Sans&quot;</div><div class="sample" style="font-size:16px;font-weight:600;line-height:1.15;">The quick brown fox</div></div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>System metrics</h3>
+    <div class="metrics"><div class="metric"><div class="k">Container</div><div class="v">1050px</div><div class="s">pad 15px</div></div><div class="metric"><div class="k">Max font</div><div class="v">90px</div><div class="s">rendered display</div></div><div class="metric"><div class="k">Base font</div><div class="v">w400 w600 w700</div><div class="s">body</div></div><div class="metric"><div class="k">Breakpoints</div><div class="v">8 min-width</div><div class="s">350 · 550 · 576 · 768</div></div><div class="metric"><div class="k">Section pad</div><div class="v">36/0px</div><div class="s">most common non-zero top/bottom</div></div><div class="metric"><div class="k">Radius</div><div class="v">0</div><div class="s">dominant</div></div><div class="metric"><div class="k">Shadow</div><div class="v">none</div><div class="s">dominant</div></div><div class="metric"><div class="k">Motion</div><div class="v">.2s ease-in</div><div class="s">jquery</div></div><div class="metric"><div class="k">Sections</div><div class="v">12</div><div class="s">homepage bands</div></div><div class="metric"><div class="k">Images</div><div class="v">738</div><div class="s">25% lazy · alt 100%</div></div><div class="metric"><div class="k">Contrast</div><div class="v">4</div><div class="s">pairs below 4.5:1</div></div><div class="metric"><div class="k">H1</div><div class="v">12</div><div class="s">across 11 pages</div></div></div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Homepage section rhythm</h3>
+      <div class="flow"><div class="row"><div class="n">01</div><div>split: </div><div class="b">hero</div><div class="b">700px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">02</div><div>h1: Häcker Kitchens – Custom Designs for Your Home</div><div class="b">section</div><div class="b">429px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">03</div><div>h2: A Kitchen Designed Just for You</div><div class="b">section</div><div class="b">1171px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">04</div><div>h2: In our kitchens, people come first</div><div class="b">section</div><div class="b">914px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">05</div><div>h2: A Career at Häcker Küchen</div><div class="b">section</div><div class="b">1271px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">06</div><div>h2: Do you dream of a colorful kitchen?</div><div class="b">section</div><div class="b">407px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">07</div><div>section</div><div class="b">section</div><div class="b">555px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">08</div><div>h2: The Kitchen Magazine: Keeping Pace with the Times and Staying Ahead of The</div><div class="b">section</div><div class="b">778px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">09</div><div>h2: Your Kitchen—Your Choice</div><div class="b">section</div><div class="b">353px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">10</div><div>section</div><div class="b">section</div><div class="b">365px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">11</div><div>h2: Häcker Kitchens – Certified Quality</div><div class="b">section</div><div class="b">993px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">12</div><div>footer</div><div class="b">footer</div><div class="b">884px</div><div class="bg" style="background:rgb(0, 0, 0)" title="rgb(0, 0, 0)"></div></div></div>
+    </div>
+    <div class="panel">
+      <h3>Sample of tokens</h3>
+      <table>
+        <tr><td class="k">brand</td><td></td></tr>
+        <tr><td class="k">neutrals</td><td class="num">#000000 · #222222 · #7a7a7a · #969696 · #f7f7f7 · #ffffff</td></tr>
+        <tr><td class="k">containers</td><td class="num">1050px / pad 15px<br>1250px / pad 15px<br>1050px / pad 25px<br>1050px / pad 0px</td></tr>
+        <tr><td class="k">grid</td><td class="num">477.5px 477.5px</td></tr>
+        <tr><td class="k">radii</td><td class="num">0 · 100% · 50px · 10px · 10em · 5px</td></tr>
+        <tr><td class="k">shadows</td><td class="num">none<br>0 0 0 .2rem rgba(0,0,0,.25)<br>0 0 0 .2rem rgba(40,167,69,.25)</td></tr>
+        <tr><td class="k">durations</td><td class="num">.2s · .15s · .1s · 0s · .3s</td></tr>
+        <tr><td class="k">easings</td><td class="num">ease-in<br>ease<br>ease-in-out<br>cubic-bezier(.25,.46,.45,.94)</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>Component & section crops</h3>
+    <div class="gallery"><figure><a href="sites/haecker-kuechen/raw/en/components/button-1.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/components/button-1.jpg" alt=""></a><figcaption>button-1</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/components/button-2.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/components/button-2.jpg" alt=""></a><figcaption>button-2</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/components/header.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/components/header.jpg" alt=""></a><figcaption>header</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/01-div-h-cker-kitchens-custom-designs-for-your-h.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/01-div-h-cker-kitchens-custom-designs-for-your-h.jpg" alt=""></a><figcaption>01-div-h-cker-kitchens-custom-designs-for-your-h</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/02-div-a-kitchen-designed-just-for-you.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/02-div-a-kitchen-designed-just-for-you.jpg" alt=""></a><figcaption>02-div-a-kitchen-designed-just-for-you</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/03-div-in-our-kitchens-people-come-first.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/03-div-in-our-kitchens-people-come-first.jpg" alt=""></a><figcaption>03-div-in-our-kitchens-people-come-first</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/04-div-a-career-at-h-cker-k-chen.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/04-div-a-career-at-h-cker-k-chen.jpg" alt=""></a><figcaption>04-div-a-career-at-h-cker-k-chen</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/05-div-do-you-dream-of-a-colorful-kitchen.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/05-div-do-you-dream-of-a-colorful-kitchen.jpg" alt=""></a><figcaption>05-div-do-you-dream-of-a-colorful-kitchen</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/06-div-c174098.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/06-div-c174098.jpg" alt=""></a><figcaption>06-div-c174098</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/07-div-your-kitchen-your-choice.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/07-div-your-kitchen-your-choice.jpg" alt=""></a><figcaption>07-div-your-kitchen-your-choice</figcaption></figure><figure><a href="sites/haecker-kuechen/raw/en/sections/08-footer-main-footer.jpg" target="_blank"><img loading="lazy" src="sites/haecker-kuechen/raw/en/sections/08-footer-main-footer.jpg" alt=""></a><figcaption>08-footer-main-footer</figcaption></figure></div>
+  </div>
+</section>
+
+<section class="site" id="seaform" style="--accent:#c9b195">
+  <div class="sitehead">
+    <div>
+      <div class="kicker">Site 03 · WordPress · Elementor</div>
+      <h2><span>SEAFORM</span></h2>
+      <a class="url" href="https://www.seaform.com" target="_blank" rel="noopener">https://www.seaform.com</a>
+    </div>
+    <div class="chips">
+      <span class="chip">Optima</span><span class="chip">Roboto</span><span class="chip">Open Sans</span><span class="chip">Lato</span>
+      <span class="chip">480</span><span class="chip">481</span><span class="chip">601</span><span class="chip">768</span>
+      <span class="chip">10 colors</span>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>First impression · desktop 1440 · mobile 390 · full page</h3>
+    <div class="shots">
+      <div class="shot"><img src="sites/seaform/raw/home/viewport-1440.png" alt="desktop viewport"><span class="tag">1440 viewport</span></div>
+      <div class="shot"><img src="sites/seaform/raw/home/viewport-390.png" alt="mobile viewport"><span class="tag">390</span></div>
+      <div class="fullscroll"><a href="sites/seaform/raw/home/full-1440.jpg" target="_blank"><img src="sites/seaform/raw/home/full-1440.jpg" alt="full page"></a></div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Palette from rendered pixels</h3>
+      <div class="palette"><div class="sw"><div class="c" style="background:#ffffff"></div><div class="m"><b>#ffffff</b>white · bg 183412k · txt 6287</div></div><div class="sw"><div class="c" style="background:#000000"></div><div class="m"><b>#000000</b>black · bg 25874k · txt 7224</div></div><div class="sw"><div class="c" style="background:#141414"></div><div class="m"><b>#141414</b>ink · bg 8165k · txt 0</div></div><div class="sw"><div class="c" style="background:#121212"></div><div class="m"><b>#121212</b>black · bg 7955k · txt 0</div></div><div class="sw"><div class="c" style="background:#171717"></div><div class="m"><b>#171717</b>ink · bg 1215k · txt 0</div></div><div class="sw"><div class="c" style="background:#151412"></div><div class="m"><b>#151412</b>ink · bg 1008k · txt 0</div></div><div class="sw"><div class="c" style="background:#121820"></div><div class="m"><b>#121820</b>cyan-dark · bg 985k · txt 0</div></div><div class="sw"><div class="c" style="background:#0e0e0e"></div><div class="m"><b>#0e0e0e</b>black · bg 778k · txt 0</div></div><div class="sw"><div class="c" style="background:#101117"></div><div class="m"><b>#101117</b>ink · bg 622k · txt 0</div></div><div class="sw"><div class="c" style="background:#999999"></div><div class="m"><b>#999999</b>grey · bg 0k · txt 429</div></div></div>
+    </div>
+    <div class="panel">
+      <h3>Type scale as rendered</h3>
+      <div class="typerow"><div class="spec">77px / 400<br>lh 77px<br>Optima</div><div class="sample" style="font-size:64px;font-weight:400;line-height:1.15;letter-spacing:2px;">INDUSTRY 4.0</div></div><div class="typerow"><div class="spec">60px / 400<br>lh 60px<br>Roboto</div><div class="sample" style="font-size:60px;font-weight:400;line-height:1.15;letter-spacing:0.5px;">CONTRACT DIVISION</div></div><div class="typerow"><div class="spec">48px / 300<br>lh 48px<br>Poppins</div><div class="sample" style="font-size:48px;font-weight:300;line-height:1.15;letter-spacing:2px;">HAMPTONS</div></div><div class="typerow"><div class="spec">48px / 300<br>lh 48px<br>Optima</div><div class="sample" style="font-size:48px;font-weight:300;line-height:1.15;letter-spacing:2px;">MATERIALS AND COLORS</div></div><div class="typerow"><div class="spec">40px / 400<br>lh 50px<br>Optima</div><div class="sample" style="font-size:40px;font-weight:400;line-height:1.15;letter-spacing:1.5px;">ACCESSORIESLIGHTS INTERNALS</div></div><div class="typerow"><div class="spec">35px / 300<br>lh 52.5px<br>Optima</div><div class="sample" style="font-size:35px;font-weight:300;line-height:1.15;text-transform:uppercase;letter-spacing:.04em;letter-spacing:0.5px;">FASCINATION SEAFORM</div></div><div class="typerow"><div class="spec">30px / 300<br>lh 40px<br>Optima</div><div class="sample" style="font-size:30px;font-weight:300;line-height:1.15;letter-spacing:2px;">THE HAMPTONS COLLECTION</div></div><div class="typerow"><div class="spec">30px / 400<br>lh 39px<br>Optima</div><div class="sample" style="font-size:30px;font-weight:400;line-height:1.15;letter-spacing:2px;">335 - FG 387</div></div><div class="typerow"><div class="spec">30px / 400<br>lh 30px<br>Optima</div><div class="sample" style="font-size:30px;font-weight:400;line-height:1.15;letter-spacing:2px;">WITHOUT BLACK NO COLOR HAS ANY DEPTH</div></div><div class="typerow"><div class="spec">25px / 300<br>lh 37.5px<br>Optima</div><div class="sample" style="font-size:25px;font-weight:300;line-height:1.15;text-transform:uppercase;letter-spacing:.04em;letter-spacing:0.5px;">SEAFORM KITCHENS &amp; WARDROBES</div></div><div class="typerow"><div class="spec">25px / 300<br>lh 50px<br>Optima</div><div class="sample" style="font-size:25px;font-weight:300;line-height:1.15;letter-spacing:1px;">GLOBAL LARGE SCALE PROJECTS</div></div><div class="typerow"><div class="spec">24px / 300<br>lh 36px<br>Optima</div><div class="sample" style="font-size:24px;font-weight:300;line-height:1.15;text-transform:uppercase;letter-spacing:.04em;letter-spacing:0.5px;">GET YOUR PERSONAL CONCIERGE</div></div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>System metrics</h3>
+    <div class="metrics"><div class="metric"><div class="k">Container</div><div class="v">1330px</div><div class="s">pad 0px</div></div><div class="metric"><div class="k">Max font</div><div class="v">77px</div><div class="s">rendered display</div></div><div class="metric"><div class="k">Base font</div><div class="v">w400 w600 w300 w300 w300</div><div class="s">body</div></div><div class="metric"><div class="k">Breakpoints</div><div class="v">6 min-width</div><div class="s">480 · 481 · 601 · 768</div></div><div class="metric"><div class="k">Section pad</div><div class="v">72/72px</div><div class="s">most common non-zero top/bottom</div></div><div class="metric"><div class="k">Radius</div><div class="v">3px</div><div class="s">dominant</div></div><div class="metric"><div class="k">Shadow</div><div class="v">none</div><div class="s">dominant</div></div><div class="metric"><div class="k">Motion</div><div class="v">.3s ease</div><div class="s">jquery, elementor, swiper</div></div><div class="metric"><div class="k">Sections</div><div class="v">13</div><div class="s">homepage bands</div></div><div class="metric"><div class="k">Images</div><div class="v">503</div><div class="s">85% lazy · alt 100%</div></div><div class="metric"><div class="k">Contrast</div><div class="v">3</div><div class="s">pairs below 4.5:1</div></div><div class="metric"><div class="k">H1</div><div class="v">11</div><div class="s">across 11 pages</div></div></div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Homepage section rhythm</h3>
+      <div class="flow"><div class="row"><div class="n">01</div><div>h1: SEAFORM KITCHENS &amp; WARDROBES</div><div class="b">section</div><div class="b">828px</div><div class="bg" style="background:rgb(0, 0, 0)" title="rgb(0, 0, 0)"></div></div><div class="row"><div class="n">02</div><div>section</div><div class="b">section</div><div class="b">9855px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">03</div><div>h2: SEAFORM KITCHEN COLLECTION</div><div class="b">section</div><div class="b">2607px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">04</div><div>h2: GET YOUR PERSONAL CONCIERGE</div><div class="b">section</div><div class="b">630px</div><div class="bg" style="background:rgb(0, 0, 0)" title="rgb(0, 0, 0)"></div></div><div class="row"><div class="n">05</div><div>h2: SEAFORM WARDROBE COLLECTION</div><div class="b">section</div><div class="b">1166px</div><div class="bg" style="background:rgb(255, 255, 255)" title="rgb(255, 255, 255)"></div></div><div class="row"><div class="n">06</div><div>h2: FASCINATION</div><div class="b">section</div><div class="b">900px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">07</div><div>h2: ORDER YOUR CATALOGUE</div><div class="b">section</div><div class="b">630px</div><div class="bg" style="background:rgb(20, 20, 20)" title="rgb(20, 20, 20)"></div></div><div class="row"><div class="n">08</div><div>h2: GET YOUR DESIGN</div><div class="b">section</div><div class="b">900px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">09</div><div>section</div><div class="b">section</div><div class="b">450px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">10</div><div>h2: LARGE SCALE PROJECTS</div><div class="b">section</div><div class="b">675px</div><div class="bg" style="background:rgb(0, 0, 0)" title="rgb(0, 0, 0)"></div></div><div class="row"><div class="n">11</div><div>footer</div><div class="b">footer</div><div class="b">197px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">12</div><div>h2: CONFIGURE YOUR KITCHEN</div><div class="b">footer</div><div class="b">900px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div><div class="row"><div class="n">13</div><div>h2: KITCHENS</div><div class="b">footer</div><div class="b">505px</div><div class="bg" style="background:rgba(0, 0, 0, 0)" title="rgba(0, 0, 0, 0)"></div></div></div>
+    </div>
+    <div class="panel">
+      <h3>Sample of tokens</h3>
+      <table>
+        <tr><td class="k">brand</td><td><span style="display:inline-block;width:12px;height:12px;background:#c9b195;border:1px solid #333;border-radius:2px;vertical-align:-2px;margin-right:5px"></span>#c9b195</td></tr>
+        <tr><td class="k">neutrals</td><td class="num">#000000 · #121212 · #54595f · #7a7a7a · #999999 · #f7f7f7 · #ffffff</td></tr>
+        <tr><td class="k">containers</td><td class="num">1330px / pad 0px<br>1140px / pad 0px<br>1920px / pad 0px<br>1000px / pad 0px</td></tr>
+        <tr><td class="k">grid</td><td class="num">1440px<br>210.609px 210.625px 210.609px 210.625px 210.609px<br>1400px</td></tr>
+        <tr><td class="k">radii</td><td class="num">3px · 50% · 0 · 2px · 6px · 4px</td></tr>
+        <tr><td class="k">shadows</td><td class="num">none<br>none !important<br>0 2px 6px rgba(0,0,0,.1)</td></tr>
+        <tr><td class="k">durations</td><td class="num">.3s · .25s · .2s · .4s · 0.5s</td></tr>
+        <tr><td class="k">easings</td><td class="num">ease<br>ease-in-out<br>ease-out<br>linear</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>Component & section crops</h3>
+    <div class="gallery"><figure><a href="sites/seaform/raw/home/components/button-1-home-owners.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/components/button-1-home-owners.jpg" alt=""></a><figcaption>button-1-home-owners</figcaption></figure><figure><a href="sites/seaform/raw/home/components/button-2-architects.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/components/button-2-architects.jpg" alt=""></a><figcaption>button-2-architects</figcaption></figure><figure><a href="sites/seaform/raw/home/components/header.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/components/header.jpg" alt=""></a><figcaption>header</figcaption></figure><figure><a href="sites/seaform/raw/home/components/overlay-popup.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/components/overlay-popup.jpg" alt=""></a><figcaption>overlay-popup</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/01-div-seaform-kitchens-wardrobes.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/01-div-seaform-kitchens-wardrobes.jpg" alt=""></a><figcaption>01-div-seaform-kitchens-wardrobes</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/02-section-seaform-kitchens-wardrobes.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/02-section-seaform-kitchens-wardrobes.jpg" alt=""></a><figcaption>02-section-seaform-kitchens-wardrobes</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/03-section-seaform-kitchens-wardrobes.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/03-section-seaform-kitchens-wardrobes.jpg" alt=""></a><figcaption>03-section-seaform-kitchens-wardrobes</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/04-section-seaform-kitchens-wardrobes.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/04-section-seaform-kitchens-wardrobes.jpg" alt=""></a><figcaption>04-section-seaform-kitchens-wardrobes</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/05-section-seaform-kitchen-collection.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/05-section-seaform-kitchen-collection.jpg" alt=""></a><figcaption>05-section-seaform-kitchen-collection</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/06-section.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/06-section.jpg" alt=""></a><figcaption>06-section</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/07-section.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/07-section.jpg" alt=""></a><figcaption>07-section</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/08-section.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/08-section.jpg" alt=""></a><figcaption>08-section</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/09-section.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/09-section.jpg" alt=""></a><figcaption>09-section</figcaption></figure><figure><a href="sites/seaform/raw/home/sections/10-section-get-your-personal-concierge.jpg" target="_blank"><img loading="lazy" src="sites/seaform/raw/home/sections/10-section-get-your-personal-concierge.jpg" alt=""></a><figcaption>10-section-get-your-personal-concierge</figcaption></figure></div>
+  </div>
+</section>
+  <div class="panel big-compare"><h3>Cross-site axis</h3><table class="crossaxis"><thead><tr><th>Axis</th><th><span style="color:#e84538">My Kitchen</span></th><th><span style="color:#ccc">Häcker Küchen</span></th><th><span style="color:#c9b195">SEAFORM</span></th></tr></thead><tbody>
+  <tr><td>Stack</td><td>Next.js</td><td>TYPO3</td><td>WordPress · Elementor</td></tr><tr><td>Font families</td><td>Inter</td><td>Nunito Sans / ACaslonPro</td><td>Optima / Roboto</td></tr><tr><td>Brand</td><td>#e84538</td><td></td><td>#c9b195</td></tr><tr><td>Display size</td><td>72px</td><td>90px</td><td>77px</td></tr><tr><td>Body size</td><td>16px</td><td>16px</td><td>16px</td></tr><tr><td>Container</td><td>1400px / pad 32px</td><td>1050px / pad 15px</td><td>1330px / pad 0px</td></tr><tr><td>Min-width breakpoints</td><td>8</td><td>8</td><td>6</td></tr><tr><td>Section padding</td><td>0/0px</td><td>0/0px</td><td>0/0px</td></tr><tr><td>Dominant radius</td><td>0</td><td>0</td><td>3px</td></tr><tr><td>Motion libs</td><td>CSS only</td><td>jquery</td><td>jquery, elementor, swiper</td></tr><tr><td>Homepage sections</td><td>7</td><td>12</td><td>13</td></tr><tr><td>H1 across pages</td><td>15</td><td>12</td><td>11</td></tr><tr><td>Missing alt</td><td>0 / 146</td><td>2 / 738</td><td>0 / 503</td></tr><tr><td>Sticky header</td><td>0%</td><td>100%</td><td>0%</td></tr>
+  </tbody></table></div>
+</main>
+<footer><div class="wrap">Generated from <code>tools/extract.mjs</code> → <code>tools/analyze.mjs</code> → <code>tools/build-compare.mjs</code>. Screenshots are local evidence files; fonts and imagery belong to their owners.</div></footer>
+</body></html>

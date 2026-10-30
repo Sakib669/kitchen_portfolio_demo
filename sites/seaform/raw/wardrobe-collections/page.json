@@ -1,0 +1,8145 @@
+{
+  "url": "https://www.seaform.com/wardrobe-collections/",
+  "title": "Wardrobe Collections | SEAFORM - German Kitchens & Wardrobes",
+  "description": "SEAFORM wardrobe collection: bespoke wardrobes and walk-ins, including Night System, Cube, Aquatic and Portico. Order the catalogue.",
+  "lang": "en-US",
+  "viewportMeta": "width=device-width, initial-scale=1",
+  "themeColor": "",
+  "generator": "Elementor 3.29.0; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto",
+  "ogImage": "https://www.seaform.com/wp-content/uploads/2024/02/BELVEDERE_VISTA_GENERALE_CShading_LightMix-scaled-e1722428510717.jpg",
+  "doc": {
+    "width": 1440,
+    "height": 900,
+    "scrollHeight": 4188,
+    "scrollY": 0,
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyColor": "rgb(74, 74, 74)",
+    "bodyFont": "\"Open Sans\", sans-serif",
+    "bodyFontSize": "14px",
+    "htmlFontSize": "10px",
+    "scrollBehavior": "smooth",
+    "bodyMaxWidth": "none",
+    "overflowX": "visible"
+  },
+  "counts": {
+    "elements": 1378,
+    "images": 37,
+    "svgs": 9,
+    "videos": 0,
+    "iframes": 1,
+    "buttons": 3,
+    "links": 156,
+    "forms": 2,
+    "sections": 7,
+    "divs": 611
+  },
+  "fonts": [
+    {
+      "family": "Font Awesome 6 Brands",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 6 Free",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 6 Free",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 5 Brands",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 5 Free",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 5 Free",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "FontAwesome",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "FontAwesome",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "FontAwesome",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "FontAwesome",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "simple-line-icons",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 5 Free",
+      "weight": "900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "eicons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Optima",
+      "weight": "normal",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Optima",
+      "weight": "normal",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Optima",
+      "weight": "normal",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Roboto Slab",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Poppins",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Lato",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Rubik",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "100",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "200",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "300",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "100",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "200",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Josefin Sans",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Font Awesome 5 Brands",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "swiper-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "colors": {
+    "bg": [
+      {
+        "key": "#ffffff",
+        "weight": 8209171,
+        "count": 3,
+        "tags": {
+          "body": 1,
+          "section": 2
+        },
+        "samples": [
+          "body.wp-singular page-template-default page page-id-37 wp-embed-responsive wp-theme-o",
+          "section.elementor-section elementor-top-section elementor-element elementor-element-1f84",
+          "section.elementor-section elementor-top-section elementor-element elementor-element-656f"
+        ]
+      },
+      {
+        "key": "#000000",
+        "weight": 1080512.92,
+        "count": 6,
+        "tags": {
+          "div": 1,
+          "a": 3,
+          "section": 2
+        },
+        "samples": [
+          "div.elementor-widget-wrap elementor-element-populated",
+          "a.elementor-button elementor-button-link elementor-size-sm",
+          "section.elementor-section elementor-top-section elementor-element elementor-element-506e"
+        ]
+      },
+      {
+        "key": "#141414",
+        "weight": 907200,
+        "count": 1,
+        "tags": {
+          "section": 1
+        },
+        "samples": [
+          "section.elementor-section elementor-top-section elementor-element elementor-element-76cc"
+        ]
+      },
+      {
+        "key": "#121212",
+        "weight": 720600,
+        "count": 4,
+        "tags": {
+          "section": 3,
+          "div": 1
+        },
+        "samples": [
+          "section.elementor-section elementor-top-section elementor-element elementor-element-1e59",
+          "section.elementor-section elementor-top-section elementor-element elementor-element-54d1",
+          "div.elementor-widget-container"
+        ]
+      },
+      {
+        "key": "#111111",
+        "weight": 4096,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "button.ButtonBase__ButtonContainer-sc-9c42ff7d-3 hPJelZ es-button-base-container Bubble"
+        ]
+      },
+      {
+        "key": "#16161e",
+        "weight": 3382.5,
+        "count": 1,
+        "tags": {
+          "a": 1
+        },
+        "samples": [
+          "a.elementor-button elementor-button-link elementor-size-sm"
+        ]
+      }
+    ],
+    "text": [
+      {
+        "key": "#f7f7f7",
+        "weight": 306,
+        "count": 30,
+        "tags": {
+          "h2:24": 1,
+          "h2:12": 1,
+          "a:12": 28
+        },
+        "samples": [
+          "WARDROBE COLLECTION",
+          "BESPOKE WARDROBES & WALK-INs",
+          "SIGNATURE"
+        ]
+      },
+      {
+        "key": "#7a7a7a",
+        "weight": 275,
+        "count": 1,
+        "tags": {
+          "p:12": 1
+        },
+        "samples": [
+          "Contact us and let us explore together your projects. Whethe"
+        ]
+      },
+      {
+        "key": "#ffffff",
+        "weight": 258,
+        "count": 19,
+        "tags": {
+          "a:16": 4,
+          "h2:24": 2,
+          "span:12": 3,
+          "span:15": 1,
+          "a:12": 3,
+          "h2:14": 5,
+          "h2:10": 1
+        },
+        "samples": [
+          "KITCHENS",
+          "WARDROBES",
+          "FASCINATION"
+        ]
+      },
+      {
+        "key": "#000000",
+        "weight": 76,
+        "count": 6,
+        "tags": {
+          "h1:20": 1,
+          "span:14": 4,
+          "h2:24": 1
+        },
+        "samples": [
+          "SEAFORM WARDROBE COLLECTION",
+          "NIGHT SYSTEM",
+          "CUBE"
+        ]
+      },
+      {
+        "key": "#c1bcad",
+        "weight": 54,
+        "count": 1,
+        "tags": {
+          "p:12": 1
+        },
+        "samples": [
+          "APPLY NOW TO ENROLL TO OUR EXCLUSIVE CONCIERGE SERVICE"
+        ]
+      },
+      {
+        "key": "#999999",
+        "weight": 39,
+        "count": 4,
+        "tags": {
+          "a:12": 4
+        },
+        "samples": [
+          "Imprint",
+          "TERMS OF USE",
+          "Privacy Policy"
+        ]
+      },
+      {
+        "key": "#c9b195",
+        "weight": 36,
+        "count": 2,
+        "tags": {
+          "h2:12": 2
+        },
+        "samples": [
+          "AND GET INSPIRED",
+          "GET TO KNOW OUR TEAM"
+        ]
+      },
+      {
+        "key": "#908a7e",
+        "weight": 19,
+        "count": 1,
+        "tags": {
+          "h3:12": 1
+        },
+        "samples": [
+          "WARDROBES REDEFINED"
+        ]
+      }
+    ],
+    "border": [
+      {
+        "key": "#ffffff",
+        "weight": 5,
+        "count": 5,
+        "tags": {
+          "div": 5
+        },
+        "samples": [
+          "elementor-widget-wrap elementor-element-populated"
+        ]
+      },
+      {
+        "key": "#232323",
+        "weight": 1,
+        "count": 1,
+        "tags": {
+          "section": 1
+        },
+        "samples": [
+          "elementor-section elementor-top-section elementor-element elementor-element-78c7"
+        ]
+      },
+      {
+        "key": "#3c3c3c",
+        "weight": 1,
+        "count": 1,
+        "tags": {
+          "section": 1
+        },
+        "samples": [
+          "elementor-section elementor-top-section elementor-element elementor-element-6a59"
+        ]
+      }
+    ],
+    "gradient": [
+      {
+        "key": "linear-gradient(0deg, rgba(18, 18, 18, 0.48) 0%, rgba(0, 0, 0, 0.79) 100%)",
+        "weight": 84195,
+        "count": 1,
+        "tags": {
+          "section": 1
+        },
+        "samples": [
+          "elementor-section elementor-top-section elementor-element elementor-element-609a"
+        ]
+      },
+      {
+        "key": "linear-gradient(rgba(18, 18, 18, 0.48) 0%, rgba(0, 0, 0, 0) 100%)",
+        "weight": 72000,
+        "count": 1,
+        "tags": {
+          "section": 1
+        },
+        "samples": [
+          "elementor-section elementor-top-section elementor-element elementor-element-f97e"
+        ]
+      }
+    ],
+    "varColors": []
+  },
+  "textStyles": [
+    {
+      "family": "Poppins, sans-serif",
+      "size": 12,
+      "weight": "300",
+      "lh": "14.4px",
+      "ls": "1px",
+      "transform": "uppercase",
+      "color": "rgb(247, 247, 247)",
+      "count": 28,
+      "tags": {
+        "a": 28
+      },
+      "sample": "SIGNATURE"
+    },
+    {
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": "14px",
+      "ls": "1px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 5,
+      "tags": {
+        "h2": 5
+      },
+      "sample": "KITCHENS"
+    },
+    {
+      "family": "Optima, sans-serif",
+      "size": 16,
+      "weight": "400",
+      "lh": "1px",
+      "ls": "1.6px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 4,
+      "tags": {
+        "a": 4
+      },
+      "sample": "KITCHENS"
+    },
+    {
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": "14px",
+      "ls": "2px",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 4,
+      "tags": {
+        "span": 4
+      },
+      "sample": "NIGHT SYSTEM"
+    },
+    {
+      "family": "\"Open Sans\", sans-serif",
+      "size": 18,
+      "weight": "400",
+      "lh": "18px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(201, 177, 149)",
+      "count": 4,
+      "tags": {
+        "span": 4
+      },
+      "sample": "Facebook"
+    },
+    {
+      "family": "Poppins, sans-serif",
+      "size": 12,
+      "weight": "300",
+      "lh": "14.4px",
+      "ls": "normal",
+      "transform": "uppercase",
+      "color": "rgb(153, 153, 153)",
+      "count": 4,
+      "tags": {
+        "a": 4
+      },
+      "sample": "Imprint"
+    },
+    {
+      "family": "Lato, sans-serif",
+      "size": 12,
+      "weight": "500",
+      "lh": "18px",
+      "ls": "1px",
+      "transform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "count": 3,
+      "tags": {
+        "span": 3
+      },
+      "sample": "REQUEST CATALOGUE"
+    },
+    {
+      "family": "Poppins, sans-serif",
+      "size": 12,
+      "weight": "300",
+      "lh": "20px",
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "count": 3,
+      "tags": {
+        "a": 3
+      },
+      "sample": "CONCIERGE SERVICE"
+    },
+    {
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": "36px",
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "count": 2,
+      "tags": {
+        "h2": 2
+      },
+      "sample": "ORDER YOUR CATALOGUE"
+    },
+    {
+      "family": "Roboto, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": "18px",
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(201, 177, 149)",
+      "count": 2,
+      "tags": {
+        "h2": 2
+      },
+      "sample": "AND GET INSPIRED"
+    },
+    {
+      "family": "\"Open Sans\", sans-serif",
+      "size": 14,
+      "weight": "400",
+      "lh": "25.2px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(201, 177, 149)",
+      "count": 1,
+      "tags": {
+        "a": 1
+      },
+      "sample": "Skip to content"
+    },
+    {
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": "36px",
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(247, 247, 247)",
+      "count": 1,
+      "tags": {
+        "h2": 1
+      },
+      "sample": "WARDROBE COLLECTION"
+    },
+    {
+      "family": "Lato, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": "18px",
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(247, 247, 247)",
+      "count": 1,
+      "tags": {
+        "h2": 1
+      },
+      "sample": "BESPOKE WARDROBES & WALK-INs"
+    },
+    {
+      "family": "Roboto, sans-serif",
+      "size": 20,
+      "weight": "300",
+      "lh": "30px",
+      "ls": "1px",
+      "transform": "uppercase",
+      "color": "rgb(0, 0, 0)",
+      "count": 1,
+      "tags": {
+        "h1": 1
+      },
+      "sample": "SEAFORM WARDROBE COLLECTION"
+    },
+    {
+      "family": "Lato, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": "18px",
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(144, 138, 126)",
+      "count": 1,
+      "tags": {
+        "h3": 1
+      },
+      "sample": "WARDROBES REDEFINED"
+    },
+    {
+      "family": "Roboto, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": "18px",
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(193, 188, 173)",
+      "count": 1,
+      "tags": {
+        "p": 1
+      },
+      "sample": "APPLY NOW TO ENROLL TO OUR EXCLUSIVE CONCIERGE SERVICE"
+    },
+    {
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": "36px",
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(0, 0, 0)",
+      "count": 1,
+      "tags": {
+        "h2": 1
+      },
+      "sample": "WE ARE HERE FOR YOU"
+    },
+    {
+      "family": "Poppins, sans-serif",
+      "size": 12,
+      "weight": "300",
+      "lh": "21.6px",
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(122, 122, 122)",
+      "count": 1,
+      "tags": {
+        "p": 1
+      },
+      "sample": "Contact us and let us explore together your projects. Whether you would like us "
+    },
+    {
+      "family": "Roboto, sans-serif",
+      "size": 15,
+      "weight": "400",
+      "lh": "15px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 1,
+      "tags": {
+        "span": 1
+      },
+      "sample": "GET IN TOUCH"
+    },
+    {
+      "family": "Poppins, sans-serif",
+      "size": 10,
+      "weight": "300",
+      "lh": "17px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 1,
+      "tags": {
+        "h2": 1
+      },
+      "sample": "© 2020 SEAFORM. All Rights Reserved."
+    }
+  ],
+  "displayHeads": [],
+  "headings": [
+    {
+      "level": "h2",
+      "text": "WARDROBE COLLECTION",
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": 36,
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(247, 247, 247)",
+      "top": 409,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "level": "h2",
+      "text": "BESPOKE WARDROBES & WALK-INs",
+      "family": "Lato, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": 18,
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(247, 247, 247)",
+      "top": 450,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "level": "h1",
+      "text": "SEAFORM WARDROBE COLLECTION",
+      "family": "Roboto, sans-serif",
+      "size": 20,
+      "weight": "300",
+      "lh": 30,
+      "ls": "1px",
+      "transform": "uppercase",
+      "color": "rgb(0, 0, 0)",
+      "top": 958,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "level": "h3",
+      "text": "WARDROBES REDEFINED",
+      "family": "Lato, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": 18,
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(144, 138, 126)",
+      "top": 988,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "level": "h2",
+      "text": "ORDER YOUR CATALOGUE",
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": 36,
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "top": 2229,
+      "cls": "elementor-heading-title elementor-size-large"
+    },
+    {
+      "level": "h2",
+      "text": "AND GET INSPIRED",
+      "family": "Roboto, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": 18,
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(201, 177, 149)",
+      "top": 2265,
+      "cls": "elementor-heading-title elementor-size-large"
+    },
+    {
+      "level": "h2",
+      "text": "GET YOUR PERSONAL CONCIERGE",
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": 36,
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "top": 2881,
+      "cls": "elementor-heading-title elementor-size-large"
+    },
+    {
+      "level": "h2",
+      "text": "WE ARE HERE FOR YOU",
+      "family": "Optima, sans-serif",
+      "size": 24,
+      "weight": "300",
+      "lh": 36,
+      "ls": "0.5px",
+      "transform": "uppercase",
+      "color": "rgb(0, 0, 0)",
+      "top": 3375,
+      "cls": "elementor-heading-title elementor-size-large"
+    },
+    {
+      "level": "h2",
+      "text": "GET TO KNOW OUR TEAM",
+      "family": "Roboto, sans-serif",
+      "size": 12,
+      "weight": "400",
+      "lh": 18,
+      "ls": "0.5px",
+      "transform": "none",
+      "color": "rgb(201, 177, 149)",
+      "top": 3411,
+      "cls": "elementor-heading-title elementor-size-large"
+    },
+    {
+      "level": "h2",
+      "text": "KITCHENS",
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": 14,
+      "ls": "1px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 3957,
+      "cls": "elementor-heading-title elementor-size-small"
+    },
+    {
+      "level": "h2",
+      "text": "WARDROBES",
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": 14,
+      "ls": "1px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 3989,
+      "cls": "elementor-heading-title elementor-size-small"
+    },
+    {
+      "level": "h2",
+      "text": "FASCINATION",
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": 14,
+      "ls": "1px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 3981,
+      "cls": "elementor-heading-title elementor-size-small"
+    },
+    {
+      "level": "h2",
+      "text": "EXPERIENCE",
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": 14,
+      "ls": "1px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 3981,
+      "cls": "elementor-heading-title elementor-size-small"
+    },
+    {
+      "level": "h2",
+      "text": "OTHERS",
+      "family": "Optima, sans-serif",
+      "size": 14,
+      "weight": "300",
+      "lh": 14,
+      "ls": "1px",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 3973,
+      "cls": "elementor-heading-title elementor-size-small"
+    },
+    {
+      "level": "h2",
+      "text": "© 2020 SEAFORM. All Rights Reserved.",
+      "family": "Poppins, sans-serif",
+      "size": 10,
+      "weight": "300",
+      "lh": 17,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 4159,
+      "cls": "elementor-heading-title elementor-size-default"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "type": "section",
+      "tag": "section",
+      "id": "",
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-fd84a0a elementor-section-height-full elementor-section-items-st",
+      "top": -12,
+      "height": 900,
+      "width": 1440,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "url(\"https://www.seaform.com/wp-content/uploads/2024/02/2013190_ARMADIO_CABINA_CON_ANTE_VISTA_GENERALE_CShading_LightMix-scaled.jpg\")",
+      "color": "rgb(122, 122, 122)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "-120px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 2,
+      "heading": "h2: WARDROBE COLLECTION",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": [
+        "data-id",
+        "data-element_type",
+        "data-settings"
+      ]
+    },
+    {
+      "index": 1,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "jet-parallax-section__image",
+      "top": 131,
+      "height": 3573,
+      "width": 1440,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "url(\"\")",
+      "color": "rgb(74, 74, 74)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 0,
+      "heading": "",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 2,
+      "type": "section",
+      "tag": "section",
+      "id": "",
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-1f843c3a elementor-section-full_width elementor-section-height-m",
+      "top": 908,
+      "height": 1063,
+      "width": 1440,
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": "none",
+      "color": "rgb(122, 122, 122)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 2,
+      "heading": "h1: SEAFORM WARDROBE COLLECTION",
+      "images": 4,
+      "svgs": 0,
+      "buttons": 4,
+      "links": 8,
+      "videos": 0,
+      "dataAttrs": [
+        "data-id",
+        "data-element_type",
+        "data-settings"
+      ]
+    },
+    {
+      "index": 3,
+      "type": "section",
+      "tag": "section",
+      "id": "",
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-76cc622 elementor-section-height-min-height elementor-section-fu",
+      "top": 1972,
+      "height": 630,
+      "width": 1440,
+      "bg": "rgb(20, 20, 20)",
+      "bgImage": "none",
+      "color": "rgb(122, 122, 122)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 3,
+      "heading": "h2: ORDER YOUR CATALOGUE",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 1,
+      "links": 1,
+      "videos": 0,
+      "dataAttrs": [
+        "data-id",
+        "data-element_type",
+        "data-settings"
+      ]
+    },
+    {
+      "index": 4,
+      "type": "section",
+      "tag": "section",
+      "id": "",
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-506eba1c elementor-section-height-min-height elementor-section-c",
+      "top": 2602,
+      "height": 630,
+      "width": 1440,
+      "bg": "rgb(0, 0, 0)",
+      "bgImage": "url(\"https://www.seaform.com/wp-content/uploads/2021/04/seaform_concierge_blue.jpg\")",
+      "color": "rgb(122, 122, 122)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 3,
+      "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 1,
+      "links": 1,
+      "videos": 0,
+      "dataAttrs": [
+        "data-id",
+        "data-element_type",
+        "data-settings"
+      ]
+    },
+    {
+      "index": 5,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "jet-parallax-section__image",
+      "top": 3232,
+      "height": 450,
+      "width": 1440,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "url(\"\")",
+      "color": "rgb(122, 122, 122)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 0,
+      "heading": "",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 6,
+      "type": "footer",
+      "tag": "div",
+      "id": "",
+      "cls": "elementor elementor-223 elementor-location-footer",
+      "top": 3683,
+      "height": 505,
+      "width": 1440,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(74, 74, 74)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 4,
+      "heading": "h2: KITCHENS",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 74,
+      "videos": 0,
+      "dataAttrs": [
+        "data-elementor-type",
+        "data-elementor-id",
+        "data-elementor-post-type"
+      ]
+    }
+  ],
+  "containers": [
+    {
+      "maxWidth": 1330,
+      "padX": 0,
+      "count": 8,
+      "sample": "elementor-container elementor-column-gap-default"
+    },
+    {
+      "maxWidth": 1140,
+      "padX": 0,
+      "count": 1,
+      "sample": "elementor-container elementor-column-gap-default"
+    },
+    {
+      "maxWidth": 1000,
+      "padX": 0,
+      "count": 1,
+      "sample": "elementor-container elementor-column-gap-default"
+    }
+  ],
+  "components": {
+    "buttons": [
+      {
+        "variant": "filled",
+        "shape": "square",
+        "tag": "a",
+        "text": "REQUEST CATALOGUE",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "rect": {
+          "top": 2303,
+          "left": 730,
+          "w": 191,
+          "h": 42
+        },
+        "family": "Lato, sans-serif",
+        "size": 12,
+        "weight": "500",
+        "lh": 18,
+        "ls": "1px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "bgImage": "none",
+        "border": "0px solid rgb(193, 188, 173)",
+        "radius": "0px",
+        "shadow": "none",
+        "padding": "12px 24px 12px 24px",
+        "margin": "0px 0px 0px 0px",
+        "display": "inline-block",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "normal",
+        "justify": "normal",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "191px",
+        "height": "42px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "0.3s",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 3,
+        "samples": [
+          "REQUEST CATALOGUE",
+          "APPLY NOW",
+          "GET IN TOUCH"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "tag": "button",
+        "text": "",
+        "cls": "ButtonBase__ButtonContainer-sc-9c42ff7d-3 hPJelZ es-button-base-container Bubble__BubbleComponent-sc-559859f8-1 bSwYFG",
+        "rect": {
+          "top": 816,
+          "left": 1356,
+          "w": 64,
+          "h": 64
+        },
+        "family": "\"Open Sans\", sans-serif",
+        "size": 0,
+        "weight": "700",
+        "lh": "normal",
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(231, 241, 255)",
+        "bg": "rgb(17, 17, 17)",
+        "bgImage": "none",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "radius": "100px",
+        "shadow": "rgba(0, 0, 0, 0.15) 0px 3px 12px 0px",
+        "padding": "0px 0px 0px 0px",
+        "margin": "0px 0px 0px 0px",
+        "display": "inline-block",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "normal",
+        "justify": "normal",
+        "textAlign": "center",
+        "maxWidth": "1400px",
+        "width": "64px",
+        "height": "64px",
+        "position": "relative",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "opacity 0.1s ease-in, transform 0.1s ease-in, color 0.1s ease-in, background-color 0.1s ease-in, border-color 0.1s ease-in",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 1,
+        "samples": []
+      }
+    ],
+    "cards": [],
+    "navs": [
+      {
+        "tag": "header",
+        "cls": "clr",
+        "height": 108,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "relative",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 65,
+        "hasLogo": true,
+        "hasSearch": true,
+        "hasLanguage": false,
+        "hamburger": true,
+        "links_sample": [
+          "KITCHENS",
+          "COLLECTIONS",
+          "MATERIALS & COLORS",
+          "INTERIORS",
+          "SPECIALS",
+          "COUNTERTOPS",
+          "APPLIANCES",
+          "NIGHT SYSTEM",
+          "CUBE",
+          "AQUATIC",
+          "PORTICO",
+          "MATERIALS & COLORS",
+          "INTERIORS",
+          "ACCESSORIES"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none",
+        "height": 46,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "flex",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 3,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "CONCIERGE SERVICE",
+          "CORPORATE",
+          "CONTRACT DIVISION"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
+        "height": 129,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 8,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "SIGNATURE",
+          "MONOGRAM",
+          "MONOCLE",
+          "SOHO",
+          "HAMPTONS",
+          "SYNTHESIS",
+          "PURISTA",
+          "GAIA"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
+        "height": 64,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 4,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "NIGHT SYSTEM",
+          "CUBE",
+          "AQUATIC",
+          "PORTICO"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
+        "height": 80,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 5,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "AT A GLANCE",
+          "LEGACY",
+          "MANUFACTURING",
+          "QUALITY",
+          "ICONIC PROJECTS"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
+        "height": 80,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 5,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "ORDER CATALOGUE",
+          "GET YOUR DESIGN",
+          "FIND A SHOWROOM",
+          "PRODUCT SERVICE",
+          "CONTACT"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
+        "height": 96,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 6,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "ARCHITECTS",
+          "PROJECTS",
+          "NEWS MAIN",
+          "BECOME A PARTNER",
+          "MYSEA",
+          "CAREER"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none",
+        "height": 14,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(74, 74, 74)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(74, 74, 74)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "flex",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 4,
+        "hasLogo": false,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "IMPRINT",
+          "TERMS OF USE",
+          "PRIVACY POLICY",
+          "CAREER"
+        ]
+      }
+    ],
+    "badges": [
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(247, 247, 247)",
+        "family": "Poppins, sans-serif",
+        "count": 28,
+        "samples": [
+          "SIGNATURE",
+          "MONOGRAM",
+          "MONOCLE",
+          "SOHO"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "family": "Optima, sans-serif",
+        "count": 12,
+        "samples": [
+          "NIGHT SYSTEM",
+          "NIGHT SYSTEM",
+          "NIGHT SYSTEM",
+          "CUBE"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "500",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "family": "Lato, sans-serif",
+        "count": 9,
+        "samples": [
+          "REQUEST CATALOGUE",
+          "REQUEST CATALOGUE",
+          "REQUEST CATALOGUE",
+          "APPLY NOW"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "family": "Optima, sans-serif",
+        "count": 5,
+        "samples": [
+          "KITCHENS",
+          "WARDROBES",
+          "FASCINATION",
+          "EXPERIENCE"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "color": "rgb(153, 153, 153)",
+        "family": "Poppins, sans-serif",
+        "count": 4,
+        "samples": [
+          "IMPRINT",
+          "TERMS OF USE",
+          "PRIVACY POLICY",
+          "CAREER"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "family": "Poppins, sans-serif",
+        "count": 3,
+        "samples": [
+          "CONCIERGE SERVICE",
+          "CORPORATE",
+          "CONTRACT DIVISION"
+        ]
+      }
+    ],
+    "inputs": [],
+    "links": [
+      {
+        "color": "rgb(247, 247, 247)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 28,
+        "samples": [
+          "SIGNATURE",
+          "MONOGRAM",
+          "MONOCLE"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 16,
+        "transform": "none",
+        "count": 4,
+        "samples": [
+          "KITCHENS",
+          "WARDROBES",
+          "FASCINATION"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 14,
+        "transform": "none",
+        "count": 4,
+        "samples": [
+          "NIGHT SYSTEM",
+          "CUBE",
+          "AQUATIC"
+        ]
+      },
+      {
+        "color": "rgb(201, 177, 149)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 18,
+        "transform": "none",
+        "count": 4,
+        "samples": [
+          "Facebook",
+          "Instagram",
+          "Pinterest"
+        ]
+      },
+      {
+        "color": "rgb(153, 153, 153)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 4,
+        "samples": [
+          "IMPRINT",
+          "TERMS OF USE",
+          "PRIVACY POLICY"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "500",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 3,
+        "samples": [
+          "REQUEST CATALOGUE",
+          "APPLY NOW",
+          "GET IN TOUCH"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 3,
+        "samples": [
+          "CONCIERGE SERVICE",
+          "CORPORATE",
+          "CONTRACT DIVISION"
+        ]
+      },
+      {
+        "color": "rgb(201, 177, 149)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 14,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Skip to content"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 15,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "GET IN TOUCH"
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "flex": 293,
+    "grid": 0,
+    "block": 1085,
+    "gridCols": {},
+    "gaps": {
+      "5px": 8,
+      "0px 30px": 1,
+      "6px": 1
+    },
+    "textAlign": {
+      "center": 403,
+      "right": 18,
+      "left": 321
+    },
+    "sticky": 0,
+    "fixed": 5,
+    "overflowHiddenX": 0,
+    "borderRadiusZero": 0
+  },
+  "motion": {
+    "transitions": [
+      {
+        "duration": "0.3s, 0.3s, 0.3s, 0.3s, 0.4s",
+        "timing": "ease, ease, ease, ease, ease",
+        "property": "background, border, border-radius, box-shadow, transform",
+        "count": 118
+      },
+      {
+        "duration": "0.3s",
+        "timing": "ease",
+        "property": "all",
+        "count": 99
+      },
+      {
+        "duration": "0.3s",
+        "timing": "ease-in-out",
+        "property": "all",
+        "count": 52
+      },
+      {
+        "duration": "0.4s",
+        "timing": "ease",
+        "property": "all",
+        "count": 35
+      },
+      {
+        "duration": "0.5s, 0s, 0.5s",
+        "timing": "cubic-bezier(0.25, 0.88, 0.54, 0.98), linear, cubic-bezier(0.25, 0.88, 0.54, 0.98)",
+        "property": "transform, background-position, -webkit-transform",
+        "count": 29
+      },
+      {
+        "duration": "0.3s, 0.3s, 0.3s, 0.3s",
+        "timing": "ease, ease, ease, ease",
+        "property": "background, border, border-radius, box-shadow",
+        "count": 22
+      },
+      {
+        "duration": "1s, 1s",
+        "timing": "cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1)",
+        "property": "transform, background",
+        "count": 10
+      },
+      {
+        "duration": "0.3s, 0.3s, 0.3s",
+        "timing": "ease, ease, ease",
+        "property": "background, border-radius, opacity",
+        "count": 7
+      },
+      {
+        "duration": "0.3s, 0.3s",
+        "timing": "ease, ease",
+        "property": "max-height, transform",
+        "count": 7
+      },
+      {
+        "duration": "0.1s",
+        "timing": "ease-in",
+        "property": "opacity, transform, color, background-color, border-color",
+        "count": 6
+      },
+      {
+        "duration": "0.5s",
+        "timing": "ease",
+        "property": "all",
+        "count": 5
+      },
+      {
+        "duration": "1s, 1s",
+        "timing": "cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1)",
+        "property": "transform, color",
+        "count": 5
+      },
+      {
+        "duration": "0.2s",
+        "timing": "ease",
+        "property": "all",
+        "count": 4
+      },
+      {
+        "duration": "0.2s",
+        "timing": "ease",
+        "property": "fill",
+        "count": 3
+      },
+      {
+        "duration": "1s",
+        "timing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+        "property": "transform, opacity",
+        "count": 2
+      },
+      {
+        "duration": "0.3s, 0.3s, 0.3s, 0.3s, 0.1s",
+        "timing": "ease, ease, ease, ease, ease",
+        "property": "background, border, border-radius, box-shadow, transform",
+        "count": 2
+      },
+      {
+        "duration": "0.9s",
+        "timing": "ease",
+        "property": "all",
+        "count": 1
+      },
+      {
+        "duration": "0.3s",
+        "timing": "ease",
+        "property": "transform",
+        "count": 1
+      },
+      {
+        "duration": "0.3s, 0.3s, 0.3s",
+        "timing": "ease, ease, ease",
+        "property": "opacity, margin, visibility",
+        "count": 1
+      },
+      {
+        "duration": "0.3s",
+        "timing": "ease",
+        "property": "opacity",
+        "count": 1
+      }
+    ],
+    "animations": [
+      {
+        "name": "VrNJc",
+        "duration": "1.2s",
+        "timing": "linear",
+        "iter": "infinite"
+      },
+      {
+        "name": "kJjRBr",
+        "duration": "1.2s",
+        "timing": "linear",
+        "iter": "infinite"
+      },
+      {
+        "name": "kNdQbK",
+        "duration": "1.2s",
+        "timing": "linear",
+        "iter": "infinite"
+      }
+    ],
+    "libs": {
+      "gsap": false,
+      "lenis": false,
+      "swiper": false,
+      "aos": false,
+      "jquery": true,
+      "framer": false,
+      "three": false,
+      "barba": false,
+      "locomotive": false,
+      "anime": false,
+      "splide": false,
+      "embla": false,
+      "elementor": true,
+      "wow": false
+    },
+    "dataAttrs": {}
+  },
+  "media": {
+    "images": {
+      "count": 37,
+      "missingAlt": 0,
+      "emptyAlt": 1,
+      "lazy": 33,
+      "withSrcset": 26,
+      "objectFit": {
+        "fill": 34,
+        "contain": 1,
+        "cover": 2
+      },
+      "formats": [
+        "png",
+        "jpg",
+        "svg"
+      ],
+      "aspect": [
+        "5.67",
+        "5.67",
+        "0.60",
+        "1.61",
+        "1.63",
+        "1.63",
+        "1.63",
+        "1.33",
+        "1.10",
+        "5.67",
+        "1.00",
+        "1.00"
+      ],
+      "avgBox": 34692
+    },
+    "videos": [],
+    "iframes": [
+      "about:blank"
+    ],
+    "bgImages": {
+      "count": 31,
+      "gradients": 2,
+      "urls": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "a11y": {
+    "lang": "en-US",
+    "h1Count": 1,
+    "headingOutline": [
+      "h3: CONCIERGE",
+      "h2: COLLECTIONS",
+      "h2: MATERIALS & COLORS",
+      "h2: INTERIORS",
+      "h2: ACCESSORIES",
+      "h2: CUSTOMIZATIONS",
+      "h3: CONCIERGE",
+      "h3: CONCIERGE",
+      "h3: CONCIERGE",
+      "h2: LEGACY",
+      "h2: MADE IN GERMANY",
+      "h2: ICONIC PROJECTS",
+      "h2: WARDROBE COLLECTION",
+      "h2: BESPOKE WARDROBES & WALK-INs",
+      "h1: SEAFORM WARDROBE COLLECTION",
+      "h3: WARDROBES REDEFINED",
+      "h2: ORDER YOUR CATALOGUE",
+      "h2: AND GET INSPIRED",
+      "h2: GET YOUR PERSONAL CONCIERGE",
+      "h2: WE ARE HERE FOR YOU",
+      "h2: GET TO KNOW OUR TEAM",
+      "h2: KITCHENS",
+      "h2: WARDROBES",
+      "h2: FASCINATION",
+      "h2: EXPERIENCE",
+      "h2: OTHERS",
+      "h2: © 2020 SEAFORM. All Rights Reserved."
+    ],
+    "altMissing": 0,
+    "altEmpty": 1,
+    "images": 37,
+    "emptyLinks": 6,
+    "emptyButtons": 2,
+    "landmarks": 16,
+    "main": true,
+    "skipLink": true,
+    "ariaCount": 24,
+    "labelledInputs": 2,
+    "inputs": 2,
+    "tabbable": 164,
+    "contrast": [
+      {
+        "fg": "#c9b195",
+        "bg": "#ffffff",
+        "ratio": 2.06,
+        "size": 14,
+        "weight": "400",
+        "tag": "a",
+        "text": "Skip to content"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#ffffff",
+        "ratio": 1.07,
+        "size": 24,
+        "weight": "300",
+        "tag": "h2",
+        "text": "WARDROBE COLLECTION"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#ffffff",
+        "ratio": 1.07,
+        "size": 12,
+        "weight": "400",
+        "tag": "h2",
+        "text": "BESPOKE WARDROBES & WALK-INs"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 20,
+        "weight": "300",
+        "tag": "h1",
+        "text": "SEAFORM WARDROBE COLLECTION"
+      },
+      {
+        "fg": "#908a7e",
+        "bg": "#ffffff",
+        "ratio": 3.43,
+        "size": 12,
+        "weight": "400",
+        "tag": "h3",
+        "text": "WARDROBES REDEFINED"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 14,
+        "weight": "300",
+        "tag": "span",
+        "text": "NIGHT SYSTEM"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 14,
+        "weight": "300",
+        "tag": "span",
+        "text": "CUBE"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 14,
+        "weight": "300",
+        "tag": "span",
+        "text": "AQUATIC"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 14,
+        "weight": "300",
+        "tag": "span",
+        "text": "PORTICO"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#141414",
+        "ratio": 18.42,
+        "size": 24,
+        "weight": "300",
+        "tag": "h2",
+        "text": "ORDER YOUR CATALOGUE"
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#141414",
+        "ratio": 8.95,
+        "size": 12,
+        "weight": "400",
+        "tag": "h2",
+        "text": "AND GET INSPIRED"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 12,
+        "weight": "500",
+        "tag": "span",
+        "text": "REQUEST CATALOGUE"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 24,
+        "weight": "300",
+        "tag": "h2",
+        "text": "GET YOUR PERSONAL CONCIERGE"
+      },
+      {
+        "fg": "#c1bcad",
+        "bg": "#000000",
+        "ratio": 11.06,
+        "size": 12,
+        "weight": "400",
+        "tag": "p",
+        "text": "APPLY NOW TO ENROLL TO OUR EXCLUSIVE CONCIERGE SER"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 12,
+        "weight": "500",
+        "tag": "span",
+        "text": "APPLY NOW"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 24,
+        "weight": "300",
+        "tag": "h2",
+        "text": "WE ARE HERE FOR YOU"
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#ffffff",
+        "ratio": 2.06,
+        "size": 12,
+        "weight": "400",
+        "tag": "h2",
+        "text": "GET TO KNOW OUR TEAM"
+      },
+      {
+        "fg": "#7a7a7a",
+        "bg": "#ffffff",
+        "ratio": 4.29,
+        "size": 12,
+        "weight": "300",
+        "tag": "p",
+        "text": "Contact us and let us explore together your projec"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 12,
+        "weight": "500",
+        "tag": "span",
+        "text": "GET IN TOUCH"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#1b1b1b",
+        "ratio": 17.22,
+        "size": 15,
+        "weight": "400",
+        "tag": "span",
+        "text": "GET IN TOUCH"
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#121212",
+        "ratio": 9.1,
+        "size": 18,
+        "weight": "400",
+        "tag": "span",
+        "text": "Facebook"
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#121212",
+        "ratio": 9.1,
+        "size": 18,
+        "weight": "400",
+        "tag": "span",
+        "text": "Instagram"
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#121212",
+        "ratio": 9.1,
+        "size": 18,
+        "weight": "400",
+        "tag": "span",
+        "text": "Pinterest"
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#121212",
+        "ratio": 9.1,
+        "size": 18,
+        "weight": "400",
+        "tag": "span",
+        "text": "Linkedin"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "CONCIERGE SERVICE"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "CORPORATE"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "CONTRACT DIVISION"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 14,
+        "weight": "300",
+        "tag": "h2",
+        "text": "KITCHENS"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "SIGNATURE"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "MONOGRAM"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "MONOCLE"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "SOHO"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "HAMPTONS"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "SYNTHESIS"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "PURISTA"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "GAIA"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 14,
+        "weight": "300",
+        "tag": "h2",
+        "text": "WARDROBES"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "NIGHT SYSTEM"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "CUBE"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "AQUATIC"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "PORTICO"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 14,
+        "weight": "300",
+        "tag": "h2",
+        "text": "FASCINATION"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "AT A GLANCE"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "LEGACY"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "MANUFACTURING"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "QUALITY"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "ICONIC PROJECTS"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 14,
+        "weight": "300",
+        "tag": "h2",
+        "text": "EXPERIENCE"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Order catalogue"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Get your design"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Find a showroom"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Product service"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Contact"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#121212",
+        "ratio": 18.73,
+        "size": 14,
+        "weight": "300",
+        "tag": "h2",
+        "text": "OTHERS"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Architects"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Projects"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "News Main"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "BECOME A PARTNER"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "mySEA"
+      },
+      {
+        "fg": "#f7f7f7",
+        "bg": "#121212",
+        "ratio": 17.49,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Career"
+      },
+      {
+        "fg": "#999999",
+        "bg": "#000000",
+        "ratio": 7.37,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Imprint"
+      },
+      {
+        "fg": "#999999",
+        "bg": "#000000",
+        "ratio": 7.37,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "TERMS OF USE"
+      },
+      {
+        "fg": "#999999",
+        "bg": "#000000",
+        "ratio": 7.37,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Privacy Policy"
+      },
+      {
+        "fg": "#999999",
+        "bg": "#000000",
+        "ratio": 7.37,
+        "size": 12,
+        "weight": "300",
+        "tag": "a",
+        "text": "Career"
+      }
+    ]
+  },
+  "interactions": {
+    "details": 0,
+    "roleTabs": 0,
+    "roleDialogs": 0,
+    "accordions": 0,
+    "sliders": 0,
+    "searchInputs": 10,
+    "navLinks": 135,
+    "dropdowns": 64,
+    "floatingCta": [
+      {
+        "tag": "div",
+        "cls": "elementor-element elementor-element-fa4fc04 sidebar_button elementor-widget__width-auto el",
+        "text": "GET IN TOUCH",
+        "href": ""
+      },
+      {
+        "tag": "div",
+        "cls": "FloatingButton__FloatingButtonContainer-sc-a6e8f83f-0 ljtpl es-floating-button-container",
+        "text": "",
+        "href": ""
+      }
+    ],
+    "cookiePlatform": [
+      "elementor"
+    ]
+  },
+  "framework": [
+    "WordPress",
+    "Elementor"
+  ],
+  "scripts": {
+    "total": 55,
+    "srcs": [
+      "https://scripts.clarity.ms/0.8.72-beta/clarity.js",
+      "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+      "https://connect.facebook.net/signals/config/6149661951771957?v=2.9.427&r=stable&domain=www.seaform.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.clarity.ms/tag/j1o33t9lpr?ref=gtm2",
+      "https://www.googletagmanager.com/gtag/js?id=G-80QZ6KQTKG&cx=c&gtm=4e6al1",
+      "https://www.googletagmanager.com/gtag/js?id=AW-10781790144&cx=c&gtm=4e6al1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WC723CB",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.seaform.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.seaform.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/js.cookie.js?ver=7.1.3",
+      "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/handl-utm-grabber.js?ver=7.1.3",
+      "https://static.hotjar.com/c/hotjar-3207225.js?sv=6",
+      "https://script.hotjar.com/modules.fe0d6537f87c9cb831d4.js",
+      "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10781790144/?random=1793001624935&cv=11&fst=1793001624935&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fwardrobe-collections%2F&rcb=15&frm=0&tiba=Wardrobe%20Collections%20%7C%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=236549594.1793001420&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://universe-static.elfsightcdn.com/app-releases/all-in-one-chat/stable/v1.25.4/e36d88f7692b30bb852407acaa75b1c589472f7c/widget/allInOneChat.js",
+      "https://apps.elfsight.com/p/platform.js",
+      "https://www.seaform.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://www.seaform.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6",
+      "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro-form-widget-pipedrive-integration/resources/compiled/theme/js/app.js?id=120c696893da2ebff2ac0949e663b8f5",
+      "https://www.seaform.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.0.24",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/navigation-menu/plus-nav-menu.min.js?ver=1792009777",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2",
+      "https://www.seaform.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "https://www.seaform.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=7.1.3",
+      "https://www.seaform.com/wp-content/plugins/events-tracker-for-elementor/frontend/js/app.js?ver=1747932072",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.7.6",
+      "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/wrapper-link/plus-section-column-link.min.js?ver=6.3.5",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.29.0"
+    ]
+  },
+  "stylesheetHrefs": [
+    "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+    "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.min.css?ver=1792009777",
+    "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-alignmnet.css?ver=1792009777",
+    "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/navigation-menu/plus-nav-menu.min.css?ver=1792009777",
+    "https://www.seaform.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2",
+    "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0",
+    "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+    "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-160.css?ver=1790079605",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-37.css?ver=1792009777",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-1022.css?ver=1790154091",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-223.css?ver=1790079879",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-2464.css?ver=1790079879",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-3134.css?ver=1790079605",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-2992.css?ver=1790079605",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-2671.css?ver=1791222314",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-2469.css?ver=1790079605",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-2467.css?ver=1790079606",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-2465.css?ver=1790079606",
+    "https://www.seaform.com/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2",
+    "https://www.seaform.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=7.1.3",
+    "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1747932174",
+    "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1747932187",
+    "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1747932196",
+    "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/lato.css?ver=1747932199",
+    "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1747932214",
+    "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/josefinsans.css?ver=1747932222",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-966.css?ver=1792059107",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.29.0",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-351.css?ver=1792226246",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-377.css?ver=1792191337",
+    "https://www.seaform.com/wp-content/uploads/elementor/css/post-409.css?ver=1792002335",
+    "https://www.seaform.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.7.6",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+    "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/lightbox.min.css?ver=3.29.0"
+  ],
+  "ia": {
+    "nav": [
+      "KITCHENS",
+      "COLLECTIONS",
+      "MATERIALS & COLORS",
+      "INTERIORS",
+      "SPECIALS",
+      "COUNTERTOPS",
+      "APPLIANCES",
+      "NIGHT SYSTEM",
+      "CUBE",
+      "AQUATIC",
+      "PORTICO",
+      "MATERIALS & COLORS",
+      "INTERIORS",
+      "ACCESSORIES",
+      "CUSTOMIZATIONS",
+      "WARDROBES",
+      "WARDROBE COLLECTIONS",
+      "MATERIALS & COLOURS",
+      "INTERIORS",
+      "FASCINATION"
+    ],
+    "footer": [],
+    "h2s": [
+      "COLLECTIONS",
+      "MATERIALS & COLORS",
+      "INTERIORS",
+      "ACCESSORIES",
+      "CUSTOMIZATIONS",
+      "LEGACY",
+      "MADE IN GERMANY",
+      "ICONIC PROJECTS",
+      "WARDROBE COLLECTION",
+      "BESPOKE WARDROBES & WALK-INs",
+      "ORDER YOUR CATALOGUE",
+      "AND GET INSPIRED",
+      "GET YOUR PERSONAL CONCIERGE",
+      "WE ARE HERE FOR YOU",
+      "GET TO KNOW OUR TEAM",
+      "KITCHENS",
+      "WARDROBES",
+      "FASCINATION",
+      "EXPERIENCE",
+      "OTHERS",
+      "© 2020 SEAFORM. All Rights Reserved."
+    ]
+  },
+  "pageLabel": "Wardrobes",
+  "requestedUrl": "https://www.seaform.com/wardrobe-collections",
+  "httpStatus": 200,
+  "cookieConsent": null,
+  "overlays": [],
+  "overlaysRemoved": 0,
+  "overlayShot": null,
+  "pageErrors": [],
+  "css": {
+    "bytes": 479439,
+    "fontFaces": [
+      {
+        "family": "Font Awesome 6 Brands",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome 6 Free",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome 6 Free",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome 5 Brands",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "FontAwesome",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "FontAwesome",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "FontAwesome",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\")",
+        "unicodeRange": "u+f003,u+f006,u+f014,u+f016-f017,u+f01a-f01b,u+f01d,u+f022,u+f03e,u+f044,u+f046,"
+      },
+      {
+        "family": "FontAwesome",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-v4compatibility.woff2) format(\"woff2\"),url(../webfonts/fa-v4compatibility.ttf) format(\"truetype\")",
+        "unicodeRange": "u+f041,u+f047,u+f065-f066,u+f07d-f07e,u+f080,u+f08b,u+f08e,u+f090,u+f09a,u+f0ac,"
+      },
+      {
+        "family": "simple-line-icons",
+        "weight": "normal",
+        "style": "normal",
+        "display": "swap",
+        "src": "url('../../fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0#iefix')format('embedded-opentype'),url('../../fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0')format('woff2'),url('../../fonts",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.woff) format(\"woff\"),url(../webfonts/fa-solid-900.",
+        "unicodeRange": ""
+      }
+    ],
+    "keyframes": [
+      "spin",
+      "blink",
+      "fa-beat",
+      "fa-bounce",
+      "fa-fade",
+      "fa-beat-fade",
+      "fa-flip",
+      "fa-shake",
+      "fa-spin",
+      "reveal",
+      "slide",
+      "eicon-spin"
+    ],
+    "mediaQueries": [
+      {
+        "kind": "max",
+        "width": 375
+      },
+      {
+        "kind": "max",
+        "width": 479
+      },
+      {
+        "kind": "max",
+        "width": 480
+      },
+      {
+        "kind": "min",
+        "width": 480
+      },
+      {
+        "kind": "min",
+        "width": 481
+      },
+      {
+        "kind": "max",
+        "width": 600
+      },
+      {
+        "kind": "min",
+        "width": 601
+      },
+      {
+        "kind": "max",
+        "width": 660
+      },
+      {
+        "kind": "max",
+        "width": 767
+      },
+      {
+        "kind": "min",
+        "width": 768
+      },
+      {
+        "kind": "max",
+        "width": 768
+      },
+      {
+        "kind": "max",
+        "width": 782
+      },
+      {
+        "kind": "max",
+        "width": 800
+      },
+      {
+        "kind": "max",
+        "width": 900
+      },
+      {
+        "kind": "max",
+        "width": 959
+      },
+      {
+        "kind": "min",
+        "width": 959
+      },
+      {
+        "kind": "max",
+        "width": 991
+      },
+      {
+        "kind": "min",
+        "width": 992
+      },
+      {
+        "kind": "max",
+        "width": 1024
+      },
+      {
+        "kind": "max",
+        "width": 1025
+      },
+      {
+        "kind": "min",
+        "width": 1025
+      },
+      {
+        "kind": "min",
+        "width": 1026
+      },
+      {
+        "kind": "max",
+        "width": 1080
+      },
+      {
+        "kind": "max",
+        "width": 1280
+      },
+      {
+        "kind": "max",
+        "width": 99999
+      }
+    ],
+    "vars": [
+      {
+        "name": "--wp--preset--aspect-ratio--square",
+        "value": "1",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--aspect-ratio--4-3",
+        "value": "4/3",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--aspect-ratio--3-4",
+        "value": "3/4",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--aspect-ratio--3-2",
+        "value": "3/2",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--aspect-ratio--2-3",
+        "value": "2/3",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--aspect-ratio--16-9",
+        "value": "16/9",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--aspect-ratio--9-16",
+        "value": "9/16",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--black",
+        "value": "#000000",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--cyan-bluish-gray",
+        "value": "#abb8c3",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--white",
+        "value": "#ffffff",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--pale-pink",
+        "value": "#f78da7",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--vivid-red",
+        "value": "#cf2e2e",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--luminous-vivid-orange",
+        "value": "#ff6900",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--luminous-vivid-amber",
+        "value": "#fcb900",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--light-green-cyan",
+        "value": "#7bdcb5",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--vivid-green-cyan",
+        "value": "#00d084",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--pale-cyan-blue",
+        "value": "#8ed1fc",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--vivid-cyan-blue",
+        "value": "#0693e3",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--color--vivid-purple",
+        "value": "#9b51e0",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple",
+        "value": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan",
+        "value": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange",
+        "value": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red",
+        "value": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+        "value": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--cool-to-warm-spectrum",
+        "value": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--blush-light-purple",
+        "value": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--blush-bordeaux",
+        "value": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--luminous-dusk",
+        "value": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--pale-ocean",
+        "value": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--electric-grass",
+        "value": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--gradient--midnight",
+        "value": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--font-size--small",
+        "value": "13px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--font-size--medium",
+        "value": "20px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--font-size--large",
+        "value": "36px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--font-size--x-large",
+        "value": "42px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--20",
+        "value": "0.44rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--30",
+        "value": "0.67rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--40",
+        "value": "1rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--50",
+        "value": "1.5rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--60",
+        "value": "2.25rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--70",
+        "value": "3.38rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--spacing--80",
+        "value": "5.06rem",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--shadow--natural",
+        "value": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--shadow--deep",
+        "value": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--shadow--sharp",
+        "value": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--shadow--outlined",
+        "value": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--shadow--crisp",
+        "value": "6px 6px 0px rgb(0, 0, 0)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--wp--preset--dimension--25",
+        "value": "25%",
+        "scopes": [
+          ".wp-block-button"
+        ]
+      },
+      {
+        "name": "--wp--preset--dimension--50",
+        "value": "50%",
+        "scopes": [
+          ".wp-block-button"
+        ]
+      },
+      {
+        "name": "--wp--preset--dimension--75",
+        "value": "75%",
+        "scopes": [
+          ".wp-block-button"
+        ]
+      },
+      {
+        "name": "--wp--preset--dimension--100",
+        "value": "100%",
+        "scopes": [
+          ".wp-block-button"
+        ]
+      },
+      {
+        "name": "--fa-animation-direction",
+        "value": "reverse",
+        "scopes": [
+          ".fa-spin-reverse"
+        ]
+      },
+      {
+        "name": "--fa",
+        "value": "\"\\f3f6\"",
+        "scopes": [
+          ".fa-0",
+          ".fa-1",
+          ".fa-2",
+          ".fa-3",
+          ".fa-4",
+          ".fa-5"
+        ]
+      },
+      {
+        "name": "--fa-style-family-brands",
+        "value": "\"Font Awesome 6 Brands\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-font-brands",
+        "value": "normal 400 1em/1 \"Font Awesome 6 Brands\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-font-regular",
+        "value": "normal 400 1em/1 \"Font Awesome 6 Free\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-style-family-classic",
+        "value": "\"Font Awesome 6 Free\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-font-solid",
+        "value": "normal 900 1em/1 \"Font Awesome 6 Free\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--flex-direction",
+        "value": "column",
+        "scopes": [
+          ".elementor-element",
+          ".e-con.e-flex"
+        ]
+      },
+      {
+        "name": "--flex-wrap",
+        "value": "var(--flex-wrap-mobile)",
+        "scopes": [
+          ".elementor-element",
+          ".e-con.e-flex"
+        ]
+      },
+      {
+        "name": "--justify-content",
+        "value": "initial",
+        "scopes": [
+          ".elementor-element"
+        ]
+      },
+      {
+        "name": "--align-items",
+        "value": "initial",
+        "scopes": [
+          ".elementor-element"
+        ]
+      },
+      {
+        "name": "--align-content",
+        "value": "initial",
+        "scopes": [
+          ".elementor-element"
+        ]
+      },
+      {
+        "name": "--gap",
+        "value": "var(--widgets-spacing,20px)",
+        "scopes": [
+          ".elementor-element",
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--flex-basis",
+        "value": "auto",
+        "scopes": [
+          ".elementor-element",
+          ".e-con.e-flex"
+        ]
+      },
+      {
+        "name": "--flex-grow",
+        "value": "0",
+        "scopes": [
+          ".elementor-element",
+          ".e-con.e-flex"
+        ]
+      },
+      {
+        "name": "--flex-shrink",
+        "value": "0",
+        "scopes": [
+          ".elementor-element",
+          ".e-con.e-flex",
+          ".e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer"
+        ]
+      },
+      {
+        "name": "--order",
+        "value": "initial",
+        "scopes": [
+          ".elementor-element"
+        ]
+      },
+      {
+        "name": "--align-self",
+        "value": "var( --container-widget-align-self,initial )",
+        "scopes": [
+          ".elementor-element",
+          ".e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer"
+        ]
+      },
+      {
+        "name": "--page-title-display",
+        "value": "block",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--border-radius",
+        "value": "0",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-top-width",
+        "value": "0px",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-right-width",
+        "value": "0px",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-bottom-width",
+        "value": "0px",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-left-width",
+        "value": "0px",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-style",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-color",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--container-widget-width",
+        "value": "100%",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--container-widget-height",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--container-widget-flex-grow",
+        "value": "0",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--container-widget-align-self",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--content-width",
+        "value": "min(100%,var(--container-max-width,1140px))",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--width",
+        "value": "100%",
+        "scopes": [
+          ".e-con",
+          ".e-con.e-flex"
+        ]
+      },
+      {
+        "name": "--min-height",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--height",
+        "value": "auto",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--text-align",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--margin-top",
+        "value": "0px",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--margin-right",
+        "value": "auto",
+        "scopes": [
+          ".e-con",
+          ":is(.elementor-section-wrap,[data-elementor-id])>.e-con"
+        ]
+      },
+      {
+        "name": "--margin-bottom",
+        "value": "0px",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--margin-left",
+        "value": "auto",
+        "scopes": [
+          ".e-con",
+          ":is(.elementor-section-wrap,[data-elementor-id])>.e-con"
+        ]
+      },
+      {
+        "name": "--padding-top",
+        "value": "var(--container-default-padding-top,10px)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--padding-right",
+        "value": "var(--container-default-padding-right,10px)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--padding-bottom",
+        "value": "var(--container-default-padding-bottom,10px)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--padding-left",
+        "value": "var(--container-default-padding-left,10px)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--position",
+        "value": "relative",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--z-index",
+        "value": "revert",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--overflow",
+        "value": "visible",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--row-gap",
+        "value": "var(--widgets-spacing-row,20px)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--column-gap",
+        "value": "var(--widgets-spacing-column,20px)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--overlay-mix-blend-mode",
+        "value": "initial",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--overlay-opacity",
+        "value": "1",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--overlay-transition",
+        "value": "0.3s",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--e-con-grid-template-columns",
+        "value": "repeat(3,1fr)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--e-con-grid-template-rows",
+        "value": "repeat(2,1fr)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--flex-wrap-mobile",
+        "value": "wrap",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--margin-block-start",
+        "value": "var(--margin-top)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--margin-block-end",
+        "value": "var(--margin-bottom)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--margin-inline-start",
+        "value": "var(--margin-right)",
+        "scopes": [
+          ".e-con",
+          "body.rtl .e-con"
+        ]
+      },
+      {
+        "name": "--margin-inline-end",
+        "value": "var(--margin-left)",
+        "scopes": [
+          ".e-con",
+          "body.rtl .e-con"
+        ]
+      },
+      {
+        "name": "--padding-inline-start",
+        "value": "var(--padding-right)",
+        "scopes": [
+          ".e-con",
+          "body.rtl .e-con"
+        ]
+      },
+      {
+        "name": "--padding-inline-end",
+        "value": "var(--padding-left)",
+        "scopes": [
+          ".e-con",
+          "body.rtl .e-con"
+        ]
+      },
+      {
+        "name": "--padding-block-start",
+        "value": "var(--padding-top)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--padding-block-end",
+        "value": "var(--padding-bottom)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-block-start-width",
+        "value": "var(--border-top-width)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-block-end-width",
+        "value": "var(--border-bottom-width)",
+        "scopes": [
+          ".e-con"
+        ]
+      },
+      {
+        "name": "--border-inline-start-width",
+        "value": "var(--border-right-width)",
+        "scopes": [
+          ".e-con",
+          "body.rtl .e-con"
+        ]
+      },
+      {
+        "name": "--border-inline-end-width",
+        "value": "var(--border-left-width)",
+        "scopes": [
+          ".e-con",
+          "body.rtl .e-con"
+        ]
+      },
+      {
+        "name": "--grid-justify-content",
+        "value": "start",
+        "scopes": [
+          ".e-con.e-grid"
+        ]
+      },
+      {
+        "name": "--grid-align-content",
+        "value": "start",
+        "scopes": [
+          ".e-con.e-grid"
+        ]
+      },
+      {
+        "name": "--grid-auto-flow",
+        "value": "row",
+        "scopes": [
+          ".e-con.e-grid"
+        ]
+      },
+      {
+        "name": "--kit-widget-spacing",
+        "value": "0px",
+        "scopes": [
+          ".e-con .elementor-widget:not(:last-child)"
+        ]
+      },
+      {
+        "name": "--e-social-icon-icon-color",
+        "value": "#fff",
+        "scopes": [
+          ".elementor-social-icon"
+        ]
+      }
+    ],
+    "colorLiterals": [
+      {
+        "value": "#fff",
+        "count": 112
+      },
+      {
+        "value": "rgba(0,0,0,0)",
+        "count": 45
+      },
+      {
+        "value": "#13aff0",
+        "count": 41
+      },
+      {
+        "value": "#333",
+        "count": 33
+      },
+      {
+        "value": "#000",
+        "count": 22
+      },
+      {
+        "value": "#555",
+        "count": 20
+      },
+      {
+        "value": "rgba(0,0,0,.1)",
+        "count": 13
+      },
+      {
+        "value": "#222",
+        "count": 10
+      },
+      {
+        "value": "#69727d",
+        "count": 10
+      },
+      {
+        "value": "#37589b",
+        "count": 9
+      },
+      {
+        "value": "rgba(0,0,0,.3)",
+        "count": 9
+      },
+      {
+        "value": "#f1f1f1",
+        "count": 8
+      },
+      {
+        "value": "#bbb",
+        "count": 8
+      },
+      {
+        "value": "#929292",
+        "count": 8
+      },
+      {
+        "value": "rgba(0,0,0,.6)",
+        "count": 6
+      },
+      {
+        "value": "#ddd",
+        "count": 6
+      },
+      {
+        "value": "#ccc",
+        "count": 6
+      },
+      {
+        "value": "#ea4c89",
+        "count": 6
+      },
+      {
+        "value": "#00aff0",
+        "count": 6
+      },
+      {
+        "value": "#1ab7ea",
+        "count": 6
+      },
+      {
+        "value": "#589442",
+        "count": 6
+      },
+      {
+        "value": "rgba(0, 0, 0, 0.3)",
+        "count": 6
+      },
+      {
+        "value": "#ffffff",
+        "count": 5
+      },
+      {
+        "value": "#eee",
+        "count": 5
+      },
+      {
+        "value": "#999",
+        "count": 5
+      },
+      {
+        "value": "#46d4fe",
+        "count": 5
+      },
+      {
+        "value": "#de5a49",
+        "count": 5
+      },
+      {
+        "value": "#cb2027",
+        "count": 5
+      },
+      {
+        "value": "#597ba5",
+        "count": 5
+      },
+      {
+        "value": "#3f729b",
+        "count": 5
+      },
+      {
+        "value": "#39c",
+        "count": 5
+      },
+      {
+        "value": "#2c4762",
+        "count": 5
+      },
+      {
+        "value": "#60b044",
+        "count": 5
+      },
+      {
+        "value": "#fa4086",
+        "count": 5
+      },
+      {
+        "value": "#c4302b",
+        "count": 5
+      },
+      {
+        "value": "#00bf8f",
+        "count": 5
+      },
+      {
+        "value": "#006464",
+        "count": 5
+      },
+      {
+        "value": "#c41200",
+        "count": 5
+      },
+      {
+        "value": "#ff7900",
+        "count": 5
+      },
+      {
+        "value": "#d9534f",
+        "count": 5
+      },
+      {
+        "value": "#4a4a4a",
+        "count": 4
+      },
+      {
+        "value": "#e9e9e9",
+        "count": 4
+      },
+      {
+        "value": "rgba(0,0,0,.2)",
+        "count": 4
+      },
+      {
+        "value": "#f8f8f8",
+        "count": 4
+      },
+      {
+        "value": "#00ab6c",
+        "count": 4
+      },
+      {
+        "value": "#08c",
+        "count": 4
+      },
+      {
+        "value": "#00c300",
+        "count": 4
+      },
+      {
+        "value": "#febf1b",
+        "count": 4
+      },
+      {
+        "value": "#4a154b",
+        "count": 4
+      },
+      {
+        "value": "#563acc",
+        "count": 4
+      },
+      {
+        "value": "rgba(0,0,0,.8)",
+        "count": 4
+      },
+      {
+        "value": "#32373c",
+        "count": 3
+      },
+      {
+        "value": "#dc3232",
+        "count": 3
+      },
+      {
+        "value": "#8072fc",
+        "count": 3
+      },
+      {
+        "value": "#f5f5f5",
+        "count": 3
+      },
+      {
+        "value": "#aaa",
+        "count": 3
+      },
+      {
+        "value": "#777",
+        "count": 3
+      },
+      {
+        "value": "#0b7cac",
+        "count": 3
+      },
+      {
+        "value": "rgba(0,0,0,.4)",
+        "count": 3
+      },
+      {
+        "value": "rgba(0, 0, 0, 0)",
+        "count": 3
+      }
+    ],
+    "fontStacks": [
+      {
+        "value": "inherit",
+        "count": 9
+      },
+      {
+        "value": "\"Font Awesome 5 Free\"",
+        "count": 7
+      },
+      {
+        "value": "eicons",
+        "count": 3
+      },
+      {
+        "value": "\"Font Awesome 6 Brands\"",
+        "count": 2
+      },
+      {
+        "value": "var(--fa-style-family,\"Font Awesome 6 Free\")",
+        "count": 1
+      },
+      {
+        "value": "\"Font Awesome 6 Free\"",
+        "count": 1
+      },
+      {
+        "value": "'simple-line-icons'",
+        "count": 1
+      },
+      {
+        "value": "\"Open Sans\",sans-serif",
+        "count": 1
+      },
+      {
+        "value": "sans-serif",
+        "count": 1
+      },
+      {
+        "value": "monospace,monospace",
+        "count": 1
+      },
+      {
+        "value": "Arial,Baskerville,monospace",
+        "count": 1
+      }
+    ],
+    "fontSizes": [
+      {
+        "value": "12px",
+        "count": 37
+      },
+      {
+        "value": "14px",
+        "count": 23
+      },
+      {
+        "value": "13px",
+        "count": 18
+      },
+      {
+        "value": "18px",
+        "count": 16
+      },
+      {
+        "value": "15px",
+        "count": 15
+      },
+      {
+        "value": "20px",
+        "count": 14
+      },
+      {
+        "value": "16px",
+        "count": 13
+      },
+      {
+        "value": "24px",
+        "count": 12
+      },
+      {
+        "value": "11px",
+        "count": 7
+      },
+      {
+        "value": "10px",
+        "count": 7
+      },
+      {
+        "value": "1em",
+        "count": 6
+      },
+      {
+        "value": "inherit",
+        "count": 5
+      },
+      {
+        "value": "2em",
+        "count": 5
+      },
+      {
+        "value": "22px",
+        "count": 4
+      },
+      {
+        "value": "17px",
+        "count": 3
+      },
+      {
+        "value": "32px",
+        "count": 3
+      },
+      {
+        "value": "23px",
+        "count": 2
+      },
+      {
+        "value": "34px",
+        "count": 2
+      },
+      {
+        "value": "36px",
+        "count": 2
+      },
+      {
+        "value": "3em",
+        "count": 2
+      },
+      {
+        "value": "4em",
+        "count": 2
+      },
+      {
+        "value": "5em",
+        "count": 2
+      },
+      {
+        "value": "6em",
+        "count": 2
+      },
+      {
+        "value": "7em",
+        "count": 2
+      },
+      {
+        "value": "8em",
+        "count": 2
+      },
+      {
+        "value": "9em",
+        "count": 2
+      },
+      {
+        "value": "10em",
+        "count": 2
+      },
+      {
+        "value": ".75em",
+        "count": 2
+      },
+      {
+        "value": ".875em",
+        "count": 2
+      },
+      {
+        "value": "100%",
+        "count": 2
+      },
+      {
+        "value": "1.2em",
+        "count": 2
+      },
+      {
+        "value": "26px",
+        "count": 2
+      },
+      {
+        "value": "50px",
+        "count": 2
+      },
+      {
+        "value": "var(--e-search-form-submit-icon-size,16px)",
+        "count": 2
+      },
+      {
+        "value": "0",
+        "count": 1
+      },
+      {
+        "value": "1.125em",
+        "count": 1
+      },
+      {
+        "value": "var(--wp--preset--font-size--small) !important",
+        "count": 1
+      },
+      {
+        "value": "var(--wp--preset--font-size--medium) !important",
+        "count": 1
+      },
+      {
+        "value": "var(--wp--preset--font-size--large) !important",
+        "count": 1
+      },
+      {
+        "value": "var(--wp--preset--font-size--x-large) !important",
+        "count": 1
+      },
+      {
+        "value": ".625em",
+        "count": 1
+      },
+      {
+        "value": "1.25em",
+        "count": 1
+      },
+      {
+        "value": "1.5em",
+        "count": 1
+      },
+      {
+        "value": "62.5%",
+        "count": 1
+      },
+      {
+        "value": "87.5%",
+        "count": 1
+      },
+      {
+        "value": "14px !important",
+        "count": 1
+      },
+      {
+        "value": ".875rem",
+        "count": 1
+      },
+      {
+        "value": "80%",
+        "count": 1
+      },
+      {
+        "value": "75%",
+        "count": 1
+      },
+      {
+        "value": "9px",
+        "count": 1
+      },
+      {
+        "value": "44px",
+        "count": 1
+      },
+      {
+        "value": "14.5px",
+        "count": 1
+      },
+      {
+        "value": "48px",
+        "count": 1
+      },
+      {
+        "value": "120px",
+        "count": 1
+      },
+      {
+        "value": "46px",
+        "count": 1
+      },
+      {
+        "value": "inherit !important",
+        "count": 1
+      },
+      {
+        "value": "28px",
+        "count": 1
+      },
+      {
+        "value": "100px",
+        "count": 1
+      },
+      {
+        "value": ".9em",
+        "count": 1
+      },
+      {
+        "value": "var(--e-search-form-icon-size-minimal,15px)",
+        "count": 1
+      }
+    ],
+    "radii": [
+      {
+        "value": "3px",
+        "count": 14
+      },
+      {
+        "value": "50%",
+        "count": 12
+      },
+      {
+        "value": "0",
+        "count": 10
+      },
+      {
+        "value": "2px",
+        "count": 8
+      },
+      {
+        "value": "6px",
+        "count": 6
+      },
+      {
+        "value": "4px",
+        "count": 5
+      },
+      {
+        "value": "5px",
+        "count": 4
+      },
+      {
+        "value": "var(--border-radius)",
+        "count": 3
+      },
+      {
+        "value": "100%",
+        "count": 2
+      },
+      {
+        "value": "9999px",
+        "count": 1
+      },
+      {
+        "value": "0 6px 6px 0",
+        "count": 1
+      },
+      {
+        "value": "10px",
+        "count": 1
+      },
+      {
+        "value": "3px 3px 0 0",
+        "count": 1
+      },
+      {
+        "value": "1px",
+        "count": 1
+      },
+      {
+        "value": "0 0 2px 2px",
+        "count": 1
+      },
+      {
+        "value": "var(--fa-border-radius,.1em)",
+        "count": 1
+      },
+      {
+        "value": "25px",
+        "count": 1
+      },
+      {
+        "value": ".5em",
+        "count": 1
+      },
+      {
+        "value": "var(--e-a-border-radius)",
+        "count": 1
+      },
+      {
+        "value": "10%",
+        "count": 1
+      },
+      {
+        "value": "var(--e-search-form-toggle-border-radius,3px)",
+        "count": 1
+      },
+      {
+        "value": ".1em",
+        "count": 1
+      }
+    ],
+    "shadows": [
+      {
+        "value": "none",
+        "count": 10
+      },
+      {
+        "value": "none !important",
+        "count": 2
+      },
+      {
+        "value": "0 2px 6px rgba(0,0,0,.1)",
+        "count": 2
+      },
+      {
+        "value": "0 0 10px 4px rgba(0,0,0,.1)",
+        "count": 2
+      },
+      {
+        "value": "0 0 8px rgba(0,0,0,.6)",
+        "count": 2
+      },
+      {
+        "value": "none!important",
+        "count": 1
+      },
+      {
+        "value": "0 0 0 1px hsla(0,0%,100%,.2)",
+        "count": 1
+      },
+      {
+        "value": "0 4px 6px rgba(0,0,0,.05)",
+        "count": 1
+      },
+      {
+        "value": "0 5px 30px -5px #8072fc",
+        "count": 1
+      },
+      {
+        "value": "initial",
+        "count": 1
+      },
+      {
+        "value": "0 1px 10px -2px rgb(0 0 0 / .1)",
+        "count": 1
+      },
+      {
+        "value": "0 5px 10px rgb(0 0 0 / .1)",
+        "count": 1
+      },
+      {
+        "value": "0 0 2px 2px rgba(0,0,0,.6)",
+        "count": 1
+      },
+      {
+        "value": "0 1px 4px rgba(0,0,0,.15)",
+        "count": 1
+      },
+      {
+        "value": "inset 0 1px 2px rgba(0,0,0,.1)",
+        "count": 1
+      },
+      {
+        "value": "inset 0 1px 3px #ddd",
+        "count": 1
+      },
+      {
+        "value": "0 1px 5px 0 rgba(0,0,0,.1)",
+        "count": 1
+      },
+      {
+        "value": "0 0 20px 0 rgba(0,0,0,.1)",
+        "count": 1
+      },
+      {
+        "value": "0 2px 7px rgba(0,0,0,.1)",
+        "count": 1
+      },
+      {
+        "value": "0 0 5px rgba(0,0,0,.3)",
+        "count": 1
+      },
+      {
+        "value": "0 0 40px 0 rgba(0,0,0,.1)",
+        "count": 1
+      },
+      {
+        "value": "0 0 0 5px #19f",
+        "count": 1
+      },
+      {
+        "value": "2px 8px 23px 3px rgba(0,0,0,.2)",
+        "count": 1
+      },
+      {
+        "value": "inset 0 0 0 1px rgba(0,0,0,.1)",
+        "count": 1
+      }
+    ],
+    "durations": [
+      {
+        "value": ".3s",
+        "count": 63
+      },
+      {
+        "value": ".25s",
+        "count": 15
+      },
+      {
+        "value": ".2s",
+        "count": 14
+      },
+      {
+        "value": ".4s",
+        "count": 13
+      },
+      {
+        "value": "0.5s",
+        "count": 9
+      },
+      {
+        "value": "0s",
+        "count": 7
+      },
+      {
+        "value": "0.3s",
+        "count": 6
+      },
+      {
+        "value": "1s",
+        "count": 6
+      },
+      {
+        "value": "var(--fa-animation-duration,1s)",
+        "count": 6
+      },
+      {
+        "value": "150ms",
+        "count": 5
+      },
+      {
+        "value": ".5s",
+        "count": 4
+      },
+      {
+        "value": "1.3s",
+        "count": 3
+      },
+      {
+        "value": "0.55s",
+        "count": 3
+      },
+      {
+        "value": ".15s",
+        "count": 3
+      },
+      {
+        "value": ".7s",
+        "count": 2
+      },
+      {
+        "value": ".9s",
+        "count": 1
+      },
+      {
+        "value": "1000ms",
+        "count": 1
+      },
+      {
+        "value": "2000ms",
+        "count": 1
+      },
+      {
+        "value": ".0s",
+        "count": 1
+      },
+      {
+        "value": "200ms",
+        "count": 1
+      },
+      {
+        "value": "0.8s",
+        "count": 1
+      },
+      {
+        "value": "0.4s",
+        "count": 1
+      },
+      {
+        "value": "var(--fa-animation-duration,2s)",
+        "count": 1
+      },
+      {
+        "value": "1ms",
+        "count": 1
+      },
+      {
+        "value": ".05s",
+        "count": 1
+      },
+      {
+        "value": "10s",
+        "count": 1
+      },
+      {
+        "value": "20s",
+        "count": 1
+      },
+      {
+        "value": "1.25s",
+        "count": 1
+      },
+      {
+        "value": "2s",
+        "count": 1
+      },
+      {
+        "value": ".75s",
+        "count": 1
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease",
+        "count": 36
+      },
+      {
+        "value": "ease-in-out",
+        "count": 29
+      },
+      {
+        "value": "ease-out",
+        "count": 17
+      },
+      {
+        "value": "linear",
+        "count": 8
+      },
+      {
+        "value": "cubic-bezier(.77,.2,.05,1)",
+        "count": 7
+      },
+      {
+        "value": "cubic-bezier(.77,0,.175,1)",
+        "count": 4
+      },
+      {
+        "value": "cubic-bezier(.23,1,.32,1)",
+        "count": 4
+      },
+      {
+        "value": "cubic-bezier(.645,.045,.355,1)",
+        "count": 1
+      },
+      {
+        "value": "cubic-bezier(.175,.885,.32,1.075)",
+        "count": 1
+      },
+      {
+        "value": "ease-in",
+        "count": 1
+      }
+    ],
+    "gaps": [
+      {
+        "value": "0.5em",
+        "count": 2
+      },
+      {
+        "value": "var(--row-gap) var(--column-gap)",
+        "count": 2
+      },
+      {
+        "value": "5px",
+        "count": 2
+      },
+      {
+        "value": "15px",
+        "count": 1
+      },
+      {
+        "value": "initial",
+        "count": 1
+      }
+    ],
+    "letterSpacings": [
+      {
+        "value": ".6px",
+        "count": 23
+      },
+      {
+        "value": "1px",
+        "count": 11
+      },
+      {
+        "value": "2px",
+        "count": 6
+      },
+      {
+        "value": "1.5px",
+        "count": 3
+      },
+      {
+        "value": ".1em",
+        "count": 3
+      },
+      {
+        "value": "0",
+        "count": 2
+      },
+      {
+        "value": "inherit",
+        "count": 2
+      },
+      {
+        "value": "1.3px",
+        "count": 1
+      }
+    ],
+    "lineHeights": [
+      {
+        "value": "1",
+        "count": 48
+      },
+      {
+        "value": "1.4",
+        "count": 19
+      },
+      {
+        "value": "1.8",
+        "count": 10
+      },
+      {
+        "value": "inherit",
+        "count": 8
+      },
+      {
+        "value": "20px",
+        "count": 8
+      },
+      {
+        "value": "1.2",
+        "count": 7
+      },
+      {
+        "value": "1.5",
+        "count": 7
+      },
+      {
+        "value": "40px",
+        "count": 7
+      },
+      {
+        "value": "14px",
+        "count": 6
+      },
+      {
+        "value": "0",
+        "count": 5
+      },
+      {
+        "value": "74px",
+        "count": 5
+      },
+      {
+        "value": "1.3",
+        "count": 5
+      },
+      {
+        "value": "60px",
+        "count": 5
+      },
+      {
+        "value": "30px",
+        "count": 4
+      },
+      {
+        "value": "2",
+        "count": 3
+      },
+      {
+        "value": "24px",
+        "count": 3
+      },
+      {
+        "value": "1.2em",
+        "count": 3
+      },
+      {
+        "value": "2em",
+        "count": 2
+      },
+      {
+        "value": "normal",
+        "count": 2
+      },
+      {
+        "value": "1.5em",
+        "count": 2
+      },
+      {
+        "value": "32px",
+        "count": 2
+      },
+      {
+        "value": "1.6",
+        "count": 2
+      },
+      {
+        "value": "18px",
+        "count": 2
+      },
+      {
+        "value": "25px",
+        "count": 1
+      },
+      {
+        "value": "1.42857143",
+        "count": 1
+      },
+      {
+        "value": "45px!important",
+        "count": 1
+      },
+      {
+        "value": "calc(45px - 16px)!important",
+        "count": 1
+      },
+      {
+        "value": ".1em",
+        "count": 1
+      },
+      {
+        "value": ".08333em",
+        "count": 1
+      },
+      {
+        "value": ".07143em",
+        "count": 1
+      },
+      {
+        "value": ".05em",
+        "count": 1
+      },
+      {
+        "value": ".04167em",
+        "count": 1
+      },
+      {
+        "value": ".03125em",
+        "count": 1
+      },
+      {
+        "value": "26px",
+        "count": 1
+      },
+      {
+        "value": "34px",
+        "count": 1
+      },
+      {
+        "value": "initial",
+        "count": 1
+      },
+      {
+        "value": "33px",
+        "count": 1
+      },
+      {
+        "value": "1.4em",
+        "count": 1
+      },
+      {
+        "value": "80px",
+        "count": 1
+      },
+      {
+        "value": "38px",
+        "count": 1
+      },
+      {
+        "value": "2.5",
+        "count": 1
+      },
+      {
+        "value": "44px",
+        "count": 1
+      },
+      {
+        "value": "35px",
+        "count": 1
+      },
+      {
+        "value": ".75em",
+        "count": 1
+      },
+      {
+        "value": "var(--icon-size,25px)",
+        "count": 1
+      }
+    ],
+    "paddings": [
+      {
+        "value": "0",
+        "count": 115
+      },
+      {
+        "value": "20px",
+        "count": 31
+      },
+      {
+        "value": "0 !important",
+        "count": 28
+      },
+      {
+        "value": "30px",
+        "count": 28
+      },
+      {
+        "value": "5px",
+        "count": 16
+      },
+      {
+        "value": "10px",
+        "count": 11
+      },
+      {
+        "value": "15px",
+        "count": 9
+      },
+      {
+        "value": "6px",
+        "count": 8
+      },
+      {
+        "value": "40px",
+        "count": 6
+      },
+      {
+        "value": "0 15px",
+        "count": 5
+      },
+      {
+        "value": "0px",
+        "count": 4
+      },
+      {
+        "value": "8px",
+        "count": 4
+      },
+      {
+        "value": "0 6px",
+        "count": 4
+      },
+      {
+        "value": "0 8px",
+        "count": 4
+      },
+      {
+        "value": "4px",
+        "count": 3
+      },
+      {
+        "value": "12px 0",
+        "count": 3
+      },
+      {
+        "value": "20px 0",
+        "count": 3
+      },
+      {
+        "value": "6px 0",
+        "count": 3
+      },
+      {
+        "value": "30px 0",
+        "count": 3
+      },
+      {
+        "value": "1em",
+        "count": 3
+      },
+      {
+        "value": "3px",
+        "count": 3
+      },
+      {
+        "value": "calc(0.667em + 2px)",
+        "count": 2
+      },
+      {
+        "value": "calc(1.333em + 2px)",
+        "count": 2
+      },
+      {
+        "value": "9px",
+        "count": 2
+      },
+      {
+        "value": "10px 12px",
+        "count": 2
+      },
+      {
+        "value": "5px 0",
+        "count": 2
+      },
+      {
+        "value": "50px",
+        "count": 2
+      },
+      {
+        "value": "56.25%",
+        "count": 2
+      },
+      {
+        "value": "5px 10px",
+        "count": 2
+      },
+      {
+        "value": "0 10px",
+        "count": 2
+      },
+      {
+        "value": "50px 0",
+        "count": 2
+      },
+      {
+        "value": "0 40px",
+        "count": 2
+      },
+      {
+        "value": "4px 0",
+        "count": 2
+      },
+      {
+        "value": "0 16px",
+        "count": 2
+      },
+      {
+        "value": "0 4px",
+        "count": 2
+      },
+      {
+        "value": "0 22px",
+        "count": 2
+      },
+      {
+        "value": "34px",
+        "count": 2
+      },
+      {
+        "value": "12px 20px",
+        "count": 2
+      },
+      {
+        "value": "12px 10px",
+        "count": 2
+      },
+      {
+        "value": "20px 40px",
+        "count": 2
+      },
+      {
+        "value": "6px 45px 6px 12px !important",
+        "count": 2
+      },
+      {
+        "value": "3em",
+        "count": 2
+      },
+      {
+        "value": "0 0 10px",
+        "count": 2
+      },
+      {
+        "value": ".5em",
+        "count": 2
+      },
+      {
+        "value": "calc(.667em + 2px) calc(1.333em + 2px)",
+        "count": 1
+      },
+      {
+        "value": "5px 4px",
+        "count": 1
+      },
+      {
+        "value": "9px 16px",
+        "count": 1
+      },
+      {
+        "value": "0 18px",
+        "count": 1
+      },
+      {
+        "value": "0.2em 1em",
+        "count": 1
+      },
+      {
+        "value": ".2em .8em",
+        "count": 1
+      },
+      {
+        "value": "30px 40px",
+        "count": 1
+      },
+      {
+        "value": "2px 4px",
+        "count": 1
+      },
+      {
+        "value": "0!important",
+        "count": 1
+      },
+      {
+        "value": "3px 20px",
+        "count": 1
+      },
+      {
+        "value": "10px 10px!important",
+        "count": 1
+      },
+      {
+        "value": "10px 5px 10px 5px",
+        "count": 1
+      },
+      {
+        "value": "6px 8px",
+        "count": 1
+      },
+      {
+        "value": "var(--fa-border-padding,.2em .25em .15em)",
+        "count": 1
+      },
+      {
+        "value": "0 .625rem",
+        "count": 1
+      },
+      {
+        "value": "0 40px 0 15px",
+        "count": 1
+      }
+    ],
+    "aspectRatios": [],
+    "maxWidths": [
+      {
+        "value": "100%",
+        "count": 35
+      },
+      {
+        "value": "100% !important",
+        "count": 4
+      },
+      {
+        "value": "111% !important",
+        "count": 4
+      },
+      {
+        "value": "90%",
+        "count": 3
+      },
+      {
+        "value": "none",
+        "count": 3
+      },
+      {
+        "value": "50%",
+        "count": 3
+      },
+      {
+        "value": "220px",
+        "count": 3
+      },
+      {
+        "value": "240px",
+        "count": 2
+      },
+      {
+        "value": "none !important",
+        "count": 2
+      },
+      {
+        "value": "106%",
+        "count": 2
+      },
+      {
+        "value": "calc(100% + 64px)",
+        "count": 2
+      },
+      {
+        "value": "25%",
+        "count": 2
+      },
+      {
+        "value": "700px",
+        "count": 2
+      },
+      {
+        "value": "30px",
+        "count": 1
+      },
+      {
+        "value": "-webkit-calc(100% - 20px)",
+        "count": 1
+      },
+      {
+        "value": "-moz-calc(100% - 20px)",
+        "count": 1
+      },
+      {
+        "value": "calc(100% - 20px)",
+        "count": 1
+      },
+      {
+        "value": "calc(100vw - 50px)",
+        "count": 1
+      },
+      {
+        "value": "95%",
+        "count": 1
+      },
+      {
+        "value": "calc(90% + 32px)",
+        "count": 1
+      },
+      {
+        "value": "100vw !important",
+        "count": 1
+      },
+      {
+        "value": "33.33%",
+        "count": 1
+      },
+      {
+        "value": "20%",
+        "count": 1
+      },
+      {
+        "value": "16.66%",
+        "count": 1
+      },
+      {
+        "value": "14.28%",
+        "count": 1
+      },
+      {
+        "value": "12.5%",
+        "count": 1
+      },
+      {
+        "value": "11.11%",
+        "count": 1
+      },
+      {
+        "value": "50px",
+        "count": 1
+      },
+      {
+        "value": "1000%",
+        "count": 1
+      },
+      {
+        "value": "178px",
+        "count": 1
+      },
+      {
+        "value": "550px",
+        "count": 1
+      },
+      {
+        "value": "70%",
+        "count": 1
+      },
+      {
+        "value": "1100px",
+        "count": 1
+      },
+      {
+        "value": "350px",
+        "count": 1
+      },
+      {
+        "value": "390px",
+        "count": 1
+      },
+      {
+        "value": "900px",
+        "count": 1
+      },
+      {
+        "value": "1140px",
+        "count": 1
+      },
+      {
+        "value": "var(--content-width)",
+        "count": 1
+      },
+      {
+        "value": "min(100%,var(--width))",
+        "count": 1
+      }
+    ],
+    "backdrops": [],
+    "filters": [
+      {
+        "value": "drop-shadow(1px 0 6px rgba(0,0,0,.3))",
+        "count": 1
+      },
+      {
+        "value": "none",
+        "count": 1
+      }
+    ],
+    "clipPaths": [
+      {
+        "value": "inset(50%)",
+        "count": 2
+      },
+      {
+        "value": "none",
+        "count": 1
+      },
+      {
+        "value": "circle(1% at 1% 1%)",
+        "count": 1
+      }
+    ],
+    "gradients": [],
+    "roleVars": [
+      {
+        "value": "--wp--preset--color--black: #000000",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--cyan-bluish-gray: #abb8c3",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--white: #ffffff",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--pale-pink: #f78da7",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--vivid-red: #cf2e2e",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--luminous-vivid-orange: #ff6900",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--luminous-vivid-amber: #fcb900",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--light-green-cyan: #7bdcb5",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--vivid-green-cyan: #00d084",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--pale-cyan-blue: #8ed1fc",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--vivid-cyan-blue: #0693e3",
+        "count": 1
+      },
+      {
+        "value": "--wp--preset--color--vivid-purple: #9b51e0",
+        "count": 1
+      },
+      {
+        "value": "--fa-style-family-brands: \"Font Awesome 6 Brands\"",
+        "count": 1
+      },
+      {
+        "value": "--fa-font-brands: normal 400 1em/1 \"Font Awesome 6 Brands\"",
+        "count": 1
+      },
+      {
+        "value": "--border-radius: 0",
+        "count": 1
+      },
+      {
+        "value": "--border-top-width: 0px",
+        "count": 1
+      },
+      {
+        "value": "--border-right-width: 0px",
+        "count": 1
+      },
+      {
+        "value": "--border-bottom-width: 0px",
+        "count": 1
+      },
+      {
+        "value": "--border-left-width: 0px",
+        "count": 1
+      },
+      {
+        "value": "--border-style: initial",
+        "count": 1
+      },
+      {
+        "value": "--border-color: initial",
+        "count": 1
+      },
+      {
+        "value": "--text-align: initial",
+        "count": 1
+      },
+      {
+        "value": "--border-block-start-width: var(--border-top-width)",
+        "count": 1
+      },
+      {
+        "value": "--border-block-end-width: var(--border-bottom-width)",
+        "count": 1
+      },
+      {
+        "value": "--border-inline-start-width: var(--border-left-width)",
+        "count": 1
+      },
+      {
+        "value": "--border-inline-end-width: var(--border-right-width)",
+        "count": 1
+      },
+      {
+        "value": "--border-inline-start-width: var(--border-right-width)",
+        "count": 1
+      },
+      {
+        "value": "--border-inline-end-width: var(--border-left-width)",
+        "count": 1
+      },
+      {
+        "value": "--e-social-icon-icon-color: #fff",
+        "count": 1
+      }
+    ],
+    "fluidTypeDecls": [
+      {
+        "value": ".875rem",
+        "count": 1
+      }
+    ],
+    "focusVisibleSelectors": 0,
+    "focusSelectors": 61,
+    "pseudoElements": 1833,
+    "hoverSelectors": 235,
+    "darkModeRules": 0,
+    "reducedMotionRules": 4,
+    "printRules": 1,
+    "supportsRules": 1,
+    "layerRules": 0,
+    "modernSelectors": 19,
+    "bgImageRefs": 0,
+    "externalSheets": [
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+        "bytes": 2894
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.min.css?ver=1792009777",
+        "bytes": 4885
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-alignmnet.css?ver=1792009777",
+        "bytes": 684
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/navigation-menu/plus-nav-menu.min.css?ver=1792009777",
+        "bytes": 31872
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2",
+        "bytes": 73890
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0",
+        "bytes": 10927
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9",
+        "bytes": 181532
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=3.29.0",
+        "bytes": 16528
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0",
+        "bytes": 53358
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0",
+        "bytes": 254
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.0",
+        "bytes": 1833
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css?ver=3.29.0",
+        "bytes": 4827
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+        "bytes": 58071
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+        "bytes": 669
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.29.0",
+        "bytes": 639
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.0",
+        "bytes": 198
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.29.0",
+        "bytes": 162
+      },
+      {
+        "href": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.29.0",
+        "bytes": 5150
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "page": "https://www.seaform.com/concierge-service/",
+  "allForms": [
+    {
+      "action": "https://www.seaform.com",
+      "method": "GET",
+      "id": "",
+      "cls": "elementor-search-form",
+      "framework": "Elementor Form",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "search",
+          "name": "s",
+          "id": "elementor-search-form-5dd68859",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "Search",
+          "disabled": false
+        }
+      ],
+      "submits": [],
+      "hidden": [],
+      "hasFile": false,
+      "hasConsent": false
+    },
+    {
+      "action": "https://www.seaform.com",
+      "method": "GET",
+      "id": "",
+      "cls": "elementor-search-form",
+      "framework": "Elementor Form",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "search",
+          "name": "s",
+          "id": "elementor-search-form-e2ab87b",
+          "placeholder": "Search...",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "Search",
+          "disabled": false
+        }
+      ],
+      "submits": [],
+      "hidden": [],
+      "hasFile": false,
+      "hasConsent": false
+    }
+  ],
+  "picked": 0,
+  "form": {
+    "action": "https://www.seaform.com",
+    "method": "GET",
+    "id": "",
+    "cls": "elementor-search-form",
+    "framework": "Elementor Form",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "s",
+        "id": "elementor-search-form-5dd68859",
+        "placeholder": "",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "Search",
+        "disabled": false
+      }
+    ],
+    "submits": [],
+    "hidden": [],
+    "hasFile": false,
+    "hasConsent": false
+  }
+}

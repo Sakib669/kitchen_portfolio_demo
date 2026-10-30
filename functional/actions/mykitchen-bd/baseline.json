@@ -1,0 +1,1331 @@
+{
+  "env": {
+    "url": "https://www.mykitchen-bd.com/",
+    "title": "My Kitchen",
+    "lang": "en",
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    },
+    "header": {
+      "tag": "div",
+      "h": 96,
+      "pos": "static",
+      "bg": "rgb(255, 255, 255)",
+      "top": 44,
+      "cls": "navbar font-semibold bg-white  text-black h-24 ",
+      "navLinks": 12
+    },
+    "sticky": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[999] overflow-hidden top-32 pointer-events-none",
+        "pos": "fixed",
+        "h": 772
+      }
+    ],
+    "counts": {
+      "interactives": 42,
+      "links": 57,
+      "uniqueLinks": 33,
+      "buttons": 31,
+      "forms": 0,
+      "fields": 0,
+      "iframes": 0,
+      "videos": 0,
+      "svgs": 20,
+      "ariaExpanded": 3,
+      "ariaHaspopup": 0,
+      "details": 0,
+      "roleTab": 0,
+      "dialogs": 0,
+      "scripts": 53
+    },
+    "interactives": [
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Find a Store",
+        "href": "https://www.mykitchen-bd.com/find-store",
+        "id": "",
+        "name": "",
+        "cls": "flex-shrink-0 flex items-center justify-end gap-1",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 1287,
+          "y": 12,
+          "w": 103,
+          "h": 20
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.mykitchen-bd.com/#",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 1406,
+          "y": 15,
+          "w": 14,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.mykitchen-bd.com/",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 60,
+          "y": 56,
+          "w": 160,
+          "h": 72
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "About",
+        "href": "",
+        "id": "radix-_R_8kpfdb_-trigger-radix-_R_5okpfdb_",
+        "name": "",
+        "cls": "group inline-flex w-max items-center justify-center font-bold data-[active]:bg-accent/50 data-[state=open]:bg-accent/50 ",
+        "ariaExpanded": "false",
+        "ariaHaspopup": null,
+        "ariaControls": "radix-_R_8kpfdb_-content-radix-_R_5okpfdb_",
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 301,
+          "y": 40,
+          "w": 69,
+          "h": 104
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "About",
+        "href": "https://www.mykitchen-bd.com/",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 301,
+          "y": 80,
+          "w": 49,
+          "h": 24
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Expertise",
+        "href": "",
+        "id": "radix-_R_8kpfdb_-trigger-radix-_R_9okpfdb_",
+        "name": "",
+        "cls": "group inline-flex w-max items-center justify-center font-bold data-[active]:bg-accent/50 data-[state=open]:bg-accent/50 ",
+        "ariaExpanded": "false",
+        "ariaHaspopup": null,
+        "ariaControls": "radix-_R_8kpfdb_-content-radix-_R_9okpfdb_",
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 398,
+          "y": 40,
+          "w": 97,
+          "h": 104
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Expertise",
+        "href": "https://www.mykitchen-bd.com/",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 398,
+          "y": 80,
+          "w": 77,
+          "h": 24
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Products",
+        "href": "",
+        "id": "radix-_R_8kpfdb_-trigger-radix-_R_dokpfdb_",
+        "name": "",
+        "cls": "group inline-flex w-max items-center justify-center font-bold data-[active]:bg-accent/50 data-[state=open]:bg-accent/50 ",
+        "ariaExpanded": "false",
+        "ariaHaspopup": null,
+        "ariaControls": "radix-_R_8kpfdb_-content-radix-_R_dokpfdb_",
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 523,
+          "y": 40,
+          "w": 93,
+          "h": 104
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Products",
+        "href": "https://www.mykitchen-bd.com/products",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 523,
+          "y": 80,
+          "w": 73,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Sales Point",
+        "href": "https://www.mykitchen-bd.com/sales-point",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 644,
+          "y": 82,
+          "w": 87,
+          "h": 20
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Events & News",
+        "href": "https://www.mykitchen-bd.com/events-&-news",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 759,
+          "y": 82,
+          "w": 116,
+          "h": 20
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Catalogue",
+        "href": "https://www.mykitchen-bd.com/catalogue",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 903,
+          "y": 82,
+          "w": 82,
+          "h": 20
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Contact",
+        "href": "https://www.mykitchen-bd.com/contact",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor false",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1013,
+          "y": 82,
+          "w": 64,
+          "h": 20
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Previous slide",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors f",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 516,
+          "y": 944,
+          "w": 61,
+          "h": 56
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Next slide",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors f",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 577,
+          "y": 944,
+          "w": 61,
+          "h": 56
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "View Our Collection",
+        "href": "https://www.mykitchen-bd.com/products",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 52,
+          "y": 580,
+          "w": 802,
+          "h": 62
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "WARDROBES",
+        "href": "https://www.mykitchen-bd.com/expertise/wardrobes",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 52,
+          "y": 1168,
+          "w": 656,
+          "h": 288
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "WALK-IN CLOSETS",
+        "href": "https://www.mykitchen-bd.com/expertise/walk-in-closets",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 732,
+          "y": 1168,
+          "w": 656,
+          "h": 288
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "VANITIES",
+        "href": "https://www.mykitchen-bd.com/expertise/vanities",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 52,
+          "y": 1480,
+          "w": 656,
+          "h": 288
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "ACCESSORIES",
+        "href": "https://www.mykitchen-bd.com/expertise/accessories",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 732,
+          "y": 1480,
+          "w": 656,
+          "h": 288
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "View Our Gallery",
+        "href": "https://www.mykitchen-bd.com/gallery",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 36,
+          "y": 2702,
+          "w": 507,
+          "h": 76
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "View Our Gallery",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "flex justify-center md:justify-start items-center mt-8 md:mt-7",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 36,
+          "y": 2730,
+          "w": 192,
+          "h": 48
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Learn More",
+        "href": "https://www.mykitchen-bd.com/blum",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 92,
+          "y": 4247,
+          "w": 352,
+          "h": 48
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Learn More",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 92,
+          "y": 4247,
+          "w": 130,
+          "h": 48
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Learn More",
+        "href": "https://www.mykitchen-bd.com/kessebohmer",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 544,
+          "y": 4223,
+          "w": 352,
+          "h": 48
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Learn More",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 544,
+          "y": 4223,
+          "w": 130,
+          "h": 48
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Learn More",
+        "href": "https://www.mykitchen-bd.com/teka",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 996,
+          "y": 4219,
+          "w": 352,
+          "h": 48
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "",
+        "type": "",
+        "text": "Learn More",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 996,
+          "y": 4219,
+          "w": 130,
+          "h": 48
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Facebook",
+        "href": "https://www.facebook.com/mykitchenTBG",
+        "id": "",
+        "name": "",
+        "cls": "flex items-center gap-2 hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 513,
+          "y": 4543,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "LinkedIn",
+        "href": "https://bd.linkedin.com/company/mykitchenofficial",
+        "id": "",
+        "name": "",
+        "cls": "flex items-center gap-2 hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 513,
+          "y": 4583,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Privacy Policy",
+        "href": "https://www.mykitchen-bd.com/privacy-policy",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 752,
+          "y": 4543,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Terms & Conditions",
+        "href": "https://www.mykitchen-bd.com/terms-&-conditions",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 752,
+          "y": 4583,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Kitchen",
+        "href": "https://www.mykitchen-bd.com/expertise/kitchen-area",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 991,
+          "y": 4543,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Counter Top",
+        "href": "https://www.mykitchen-bd.com/",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 991,
+          "y": 4583,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Wardrobes",
+        "href": "https://www.mykitchen-bd.com/expertise/wardrobes",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 991,
+          "y": 4623,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Walk-in Closets",
+        "href": "https://www.mykitchen-bd.com/expertise/walk-in-closets",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 991,
+          "y": 4663,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Vanities",
+        "href": "https://www.mykitchen-bd.com/expertise/vanities",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 991,
+          "y": 4703,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Accessories",
+        "href": "https://www.mykitchen-bd.com/expertise/accessories",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 991,
+          "y": 4743,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Feedback",
+        "href": "https://www.mykitchen-bd.com/feedback",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 1229,
+          "y": 4543,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Contacts",
+        "href": "https://www.mykitchen-bd.com/contact",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-red-800",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 1229,
+          "y": 4583,
+          "w": 175,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Creative Matter",
+        "href": "https://www.creativematter.agency/",
+        "id": "",
+        "name": "",
+        "cls": "hover:text-brandColor",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 974,
+          "y": 4856,
+          "w": 101,
+          "h": 17
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Chat with us on WhatsApp",
+        "href": "https://wa.me/8801642912612",
+        "id": "",
+        "name": "",
+        "cls": "fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] shadow-lg transition-al",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 1360,
+          "y": 820,
+          "w": 56,
+          "h": 56
+        }
+      }
+    ],
+    "forms": [],
+    "links": [
+      {
+        "href": "https://www.mykitchen-bd.com/",
+        "text": "",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/products",
+        "text": "Products",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/#",
+        "text": "",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/contact",
+        "text": "Contact",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/expertise/wardrobes",
+        "text": "Wardrobes",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/expertise/walk-in-closets",
+        "text": "WALK-IN CLOSETS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/expertise/vanities",
+        "text": "Vanities",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/expertise/accessories",
+        "text": "ACCESSORIES",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/sales-point",
+        "text": "Sales Point",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/events-&-news",
+        "text": "Events & News",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/catalogue",
+        "text": "Catalogue",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/gallery",
+        "text": "View Our Gallery",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/find-store",
+        "text": "Find a Store",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/company-profile",
+        "text": "Company Profile",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/history",
+        "text": "History",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/factory",
+        "text": "Factory",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/technology-our-procedure-processing-of-work",
+        "text": "Technology/Our Procedure & Processing of work",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/software",
+        "text": "Software",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/what-we-do",
+        "text": "What We Do",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/certification",
+        "text": "Certification",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/r&d",
+        "text": "R&D",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/oem-odm",
+        "text": "OEM/ODM",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/blum",
+        "text": "Learn More",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/kessebohmer",
+        "text": "Learn More",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/teka",
+        "text": "Learn More",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.facebook.com/mykitchenTBG",
+        "text": "Facebook",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://bd.linkedin.com/company/mykitchenofficial",
+        "text": "LinkedIn",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/privacy-policy",
+        "text": "Privacy Policy",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/terms-&-conditions",
+        "text": "Terms & Conditions",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/expertise/kitchen-area",
+        "text": "Kitchen",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.mykitchen-bd.com/feedback",
+        "text": "Feedback",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.creativematter.agency/",
+        "text": "Creative Matter",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://wa.me/8801642912612",
+        "text": "Chat with us on WhatsApp",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      }
+    ],
+    "iframes": [],
+    "videos": [],
+    "scripts": [
+      "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0z3vwiwkmf4x2.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0dicgzjjajhx6.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/133oq166-iq2j.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/01cdbuv1roxa7.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0ycei2n7w7c6f.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/087-ii967_iw4.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0d~e3k5q_g2uc.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/17qh67~6.ixar.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0n4jjba7ftbus.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0p731x9x-lixw.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0g3sw20t96_.8.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/03~yq9q893hmn.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js"
+    ],
+    "stylesheets": [
+      "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+      "https://www.mykitchen-bd.com/_next/static/chunks/157k_dg4ym0pd.css"
+    ],
+    "largeVisibleMenuEls": 0,
+    "htmlSnippet": 169426
+  },
+  "storage": {
+    "cookies": [],
+    "local": {},
+    "session": {
+      "myKitchenAdDismissed": "6ac49f85a6a4fbd661585c4a"
+    },
+    "indexedDB": []
+  },
+  "network": {
+    "total": 72,
+    "byDomain": [
+      {
+        "domain": "www.mykitchen-bd.com",
+        "count": 66
+      },
+      {
+        "domain": "api.mykitchen-bd.com",
+        "count": 6
+      }
+    ],
+    "byType": [
+      {
+        "type": "image",
+        "count": 28
+      },
+      {
+        "type": "script",
+        "count": 21
+      },
+      {
+        "type": "fetch",
+        "count": 13
+      },
+      {
+        "type": "xhr",
+        "count": 6
+      },
+      {
+        "type": "stylesheet",
+        "count": 2
+      },
+      {
+        "type": "document",
+        "count": 1
+      },
+      {
+        "type": "font",
+        "count": 1
+      }
+    ],
+    "nonGet": []
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "id": "baseline",
+  "startedAt": "2026-10-26T08:25:44.149Z",
+  "steps": [
+    {
+      "name": "loaded",
+      "at": 55886,
+      "data": {
+        "url": "https://www.haecker-kuechen.com/en/",
+        "title": "Unique Kitchens by Häcker—Get Inspired Now.",
+        "counts": {
+          "interactives": 63,
+          "links": 119,
+          "uniqueLinks": 71,
+          "buttons": 3,
+          "forms": 1,
+          "fields": 1,
+          "iframes": 0,
+          "videos": 0,
+          "svgs": 0,
+          "ariaExpanded": 0,
+          "ariaHaspopup": 0,
+          "details": 0,
+          "roleTab": 0,
+          "dialogs": 0,
+          "scripts": 7
+        },
+        "header": {
+          "tag": "header",
+          "h": 92,
+          "pos": "fixed",
+          "bg": "rgb(255, 255, 255)",
+          "top": 0,
+          "cls": "fixed-top mm-fixed-top type-megamenu2023 initial-colored bg-white",
+          "navLinks": 48
+        }
+      }
+    },
+    {
+      "name": "interactives",
+      "at": 55886,
+      "data": {
+        "total": 63,
+        "byCat": {
+          "link": 63
+        },
+        "top": [
+          "link: Skip to content → /en/#beforeContent",
+          "link: a → /en/",
+          "link: Career Jobs & more → /en/career",
+          "link: Kitchen planner → /en/kitchen-planner",
+          "link: Search → javascript:;",
+          "link: Get inspired now → /en/dealer-search",
+          "link: a → /fileadmin/bilder/Kuechen/systemat/AV_5075/Graugruen/AV5075_Graugruen_AV5075_Kristallweiss_Vitrine_1200x1700.jpg",
+          "link: wide range of design possibilities → /en/kitchenideas",
+          "link: Go to the Kitchen Planner → /en/kitchen-planner",
+          "link: a → /fileadmin/bilder/Kuechen/concept130/TORONTO/Ulme_mocca/TORONTO_Ulme_Mocca_PERFECT_SOFT_Sandgrau_M1_1700x1200.jpg",
+          "link: owner-managed family business → /en/kitchen-manufacturer",
+          "link: a → /fileadmin/bilder/Kuechen/concept130/AURA/Steinbeige/AURA-GL_Steinbeige_Weiss_MONTREAL-Feineiche-natur____M1____1700x1200.jpg",
+          "link: a → /fileadmin/bilder/Kuechen/concept130/BRISTOL/Smaragdgruen/BRISTOL_Selection_Smaragdgruen_M3_1200x1700.jpg",
+          "link: a → /fileadmin/bilder/Unternehmen/Haecker/Produktion_1700x1200.jpg",
+          "link: Apply Now → /en/career",
+          "link: Find the Perfect Kitchen → /en/kitchenideas",
+          "link: a → /fileadmin/bilder/Intern/HR/Andre_Lange_Montageschulung.jpg",
+          "link: systemat → /en/systemat-von-haecker-premiumkuechen-mit-charakter",
+          "link: concept130, → /en/concept130",
+          "link: a wide range of possibilities → /en/kitchenideas",
+          "link: Design my kitchen now → /en/kitchen-planner",
+          "link: a → /fileadmin/bilder/Kuechen/systemat/AV_7070/Bronze_2025/AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Querformat_1700x1200.jpg",
+          "link: Häcker’s digital kitchen magazine → /en/media",
+          "link: Plan your own kitchen now → /en/kitchen-planner",
+          "link: a → /fileadmin/bilder/Unternehmen/Haecker/Ku__chenplanung_02_1700x1200.jpg",
+          "link: concept130 → /en/concept130",
+          "link: systemat → /en/systemat-von-haecker-premiumkuechen-mit-charakter",
+          "link: Novelties 2026/2027 → https://hausmesse.haecker-kuechen.com/en/in-house-trade-fair-2026",
+          "link: Product Portal → https://produktwelt.haecker-kuechen.com/en/",
+          "link: Fronts → https://produktwelt.haecker-kuechen.com/en/fronts",
+          "link: Worktops → https://produktwelt.haecker-kuechen.com/en/worktops",
+          "link: Handles → https://produktwelt.haecker-kuechen.com/en/handles",
+          "link: Blaupunkt → /en/blaupunkt",
+          "link: Media Site → /en/media",
+          "link: Brochures → /en/media#c172782",
+          "link: Suppliers → /en/service/supplier",
+          "link: Dealer search → /en/dealer-search",
+          "link: Kitchen planner → /en/kitchen-planner",
+          "link: Contact → /en/contact",
+          "link: Downloads → /en/download",
+          "link: Extranet → /extranet",
+          "link: About us → /en/kitchen-manufacturer",
+          "link: Our values → /en/kitchen-manufacturer#c175151",
+          "link: project business → /en/projects",
+          "link: Press → /en/media#c172766",
+          "link: Häcker Academy → https://haecker-kuechen.training/",
+          "link: All vacancies → /en/career/current-job-offers",
+          "link: Häcker as an employer → /en/career",
+          "link: Career starters → /en/career#c174214",
+          "link: Experienced applicants → /en/career#c174262",
+          "link: Dual study programme → /en/career#c174283",
+          "link: Traineeship → /en/career#c174283",
+          "link: Internship → /en/career#c174438",
+          "link: Speculative application → /en/career#c174402",
+          "link: Facebook → https://www.facebook.com/people/Hacker-Kitchens-International/100068193226333/",
+          "link: Instagram → https://www.instagram.com/hacker_kitchens_international/?locale=de-DE&hl=en",
+          "link: LinkedIn → https://www.linkedin.com/company/h%C3%A4ckerkitcheninternational",
+          "link: Terms and Conditions → /en/terms-and-conditions",
+          "link: Data privacy → /en/data-privacy",
+          "link: Compliance → /en/compliance"
+        ]
+      }
+    },
+    {
+      "name": "forms",
+      "at": 55886,
+      "data": [
+        {
+          "action": "/en/search",
+          "method": "GET",
+          "framework": "custom/unknown",
+          "fields": 1,
+          "submits": [
+            "",
+            "Search"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "embeds",
+      "at": 55886,
+      "data": {
+        "iframes": [],
+        "videos": []
+      }
+    },
+    {
+      "name": "storage",
+      "at": 55886,
+      "data": {
+        "cookies": [],
+        "local": [],
+        "session": [],
+        "idb": []
+      }
+    },
+    {
+      "name": "thirdParties",
+      "at": 55886,
+      "data": []
+    }
+  ],
+  "durationMs": 55761,
+  "finishedAt": "2026-10-26T08:26:39.910Z",
+  "requests": [
+    {
+      "id": 1,
+      "flow": "baseline",
+      "ts": 139,
+      "url": "https://www.haecker-kuechen.com/en/",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 2,
+      "flow": "baseline",
+      "ts": 1105,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 3,
+      "flow": "baseline",
+      "ts": 1106,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 4,
+      "flow": "baseline",
+      "ts": 1107,
+      "url": "https://www.haecker-kuechen.com/_assets/0461cac7cf841c14e085cd32e5c0799e/images/logo_white.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 5,
+      "flow": "baseline",
+      "ts": 1107,
+      "url": "https://www.haecker-kuechen.com/_assets/0461cac7cf841c14e085cd32e5c0799e/images/logo_black.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6,
+      "flow": "baseline",
+      "ts": 1331,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/a/0/csm_AV7080_Rauchblau_f_1700x1200_a73997e13a.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 7,
+      "flow": "baseline",
+      "ts": 1336,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/f/1/csm_Ravenna_Weiss_f_1700x1200_1cfd195303.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 8,
+      "flow": "baseline",
+      "ts": 1593,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/0/1/csm_100_JEK_Haecker_Kueche_1700x1200_db3f7efb76.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 9,
+      "flow": "baseline",
+      "ts": 1594,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.js?1767948963",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 10,
+      "flow": "baseline",
+      "ts": 1597,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/2/csm_Ha__cker_Fru__hling_1700x1200_0c0b3d998a.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 11,
+      "flow": "baseline",
+      "ts": 1597,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/e/csm_haecker-drohne_21_1700x1200_73ee699e41.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 12,
+      "flow": "baseline",
+      "ts": 1598,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/2/a/csm_nav-placeholder-xl_d3b9409eea.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 13,
+      "flow": "baseline",
+      "ts": 1598,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/1/b/csm_nav-placeholder-medium-broschuere_e438e8de83.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 14,
+      "flow": "baseline",
+      "ts": 1599,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/9/3/csm_Ruby_van_Zwol_Szene_65_1700x1200_375fac11f2.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 15,
+      "flow": "baseline",
+      "ts": 1600,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Sonstiges/MegaMenu/nav-placeholder-medium-haeckerbuilding.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 16,
+      "flow": "baseline",
+      "ts": 1601,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/a/0/csm_Softwareentwickler_Quadratisch_a3d1ee41e9.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 17,
+      "flow": "baseline",
+      "ts": 1602,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/1/c/csm_Produktion_1700x1200_Quadratisch_139b050740.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 18,
+      "flow": "baseline",
+      "ts": 1609,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/6/csm_Duale_Studenten_Quadratisch_0b6c10e1c5.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 19,
+      "flow": "baseline",
+      "ts": 1609,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/7/a/csm_Azubi_Quadratisch_89dcf30891.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 20,
+      "flow": "baseline",
+      "ts": 1609,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/0/1/csm_Industriekaufmann_frau_Quadratisch_36c110a5e5.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 21,
+      "flow": "baseline",
+      "ts": 1610,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/6/c/csm_laptop_1700x1200_Quadratisch_b973247597.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 22,
+      "flow": "baseline",
+      "ts": 1610,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Hausmesse_2026/Inspired_by_simplicity_03_2560x1250.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 23,
+      "flow": "baseline",
+      "ts": 1611,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5015/AV5015_Sandbeige_AV1091_Walnuss-natur/AV5015_Sandbeige_AV1091_Walnuss-natur_Repro_Hero_01.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 24,
+      "flow": "baseline",
+      "ts": 1611,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_6080/AV6080GL_Eiche-schwarz_AV7030GL_Gold_Shine_Star/AV6080GL_Eiche_schwarz_AV7030GL_Gold_shine_star_1.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 25,
+      "flow": "baseline",
+      "ts": 1612,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/GOYA_SELECTION/Enzianblau/GOYA_Enzianblau_TESSIN_Walnuss_natur_M_72_ppi.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 26,
+      "flow": "baseline",
+      "ts": 1613,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/TOP_SOFT/SELECTION_Caramel/TOP_SOFT_Caramel_M_72ppi.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 27,
+      "flow": "baseline",
+      "ts": 1613,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/LUGANO/Feineiche-hell/LUGANO_Feineiche-hell_M_72ppi.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 28,
+      "flow": "baseline",
+      "ts": 1614,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5015/Sandbeige/AV5015_Sandbeige_Breccia_Imperiale_1700x1200.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 29,
+      "flow": "baseline",
+      "ts": 1615,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5015/Olivgruen-metallic/AV5015_Olivgruen_metallic_Negresco_satiniert_1700x1200.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 30,
+      "flow": "baseline",
+      "ts": 1616,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/d/e/csm_Finanzmanagement_1700x1200_08d978a61c.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 31,
+      "flow": "baseline",
+      "ts": 1617,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/b/8/csm_Perfect_Soft_Graphit_Satin_M_Querformat_1700x1200_8543334499.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 32,
+      "flow": "baseline",
+      "ts": 1617,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/7/7/csm_AV_2042_Samteiche_Greige_Querformat_1700x1200_e54afc7eb8.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 33,
+      "flow": "baseline",
+      "ts": 1618,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/e/a/csm_Scala_Olivgruen_M_Querformat_1700x1200_3f8b9de9aa.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 34,
+      "flow": "baseline",
+      "ts": 1618,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/app.26e11a9b-min.js?1792998402",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 35,
+      "flow": "baseline",
+      "ts": 1619,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/runtime.09724e43-min.js?1792998401",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 36,
+      "flow": "baseline",
+      "ts": 1620,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/powermail_timeslots-min.js?1792998401",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 37,
+      "flow": "baseline",
+      "ts": 1712,
+      "url": "https://www.haecker-kuechen.com/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.ff75bc54.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 38,
+      "flow": "baseline",
+      "ts": 1713,
+      "url": "https://www.haecker-kuechen.com/build/fonts/fa-solid-900.2f8c3742.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 39,
+      "flow": "baseline",
+      "ts": 1716,
+      "url": "https://www.haecker-kuechen.com/build/fonts/fa-light-300.441b5781.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 40,
+      "flow": "baseline",
+      "ts": 1717,
+      "url": "https://www.haecker-kuechen.com/build/fonts/fa-brands-400.e24fcc1b.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 41,
+      "flow": "baseline",
+      "ts": 1718,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5075/Graugruen/AV5075_Graugruen_AV5075_Kristallweiss_Vitrine_1200x1700.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 42,
+      "flow": "baseline",
+      "ts": 1719,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/f/3/csm_TORONTO_Ulme_Mocca_PERFECT_SOFT_Sandgrau_M1_1700x1200_6a8a40d2a5.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 43,
+      "flow": "baseline",
+      "ts": 1719,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/a/c/csm_AURA-GL_Steinbeige_Weiss_MONTREAL-Feineiche-natur____M1____1700x1200_9269dba9fc.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 44,
+      "flow": "baseline",
+      "ts": 1721,
+      "url": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/BRISTOL/Smaragdgruen/BRISTOL_Selection_Smaragdgruen_M3_1200x1700.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 45,
+      "flow": "baseline",
+      "ts": 3140,
+      "url": "https://www.haecker-kuechen.com/fileadmin/_processed_/1/a/csm_Produktion_1700x1200_9531eabb87.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    }
+  ],
+  "network": {
+    "total": 45,
+    "byDomain": [
+      {
+        "domain": "www.haecker-kuechen.com",
+        "count": 45
+      }
+    ],
+    "byType": [
+      {
+        "type": "image",
+        "count": 34
+      },
+      {
+        "type": "script",
+        "count": 4
+      },
+      {
+        "type": "font",
+        "count": 4
+      },
+      {
+        "type": "stylesheet",
+        "count": 2
+      },
+      {
+        "type": "document",
+        "count": 1
+      }
+    ],
+    "nonGet": []
+  },
+  "shots": [
+    "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/baseline-home.png"
+  ],
+  "blockedWrites": []
+}

@@ -1,0 +1,931 @@
+{
+  "id": "forms",
+  "startedAt": "2026-10-26T08:30:58.335Z",
+  "steps": [
+    {
+      "name": "contact:formsFound",
+      "at": 89207,
+      "data": [
+        {
+          "index": 0,
+          "action": "https://www.mykitchen-bd.com/contact",
+          "method": "GET",
+          "framework": "custom/unknown",
+          "fields": 6,
+          "submits": [
+            "Message",
+            "Submit",
+            "Cancel"
+          ],
+          "hasFile": false,
+          "hasConsent": false
+        }
+      ]
+    },
+    {
+      "name": "contact:validation",
+      "at": 92742,
+      "data": [
+        {
+          "probe": "native-validation",
+          "action": null,
+          "method": "get",
+          "noValidate": false,
+          "valid": true,
+          "invalid": [],
+          "requiredCount": 0
+        },
+        {
+          "probe": "synthetic-submit",
+          "dispatched": false,
+          "defaultPrevented": true,
+          "preventedByListener": false,
+          "blockedWrites": [
+            {
+              "flow": "forms",
+              "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+              "method": "POST",
+              "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"43C5E069-A8BE-4748-82EC-98793F462F13\"]"
+            },
+            {
+              "flow": "forms",
+              "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+              "method": "POST",
+              "postData": "[\"https://www.google.com\"]"
+            }
+          ],
+          "requests": []
+        },
+        {
+          "probe": "click-submit",
+          "clicked": "Submit",
+          "urlBefore": "https://www.mykitchen-bd.com/contact",
+          "urlAfter": "https://www.mykitchen-bd.com/contact",
+          "blockedWrites": [
+            {
+              "flow": "forms",
+              "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+              "method": "POST",
+              "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"43C5E069-A8BE-4748-82EC-98793F462F13\"]"
+            },
+            {
+              "flow": "forms",
+              "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+              "method": "POST",
+              "postData": "[\"https://www.google.com\"]"
+            }
+          ],
+          "requests": [],
+          "invalids": []
+        }
+      ]
+    },
+    {
+      "name": "contact:fields",
+      "at": 92742,
+      "data": [
+        "text firstName (\"First Name\")",
+        "text lastName (\"Last Name\")",
+        "email email (\"Email\")",
+        "tel phone (\"Phone\")",
+        "text subject (\"Subject\")",
+        "select-one message [5 options]"
+      ]
+    }
+  ],
+  "durationMs": 11959,
+  "finishedAt": "2026-10-26T08:31:10.294Z",
+  "requests": [
+    {
+      "id": 230,
+      "flow": "forms",
+      "ts": 80786,
+      "url": "https://www.mykitchen-bd.com/contact",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 231,
+      "flow": "forms",
+      "ts": 80856,
+      "url": "https://www.mykitchen-bd.com/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 232,
+      "flow": "forms",
+      "ts": 80857,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fkitchen-logo.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 233,
+      "flow": "forms",
+      "ts": 80858,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 234,
+      "flow": "forms",
+      "ts": 80860,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 235,
+      "flow": "forms",
+      "ts": 80861,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 236,
+      "flow": "forms",
+      "ts": 80861,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 237,
+      "flow": "forms",
+      "ts": 80861,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 238,
+      "flow": "forms",
+      "ts": 80861,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 239,
+      "flow": "forms",
+      "ts": 80862,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 240,
+      "flow": "forms",
+      "ts": 80862,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 241,
+      "flow": "forms",
+      "ts": 80863,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 242,
+      "flow": "forms",
+      "ts": 80863,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 243,
+      "flow": "forms",
+      "ts": 80863,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 244,
+      "flow": "forms",
+      "ts": 80865,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0z3vwiwkmf4x2.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 245,
+      "flow": "forms",
+      "ts": 80866,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0dicgzjjajhx6.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 246,
+      "flow": "forms",
+      "ts": 80866,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/133oq166-iq2j.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 247,
+      "flow": "forms",
+      "ts": 80866,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/01cdbuv1roxa7.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 248,
+      "flow": "forms",
+      "ts": 80867,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0ycei2n7w7c6f.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 249,
+      "flow": "forms",
+      "ts": 80867,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/087-ii967_iw4.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 250,
+      "flow": "forms",
+      "ts": 80867,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d~e3k5q_g2uc.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 251,
+      "flow": "forms",
+      "ts": 80867,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/17qh67~6.ixar.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 252,
+      "flow": "forms",
+      "ts": 80868,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/00mvikxow02ky.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 253,
+      "flow": "forms",
+      "ts": 80868,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0ciux21o9ftk~.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 254,
+      "flow": "forms",
+      "ts": 80869,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0_lt_j282a6y7.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 255,
+      "flow": "forms",
+      "ts": 80869,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/11ewph8k3y807.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 256,
+      "flow": "forms",
+      "ts": 80870,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0k0i8d4y8adca.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 257,
+      "flow": "forms",
+      "ts": 80870,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/167tr_3pk0m1w.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 258,
+      "flow": "forms",
+      "ts": 80870,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0uz2-ai541anj.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 259,
+      "flow": "forms",
+      "ts": 81125,
+      "url": "https://www.mykitchen-bd.com/images/kitchen/footer.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 260,
+      "flow": "forms",
+      "ts": 81126,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fnavbar%2FcolorLogo.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 261,
+      "flow": "forms",
+      "ts": 81129,
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12280.950998026896!2d90.40216784222126!3d23.777723006367722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c79b9bb31065%3A0x11da1fffa0040020!2sMY%20KITCHEN!5e0!3m2!1sen!2sbd!4v1720418340033!5m2!1sen!2sbd&zoom=14&disableDefaultUI=false&scrollwheel=false",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 262,
+      "flow": "forms",
+      "ts": 81129,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fproducts%2Fslide.gif&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 263,
+      "flow": "forms",
+      "ts": 81130,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Ftilottoma.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 264,
+      "flow": "forms",
+      "ts": 81130,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fnextbook.png&w=128&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 265,
+      "flow": "forms",
+      "ts": 81459,
+      "url": "https://api.mykitchen-bd.com/api/v1/expertise/menu",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 266,
+      "flow": "forms",
+      "ts": 81461,
+      "url": "https://api.mykitchen-bd.com/api/v1/category",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 267,
+      "flow": "forms",
+      "ts": 81463,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 268,
+      "flow": "forms",
+      "ts": 81464,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 269,
+      "flow": "forms",
+      "ts": 81465,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 270,
+      "flow": "forms",
+      "ts": 81465,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 271,
+      "flow": "forms",
+      "ts": 81523,
+      "url": "https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 272,
+      "flow": "forms",
+      "ts": 81524,
+      "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&experimentation=allowed&callback=onApiLoad",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 273,
+      "flow": "forms",
+      "ts": 81752,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/geometry.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 274,
+      "flow": "forms",
+      "ts": 81753,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/search.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 275,
+      "flow": "forms",
+      "ts": 81753,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/main.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 276,
+      "flow": "forms",
+      "ts": 82054,
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 277,
+      "flow": "forms",
+      "ts": 82073,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/common.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 278,
+      "flow": "forms",
+      "ts": 82074,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/util.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 279,
+      "flow": "forms",
+      "ts": 82075,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/map.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 280,
+      "flow": "forms",
+      "ts": 82076,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/controls.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 281,
+      "flow": "forms",
+      "ts": 82077,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/places_impl.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 282,
+      "flow": "forms",
+      "ts": 82077,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/places.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 283,
+      "flow": "forms",
+      "ts": 82079,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/onion.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 284,
+      "flow": "forms",
+      "ts": 82079,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/search_impl.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 285,
+      "flow": "forms",
+      "ts": 82299,
+      "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 286,
+      "flow": "forms",
+      "ts": 82327,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/log.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 287,
+      "flow": "forms",
+      "ts": 82367,
+      "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 288,
+      "flow": "forms",
+      "ts": 82367,
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 289,
+      "flow": "forms",
+      "ts": 82401,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"43C5E069-A8BE-4748-82EC-98793F462F13\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 290,
+      "flow": "forms",
+      "ts": 82402,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[\"https://www.google.com\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 291,
+      "flow": "forms",
+      "ts": 82510,
+      "url": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2iw.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 292,
+      "flow": "forms",
+      "ts": 82511,
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 293,
+      "flow": "forms",
+      "ts": 83896,
+      "url": "https://www.mykitchen-bd.com/?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 294,
+      "flow": "forms",
+      "ts": 83898,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 295,
+      "flow": "forms",
+      "ts": 83898,
+      "url": "https://www.mykitchen-bd.com/contact?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 296,
+      "flow": "forms",
+      "ts": 83899,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 297,
+      "flow": "forms",
+      "ts": 83923,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 298,
+      "flow": "forms",
+      "ts": 83925,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 299,
+      "flow": "forms",
+      "ts": 83926,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 300,
+      "flow": "forms",
+      "ts": 83927,
+      "url": "https://www.mykitchen-bd.com/?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 301,
+      "flow": "forms",
+      "ts": 83955,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    }
+  ],
+  "network": {
+    "total": 72,
+    "byDomain": [
+      {
+        "domain": "www.mykitchen-bd.com",
+        "count": 47
+      },
+      {
+        "domain": "maps.googleapis.com",
+        "count": 16
+      },
+      {
+        "domain": "api.mykitchen-bd.com",
+        "count": 2
+      },
+      {
+        "domain": "maps.gstatic.com",
+        "count": 2
+      },
+      {
+        "domain": "fonts.googleapis.com",
+        "count": 2
+      },
+      {
+        "domain": "fonts.gstatic.com",
+        "count": 2
+      },
+      {
+        "domain": "www.google.com",
+        "count": 1
+      }
+    ],
+    "byType": [
+      {
+        "type": "script",
+        "count": 39
+      },
+      {
+        "type": "fetch",
+        "count": 13
+      },
+      {
+        "type": "image",
+        "count": 7
+      },
+      {
+        "type": "xhr",
+        "count": 5
+      },
+      {
+        "type": "font",
+        "count": 3
+      },
+      {
+        "type": "stylesheet",
+        "count": 3
+      },
+      {
+        "type": "document",
+        "count": 2
+      }
+    ],
+    "nonGet": [
+      {
+        "id": 289,
+        "flow": "forms",
+        "ts": 82401,
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"43C5E069-A8BE-4748-82EC-98793F462F13\"]",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 290,
+        "flow": "forms",
+        "ts": 82402,
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "[\"https://www.google.com\"]",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      }
+    ]
+  },
+  "shots": [
+    "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-form.png",
+    "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-validation.png",
+    "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-submit-click.png"
+  ],
+  "blockedWrites": [
+    {
+      "flow": "forms",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"43C5E069-A8BE-4748-82EC-98793F462F13\"]"
+    },
+    {
+      "flow": "forms",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "postData": "[\"https://www.google.com\"]"
+    }
+  ]
+}

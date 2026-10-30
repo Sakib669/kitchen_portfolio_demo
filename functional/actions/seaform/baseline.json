@@ -1,0 +1,3661 @@
+{
+  "env": {
+    "url": "https://www.seaform.com/",
+    "title": "SEAFORM - German Kitchens & Wardrobes - since 1917",
+    "lang": "en-US",
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    },
+    "header": {
+      "tag": "header",
+      "h": 108,
+      "pos": "relative",
+      "bg": "rgba(0, 0, 0, 0)",
+      "top": 0,
+      "cls": "clr",
+      "navLinks": 65
+    },
+    "sticky": [
+      {
+        "tag": "div",
+        "cls": "FloatingWindow__Container-sc-65bde70c-0 iFuPew",
+        "pos": "fixed",
+        "h": 311
+      }
+    ],
+    "counts": {
+      "interactives": 92,
+      "links": 186,
+      "uniqueLinks": 71,
+      "buttons": 7,
+      "forms": 2,
+      "fields": 2,
+      "iframes": 2,
+      "videos": 1,
+      "svgs": 9,
+      "ariaExpanded": 0,
+      "ariaHaspopup": 4,
+      "details": 0,
+      "roleTab": 0,
+      "dialogs": 0,
+      "scripts": 85
+    },
+    "interactives": [
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 645,
+          "y": 15,
+          "w": 150,
+          "h": 27
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "div",
+        "role": "button",
+        "type": "",
+        "text": "Search",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "elementor-search-form__toggle",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1359,
+          "y": 15,
+          "w": 26,
+          "h": 26
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "KITCHENS",
+        "href": "https://seaform.com/kitchen-collections/",
+        "id": "",
+        "name": "",
+        "cls": "dropdown-toggle",
+        "ariaExpanded": null,
+        "ariaHaspopup": "true",
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 398,
+          "y": 67,
+          "w": 87,
+          "h": 27
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "WARDROBES",
+        "href": "https://seaform.com/wardrobe-collections/",
+        "id": "",
+        "name": "",
+        "cls": "dropdown-toggle",
+        "ariaExpanded": null,
+        "ariaHaspopup": "true",
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 543,
+          "y": 67,
+          "w": 111,
+          "h": 27
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "FASCINATION",
+        "href": "https://seaform.com/fascination/at-a-glance/",
+        "id": "",
+        "name": "",
+        "cls": "dropdown-toggle",
+        "ariaExpanded": null,
+        "ariaHaspopup": "true",
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 713,
+          "y": 67,
+          "w": 119,
+          "h": 27
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "EXPERIENCE",
+        "href": "https://www.seaform.com/#",
+        "id": "",
+        "name": "",
+        "cls": "dropdown-toggle",
+        "ariaExpanded": null,
+        "ariaHaspopup": "true",
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 890,
+          "y": 67,
+          "w": 104,
+          "h": 27
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxMzQiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1351,
+          "y": 66,
+          "w": 34,
+          "h": 34
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "HOME OWNERS",
+        "href": "https://www.seaform.com/about-seaform/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-xs",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 265,
+          "y": 848,
+          "w": 213,
+          "h": 40
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "ARCHITECTS",
+        "href": "https://www.seaform.com/architects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-xs",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 497,
+          "y": 848,
+          "w": 213,
+          "h": 40
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "DEVELOPERS",
+        "href": "https://www.seaform.com/projects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-xs",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 848,
+          "w": 213,
+          "h": 40
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PARTNERS",
+        "href": "https://www.seaform.com/partners/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-xs",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 963,
+          "y": 848,
+          "w": 213,
+          "h": 40
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/monogram/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 1076,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MONOGRAM M1",
+        "href": "https://www.seaform.com/monogram/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 1473,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/monogram/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 1076,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MONOGRAM M2",
+        "href": "https://www.seaform.com/monogram/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 1473,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/signature/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 1531,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "TANSU",
+        "href": "https://www.seaform.com/signature/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 1928,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/signature/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 1531,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "FLOAT",
+        "href": "https://www.seaform.com/signature/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 1928,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/gaia/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 1986,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "GAIA",
+        "href": "https://www.seaform.com/gaia/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 2383,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/monocle/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 1986,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MONOCLE",
+        "href": "https://www.seaform.com/monocle/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 2383,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://seaform.com/kitchens/collections/synthesis/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 2441,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "SYNTHESIS",
+        "href": "https://seaform.com/kitchens/collections/synthesis/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 2838,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/kitchen-collections/soho/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 2441,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "SOHO",
+        "href": "https://www.seaform.com/kitchen-collections/soho/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 2838,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/kitchen-collections/purista/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 2896,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PURISTA",
+        "href": "https://www.seaform.com/kitchen-collections/purista/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 3293,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/kitchen-collections/hamptons/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 2896,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "HAMPTONS",
+        "href": "https://www.seaform.com/kitchen-collections/hamptons/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 3293,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "EXPLORE OUR KITCHEN COLLECTION",
+        "href": "https://www.seaform.com/kitchen-collections/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 574,
+          "y": 3391,
+          "w": 292,
+          "h": 44
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "APPLY NOW",
+        "href": "https://seaform.com/fascination/concierge-service/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 658,
+          "y": 3869,
+          "w": 125,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/night-system/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 4293,
+          "w": 645,
+          "h": 401
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "NIGHT SYSTEM",
+        "href": "https://www.seaform.com/night-system/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 4694,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/cube/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 4293,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CUBE",
+        "href": "https://www.seaform.com/cube/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 4690,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/aquatic/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 4752,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "AQUATIC",
+        "href": "https://www.seaform.com/aquatic/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 65,
+          "y": 5149,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.seaform.com/portico/",
+        "id": "",
+        "name": "",
+        "cls": "no-lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 4752,
+          "w": 645,
+          "h": 397
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PORTICO",
+        "href": "https://www.seaform.com/portico/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 5149,
+          "w": 645,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "EXPLORE OUR WARDROBE COLLECTION",
+        "href": "https://www.seaform.com/wardrobe-collections/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 565,
+          "y": 5217,
+          "w": 311,
+          "h": 44
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "AT A GLANCE",
+        "href": "https://www.seaform.com/at-a-glance/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1201,
+          "y": 5927,
+          "w": 134,
+          "h": 44
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "REQUEST CATALOGUE",
+        "href": "https://www.seaform.com/order-catalogue/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 730,
+          "y": 6542,
+          "w": 191,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "REQUEST DESIGN",
+        "href": "https://www.seaform.com/elementor-2358/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 270,
+          "y": 7333,
+          "w": 162,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "GET IN TOUCH",
+        "href": "https://www.seaform.com/concierge-service-2/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 649,
+          "y": 8030,
+          "w": 142,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PROJECT DIVISION",
+        "href": "https://www.seaform.com/projects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 248,
+          "y": 8530,
+          "w": 172,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MATERIALS",
+        "href": "https://www.seaform.com/kitchen-materials-colors/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1000,
+          "y": 9503,
+          "w": 121,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "APPLIANCES",
+        "href": "https://www.seaform.com/appliances/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1000,
+          "y": 9555,
+          "w": 128,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "ACCESSORIES",
+        "href": "https://www.seaform.com/kitchen-interiors/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1000,
+          "y": 9607,
+          "w": 137,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "COUNTERTOPS",
+        "href": "https://www.seaform.com/countertops/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1000,
+          "y": 9659,
+          "w": 146,
+          "h": 42
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "GET IN TOUCH",
+        "href": "https://www.seaform.com/concierge-service-2/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-button elementor-button-link elementor-size-sm",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1404,
+          "y": 404,
+          "w": 33,
+          "h": 125
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Facebook",
+        "href": "https://www.facebook.com/SEAFORMKITCHENS/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e47a999",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 589,
+          "y": 10051,
+          "w": 43,
+          "h": 43
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Instagram",
+        "href": "https://www.instagram.com/seaform_kitchens/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-4b55c14",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 662,
+          "y": 10051,
+          "w": 43,
+          "h": 43
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Pinterest",
+        "href": "https://www.pinterest.com/seaform_kitchens",
+        "id": "",
+        "name": "",
+        "cls": "elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-9bdfb68",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 735,
+          "y": 10051,
+          "w": 43,
+          "h": 43
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Linkedin",
+        "href": "https://www.linkedin.com/company/seaformkitchens/about/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-83782a6",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 808,
+          "y": 10051,
+          "w": 43,
+          "h": 43
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CONCIERGE SERVICE",
+        "href": "https://www.seaform.com/concierge-service-2/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 479,
+          "y": 10144,
+          "w": 127,
+          "h": 46
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CORPORATE",
+        "href": "https://www.seaform.com/#",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item elementor-item-anchor",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 682,
+          "y": 10144,
+          "w": 76,
+          "h": 46
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CONTRACT DIVISION",
+        "href": "https://www.seaform.com/projects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 833,
+          "y": 10144,
+          "w": 128,
+          "h": 46
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "SIGNATURE",
+        "href": "https://www.seaform.com/signature/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10257,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MONOGRAM",
+        "href": "https://www.seaform.com/monogram/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10273,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MONOCLE",
+        "href": "https://www.seaform.com/monocle/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10290,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "SOHO",
+        "href": "https://www.seaform.com/kitchen-collections/soho/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10306,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "HAMPTONS",
+        "href": "https://www.seaform.com/kitchen-collections/hamptons/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10322,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "SYNTHESIS",
+        "href": "https://www.seaform.com/kitchen-collections/synthesis/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10339,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PURISTA",
+        "href": "https://www.seaform.com/kitchen-collections/purista/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10355,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "GAIA",
+        "href": "https://www.seaform.com/gaia/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 230,
+          "y": 10372,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "NIGHT SYSTEM",
+        "href": "https://www.seaform.com/night-system/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 430,
+          "y": 10290,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CUBE",
+        "href": "https://www.seaform.com/cube/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 430,
+          "y": 10306,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "AQUATIC",
+        "href": "https://www.seaform.com/aquatic/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 430,
+          "y": 10322,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PORTICO",
+        "href": "https://www.seaform.com/portico/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 430,
+          "y": 10339,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "AT A GLANCE",
+        "href": "https://www.seaform.com/at-a-glance/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 630,
+          "y": 10281,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "LEGACY",
+        "href": "https://www.seaform.com/legacy/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 630,
+          "y": 10298,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MANUFACTURING",
+        "href": "https://www.seaform.com/manufacturing/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 630,
+          "y": 10314,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "QUALITY",
+        "href": "https://www.seaform.com/quality/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 630,
+          "y": 10331,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "ICONIC PROJECTS",
+        "href": "https://www.seaform.com/projects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 630,
+          "y": 10347,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "ORDER CATALOGUE",
+        "href": "https://www.seaform.com/order-catalogue/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 830,
+          "y": 10281,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "GET YOUR DESIGN",
+        "href": "https://www.seaform.com/elementor-2358/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 830,
+          "y": 10298,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "FIND A SHOWROOM",
+        "href": "https://www.seaform.com/locations/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 830,
+          "y": 10314,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PRODUCT SERVICE",
+        "href": "https://www.seaform.com/product-service/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 830,
+          "y": 10331,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CONTACT",
+        "href": "https://www.seaform.com/concierge-service-2/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 830,
+          "y": 10347,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "ARCHITECTS",
+        "href": "https://www.seaform.com/architects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 1030,
+          "y": 10273,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PROJECTS",
+        "href": "https://www.seaform.com/projects/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 1030,
+          "y": 10290,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "NEWS MAIN",
+        "href": "https://www.seaform.com/news/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 1030,
+          "y": 10306,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "BECOME A PARTNER",
+        "href": "https://www.seaform.com/partners/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 1030,
+          "y": 10322,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "MYSEA",
+        "href": "https://www.seaform.com/mysea/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 1030,
+          "y": 10339,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CAREER",
+        "href": "https://www.seaform.com/career/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 1030,
+          "y": 10355,
+          "w": 180,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "IMPRINT",
+        "href": "https://www.seaform.com/imprint/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 418,
+          "y": 10442,
+          "w": 46,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "TERMS OF USE",
+        "href": "https://www.seaform.com/terms-of-use/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 558,
+          "y": 10442,
+          "w": 82,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "PRIVACY POLICY",
+        "href": "https://www.seaform.com/privacy-policy/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 734,
+          "y": 10442,
+          "w": 93,
+          "h": 14
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "CAREER",
+        "href": "https://www.seaform.com/career/",
+        "id": "",
+        "name": "",
+        "cls": "elementor-item",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": true,
+        "box": {
+          "x": 921,
+          "y": 10442,
+          "w": 45,
+          "h": 14
+        }
+      },
+      {
+        "cat": "button",
+        "tag": "button",
+        "role": "button",
+        "type": "button",
+        "text": "Open chat window",
+        "href": "",
+        "id": "",
+        "name": "",
+        "cls": "ButtonBase__ButtonContainer-sc-9c42ff7d-3 hPJelZ es-button-base-container Bubble__BubbleComponent-sc-559859f8-1 hBKabL",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1356,
+          "y": 816,
+          "w": 64,
+          "h": 64
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.seaform.com",
+        "method": "GET",
+        "id": "",
+        "cls": "elementor-search-form",
+        "framework": "Elementor Form",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "s",
+            "id": "elementor-search-form-5dd68859",
+            "placeholder": "",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "Search",
+            "disabled": false
+          }
+        ],
+        "submits": [],
+        "hidden": [],
+        "hasFile": false,
+        "hasConsent": false
+      },
+      {
+        "action": "https://www.seaform.com",
+        "method": "GET",
+        "id": "",
+        "cls": "elementor-search-form",
+        "framework": "Elementor Form",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "s",
+            "id": "elementor-search-form-e2ab87b",
+            "placeholder": "Search...",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "Search",
+            "disabled": false
+          }
+        ],
+        "submits": [],
+        "hidden": [],
+        "hasFile": false,
+        "hasConsent": false
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.seaform.com/projects/",
+        "text": "ICONIC PROJECTS",
+        "count": 11,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/monogram/",
+        "text": "",
+        "count": 7,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/signature/",
+        "text": "",
+        "count": 7,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/night-system/",
+        "text": "NIGHT SYSTEM",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/cube/",
+        "text": "CUBE",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/aquatic/",
+        "text": "AQUATIC",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/portico/",
+        "text": "PORTICO",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/concierge-service-2/",
+        "text": "GET IN TOUCH",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/monocle/",
+        "text": "",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-collections/hamptons/",
+        "text": "",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-collections/soho/",
+        "text": "",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-collections/purista/",
+        "text": "",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/gaia/",
+        "text": "",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/at-a-glance/",
+        "text": "AT A GLANCE",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/legacy/",
+        "text": "LEGACY",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/manufacturing/",
+        "text": "MANUFACTURING",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/#",
+        "text": "EXPERIENCE",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/career/",
+        "text": "CAREER",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-collections/",
+        "text": "COLLECTIONS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-materials-colors/",
+        "text": "MATERIALS & COLORS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-interiors/",
+        "text": "INTERIORS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/countertops/",
+        "text": "COUNTERTOPS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/appliances/",
+        "text": "APPLIANCES",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/kitchen-collections/synthesis/",
+        "text": "",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/quality/",
+        "text": "QUALITY",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/architects/",
+        "text": "ARCHITECTS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/partners/",
+        "text": "PARTNERS",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/order-catalogue/",
+        "text": "REQUEST CATALOGUE",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/elementor-2358/",
+        "text": "REQUEST DESIGN",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/specials/",
+        "text": "SPECIALS",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/wardrobe-collections/",
+        "text": "WARDROBE COLLECTIONS",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5OTIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "text": "",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://seaform.com/kitchens/collections/synthesis/",
+        "text": "",
+        "count": 2,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.seaform.com/locations/",
+        "text": "FIND A SHOWROOM",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/product-service/",
+        "text": "PRODUCT SERVICE",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/news/",
+        "text": "NEWS MAIN",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/mysea/",
+        "text": "MYSEA",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/imprint/",
+        "text": "IMPRINT",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/terms-of-use/",
+        "text": "TERMS OF USE",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/privacy-policy/",
+        "text": "PRIVACY POLICY",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/#main",
+        "text": "Skip to content",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "http://www.sea-group.de/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "http://seaform.com/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/kitchen-collections/",
+        "text": "KITCHENS",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/materials-colors/",
+        "text": "MATERIALS & COLORS",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/interiors/",
+        "text": "INTERIORS",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/accessories/",
+        "text": "ACCESSORIES",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/customizations/",
+        "text": "CUSTOMIZATIONS",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/collections/cube/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/collections/cube-plus/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/collections/cube-motion/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/collections/aquatic/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobes/collections/portico/",
+        "text": "",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/wardrobe-collections/",
+        "text": "WARDROBES",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.seaform.com/wardrobe-materials-colors/",
+        "text": "MATERIALS & COLOURS",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/wardrobe-interiors/",
+        "text": "INTERIORS",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://seaform.com/fascination/at-a-glance/",
+        "text": "FASCINATION",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/order-catalogue/",
+        "text": "ORDER YOUR CATALOGUE",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.seaform.com/concierge-service-2",
+        "text": "CONTACT US",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://seaform.com/elementor-2358/",
+        "text": "REQUEST FOR YOUR DESIGN",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/concierge-service/",
+        "text": "CONCIERGE SERVICE",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/locations/",
+        "text": "FIND A SHOWROOM",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://seaform.com/product-service/",
+        "text": "PRODUCT SERVICE",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.seaform.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxMzQiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.seaform.com/about-seaform/",
+        "text": "HOME OWNERS",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://seaform.com/fascination/concierge-service/",
+        "text": "APPLY NOW",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.facebook.com/SEAFORMKITCHENS/",
+        "text": "Facebook",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.instagram.com/seaform_kitchens/",
+        "text": "Instagram",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.pinterest.com/seaform_kitchens",
+        "text": "Pinterest",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.linkedin.com/company/seaformkitchens/about/",
+        "text": "Linkedin",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      }
+    ],
+    "iframes": [
+      {
+        "src": "about:blank",
+        "title": "_hjSafeContext",
+        "id": "_hjSafeContext_71858376",
+        "allow": ""
+      },
+      {
+        "src": "",
+        "title": "",
+        "id": "",
+        "allow": ""
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://seaform.com/wp-content/uploads/2021/08/seaform_home.m4v",
+        "poster": false,
+        "autoplay": true,
+        "muted": true,
+        "loop": true,
+        "controls": false,
+        "sources": []
+      }
+    ],
+    "scripts": [
+      "https://scripts.clarity.ms/0.8.72-beta/clarity.js",
+      "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+      "https://connect.facebook.net/signals/config/6149661951771957?v=2.9.427&r=stable&domain=www.seaform.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.clarity.ms/tag/j1o33t9lpr?ref=gtm2",
+      "https://www.googletagmanager.com/gtag/js?id=G-80QZ6KQTKG&cx=c&gtm=4e6al1",
+      "https://www.googletagmanager.com/gtag/js?id=AW-10781790144&cx=c&gtm=4e6al1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WC723CB",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.seaform.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.seaform.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/js.cookie.js?ver=7.1.3",
+      "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/handl-utm-grabber.js?ver=7.1.3",
+      "https://static.hotjar.com/c/hotjar-3207225.js?sv=6",
+      "https://script.hotjar.com/modules.fe0d6537f87c9cb831d4.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10781790144/?random=1793003839925&cv=11&fst=1793003839925&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2F&rcb=15&frm=0&tiba=SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=788560467.1793003840&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://universe-static.elfsightcdn.com/app-releases/all-in-one-chat/stable/v1.25.4/e36d88f7692b30bb852407acaa75b1c589472f7c/widget/allInOneChat.js",
+      "https://apps.elfsight.com/p/platform.js",
+      "https://www.seaform.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://www.seaform.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6",
+      "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro-form-widget-pipedrive-integration/resources/compiled/theme/js/app.js?id=120c696893da2ebff2ac0949e663b8f5",
+      "https://www.seaform.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.0.24",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/navigation-menu/plus-nav-menu.min.js?ver=1791983003",
+      "https://www.seaform.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.14.2",
+      "https://www.seaform.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2",
+      "https://www.seaform.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.9",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "https://www.seaform.com/wp-content/plugins/jet-elements/assets/js/lib/lottie/lottie.min.js?ver=5.6.10",
+      "https://www.seaform.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=7.1.3",
+      "https://www.seaform.com/wp-content/plugins/events-tracker-for-elementor/frontend/js/app.js?ver=1747932072",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.7.6",
+      "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/wrapper-link/plus-section-column-link.min.js?ver=6.3.5",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3"
+    ],
+    "stylesheets": [
+      "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+      "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.min.css?ver=1791983003",
+      "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-alignmnet.css?ver=1791983003",
+      "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/navigation-menu/plus-nav-menu.min.css?ver=1791983003",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0",
+      "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.29.0",
+      "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-160.css?ver=1790079605",
+      "https://www.seaform.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.7.6",
+      "https://www.seaform.com/wp-content/plugins/jet-elements/assets/css/addons/jet-lottie.css?ver=2.7.6",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-7.css?ver=1791983003",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-1022.css?ver=1790154091",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-223.css?ver=1790079879",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-2464.css?ver=1790079879",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-3134.css?ver=1790079605",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-2992.css?ver=1790079605",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-2671.css?ver=1791222314",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-2469.css?ver=1790079605",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-2467.css?ver=1790079606",
+      "https://www.seaform.com/wp-content/uploads/elementor/css/post-2465.css?ver=1790079606"
+    ],
+    "largeVisibleMenuEls": 70,
+    "htmlSnippet": 366299
+  },
+  "storage": {
+    "cookies": [
+      {
+        "name": "handl_landing_page",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779837.619169,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "https%3A%2F%2Fwww.seaform.com%2F"
+      },
+      {
+        "name": "handl_ip",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779837.619274,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "103.118.152.4"
+      },
+      {
+        "name": "handl_url_base",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779837.619292,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "https%3A%2F%2Fwww.seaform.com%2F"
+      },
+      {
+        "name": "handl_url",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779837.619328,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "https%3A%2F%2Fwww.seaform.com%2F"
+      },
+      {
+        "name": "HandLtestDomainName",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "HandLtestDomainValue"
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".bzrcdn.openai.com",
+        "path": "/",
+        "expires": 1793005639.755743,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "fv8d3zRpl7Uz4LAtyD9bPOBB18PAoX4xZFUHGiZWp5s-1793003839.7538736-1.0.1.1-Hytvp9QjxSpLXGx_UHR9xsw_sDoexFc4.PTjneEaNtI5oBTmk"
+      },
+      {
+        "name": "_cfuvid",
+        "domain": ".bzrcdn.openai.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "KQyHjXrWVHsNMwL1DW.MACFkRhZ6IDJlIcQka6kekjc-1793003839.7538736-1.0.1.1-._WiI1wPXwjidbKXRqnjDcHjDos3qWzMilVWx3P56eA"
+      },
+      {
+        "name": "_ga_80QZ6KQTKG",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1827563839.851404,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "GS2.1.s1793003839$o1$g0$t1793003839$j60$l0$h268346836"
+      },
+      {
+        "name": "_ga",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1827563839.85202,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "GA1.1.1948001397.1793003840"
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779839,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "1.1.788560467.1793003840"
+      },
+      {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expires": 1824539839.935246,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "b0ef2b8c95514b47b1f545f661de5caa.20261026.20271026"
+      },
+      {
+        "name": "__obref",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1824539839.966377,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "e410ffa3-e145-47da-8532-19ad626a87ce"
+      },
+      {
+        "name": "test_cookie",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expires": 1793004740.286107,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "CheckForPermission"
+      },
+      {
+        "name": "_fbp",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779840,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "fb.1.1793003840295.283025290302363308"
+      },
+      {
+        "name": "li_sugr",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expires": 1800779841.442252,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "13342c71-37d3-4ccb-8c2d-2045b8b7e966"
+      },
+      {
+        "name": "bcookie",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expires": 1824539841.44231,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "\"v=2&428722c4-ee8d-4a01-8cf5-f3067b116935\""
+      },
+      {
+        "name": "lidc",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expires": 1793090240.390138,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "\"b=OGST02:s=O:r=O:a=O:p=O:g=3865:u=1:x=1:i=1793003840:t=1793090240:v=2:sig=AQEIK5lz8MmnaD47kLs8jFhp-l3PrHdK\""
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expires": 1793005640.390156,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "7qI2HEeQ7DmSzdmGSB4CFmeerWwJv.KD2drkyBDFStw-1793003840.1618052-1.0.1.1-AucwWEOaD5pqIXvAl7EPspot0Knwtq.u_oXjIXG3nQ5pdMiyB"
+      },
+      {
+        "name": "fr",
+        "domain": ".facebook.com",
+        "path": "/",
+        "expires": 1800779840.397485,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "08nS3m9rf9PrZTXHt..Bq3xFA...1.0.Bq3xFA.AWfvVRhucfIjDqOXIXpqTRzqWOM"
+      },
+      {
+        "name": "_clck",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1824539840,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "1im7bwj%5E2%5Egam%5E0%5E2490"
+      },
+      {
+        "name": "UserMatchHistory",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expires": 1795595840.68503,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "AQJn-4RlyvPwBQAAAaF3W2RA0kXmjZD963SpbIs-xhqjsjb0NLLiVYEByzIBDIGeHLx1EpSHE0SK_g"
+      },
+      {
+        "name": "AnalyticsSyncHistory",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expires": 1795595840.685058,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "AQIJkyMWgA5S0AAAAaF3W2RAR3hm90hmEtbMV44ZQ0nkn69M_8Zha_nhRilLp9ched-Wn7s794WF70j_zg0HQw"
+      },
+      {
+        "name": "bscookie",
+        "domain": ".www.linkedin.com",
+        "path": "/",
+        "expires": 1824539841.137548,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "\"v=1&2026102608372135df07f2-e301-403a-87b0-07cc64161fa6AQG2M_yHx2ob0uwFaQWo-JMx1LbC-qpK\""
+      },
+      {
+        "name": "_hjSessionUser_3207225",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1824539841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "eyJpZCI6IjY3YjM2ZmJjLWM2ZGEtNTM2ZS05NTI3LTNmNzJiYWZhYzgzNyIsImNyZWF0ZWQiOjE3OTMwMDM4NDEzMTAsImV4aXN0aW5nIjpmYWxzZX0="
+      },
+      {
+        "name": "_hjSession_3207225",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1793005641,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "eyJpZCI6ImExZDc2MjhkLWIxZGUtNDA1YS04MmE0LTg2OWU3NTg2ZGQ4MyIsImMiOjE3OTMwMDM4NDEzMTEsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwi"
+      },
+      {
+        "name": "handlID",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "132444891621"
+      },
+      {
+        "name": "handl_ref",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": ""
+      },
+      {
+        "name": "handl_ref_domain",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": ""
+      },
+      {
+        "name": "handl_landing_page_base",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "https://www.seaform.com/"
+      },
+      {
+        "name": "handl_original_ref",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": ""
+      },
+      {
+        "name": "organic_source",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": ""
+      },
+      {
+        "name": "organic_source_str",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "Direct"
+      },
+      {
+        "name": "traffic_source",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "Direct"
+      },
+      {
+        "name": "first_traffic_source",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1800779841,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "Direct"
+      },
+      {
+        "name": "user_agent",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax",
+        "value": "Mozilla/5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML%2C%20like%20Gecko)%20Chrome/131.0.0.0%20Safari/537"
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".www.seaform.com",
+        "path": "/",
+        "expires": 1793005641.496023,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "Q6qNkm227m61ylVRKzYnbErvfMZ903m5wYaNhZnv9no-1793003841.4636889-1.0.1.1-ulDvQGiCKuqmaXAUs6er7Y4L4.4iujw5IlwAYGw1DZr5w1KEZ"
+      },
+      {
+        "name": "elfsight_viewed_recently",
+        "domain": "core.service.elfsight.com",
+        "path": "/",
+        "expires": 1793003856.83962,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "1"
+      },
+      {
+        "name": "_cfuvid",
+        "domain": ".elfsight.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "SGbvZebj1aOAEmfFKVsKiD6ALnv7YEcjNwEEQcGmgHE-1793003841.5990226-1.0.1.1-vw.JRHDd.UYJHP_0QD6T7FJTBFsakFgGTzAHcwTbkks"
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".seaform.com",
+        "path": "/",
+        "expires": 1793005642.051853,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "WeJP1y4KlQ0MoYW2VjkMlg2vHbSd6xKsjYu6Yg7WX4g-1793003841.8505857-1.0.1.1-nMwcNHNfEQEdt_RNzwunnyT8yFBo6kfMkuZun4ToH33NQFid1"
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".files.elfsightcdn.com",
+        "path": "/",
+        "expires": 1793005643.380098,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None",
+        "value": "GG0Dx3w7d4QYqEVO.8hEbVcinspZLHP23I.tzHa.P4Y-1793003843.3767033-1.0.1.1-ZflXDUtXx_wdUUN5glzcNsblJIIDlkEbuOCvYcexB52SWOcCx"
+      },
+      {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expires": 1826699843.955336,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "3F416C12C6D061FE35A57BECC728600E"
+      },
+      {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expires": 1793608643.95539,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "0"
+      },
+      {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expires": 1826699843.955409,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "3F416C12C6D061FE35A57BECC728600E"
+      },
+      {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "C"
+      },
+      {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expires": 1826699844.114889,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "3F416C12C6D061FE35A57BECC728600E"
+      },
+      {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expires": 1793608644.114915,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "0"
+      },
+      {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expires": 1793004444.114928,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "value": "0"
+      }
+    ],
+    "local": {
+      "lastExternalReferrerTime": "1793003840271",
+      "elementor": "{\"__expiration\":{},\"pageViews\":1,\"sessions\":1,\"popup_2671_times\":1,\"times\":1}",
+      "lastExternalReferrer": "empty",
+      "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1793003839929},\"expires\":1800779839929},\"gsid_dc\":{\"value\":{\"joinId\":\"4w-bALtkFC-ZG2d8pSVwRWAy_N9U2-BQdw\",\"lastJoinedTimeMs\":1793003839934},\"expires\":1793004139934}}",
+      "li_adsId": "07333825-9064-4d5e-ad98-31453b488d90",
+      "AllInOneChat.startTime.51ab6bd9-a892-4b3b-8a46-3b3a4f713d6d": "{\"value\":\"14:37\",\"timestamp\":1793003843016}"
+    },
+    "session": {
+      "wpEmojiSettingsSupports": "{\"supportTests\":{\"flag\":true,\"emoji\":true},\"timestamp\":1793003841743}",
+      "elementor": "{\"__expiration\":{},\"activeSession\":true}",
+      "_cltk": "k29cyi"
+    },
+    "indexedDB": []
+  },
+  "network": {
+    "total": 189,
+    "byDomain": [
+      {
+        "domain": "www.seaform.com",
+        "count": 135
+      },
+      {
+        "domain": "px.ads.linkedin.com",
+        "count": 6
+      },
+      {
+        "domain": "www.google.com",
+        "count": 6
+      },
+      {
+        "domain": "static.elfsight.com",
+        "count": 4
+      },
+      {
+        "domain": "j.clarity.ms",
+        "count": 4
+      },
+      {
+        "domain": "www.googletagmanager.com",
+        "count": 3
+      },
+      {
+        "domain": "seaform.com",
+        "count": 2
+      },
+      {
+        "domain": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "domain": "bzrcdn.openai.com",
+        "count": 2
+      },
+      {
+        "domain": "www.google.com.bd",
+        "count": 2
+      },
+      {
+        "domain": "ad.doubleclick.net",
+        "count": 2
+      },
+      {
+        "domain": "bzr.openai.com",
+        "count": 2
+      },
+      {
+        "domain": "c.clarity.ms",
+        "count": 2
+      },
+      {
+        "domain": "apps.elfsight.com",
+        "count": 1
+      },
+      {
+        "domain": "snap.licdn.com",
+        "count": 1
+      },
+      {
+        "domain": "static.hotjar.com",
+        "count": 1
+      },
+      {
+        "domain": "script.hotjar.com",
+        "count": 1
+      },
+      {
+        "domain": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "domain": "analytics.google.com",
+        "count": 1
+      },
+      {
+        "domain": "stats.g.doubleclick.net",
+        "count": 1
+      },
+      {
+        "domain": "googleads.g.doubleclick.net",
+        "count": 1
+      },
+      {
+        "domain": "scripts.clarity.ms",
+        "count": 1
+      },
+      {
+        "domain": "www.facebook.com",
+        "count": 1
+      },
+      {
+        "domain": "www.linkedin.com",
+        "count": 1
+      },
+      {
+        "domain": "core.service.elfsight.com",
+        "count": 1
+      },
+      {
+        "domain": "vc.hotjar.io",
+        "count": 1
+      },
+      {
+        "domain": "universe-static.elfsightcdn.com",
+        "count": 1
+      },
+      {
+        "domain": "files.elfsight.com",
+        "count": 1
+      },
+      {
+        "domain": "files.elfsightcdn.com",
+        "count": 1
+      },
+      {
+        "domain": "c.bing.com",
+        "count": 1
+      }
+    ],
+    "byType": [
+      {
+        "type": "script",
+        "count": 62
+      },
+      {
+        "type": "stylesheet",
+        "count": 54
+      },
+      {
+        "type": "image",
+        "count": 37
+      },
+      {
+        "type": "font",
+        "count": 12
+      },
+      {
+        "type": "xhr",
+        "count": 10
+      },
+      {
+        "type": "fetch",
+        "count": 9
+      },
+      {
+        "type": "ping",
+        "count": 3
+      },
+      {
+        "type": "document",
+        "count": 1
+      },
+      {
+        "type": "media",
+        "count": 1
+      }
+    ],
+    "nonGet": [
+      {
+        "id": 134,
+        "flow": "baseline",
+        "ts": 2873,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793003838582&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=268346836&_eu=EAAAAGAC&cid=1948001397.1793003840&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=18&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003839&sct=1&seg=0&dl=https%3A%2F%2Fwww.seaform.com%2F&dt=SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2781",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 135,
+        "flow": "baseline",
+        "ts": 2875,
+        "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-80QZ6KQTKG&cid=1948001397.1793003840&gtm=45je6al1v9101307567za20ozb9101326777zd9101326777xf1&rcb=18&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 138,
+        "flow": "baseline",
+        "ts": 2883,
+        "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793003838582&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=268346836&_eu=EAAAAGAC&cid=1948001397.1793003840&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=18&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003839&sct=1&seg=0&dl=https%3A%2F%2Fwww.seaform.com%2F&dt=SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2781",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 140,
+        "flow": "baseline",
+        "ts": 2973,
+        "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793003839925&cv=11&fst=1793003839925&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2F&rcb=15&frm=0&tiba=SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=788560467.1793003840&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 141,
+        "flow": "baseline",
+        "ts": 2974,
+        "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&auid=788560467.1793003840&dt=SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2F&scrsrc=www.googletagmanager.com&rnd=2079532326.1793003840&navt=n&npa=0&gtm=45be6al1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793003839955&tfd=2881&tids=AW-10781790144&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 142,
+        "flow": "baseline",
+        "ts": 2974,
+        "url": "https://ad.doubleclick.net/ccm/s/collect?auid=788560467.1793003840&gtm=45be6al1v9260470631za20ozb9101326777zd9101326777xecxf1&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 154,
+        "flow": "baseline",
+        "ts": 3815,
+        "url": "https://j.clarity.ms/collect",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003콋v#Ǒ(�+X�h��)��~P�}W#�c]ے����ݽ<\u0005�@�\u001b/\u0003`7�:��~�~�~ɞ�̪�(\u0014@�\b�ػ�l��Ȉ�̌��Gd���bx�z�.܅\u0015�q�ˇ\u0019�Xƅ͆�+)w~��\f�!/\u0017v��/�l�\u001e�|Y�r���v�[o�./?|�p�-��j����\u0016�÷�0\u001f^�~-L�2�\u0014�8Sƿ�^k�q\u001e@��\u0000\u0010.�o��P�T�p��^�w�n��\u001eޮ\u0016\u0005�[�7����H��^�\u0013�f�lȆo#\u000f\u0010���\u000f����y~�/������\u0007�/�w��{g���r��z=/��\u0018���]ji/�\u0019|����\u000f��\u0006��]1��b�n������jQ\\r�/\u0018�3�)��2�\f�f\u001c�9�\u000f2{=��o~���0\u0018\r���,���w�nr[,��\u001a�G��nV�b;\u0018\r��rR\f��v�6���a�\u001c��OP��^\u000f�\t?�X�/���܇b�",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 155,
+        "flow": "baseline",
+        "ts": 3845,
+        "url": "https://j.clarity.ms/collect",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "{\"e\":[\"0.8.72-beta\",1,0,127,\"j1o33t9lpr\",\"1im7bwj\",\"pb8ani\",1,0,0,0,\"https://www.seaform.com/\"],\"a\":[[26,8,1440,10469],[57,11,1440,900],[57,28,1],[127,34,\"lp_market\",[\"home\"],\"page_type\",[\"home\"],\"C_IS\",[\"0\",\"0\"]],[127,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com/\"],3,[\"SEAFORM - German Kitchens & Wardrobe",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 156,
+        "flow": "baseline",
+        "ts": 3894,
+        "url": "https://j.clarity.ms/collect",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "{\"e\":[\"0.8.72-beta\",1,0,127,\"j1o33t9lpr\",\"1im7bwj\",\"pb8ani\",1,0,0,0,\"https://www.seaform.com/\"],\"a\":[[26,8,1440,10469],[57,11,1440,900],[57,28,1],[127,34,\"lp_market\",[\"home\"],\"page_type\",[\"home\"],\"C_IS\",[\"0\",\"0\"]],[127,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com/\"],3,[\"SEAFORM - German Kitchens & Wardrobe",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 157,
+        "flow": "baseline",
+        "ts": 3897,
+        "url": "https://j.clarity.ms/collect",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "{\"e\":[\"0.8.72-beta\",2,127,60,\"j1o33t9lpr\",\"1im7bwj\",\"pb8ani\",1,1,1,0,\"https://www.seaform.com/\"],\"a\":[[146,2,1,1,0],[176,2,1,2,0],[127,4,1,1440,10469,1440,900,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[187,0,2,59745,4,7,25,5],[187,35,3]]}",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 159,
+        "flow": "baseline",
+        "ts": 4236,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793003841219&ec=2",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"e410ffa3-e145-47da-8532-19ad626a87ce\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793003839967,\"id\":\"5955aa61-8307-4391-a024-8a6226acfa66\",\"source_url\":\"https://www.seaform.com/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793003839968,\"id\":\"98da4402-d18b-4c84-a8e6-5f3f19250db6\",\"data\":{\"type\":\"diagnost",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 171,
+        "flow": "baseline",
+        "ts": 4610,
+        "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qZQ09SVrLkf7rtIVlMU1KyS3IIpYykcVbUll1LSwkh373sJoQcH4/5vTfvFZbgE5gnpXXdSf2LQXJrWPIDrSnMEYwUQgjVMchhIjCy6ZQQqtWyaisGfp4wRDCQCId5na7cPAGD0zqCgWPOSzKbzRdvAwz+kU0h0z48Rxzv6e+JUu49GKCyGupWS661F7xUneJtJQVH6WuqpffODsBgwWe6ndFfblqkUjY0cFuR5Vp2nredVxwJNdrGCtt6YBDSYcWYRszkwQw4JmIwhht8T4az2AWM+V1MITkwr7Aku8+YCQzXb2fKbYh/yPdxuyyfmHOfQ8gjgYH99fbm7v5HwYsdrRPG4nvI7kgxFd+KR1z9OltKBS9SiI4K",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 172,
+        "flow": "baseline",
+        "ts": 4677,
+        "url": "https://www.seaform.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.6719809582932841:1793002215:U_0SA1USmBxC6H0TV-wAoAFbpmwLBHoYKITzfsX95Cs/a508235ed94d5644",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "XdcAfFNzs4AGqez2m0SNAaieGnVO+7SFmkG7N3zUv+kY$96jqoN8y0wib65m2s50gSAdp9SZ0zU+xuIgy-UfkWqTqgcP9tZUBu2QN-+MjxQtMXhVgy2FMce4iPLiHOS1vOikTYEb41dq19nkXUbqv3n8-GNkv9tkHTIFreu1io2zCAuP6UB3pLYKwtR+LkUuqzlYOIYMSCyYwA9inQVWQCP5lkuoIaW9Is7BkXOARkw6sbMvuRe-3uicCOeQGTxfAhFFe75f8Ql-LSUVelIB7BiSqc3AZ6f9yA6oYarIzb65poUtXO$BEZVvf0K74$8YjStG0-2eMviRove4WqX-usz+tqdMhwITNpihzji6Fafu8TzixtolM+2Vm8sUyut27GYxSYauW8W-DKO8",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 173,
+        "flow": "baseline",
+        "ts": 4705,
+        "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qZQ09SVrLkf7rtIVlMU1KyS3IIpYykcVbUll1LSwkh373sJoQcH4/5vTfvFZbgE5gnpXXdSf2LQXJrWPIDrSnMEYwUQgjVMchhIjCy6ZQQqtWyaisGfp4wRDCQCId5na7cPAGD0zqCgWPOSzKbzRdvAwz+kU0h0z48Rxzv6e+JUu49GKCyGupWS661F7xUneJtJQVH6WuqpffODsBgwWe6ndFfblqkUjY0cFuR5Vp2nredVxwJNdrGCtt6YBDSYcWYRszkwQw4JmIwhht8T4az2AWM+V1MITkwr7Aku8+YCQzXb2fKbYh/yPdxuyyfmHOfQ8gjgYH99fbm7v5HwYsdrRPG4nvI7kgxFd+KR1z9OltKBS9SiI4K",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 189,
+        "flow": "baseline",
+        "ts": 9485,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793003846468&ec=2",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"e410ffa3-e145-47da-8532-19ad626a87ce\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793003839967,\"id\":\"5955aa61-8307-4391-a024-8a6226acfa66\",\"source_url\":\"https://www.seaform.com/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793003839968,\"id\":\"98da4402-d18b-4c84-a8e6-5f3f19250db6\",\"data\":{\"type\":\"diagnost",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      }
+    ]
+  }
+}

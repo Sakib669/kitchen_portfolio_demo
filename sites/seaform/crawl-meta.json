@@ -1,0 +1,158 @@
+{
+  "site": "seaform",
+  "pages": [
+    {
+      "path": "/about-seaform",
+      "label": "About",
+      "slug": "about-seaform",
+      "title": "About | SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1754,
+      "sections": 16,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/contact-us",
+      "label": "Contact",
+      "slug": "contact-us",
+      "title": "Contact Us | SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1443,
+      "sections": 3,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/",
+      "label": "Home",
+      "slug": "home",
+      "title": "SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1724,
+      "sections": 13,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/kitchen-collections",
+      "label": "Kitchen Collections",
+      "slug": "kitchen-collections",
+      "title": "Kitchen Collection | SEAFORM - German Kitchens & Wardrobes since 1917",
+      "status": 200,
+      "elements": 1465,
+      "sections": 7,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/kitchen-collections/hamptons",
+      "label": "Hamptons Collection",
+      "slug": "kitchen-collections-hamptons",
+      "title": "Hamptons - SEAFORM",
+      "status": 200,
+      "elements": 2021,
+      "sections": 16,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/kitchen-interiors",
+      "label": "Kitchen Interiors",
+      "slug": "kitchen-interiors",
+      "title": "Interiors Kitchen | SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1757,
+      "sections": 21,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/kitchen-materials-colors",
+      "label": "Materials & Colours",
+      "slug": "kitchen-materials-colors",
+      "title": "Kitchen Materials & Colors | SEAFORM",
+      "status": 200,
+      "elements": 2113,
+      "sections": 25,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/manufacturing",
+      "label": "Manufacturing",
+      "slug": "manufacturing",
+      "title": "Manufacturing - SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1421,
+      "sections": 12,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/projects",
+      "label": "Projects",
+      "slug": "projects",
+      "title": "Projects - SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1513,
+      "sections": 15,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/the-brand",
+      "label": "The Brand",
+      "slug": "the-brand",
+      "title": "The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "status": 200,
+      "elements": 1495,
+      "sections": 10,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    },
+    {
+      "path": "/wardrobe-collections",
+      "label": "Wardrobes",
+      "slug": "wardrobe-collections",
+      "title": "Wardrobe Collections | SEAFORM - German Kitchens & Wardrobes",
+      "status": 200,
+      "elements": 1378,
+      "sections": 7,
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ]
+    }
+  ],
+  "pageCount": 11,
+  "resumedRuns": true,
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "capturedAt": "2026-10-26",
+  "note": "crawl-meta lists the final snapshot set; pages were captured across resumed runs."
+}

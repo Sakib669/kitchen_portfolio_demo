@@ -1,0 +1,122 @@
+/* ============================================================
+   My Kitchen — design tokens (reverse-engineered)
+   Source: https://www.mykitchen-bd.com · 2026-10-26
+   Values observed from computed styles + CSS custom properties.
+   ============================================================ */
+
+:root {
+  /* ---- brand & accents ---- */
+  --mykitchen-bd-brand-100: #e84538; /* red */
+
+  /* ---- neutrals ---- */
+  --mykitchen-bd-neutral-1: #000000; /* L0 */
+  --mykitchen-bd-neutral-2: #1c1c1c; /* L11 */
+  --mykitchen-bd-neutral-3: #444444; /* L27 */
+  --mykitchen-bd-neutral-4: #646464; /* L39 */
+  --mykitchen-bd-neutral-5: #939494; /* L58 */
+  --mykitchen-bd-neutral-6: #9ca3af; /* L65 */
+  --mykitchen-bd-neutral-7: #d1d5db; /* L84 */
+  --mykitchen-bd-neutral-8: #e6e6e6; /* L90 */
+  --mykitchen-bd-neutral-9: #f5f5f5; /* L96 */
+  --mykitchen-bd-neutral-10: #ffffff; /* L100 */
+
+  /* ---- surfaces & text ---- */
+  --mykitchen-bd-surface-mist: #f5f5f5;
+  --mykitchen-bd-surface-black: #000000;
+  --mykitchen-bd-surface-white: #ffffff;
+  --mykitchen-bd-surface-mist-2: #e6e6e6;
+  --mykitchen-bd-surface-ink: #1c1c1c;
+  --mykitchen-bd-surface-red: #e84538;
+  --mykitchen-bd-surface-black-2: #010202;
+  --mykitchen-bd-surface-mist-3: #ebebeb;
+
+  --mykitchen-bd-text-mist: #f5f5f5;
+  --mykitchen-bd-text-black: #000000;
+  --mykitchen-bd-text-white: #ffffff;
+  --mykitchen-bd-text-ink: #1c1c1c;
+  --mykitchen-bd-text-red: #e84538;
+  --mykitchen-bd-text-black-2: #010202;
+
+  /* ---- type scale ---- */
+  --mykitchen-bd-font-size-72: 72px; /* w400, lh 72px */
+  --mykitchen-bd-font-size-72: 72px; /* w500, lh 72px */
+  --mykitchen-bd-font-size-72: 72px; /* w700, lh 72px */
+  --mykitchen-bd-font-size-48: 48px; /* w400, lh 48px */
+  --mykitchen-bd-font-size-48: 48px; /* w700, lh 48px */
+  --mykitchen-bd-font-size-36: 36px; /* w700, lh 40px */
+  --mykitchen-bd-font-size-36: 36px; /* w400, lh 40px */
+  --mykitchen-bd-font-size-30: 30px; /* w400, lh 36px */
+  --mykitchen-bd-font-size-24: 24px; /* w700, lh 32px */
+  --mykitchen-bd-font-size-20: 20px; /* w700, lh 28px */
+  --mykitchen-bd-font-size-20: 20px; /* w300, lh 28px */
+  --mykitchen-bd-font-size-20: 20px; /* w500, lh 28px */
+  --mykitchen-bd-font-size-20: 20px; /* w400, lh 28px */
+  --mykitchen-bd-font-size-18: 18px; /* w400, lh 28px */
+  --mykitchen-bd-font-size-18: 18px; /* w500, lh 28px */
+  --mykitchen-bd-font-size-18: 18px; /* w700, lh 28px */
+  --mykitchen-bd-font-size-16: 16px; /* w700, lh 24px */
+  --mykitchen-bd-font-size-16: 16px; /* w400, lh 24px */
+  --mykitchen-bd-font-size-16: 16px; /* w600, lh 24px */
+  --mykitchen-bd-font-size-16: 16px; /* w500, lh 24px */
+  --mykitchen-bd-font-size-14: 14px; /* w400, lh 20px */
+  --mykitchen-bd-font-size-14: 14px; /* w700, lh 20px */
+  --mykitchen-bd-font-size-14: 14px; /* w500, lh 20px */
+
+  /* ---- spacing ---- */
+  --mykitchen-bd-space-2: 2px;
+  --mykitchen-bd-space-2.5: 2.5px;
+  --mykitchen-bd-space-3: 3px;
+  --mykitchen-bd-space-3.5: 3.5px;
+  --mykitchen-bd-space-4: 4px;
+  --mykitchen-bd-space-5: 5px;
+  --mykitchen-bd-space-6: 6px;
+  --mykitchen-bd-space-7: 7px;
+  --mykitchen-bd-space-8: 8px;
+  --mykitchen-bd-space-9: 9px;
+  --mykitchen-bd-space-10: 10px;
+  --mykitchen-bd-space-16: 16px;
+  --mykitchen-bd-space-80: 80px;
+  --mykitchen-bd-space-96: 96px;
+  --mykitchen-bd-space-144: 144px;
+
+  /* ---- radius ---- */
+  --mykitchen-bd-radius-1: 0;
+  --mykitchen-bd-radius-2: 4px;
+  --mykitchen-bd-radius-3: .5rem;
+  --mykitchen-bd-radius-4: .375rem;
+  --mykitchen-bd-radius-5: 9999px;
+  --mykitchen-bd-radius-6: 50%;
+  --mykitchen-bd-radius-7: .25rem;
+  --mykitchen-bd-radius-8: var(--border-radius);
+  --mykitchen-bd-radius-9: 6px;
+  --mykitchen-bd-radius-10: 0!important;
+
+  /* ---- shadow ---- */
+  --mykitchen-bd-shadow-1: var(--tw-ring-offset-shadow,0 0 #0000), var(--tw-ring-shadow,0 0 #0000), var(--tw-shadow);
+  --mykitchen-bd-shadow-2: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow,0 0 #0000);
+  --mykitchen-bd-shadow-3: 0 4px 12px #0000001a,0 0 0 2px #0003;
+  --mykitchen-bd-shadow-4: none;
+  --mykitchen-bd-shadow-5: 0 4px 12px #0000001a;
+  --mykitchen-bd-shadow-6: 0 0 0 2px #0006;
+  --mykitchen-bd-shadow-7: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+
+  /* ---- motion ---- */
+  --mykitchen-bd-duration-1: .15s;
+  --mykitchen-bd-duration-2: .2s;
+  --mykitchen-bd-duration-3: .4s;
+  --mykitchen-bd-duration-4: .3s;
+  --mykitchen-bd-duration-5: .5s;
+  --mykitchen-bd-duration-6: .7s;
+  --mykitchen-bd-ease-1: ease;
+  --mykitchen-bd-ease-2: cubic-bezier(0.75, -0.02, 0.2, 0.97);
+}
+
+/* ---- breakpoints (observed) ---- */
+@media (min-width:640) { /* 10 rules */ }
+@media (min-width:768) { /* 10 rules */ }
+@media (min-width:1024) { /* 10 rules */ }
+@media (min-width:1280) { /* 10 rules */ }
+@media (min-width:1400) { /* 10 rules */ }
+@media (min-width:1536) { /* 10 rules */ }
+@media (min-width:1600) { /* 10 rules */ }
+@media (min-width:1750) { /* 10 rules */ }

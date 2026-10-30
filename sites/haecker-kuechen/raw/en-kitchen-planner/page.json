@@ -1,0 +1,5932 @@
+{
+  "url": "https://www.haecker-kuechen.com/en/kitchen-planner",
+  "title": "The kitchen planner - plan your kitchen quickly & easily",
+  "description": "Design and plan your new dream kitchen easily online. Easy with the free 3D kitchen planner from Häcker Küchen. Find out more now!",
+  "lang": "en-US",
+  "viewportMeta": "width=device-width,initial-scale=1",
+  "themeColor": "#000000",
+  "generator": "",
+  "ogImage": "",
+  "doc": {
+    "width": 1440,
+    "height": 900,
+    "scrollHeight": 5304,
+    "scrollY": 0,
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+    "bodyFontSize": "18px",
+    "htmlFontSize": "18px",
+    "scrollBehavior": "auto",
+    "bodyMaxWidth": "none",
+    "overflowX": "hidden"
+  },
+  "counts": {
+    "elements": 917,
+    "images": 46,
+    "svgs": 0,
+    "videos": 0,
+    "iframes": 0,
+    "buttons": 3,
+    "links": 156,
+    "forms": 1,
+    "sections": 9,
+    "divs": 221
+  },
+  "fonts": [
+    {
+      "family": "Font Awesome 6 Brands",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Font Awesome 6 Pro",
+      "weight": "900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Font Awesome 6 Pro",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "ACaslonPro",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "ACaslonPro",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "ACaslonPro",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Nunito Sans",
+      "weight": "800",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "pass",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "swiper-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "colors": {
+    "bg": [
+      {
+        "key": "#ffffff",
+        "weight": 15416244,
+        "count": 5,
+        "tags": {
+          "body": 1,
+          "div": 2,
+          "a": 2
+        },
+        "samples": [
+          "body.header-initial-colored mm-wrapper header-pinned",
+          "div.mm-page mm-slideout",
+          "a.btn btn-primary lightbox"
+        ]
+      },
+      {
+        "key": "#f7f7f7",
+        "weight": 2581651,
+        "count": 3,
+        "tags": {
+          "div": 3
+        },
+        "samples": [
+          "div.bg-container bg-c bg-c-lightgrey"
+        ]
+      },
+      {
+        "key": "#000000",
+        "weight": 1456350,
+        "count": 7,
+        "tags": {
+          "a": 5,
+          "header": 1,
+          "footer": 1
+        },
+        "samples": [
+          "a.skip-link",
+          "header.fixed-top mm-fixed-top type-megamenu2023 initial-colored bg-black dh top notbott",
+          "a.btn btn-secondary"
+        ]
+      },
+      {
+        "key": "#f8f8f8",
+        "weight": 221400,
+        "count": 5,
+        "tags": {
+          "div": 5
+        },
+        "samples": [
+          "div.accordion-header"
+        ]
+      }
+    ],
+    "text": [
+      {
+        "key": "#000000",
+        "weight": 3179,
+        "count": 35,
+        "tags": {
+          "h1:36": 1,
+          "p:18": 21,
+          "strong:18": 3,
+          "h2:31": 3,
+          "a:13": 2,
+          "strong:16": 5
+        },
+        "samples": [
+          "Online kitchen planner – plan your kitchen in 3D from the co",
+          "Design your new kitchen to suit your individual needs. With ",
+          "Which front do you prefer? Do you prefer handle-free? Where "
+        ]
+      },
+      {
+        "key": "#a2a2a2",
+        "weight": 583,
+        "count": 40,
+        "tags": {
+          "a:16": 29,
+          "p:16": 3,
+          "div:16": 1,
+          "p:14": 1,
+          "span:14": 6
+        },
+        "samples": [
+          "concept130",
+          "systemat",
+          "Novelties 2026/2027"
+        ]
+      },
+      {
+        "key": "#ffffff",
+        "weight": 364,
+        "count": 22,
+        "tags": {
+          "a:18": 1,
+          "span:15": 9,
+          "a:15": 1,
+          "a:13": 4,
+          "li:18": 5,
+          "div:16": 2
+        },
+        "samples": [
+          "Skip to content",
+          "Inspiration",
+          "Kitchens & more"
+        ]
+      }
+    ],
+    "border": [
+      {
+        "key": "#ffffff",
+        "weight": 7,
+        "count": 7,
+        "tags": {
+          "a": 6,
+          "span": 1
+        },
+        "samples": [
+          "nav-link",
+          "nav-link js-searchbox-trigger",
+          "btn btn-secondary"
+        ]
+      },
+      {
+        "key": "#000000",
+        "weight": 2,
+        "count": 2,
+        "tags": {
+          "a": 2
+        },
+        "samples": [
+          "btn btn-primary lightbox"
+        ]
+      }
+    ],
+    "gradient": [],
+    "varColors": []
+  },
+  "textStyles": [
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 15.84,
+      "weight": "400",
+      "lh": "23.76px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(162, 162, 162)",
+      "count": 32,
+      "tags": {
+        "a": 29,
+        "p": 3
+      },
+      "sample": "concept130"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 18,
+      "weight": "400",
+      "lh": "27px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 21,
+      "tags": {
+        "p": 21
+      },
+      "sample": "Design your new kitchen to suit your individual needs. With Häcker's free 3D kit"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 13.86,
+      "weight": "400",
+      "lh": "20.79px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(162, 162, 162)",
+      "count": 7,
+      "tags": {
+        "p": 1,
+        "span": 6
+      },
+      "sample": "© Häcker Küchen 2026"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 16,
+      "weight": "700",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 5,
+      "tags": {
+        "strong": 5
+      },
+      "sample": "How do I begin planning my kitchen?"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 18,
+      "weight": "400",
+      "lh": "27px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 5,
+      "tags": {
+        "li": 5
+      },
+      "sample": "Kitchens"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 15,
+      "weight": "800",
+      "lh": "19.4992px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 4,
+      "tags": {
+        "span": 4
+      },
+      "sample": "Inspiration"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 15,
+      "weight": "400",
+      "lh": "19.4992px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 4,
+      "tags": {
+        "span": 4
+      },
+      "sample": "Kitchens & more"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 12.6,
+      "weight": "600",
+      "lh": "15.12px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 4,
+      "tags": {
+        "a": 4
+      },
+      "sample": "Directly to the kitchen planner"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 18,
+      "weight": "700",
+      "lh": "27px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 3,
+      "tags": {
+        "strong": 3
+      },
+      "sample": "Plan your dream kitchen yourself now, quickly and free of charge!"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 30.6,
+      "weight": "600",
+      "lh": "36.72px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 3,
+      "tags": {
+        "h2": 3
+      },
+      "sample": "Step by step to your own kitchen design"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 15,
+      "weight": "400",
+      "lh": "22.4991px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 2,
+      "tags": {
+        "a": 1,
+        "span": 1
+      },
+      "sample": "Kitchen planner"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 12.6,
+      "weight": "600",
+      "lh": "15.12px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 2,
+      "tags": {
+        "a": 2
+      },
+      "sample": "Find a dealer"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 18,
+      "weight": "700",
+      "lh": "27px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 1,
+      "tags": {
+        "a": 1
+      },
+      "sample": "Skip to content"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 15,
+      "weight": "400",
+      "lh": "22.4991px",
+      "ls": "normal",
+      "transform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "count": 1,
+      "tags": {
+        "span": 1
+      },
+      "sample": "en"
+    },
+    {
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 36,
+      "weight": "500",
+      "lh": "43.2px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 1,
+      "tags": {
+        "h1": 1
+      },
+      "sample": "Online kitchen planner – plan your kitchen in 3D from the comfort of your own ho"
+    }
+  ],
+  "displayHeads": [
+    {
+      "key": "36|500|\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"|Online kitchen planner – plan ",
+      "text": "Online kitchen planner – plan your kitchen in 3D from the comfort of your own home",
+      "size": 36,
+      "weight": "500",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "lh": "43.2px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "tag": "h1",
+      "top": 158,
+      "cls": "text-left",
+      "parts": 0
+    },
+    {
+      "key": "31|600|\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"|Step by step to your own kitch",
+      "text": "Step by step to your own kitchen design",
+      "size": 30.6,
+      "weight": "600",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "lh": "36.72px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "tag": "h2",
+      "top": 783,
+      "cls": "",
+      "parts": 0
+    },
+    {
+      "key": "31|600|\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"|You can benefit from this with",
+      "text": "You can benefit from this with Häcker's kitchen planner.",
+      "size": 30.6,
+      "weight": "600",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "lh": "36.72px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "tag": "h2",
+      "top": 2562,
+      "cls": "",
+      "parts": 0
+    },
+    {
+      "key": "31|600|\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"|Questions about individual kit",
+      "text": "Questions about individual kitchen planning",
+      "size": 30.6,
+      "weight": "600",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "lh": "36.72px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "tag": "h2",
+      "top": 3583,
+      "cls": "",
+      "parts": 0
+    }
+  ],
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Online kitchen planner – plan your kitchen in 3D from the comfort of your own home",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 36,
+      "weight": "500",
+      "lh": 43.2,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "top": 158,
+      "cls": "text-left"
+    },
+    {
+      "level": "h2",
+      "text": "Step by step to your own kitchen design",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 30.6,
+      "weight": "600",
+      "lh": 36.72,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "top": 783,
+      "cls": ""
+    },
+    {
+      "level": "h2",
+      "text": "You can benefit from this with Häcker's kitchen planner.",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 30.6,
+      "weight": "600",
+      "lh": 36.72,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "top": 2562,
+      "cls": ""
+    },
+    {
+      "level": "h2",
+      "text": "Questions about individual kitchen planning",
+      "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+      "size": 30.6,
+      "weight": "600",
+      "lh": 36.72,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "top": 3583,
+      "cls": ""
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "row no-gutters",
+      "top": 144,
+      "height": 518,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 1,
+      "heading": "h1: Online kitchen planner – plan your kitchen in 3D from the comfort of your own home",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 1,
+      "links": 1,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 1,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "row no-gutters",
+      "top": 770,
+      "height": 379,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 1,
+      "heading": "h2: Step by step to your own kitchen design",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 2,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "row no-gutters",
+      "top": 1256,
+      "height": 523,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 1,
+      "heading": "",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 1,
+      "links": 1,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 3,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "row no-gutters",
+      "top": 1887,
+      "height": 567,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 1,
+      "heading": "",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 4,
+      "type": "section",
+      "tag": "div",
+      "id": "c176341",
+      "cls": "mcc row cc-2",
+      "top": 2562,
+      "height": 667,
+      "width": 1050,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 2,
+      "heading": "h2: You can benefit from this with Häcker's kitchen planner.",
+      "images": 1,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 5,
+      "type": "section",
+      "tag": "div",
+      "id": "c176342",
+      "cls": "ct-text space-before-medium space-after-medium",
+      "top": 3284,
+      "height": 164,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "54px 54px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 3,
+      "heading": "",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 2,
+      "links": 2,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 6,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "row no-gutters",
+      "top": 3570,
+      "height": 406,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 1,
+      "heading": "h2: Questions about individual kitchen planning",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 5,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 7,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "row no-gutters",
+      "top": 4056,
+      "height": 308,
+      "width": 1020,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 1,
+      "heading": "",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 2,
+      "links": 2,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 8,
+      "type": "footer",
+      "tag": "footer",
+      "id": "main-footer",
+      "cls": "page-footer footer-type-3-top-sections",
+      "top": 4419,
+      "height": 885,
+      "width": 1440,
+      "bg": "rgb(0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(162, 162, 162)",
+      "padding": "36px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "left",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 2,
+      "heading": "",
+      "images": 4,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 38,
+      "videos": 0,
+      "dataAttrs": []
+    }
+  ],
+  "containers": [
+    {
+      "maxWidth": 1050,
+      "padX": 15,
+      "count": 8,
+      "sample": "container py-2 py-md-0 py-lg-3 g-lim g-lim-66p"
+    },
+    {
+      "maxWidth": 1250,
+      "padX": 15,
+      "count": 2,
+      "sample": "container"
+    }
+  ],
+  "components": {
+    "buttons": [
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "tag": "a",
+        "text": "Directly to the kitchen planner",
+        "cls": "btn btn-secondary",
+        "rect": {
+          "top": 593,
+          "left": 394,
+          "w": 238,
+          "h": 37
+        },
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "size": 12.6,
+        "weight": "600",
+        "lh": 15.12,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "bgImage": "none",
+        "border": "1px solid rgba(255, 255, 255, 0.25)",
+        "radius": "126px",
+        "shadow": "none",
+        "padding": "10px 30px 10px 30px",
+        "margin": "0px 0px 0px 0px",
+        "display": "inline-block",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "normal",
+        "justify": "normal",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "238px",
+        "height": "37.1094px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "0.1s ease-in",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 4,
+        "samples": [
+          "Directly to the kitchen planner",
+          "Directly to the kitchen planner",
+          "Plan your kitchen online with the kitchen planner"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "tag": "a",
+        "text": "Find a dealer",
+        "cls": "btn btn-primary lightbox",
+        "rect": {
+          "top": 3411,
+          "left": 210,
+          "w": 143,
+          "h": 37
+        },
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "size": 12.6,
+        "weight": "600",
+        "lh": 15.12,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(255, 255, 255)",
+        "bgImage": "none",
+        "border": "1px solid rgba(0, 0, 0, 0.25)",
+        "radius": "126px",
+        "shadow": "none",
+        "padding": "10px 30px 10px 30px",
+        "margin": "0px 0px 0px 0px",
+        "display": "inline-block",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "normal",
+        "justify": "normal",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "143px",
+        "height": "37.1094px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "0.1s ease-in",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 2,
+        "samples": [
+          "Find a dealer",
+          "Find a Dealer"
+        ]
+      }
+    ],
+    "cards": [],
+    "navs": [
+      {
+        "tag": "header",
+        "cls": "fixed-top mm-fixed-top type-megamenu2023 initial-colored bg-black dh top notbottom pinned",
+        "height": 91,
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "position": "fixed",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "none",
+        "display": "block",
+        "justify": "normal",
+        "gap": "normal",
+        "links": 48,
+        "hasLogo": true,
+        "hasSearch": true,
+        "hasLanguage": true,
+        "hamburger": true,
+        "links_sample": [
+          "Kitchen styles",
+          "Kitchen interior",
+          "Kitchen accessories",
+          "In-house exhibition",
+          "Blaupunkt",
+          "Häckers Kitchen Magazine",
+          "Media Site",
+          "systemat Stylish & comfortable",
+          "concept130 Reliable & unique",
+          "Limited Edition 1926 100 years of Fitted",
+          "About Häcker",
+          "Project business",
+          "Values",
+          "Press",
+          "Awards and Certificates",
+          "Our values",
+          "About Häcker",
+          "Häcker wins the ‘Best of Design’ award",
+          "4 Awards for Blaupunkt",
+          "Häcker launches the “Limited Edition 192",
+          "All articles",
+          "Contact",
+          "Buy kitchen",
+          "Product Portal"
+        ]
+      },
+      {
+        "tag": "nav",
+        "cls": "navbar",
+        "height": 91,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px none rgb(255, 255, 255)",
+        "padding": "19.998px 54px 19.998px 54px",
+        "maxWidth": "none",
+        "display": "flex",
+        "justify": "space-between",
+        "gap": "normal",
+        "links": 48,
+        "hasLogo": true,
+        "hasSearch": true,
+        "hasLanguage": true,
+        "hamburger": true,
+        "links_sample": [
+          "Kitchen styles",
+          "Kitchen interior",
+          "Kitchen accessories",
+          "In-house exhibition",
+          "Blaupunkt",
+          "Häckers Kitchen Magazine",
+          "Media Site",
+          "systemat Stylish & comfortable",
+          "concept130 Reliable & unique",
+          "Limited Edition 1926 100 years of Fitted",
+          "About Häcker",
+          "Project business",
+          "Values",
+          "Press",
+          "Awards and Certificates",
+          "Our values",
+          "About Häcker",
+          "Häcker wins the ‘Best of Design’ award",
+          "4 Awards for Blaupunkt",
+          "Häcker launches the “Limited Edition 192",
+          "All articles",
+          "Contact",
+          "Buy kitchen",
+          "Product Portal"
+        ]
+      }
+    ],
+    "badges": [
+      {
+        "size": 14.9994,
+        "weight": "400",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "count": 1,
+        "samples": [
+          "EN"
+        ]
+      }
+    ],
+    "inputs": [],
+    "links": [
+      {
+        "color": "rgb(162, 162, 162)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 15.84,
+        "transform": "none",
+        "count": 29,
+        "samples": [
+          "concept130",
+          "systemat",
+          "Novelties 2026/2027"
+        ]
+      },
+      {
+        "color": "rgb(162, 162, 162)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 13.86,
+        "transform": "none",
+        "count": 6,
+        "samples": [
+          "Terms and Conditions",
+          "Data privacy",
+          "Compliance"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "600",
+        "size": 12.6,
+        "transform": "none",
+        "count": 4,
+        "samples": [
+          "Directly to the kitchen planner",
+          "Directly to the kitchen planner",
+          "Plan your kitchen online with the kitche"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 15,
+        "transform": "none",
+        "count": 2,
+        "samples": [
+          "Kitchen planner",
+          "Search"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "600",
+        "size": 12.6,
+        "transform": "none",
+        "count": 2,
+        "samples": [
+          "Find a dealer",
+          "Find a Dealer"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "700",
+        "size": 18,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Skip to content"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "800",
+        "size": 15,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Career Jobs & more"
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "flex": 126,
+    "grid": 0,
+    "block": 791,
+    "gridCols": {},
+    "gaps": {},
+    "textAlign": {
+      "left": 740,
+      "center": 113,
+      "right": 20
+    },
+    "sticky": 1,
+    "fixed": 6,
+    "overflowHiddenX": 1,
+    "borderRadiusZero": 0
+  },
+  "motion": {
+    "transitions": [
+      {
+        "duration": "0.4s",
+        "timing": "ease",
+        "property": "none",
+        "count": 188
+      },
+      {
+        "duration": "0.1s",
+        "timing": "ease-in",
+        "property": "all",
+        "count": 10
+      },
+      {
+        "duration": "0.2s, 0.2s",
+        "timing": "ease-in, ease-in",
+        "property": "background, color",
+        "count": 6
+      },
+      {
+        "duration": "0.2s",
+        "timing": "ease-in",
+        "property": "opacity",
+        "count": 3
+      },
+      {
+        "duration": "0.4s",
+        "timing": "ease",
+        "property": "opacity",
+        "count": 2
+      },
+      {
+        "duration": "0.4s",
+        "timing": "ease",
+        "property": "width, transform",
+        "count": 1
+      },
+      {
+        "duration": "0.3s",
+        "timing": "ease",
+        "property": "transform",
+        "count": 1
+      },
+      {
+        "duration": "0.25s",
+        "timing": "ease-in",
+        "property": "all",
+        "count": 1
+      },
+      {
+        "duration": "0.15s, 0.15s",
+        "timing": "ease-in-out, ease-in-out",
+        "property": "border-color, box-shadow",
+        "count": 1
+      },
+      {
+        "duration": "0.1s",
+        "timing": "ease-in",
+        "property": "opacity",
+        "count": 1
+      },
+      {
+        "duration": "0.4s",
+        "timing": "ease",
+        "property": "transform, inset-inline-start",
+        "count": 1
+      },
+      {
+        "duration": "0s, 0.4s, 0.4s, 0.4s",
+        "timing": "ease, ease, ease, ease",
+        "property": "bottom, width, opacity, transform",
+        "count": 1
+      }
+    ],
+    "animations": [
+      {
+        "name": "fa-spin",
+        "duration": "2s",
+        "timing": "linear",
+        "iter": "infinite"
+      }
+    ],
+    "libs": {
+      "gsap": false,
+      "lenis": false,
+      "swiper": false,
+      "aos": false,
+      "jquery": true,
+      "framer": false,
+      "three": false,
+      "barba": false,
+      "locomotive": false,
+      "anime": false,
+      "splide": false,
+      "embla": false,
+      "elementor": false,
+      "wow": false
+    },
+    "dataAttrs": {}
+  },
+  "media": {
+    "images": {
+      "count": 46,
+      "missingAlt": 0,
+      "emptyAlt": 0,
+      "lazy": 8,
+      "withSrcset": 0,
+      "objectFit": {
+        "fill": 46
+      },
+      "formats": [
+        "svg",
+        "jpg"
+      ],
+      "aspect": [
+        "3.16",
+        "1.60",
+        "1.41",
+        "1.42",
+        "1.60",
+        "3.16",
+        "10.10",
+        "0.88",
+        "8.97"
+      ],
+      "avgBox": 9456
+    },
+    "videos": [],
+    "iframes": [],
+    "bgImages": {
+      "count": 0,
+      "gradients": 0,
+      "urls": []
+    }
+  },
+  "a11y": {
+    "lang": "en-US",
+    "h1Count": 1,
+    "headingOutline": [
+      "h1: Online kitchen planner – plan your kitchen in 3D from the comfort of y",
+      "h2: Step by step to your own kitchen design",
+      "h2: You can benefit from this with Häcker's kitchen planner.",
+      "h2: Questions about individual kitchen planning"
+    ],
+    "altMissing": 0,
+    "altEmpty": 0,
+    "images": 46,
+    "emptyLinks": 4,
+    "emptyButtons": 1,
+    "landmarks": 4,
+    "main": true,
+    "skipLink": true,
+    "ariaCount": 15,
+    "labelledInputs": 0,
+    "inputs": 1,
+    "tabbable": 173,
+    "contrast": [
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 18,
+        "weight": "700",
+        "tag": "a",
+        "text": "Skip to content"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "800",
+        "tag": "span",
+        "text": "Inspiration"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "400",
+        "tag": "span",
+        "text": "Kitchens & more"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "800",
+        "tag": "span",
+        "text": "Company"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "400",
+        "tag": "span",
+        "text": "Values & more"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "800",
+        "tag": "span",
+        "text": "Service"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "400",
+        "tag": "span",
+        "text": "Consultation & more"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "800",
+        "tag": "span",
+        "text": "Career"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "400",
+        "tag": "span",
+        "text": "Jobs & more"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "400",
+        "tag": "a",
+        "text": "Kitchen planner"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 15,
+        "weight": "400",
+        "tag": "span",
+        "text": "Language"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 36,
+        "weight": "500",
+        "tag": "h1",
+        "text": "Online kitchen planner – plan your kitchen in 3D f"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Design your new kitchen to suit your individual ne"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Which front do you prefer? Do you prefer handle-fr"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "700",
+        "tag": "strong",
+        "text": "Plan your dream kitchen yourself now, quickly and "
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 13,
+        "weight": "600",
+        "tag": "a",
+        "text": "Directly to the kitchen planner"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 31,
+        "weight": "600",
+        "tag": "h2",
+        "text": "Step by step to your own kitchen design"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Step 1: Collect wishes and record basic ideas"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Before you start planning, it is worth taking a lo"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Step 2: Measure the room and enter the dimensions"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Carefully measure the wall lengths, room height an"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Step 3: Create a floor plan in the kitchen planner"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Create your room in the kitchen planner: position "
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 13,
+        "weight": "600",
+        "tag": "a",
+        "text": "Directly to the kitchen planner"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Step 4: Plan your kitchen freely"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Choose from numerous Häcker fronts, cabinet types,"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Step 5: Save up to three designs or go directly to"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Save up to three different kitchen designs and com"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 31,
+        "weight": "600",
+        "tag": "h2",
+        "text": "You can benefit from this with Häcker's kitchen pl"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "With the Häcker kitchen planner, you can design yo"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "The advantages at a glance:"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Ideal for planning your own dream kitchen yourself"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Free to use without installation"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Try out different variants and adapt them flexibly"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Experience your kitchen in a vivid 3D model"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Get started right away without registering"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Save, export or print your plans"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "p",
+        "text": "Optimal preparation for your consultation in the k"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "700",
+        "tag": "strong",
+        "text": "You have two options for planning your dream kitch"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 13,
+        "weight": "600",
+        "tag": "a",
+        "text": "Plan your kitchen online with the kitchen planner"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 13,
+        "weight": "600",
+        "tag": "a",
+        "text": "Find a dealer"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 31,
+        "weight": "600",
+        "tag": "h2",
+        "text": "Questions about individual kitchen planning"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f8f8f8",
+        "ratio": 19.77,
+        "size": 16,
+        "weight": "700",
+        "tag": "strong",
+        "text": "How do I begin planning my kitchen?"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f8f8f8",
+        "ratio": 19.77,
+        "size": 16,
+        "weight": "700",
+        "tag": "strong",
+        "text": "Is the kitchen planner really free of charge?"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f8f8f8",
+        "ratio": 19.77,
+        "size": 16,
+        "weight": "700",
+        "tag": "strong",
+        "text": "Can I save multiple drafts?"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f8f8f8",
+        "ratio": 19.77,
+        "size": 16,
+        "weight": "700",
+        "tag": "strong",
+        "text": "Can I discuss my plans with a dealer?"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f8f8f8",
+        "ratio": 19.77,
+        "size": 16,
+        "weight": "700",
+        "tag": "strong",
+        "text": "On which devices does the kitchen planner work?"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 18,
+        "weight": "700",
+        "tag": "strong",
+        "text": "Be your own kitchen planner and design your dream "
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 13,
+        "weight": "600",
+        "tag": "a",
+        "text": "Plan your own kitchen with the kitchen planner"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 13,
+        "weight": "600",
+        "tag": "a",
+        "text": "Find a Dealer"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "li",
+        "text": "Kitchens"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "concept130"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "systemat"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "li",
+        "text": "Products"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Novelties 2026/2027"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Product Portal"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Fronts"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Worktops"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Handles"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Blaupunkt"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "li",
+        "text": "Resources"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Media Site"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Brochures"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Suppliers"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Dealer search"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Kitchen planner"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Contact"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Downloads"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Extranet"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "li",
+        "text": "Häcker"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "About us"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Our values"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "project business"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Press"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Häcker Academy"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 18,
+        "weight": "400",
+        "tag": "li",
+        "text": "Career"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "All vacancies"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Häcker as an employer"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Career starters"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Experienced applicants"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Dual study programme"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Traineeship"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Internship"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Speculative application"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "Werkstraße 3 32289 Rödinghausen"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "Monday to Friday 8 am to 6 pm Saturday 9 am till 1"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "Proud sponsor of SV Rödinghausen"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "p",
+        "text": "© Häcker Küchen 2026"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "Terms and Conditions"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "Data privacy"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "Compliance"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "Imprint"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "Cookie settings"
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "USA & Canada"
+      }
+    ]
+  },
+  "interactions": {
+    "details": 0,
+    "roleTabs": 0,
+    "roleDialogs": 1,
+    "accordions": 16,
+    "sliders": 0,
+    "searchInputs": 1,
+    "navLinks": 48,
+    "dropdowns": 11,
+    "floatingCta": [
+      {
+        "tag": "div",
+        "cls": "",
+        "text": "",
+        "href": ""
+      }
+    ],
+    "cookiePlatform": []
+  },
+  "framework": [
+    "TYPO3"
+  ],
+  "scripts": {
+    "total": 18,
+    "srcs": [
+      "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js",
+      "https://s.pinimg.com/ct/lib/main.c61fa7c9.js",
+      "https://s.pinimg.com/ct/core.js",
+      "https://connect.facebook.net/signals/config/785535859332469?v=2.9.427&r=stable&domain=www.haecker-kuechen.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://cdn.mouseflow.com/projects/173ebfd2-d080-4826-a1e7-d56cd655c5eb.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-GZRGMT838V&cx=c&gtm=4e6al1",
+      "https://www.googletagmanager.com/gtag/js?id=AW-405188733&cx=c&gtm=4e6al1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-55MC6MX",
+      "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.js?1767948963",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=1793001829930&cv=11&fst=1793001829930&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938468~117776796~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-planner&rcb=13&frm=0&tiba=The%20kitchen%20planner%20-%20plan%20your%20kitchen%20quickly%20%26%20easily&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=610212571.1793001424&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=1793001829963&cv=11&fst=1793001829963&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938468~117776796~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-planner&rcb=13&frm=0&tiba=The%20kitchen%20planner%20-%20plan%20your%20kitchen%20quickly%20%26%20easily&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=610212571.1793001424&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/app.26e11a9b-min.js?1793001828",
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/runtime.09724e43-min.js?1793001828",
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/powermail_timeslots-min.js?1793001828",
+      "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/statistics-1.js",
+      "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/marketing-1.js"
+    ]
+  },
+  "stylesheetHrefs": [
+    "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+    "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961"
+  ],
+  "ia": {
+    "nav": [
+      "Kitchen styles",
+      "Kitchen interior",
+      "Kitchen accessories",
+      "In-house exhibition",
+      "Blaupunkt",
+      "Häckers Kitchen Magazine",
+      "Media Site",
+      "systemat Stylish & comfortable",
+      "concept130 Reliable & unique",
+      "Limited Edition 1926 100 years of Fitted Kitchens",
+      "About Häcker",
+      "Project business",
+      "Values",
+      "Press",
+      "Awards and Certificates",
+      "Our values",
+      "About Häcker",
+      "Häcker wins the ‘Best of Design’ award",
+      "4 Awards for Blaupunkt",
+      "Häcker launches the “Limited Edition 1926”",
+      "All articles",
+      "Contact",
+      "Buy kitchen",
+      "Product Portal",
+      "Brochures",
+      "Videos",
+      "Dealer search",
+      "Order brochures",
+      "Career Jobs & more",
+      "Häcker as an employer",
+      "All vacancies",
+      "Career starters",
+      "Experienced applicants",
+      "Dual study programme",
+      "Traineeship",
+      "Internship",
+      "Speculative application",
+      "Kitchen planner",
+      "Deutsch"
+    ],
+    "footer": [
+      "concept130",
+      "systemat",
+      "Novelties 2026/2027",
+      "Product Portal",
+      "Fronts",
+      "Worktops",
+      "Handles",
+      "Blaupunkt",
+      "Media Site",
+      "Brochures",
+      "Suppliers",
+      "Dealer search",
+      "Kitchen planner",
+      "Contact",
+      "Downloads",
+      "Extranet",
+      "About us",
+      "Our values",
+      "project business",
+      "Press",
+      "Häcker Academy",
+      "All vacancies",
+      "Häcker as an employer",
+      "Career starters",
+      "Experienced applicants",
+      "Dual study programme",
+      "Traineeship",
+      "Internship",
+      "Speculative application",
+      "Terms and Conditions",
+      "Data privacy",
+      "Compliance",
+      "Imprint",
+      "Cookie settings",
+      "USA & Canada"
+    ],
+    "h2s": [
+      "Step by step to your own kitchen design",
+      "You can benefit from this with Häcker's kitchen planner.",
+      "Questions about individual kitchen planning"
+    ]
+  },
+  "pageLabel": "Kitchen Planner",
+  "requestedUrl": "https://www.haecker-kuechen.com/en/kitchen-planner",
+  "httpStatus": 200,
+  "cookieConsent": null,
+  "overlays": [],
+  "overlaysRemoved": 0,
+  "overlayShot": null,
+  "pageErrors": [],
+  "css": {
+    "bytes": 667267,
+    "fontFaces": [
+      {
+        "family": "Font Awesome\\ 6 Brands",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(/build/fonts/fa-brands-400.e24fcc1b.woff2) format(\"woff2\"),url(/build/fonts/fa-brands-400.0601cf57.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome\\ 6 Pro",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(/build/fonts/fa-solid-900.2f8c3742.woff2) format(\"woff2\"),url(/build/fonts/fa-solid-900.6fa0a823.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Font Awesome\\ 6 Pro",
+        "weight": "300",
+        "style": "normal",
+        "display": "block",
+        "src": "url(/build/fonts/fa-light-300.441b5781.woff2) format(\"woff2\"),url(/build/fonts/fa-light-300.2006c9ff.ttf) format(\"truetype\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "ACaslonPro",
+        "weight": "600",
+        "style": "normal",
+        "display": "",
+        "src": "local(\"ACaslonPro-Bold\"),url(/build/fonts/ACaslonPro-Bold.b305e0f0.woff2) format(\"woff2\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "ACaslonPro",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "local(\"ACaslonPro-Regular\"),url(/build/fonts/ACaslonPro-Regular.3319d3e6.woff2) format(\"woff2\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "ACaslonPro",
+        "weight": "400",
+        "style": "italic",
+        "display": "",
+        "src": "local(\"ACaslonPro-Italic\"),url(/build/fonts/ACaslonPro-Italic.cddf3d54.woff2) format(\"woff2\")",
+        "unicodeRange": ""
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "400",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.be6ce5eb.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "400",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tQKr51pE8.0e61b92c.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "400",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tQKr51pE8.95f5ea3d.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "400",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tQKr51pE8.e52085c1.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0100-02af,u+0304,u+0308,u+0329,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "400",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.ff75bc54.woff2) format(\"woff2\")",
+        "unicodeRange": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "600",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.be6ce5eb.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "600",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tQKr51pE8.0e61b92c.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "600",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tQKr51pE8.95f5ea3d.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "600",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tQKr51pE8.e52085c1.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0100-02af,u+0304,u+0308,u+0329,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "600",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.ff75bc54.woff2) format(\"woff2\")",
+        "unicodeRange": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "800",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.be6ce5eb.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "800",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tQKr51pE8.0e61b92c.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "800",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tQKr51pE8.95f5ea3d.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "800",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tQKr51pE8.e52085c1.woff2) format(\"woff2\")",
+        "unicodeRange": "u+0100-02af,u+0304,u+0308,u+0329,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "800",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.ff75bc54.woff2) format(\"woff2\")",
+        "unicodeRange": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,"
+      },
+      {
+        "family": "pass",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA8AAAAAB2QAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABWAAAABwAAAAcg9+z70dERUYAAAF0AAAAHAAAAB4AJwANT1MvMgAAAZAAAAA/AAAAYH7AkBhjbWFwAAAB",
+        "unicodeRange": ""
+      },
+      {
+        "family": "swiper-icons",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "url(\"data:application/font-woff;charset=utf-8;base64, d09GRgABAAAAAAZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdERUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAA",
+        "unicodeRange": ""
+      }
+    ],
+    "keyframes": [
+      "fa-beat",
+      "fa-bounce",
+      "fa-fade",
+      "fa-beat-fade",
+      "fa-flip",
+      "fa-shake",
+      "fa-spin",
+      "fancybox-rotate",
+      "tooltips-vert",
+      "tooltips-horz",
+      "swiper-pagination-animation",
+      "fill-swiper-progress",
+      "fadeInDown",
+      "fake-marquee",
+      "fade-in",
+      "tabFadeEffect",
+      "dealersearch-captcha-spin",
+      "skeleton-shimmer",
+      "skeleton-loading",
+      "invalid-dealer-captcha-animation",
+      "hkframepulse",
+      "simulate-swipe",
+      "progress"
+    ],
+    "mediaQueries": [
+      {
+        "kind": "min",
+        "width": 350
+      },
+      {
+        "kind": "max",
+        "width": 350
+      },
+      {
+        "kind": "max",
+        "width": 500
+      },
+      {
+        "kind": "min",
+        "width": 550
+      },
+      {
+        "kind": "min",
+        "width": 576
+      },
+      {
+        "kind": "max",
+        "width": 576
+      },
+      {
+        "kind": "max",
+        "width": 590
+      },
+      {
+        "kind": "min",
+        "width": 768
+      },
+      {
+        "kind": "max",
+        "width": 768
+      },
+      {
+        "kind": "max",
+        "width": 1000
+      },
+      {
+        "kind": "min",
+        "width": 1200
+      },
+      {
+        "kind": "max",
+        "width": 1200
+      },
+      {
+        "kind": "max",
+        "width": 1250
+      },
+      {
+        "kind": "max",
+        "width": 1350
+      },
+      {
+        "kind": "max",
+        "width": 1400
+      },
+      {
+        "kind": "min",
+        "width": 1400
+      },
+      {
+        "kind": "max",
+        "width": 1450
+      },
+      {
+        "kind": "min",
+        "width": 1600
+      },
+      {
+        "kind": "max",
+        "width": 1600
+      },
+      {
+        "kind": "min",
+        "width": 1850
+      },
+      {
+        "kind": "max",
+        "width": 1850
+      },
+      {
+        "kind": "min",
+        "width": 1900
+      },
+      {
+        "kind": "min",
+        "width": 2000
+      },
+      {
+        "kind": "min",
+        "width": 2100
+      },
+      {
+        "kind": "max",
+        "width": 2100
+      }
+    ],
+    "vars": [
+      {
+        "name": "--blue",
+        "value": "#007bff",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--indigo",
+        "value": "#6610f2",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--purple",
+        "value": "#6f42c1",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--pink",
+        "value": "#e83e8c",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--red",
+        "value": "#dc3545",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--orange",
+        "value": "#fd7e14",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--yellow",
+        "value": "#ffc107",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--green",
+        "value": "#28a745",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--teal",
+        "value": "#20c997",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--cyan",
+        "value": "#17a2b8",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--gray",
+        "value": "#6c757d",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--gray-dark",
+        "value": "#343a40",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--primary",
+        "value": "#000",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--secondary",
+        "value": "#6c757d",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--success",
+        "value": "#28a745",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--info",
+        "value": "#17a2b8",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--warning",
+        "value": "#ffc107",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--danger",
+        "value": "#dc3545",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--light",
+        "value": "#f8f9fa",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--dark",
+        "value": "#343a40",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--black",
+        "value": "#000",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--white",
+        "value": "#fff",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-xxs",
+        "value": "0",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-xs",
+        "value": "350px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-sm",
+        "value": "576px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-md",
+        "value": "768px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-lg",
+        "value": "1200px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-xl",
+        "value": "1600px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-xxl",
+        "value": "1850px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--breakpoint-xxxl",
+        "value": "2100px",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--font-family-sans-serif",
+        "value": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",\"Liberation Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--font-family-monospace",
+        "value": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+        "scopes": [
+          "@charset \"UTF-8\";\n\n:root"
+        ]
+      },
+      {
+        "name": "--fa-animation-direction",
+        "value": "reverse",
+        "scopes": [
+          ".fa-spin-reverse"
+        ]
+      },
+      {
+        "name": "--fa-style-family-brands",
+        "value": "\"Font Awesome 6 Brands\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-font-brands",
+        "value": "normal 400 1em/1 \"Font Awesome 6 Brands\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-font-solid",
+        "value": "normal 900 1em/1 \"Font Awesome 6 Pro\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-style-family-classic",
+        "value": "\"Font Awesome 6 Pro\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--fa-font-light",
+        "value": "normal 300 1em/1 \"Font Awesome 6 Pro\"",
+        "scopes": [
+          ":host,:root"
+        ]
+      },
+      {
+        "name": "--main-header-height",
+        "value": "90px",
+        "scopes": [
+          "body"
+        ]
+      },
+      {
+        "name": "--mainnav-y-translate",
+        "value": "0",
+        "scopes": [
+          "#main-header.type-megamenu2023"
+        ]
+      },
+      {
+        "name": "--mm-lineheight",
+        "value": "22px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-blocker-visibility-delay",
+        "value": "0s",
+        "scopes": [
+          ":root",
+          ".mm-wrapper--opened .mm-wrapper__blocker"
+        ]
+      },
+      {
+        "name": "--mm-blocker-opacity-delay",
+        "value": "0.4s",
+        "scopes": [
+          ":root",
+          ".mm-wrapper--opened .mm-wrapper__blocker"
+        ]
+      },
+      {
+        "name": "--mm-btn-rotate",
+        "value": "-45deg",
+        "scopes": [
+          ".mm-btn--next,[dir=rtl] .mm-btn--prev",
+          ".mm-btn--prev,[dir=rtl] .mm-btn--next"
+        ]
+      },
+      {
+        "name": "--mm-listitem-size",
+        "value": "50px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-navbar-size",
+        "value": "50px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-panel-child-offset",
+        "value": "-100%",
+        "scopes": [
+          ".mm-panel",
+          "[dir=rtl] .mm-panel"
+        ]
+      },
+      {
+        "name": "--mm-panel-parent-offset",
+        "value": "30%",
+        "scopes": [
+          ".mm-panel",
+          "[dir=rtl] .mm-panel"
+        ]
+      },
+      {
+        "name": "--mm-toggle-size",
+        "value": "34px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-size",
+        "value": "80%",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-min-size",
+        "value": "240px",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-max-size",
+        "value": "min(440px,80vw)",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--mm-translate-horizontal",
+        "value": "clamp(calc(var(--mm-max-size)*-1),calc(var(--mm-size)*-1),calc(var(--mm-min-size)*-1))",
+        "scopes": [
+          ".mm-menu",
+          ".mm-menu--position-left-front",
+          ".mm-menu--position-right-front",
+          ".mm-wrapper--position-left",
+          ".mm-wrapper--position-right"
+        ]
+      },
+      {
+        "name": "--mm-translate-vertical",
+        "value": "100%",
+        "scopes": [
+          ".mm-menu",
+          ".mm-menu--position-top",
+          ".mm-menu--position-bottom"
+        ]
+      },
+      {
+        "name": "--mm-color-background",
+        "value": "#333",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast"
+        ]
+      },
+      {
+        "name": "--mm-color-border",
+        "value": "rgba(0,0,0,.25)",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast",
+          ".mm-listitem--opened>.mm-panel"
+        ]
+      },
+      {
+        "name": "--mm-color-icon",
+        "value": "hsla(0,0%,100%,.5)",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast"
+        ]
+      },
+      {
+        "name": "--mm-color-text",
+        "value": "#000",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast",
+          "#mmainnav",
+          ".mm-listitem--opened>.mm-panel"
+        ]
+      },
+      {
+        "name": "--mm-color-text-dimmed",
+        "value": "#fff",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast",
+          "#mmainnav"
+        ]
+      },
+      {
+        "name": "--mm-color-background-highlight",
+        "value": "none",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast",
+          "#mmainnav"
+        ]
+      },
+      {
+        "name": "--mm-color-background-emphasis",
+        "value": "rgba(0,0,0,.3)",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast"
+        ]
+      },
+      {
+        "name": "--mm-color-focusring",
+        "value": "#06c",
+        "scopes": [
+          ".mm-menu--theme-black",
+          ".mm-menu--theme-black-contrast",
+          ".mm-menu--theme-dark",
+          ".mm-menu--theme-dark-contrast"
+        ]
+      },
+      {
+        "name": "--list-circle-size",
+        "value": "16px",
+        "scopes": [
+          ".scroll-nav.type-body-sidebar-scroll-nav"
+        ]
+      },
+      {
+        "name": "--list-circle-text-offset",
+        "value": "0px",
+        "scopes": [
+          ".scroll-nav.type-body-sidebar-scroll-nav"
+        ]
+      },
+      {
+        "name": "--swiper-theme-color",
+        "value": "#007aff",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--transform-scale",
+        "value": "-1",
+        "scopes": [
+          ".swiper-nav:after",
+          ".swiper-nav.swiper-next:after"
+        ]
+      },
+      {
+        "name": "--left-margin",
+        "value": "1px",
+        "scopes": [
+          ".swiper-nav:after",
+          ".swiper-nav.swiper-next:after",
+          ".main-slider .swiper-nav.swiper-prev:after",
+          ".main-slider .swiper-nav.swiper-next:after"
+        ]
+      },
+      {
+        "name": "--translatex",
+        "value": "-50%",
+        "scopes": [
+          ".page_banner.position--page-overlay .innerbox"
+        ]
+      },
+      {
+        "name": "--translatey",
+        "value": "-50%",
+        "scopes": [
+          ".page_banner.position--page-overlay .innerbox"
+        ]
+      },
+      {
+        "name": "--question-caret-translatey",
+        "value": "-50%",
+        "scopes": [
+          ".faq-section .faq-item"
+        ]
+      },
+      {
+        "name": "--question-caret-rotate",
+        "value": "45deg",
+        "scopes": [
+          ".faq-section .faq-item",
+          ".faq-section .faq-item.open"
+        ]
+      },
+      {
+        "name": "--scrollnav-y-transform",
+        "value": "76px",
+        "scopes": [
+          ".onpage-scroll-nav-container.is-header-scroll"
+        ]
+      },
+      {
+        "name": "--plyr-color-main",
+        "value": "#000",
+        "scopes": [
+          ".ce-audio-player"
+        ]
+      },
+      {
+        "name": "--plyr-audio-controls-background",
+        "value": "#000",
+        "scopes": [
+          ".ce-audio-player"
+        ]
+      },
+      {
+        "name": "--plyr-audio-control-color",
+        "value": "#fff",
+        "scopes": [
+          ".ce-audio-player"
+        ]
+      },
+      {
+        "name": "--plyr-range-fill-background",
+        "value": "#f7f7f7",
+        "scopes": [
+          ".ce-audio-player"
+        ]
+      },
+      {
+        "name": "--plyr-focus-visible-color",
+        "value": "#fff",
+        "scopes": [
+          ".ce-audio-player"
+        ]
+      },
+      {
+        "name": "--vertical-margin",
+        "value": "3rem",
+        "scopes": [
+          ".ce-slider-cards"
+        ]
+      },
+      {
+        "name": "--news-overlay-padding-bottom",
+        "value": "30px",
+        "scopes": [
+          ".news-list-view.layout-one-large-left--left-text-overlay--two-small-right--right-text-overlay .large .article",
+          ".news-list-view.layout-one-large-left--left-text-overlay--two-small-right--right-text-right .large .article",
+          ".news-list-view.layout-one-large-left--left-text-overlay--three-small-right--right-text-right .large .article",
+          ".news-list-view.layout-fullwidth-slider--text-overlay .article"
+        ]
+      },
+      {
+        "name": "--image-height",
+        "value": "350px",
+        "scopes": [
+          ".news-list-view.layout-one-large-left--left-text-overlay--three-small-right--right-text-right .small .article",
+          ".news-list-view.layout-two-columns-50-50--one-large-left--left-text-below--small-right--right-text-right .small .article",
+          ".article.layout-small-image-left-text-right",
+          ".news-single .news-img-wrap.fw",
+          ".news-single .news-img-wrap.fw.preview-format-square",
+          ".news-single .news-img-wrap.fw.preview-format-portrait"
+        ]
+      },
+      {
+        "name": "--image-width",
+        "value": "16.6667%",
+        "scopes": [
+          ".news-list-view.layout-one-large-left--left-text-overlay--three-small-right--right-text-right .small .article",
+          ".news-list-view.layout-two-columns-50-50--one-large-left--left-text-below--small-right--right-text-right .small .article",
+          ".article.layout-small-image-left-text-right",
+          ".article.layout-image-top-text-below",
+          ".news-single .news-img-wrap.fw",
+          ".news-single .news-img-wrap.cw"
+        ]
+      },
+      {
+        "name": "--container-leftright-padding",
+        "value": "3rem",
+        "scopes": [
+          ".tx-vk6haeckerproducts>.surfaces-show",
+          ".tx-vk6haeckerproducts>.program-family-detail",
+          ".tx-vk6haeckerproducts>.booth-detail"
+        ]
+      },
+      {
+        "name": "--figure-width",
+        "value": "48%",
+        "scopes": [
+          ".tx-vk6haeckerproducts>.surfaces-show .surface-gallery-container",
+          ".tx-vk6haeckerproducts>.surfaces-show .surface-gallery-container[data-num-items=\"4\"]",
+          ".tx-vk6haeckerproducts>.program-family-detail .kitchen-gallery-container",
+          ".tx-vk6haeckerproducts>.program-family-detail .kitchen-gallery-container[data-num-items=\"4\"]"
+        ]
+      },
+      {
+        "name": "--figure-margin",
+        "value": "1%",
+        "scopes": [
+          ".tx-vk6haeckerproducts>.surfaces-show .surface-gallery-container",
+          ".tx-vk6haeckerproducts>.program-family-detail .kitchen-gallery-container"
+        ]
+      },
+      {
+        "name": "--box-shadow-spread",
+        "value": "-2px",
+        "scopes": [
+          ".tx-vk6haeckerproducts>.boots-list-wrapper .booth-item",
+          ".tx-vk6haeckerproducts>.boots-list-wrapper .booth-item a:hover"
+        ]
+      },
+      {
+        "name": "--margin-between-images",
+        "value": "20px",
+        "scopes": [
+          ".tx-vk6haeckerproducts>.booth-detail .booth--program-families .program-family-fronts"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-text",
+        "value": "#000",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-text-opacity",
+        "value": "#00000060",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-box",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-box",
+        "value": "#DDD",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-text",
+        "value": "#373737",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-link-text",
+        "value": "#373737",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-fingerprint-background",
+        "value": "#143D59",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-fingerprint-image",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-iframe-color-consent-box-background",
+        "value": "#D6D6D6",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-iframe-color-button-load-one-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-iframe-color-button-load-one",
+        "value": "#d4b039",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-iframe-color-button-load-one-hover",
+        "value": "#c7a52c",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-iframe-color-open-settings",
+        "value": "#373737",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-confirmation-text",
+        "value": "#208A20",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-confirmation-background",
+        "value": "#C9FFC9",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-close-text",
+        "value": "#373737",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-close-hover-text",
+        "value": "#373737",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-close",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-close-hover",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-headline",
+        "value": "#000",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-checkbox",
+        "value": "#d4b039",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-checkbox-required",
+        "value": "#888",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-all-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-all-hover-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-all",
+        "value": "#d4b039",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-all-hover",
+        "value": "#c4a32b",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-specific-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-specific-hover-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-specific-hover",
+        "value": "#D7D7D7",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-specific",
+        "value": "#b8b8b8",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-essential-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-essential-hover-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-essential-hover",
+        "value": "#D7D7D7",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-button-essential",
+        "value": "#b8b8b8",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-settings-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-settings-hover-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-settings-hover",
+        "value": "#D7D7D7",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-settings",
+        "value": "#888",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-hover-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-hover",
+        "value": "#2E6B96",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-essential-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-essential-hover-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-essential-hover",
+        "value": "#929292",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept",
+        "value": "#143D59",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-banner-color-button-accept-essential",
+        "value": "#575757",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-list",
+        "value": "#b8b8b8",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-list-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-table",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-table-header",
+        "value": "#F3F3F3",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-table-header-text",
+        "value": "#000",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-table-data-text",
+        "value": "#000",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-full-box",
+        "value": "#143D59",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-full-headline",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-full-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-full-button-close",
+        "value": "#143D59",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-full-button-close-text",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-full-button-close-hover",
+        "value": "#143D59",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--sg-cookie-optin-color-checkbox-box-shadow",
+        "value": "#FFF",
+        "scopes": [
+          ":root"
+        ]
+      }
+    ],
+    "colorLiterals": [
+      {
+        "value": "#fff",
+        "count": 279
+      },
+      {
+        "value": "#000",
+        "count": 235
+      },
+      {
+        "value": "#6c757d",
+        "count": 28
+      },
+      {
+        "value": "#28a745",
+        "count": 25
+      },
+      {
+        "value": "#dc3545",
+        "count": 25
+      },
+      {
+        "value": "#212529",
+        "count": 21
+      },
+      {
+        "value": "#dee2e6",
+        "count": 17
+      },
+      {
+        "value": "rgba(0,0,0,.25)",
+        "count": 17
+      },
+      {
+        "value": "#343a40",
+        "count": 15
+      },
+      {
+        "value": "#f8f9fa",
+        "count": 15
+      },
+      {
+        "value": "#ccc",
+        "count": 15
+      },
+      {
+        "value": "#f7f7f7",
+        "count": 14
+      },
+      {
+        "value": "#17a2b8",
+        "count": 13
+      },
+      {
+        "value": "#ffc107",
+        "count": 13
+      },
+      {
+        "value": "#d4b039",
+        "count": 13
+      },
+      {
+        "value": "#333",
+        "count": 13
+      },
+      {
+        "value": "rgba(255,65,65,.5)",
+        "count": 13
+      },
+      {
+        "value": "#ced4da",
+        "count": 11
+      },
+      {
+        "value": "#e9ecef",
+        "count": 9
+      },
+      {
+        "value": "rgba(0,0,0,.5)",
+        "count": 9
+      },
+      {
+        "value": "hsla(0,0%,100%,.5)",
+        "count": 9
+      },
+      {
+        "value": "#888",
+        "count": 8
+      },
+      {
+        "value": "#495057",
+        "count": 7
+      },
+      {
+        "value": "rgba(0,0,0,.7)",
+        "count": 7
+      },
+      {
+        "value": "#b8b8b8",
+        "count": 6
+      },
+      {
+        "value": "#7a7a7a",
+        "count": 6
+      },
+      {
+        "value": "#ababab",
+        "count": 6
+      },
+      {
+        "value": "#f2f2f2",
+        "count": 6
+      },
+      {
+        "value": "#404040",
+        "count": 6
+      },
+      {
+        "value": "hsla(0,0%,100%,.25)",
+        "count": 6
+      },
+      {
+        "value": "#222",
+        "count": 6
+      },
+      {
+        "value": "#ddd",
+        "count": 6
+      },
+      {
+        "value": "#f8f8f8",
+        "count": 6
+      },
+      {
+        "value": "#5897fb",
+        "count": 6
+      },
+      {
+        "value": "#353e44",
+        "count": 6
+      },
+      {
+        "value": "rgba(0,0,0,.15)",
+        "count": 5
+      },
+      {
+        "value": "#383d41",
+        "count": 5
+      },
+      {
+        "value": "#155724",
+        "count": 5
+      },
+      {
+        "value": "#0c5460",
+        "count": 5
+      },
+      {
+        "value": "#856404",
+        "count": 5
+      },
+      {
+        "value": "#721c24",
+        "count": 5
+      },
+      {
+        "value": "#818182",
+        "count": 5
+      },
+      {
+        "value": "#1b1e21",
+        "count": 5
+      },
+      {
+        "value": "#858585",
+        "count": 5
+      },
+      {
+        "value": "#eee",
+        "count": 5
+      },
+      {
+        "value": "rgba(0,0,0,.4)",
+        "count": 5
+      },
+      {
+        "value": "#88928c",
+        "count": 5
+      },
+      {
+        "value": "rgba(0,0,0,.6)",
+        "count": 5
+      },
+      {
+        "value": "#aaa",
+        "count": 5
+      },
+      {
+        "value": "rgba(40,167,69,.25)",
+        "count": 4
+      },
+      {
+        "value": "rgba(220,53,69,.25)",
+        "count": 4
+      },
+      {
+        "value": "rgba(38,38,38,.5)",
+        "count": 4
+      },
+      {
+        "value": "#a2a2a2",
+        "count": 4
+      },
+      {
+        "value": "#999",
+        "count": 4
+      },
+      {
+        "value": "#b6b6b6",
+        "count": 4
+      },
+      {
+        "value": "rgba(0,0,0,.075)",
+        "count": 3
+      },
+      {
+        "value": "#d6d8db",
+        "count": 3
+      },
+      {
+        "value": "#c8cbcf",
+        "count": 3
+      },
+      {
+        "value": "#c3e6cb",
+        "count": 3
+      },
+      {
+        "value": "#b1dfbb",
+        "count": 3
+      }
+    ],
+    "fontStacks": [
+      {
+        "value": "Font Awesome\\ 6 Pro",
+        "count": 9
+      },
+      {
+        "value": "ACaslonPro",
+        "count": 8
+      },
+      {
+        "value": "Nunito Sans,Arial,\"sans-serif\",Helvetica Neue",
+        "count": 2
+      },
+      {
+        "value": "inherit",
+        "count": 2
+      },
+      {
+        "value": "Helvetica,Arial,sans-serif",
+        "count": 2
+      },
+      {
+        "value": "sans-serif",
+        "count": 1
+      },
+      {
+        "value": "SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "count": 1
+      },
+      {
+        "value": "SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace!important",
+        "count": 1
+      },
+      {
+        "value": "var(--fa-style-family,\"Font Awesome 6 Pro\")",
+        "count": 1
+      },
+      {
+        "value": "Font Awesome\\ 6 Brands",
+        "count": 1
+      },
+      {
+        "value": "Font Awesome\\ 6 Duotone",
+        "count": 1
+      },
+      {
+        "value": "Font Awesome\\ 6 Sharp",
+        "count": 1
+      },
+      {
+        "value": "Helvetica,sans-serif",
+        "count": 1
+      },
+      {
+        "value": "pass,Nunito Sans,\"sans-serif\"",
+        "count": 1
+      }
+    ],
+    "fontSizes": [
+      {
+        "value": "16px",
+        "count": 20
+      },
+      {
+        "value": "1rem",
+        "count": 18
+      },
+      {
+        "value": ".8rem",
+        "count": 16
+      },
+      {
+        "value": ".875rem",
+        "count": 13
+      },
+      {
+        "value": "1.25rem",
+        "count": 10
+      },
+      {
+        "value": "1.444rem",
+        "count": 10
+      },
+      {
+        "value": "14px",
+        "count": 9
+      },
+      {
+        "value": ".8em",
+        "count": 9
+      },
+      {
+        "value": "inherit",
+        "count": 8
+      },
+      {
+        "value": "1.2rem",
+        "count": 8
+      },
+      {
+        "value": "1em",
+        "count": 7
+      },
+      {
+        "value": ".7rem",
+        "count": 7
+      },
+      {
+        "value": "2.889rem",
+        "count": 6
+      },
+      {
+        "value": "1.4rem",
+        "count": 5
+      },
+      {
+        "value": ".875em",
+        "count": 5
+      },
+      {
+        "value": "1.1rem",
+        "count": 5
+      },
+      {
+        "value": ".9rem",
+        "count": 5
+      },
+      {
+        "value": "1.5rem",
+        "count": 4
+      },
+      {
+        "value": "2em",
+        "count": 4
+      },
+      {
+        "value": "1.2em",
+        "count": 4
+      },
+      {
+        "value": "22px",
+        "count": 4
+      },
+      {
+        "value": "2.5rem",
+        "count": 4
+      },
+      {
+        "value": "3rem",
+        "count": 4
+      },
+      {
+        "value": "50px",
+        "count": 3
+      },
+      {
+        "value": "1.6rem",
+        "count": 3
+      },
+      {
+        "value": "18px",
+        "count": 3
+      },
+      {
+        "value": ".7778rem",
+        "count": 3
+      },
+      {
+        "value": "100%",
+        "count": 3
+      },
+      {
+        "value": ".8125rem",
+        "count": 3
+      },
+      {
+        "value": ".888888rem",
+        "count": 3
+      },
+      {
+        "value": "0",
+        "count": 2
+      },
+      {
+        "value": "80%",
+        "count": 2
+      },
+      {
+        "value": "75%",
+        "count": 2
+      },
+      {
+        "value": "6rem",
+        "count": 2
+      },
+      {
+        "value": "4.5rem",
+        "count": 2
+      },
+      {
+        "value": "3.5rem",
+        "count": 2
+      },
+      {
+        "value": "90%",
+        "count": 2
+      },
+      {
+        "value": ".75em",
+        "count": 2
+      },
+      {
+        "value": ".6rem",
+        "count": 2
+      },
+      {
+        "value": ".7em",
+        "count": 2
+      },
+      {
+        "value": ".6em",
+        "count": 2
+      },
+      {
+        "value": "12px",
+        "count": 2
+      },
+      {
+        "value": ".8333rem",
+        "count": 2
+      },
+      {
+        "value": "1.66667rem",
+        "count": 2
+      },
+      {
+        "value": "34px",
+        "count": 2
+      },
+      {
+        "value": "20px",
+        "count": 2
+      },
+      {
+        "value": "100px",
+        "count": 2
+      },
+      {
+        "value": ".722rem",
+        "count": 2
+      },
+      {
+        "value": ".889rem",
+        "count": 2
+      },
+      {
+        "value": "1.75rem",
+        "count": 2
+      },
+      {
+        "value": ".6875rem",
+        "count": 2
+      },
+      {
+        "value": "2.125rem",
+        "count": 2
+      },
+      {
+        "value": ".7222222rem",
+        "count": 2
+      },
+      {
+        "value": "2rem",
+        "count": 1
+      },
+      {
+        "value": "1.7rem",
+        "count": 1
+      },
+      {
+        "value": "1.3rem",
+        "count": 1
+      },
+      {
+        "value": "5.5rem",
+        "count": 1
+      },
+      {
+        "value": "3em",
+        "count": 1
+      },
+      {
+        "value": "4em",
+        "count": 1
+      },
+      {
+        "value": "5em",
+        "count": 1
+      }
+    ],
+    "radii": [
+      {
+        "value": "0",
+        "count": 30
+      },
+      {
+        "value": "100%",
+        "count": 17
+      },
+      {
+        "value": "50px",
+        "count": 12
+      },
+      {
+        "value": "10px",
+        "count": 9
+      },
+      {
+        "value": "10em",
+        "count": 8
+      },
+      {
+        "value": "5px",
+        "count": 7
+      },
+      {
+        "value": "4px",
+        "count": 5
+      },
+      {
+        "value": "20px",
+        "count": 5
+      },
+      {
+        "value": "0 0 0 0",
+        "count": 2
+      },
+      {
+        "value": "50%",
+        "count": 2
+      },
+      {
+        "value": "3px",
+        "count": 2
+      },
+      {
+        "value": "4%",
+        "count": 2
+      },
+      {
+        "value": "var(--fa-border-radius,.1em)",
+        "count": 1
+      },
+      {
+        "value": "var(--mm-toggle-size)",
+        "count": 1
+      },
+      {
+        "value": "12px",
+        "count": 1
+      },
+      {
+        "value": "0 10px 10px 0",
+        "count": 1
+      },
+      {
+        "value": ".3ch",
+        "count": 1
+      },
+      {
+        "value": "30px",
+        "count": 1
+      }
+    ],
+    "shadows": [
+      {
+        "value": "none",
+        "count": 9
+      },
+      {
+        "value": "0 0 0 .2rem rgba(0,0,0,.25)",
+        "count": 4
+      },
+      {
+        "value": "0 0 0 .2rem rgba(40,167,69,.25)",
+        "count": 4
+      },
+      {
+        "value": "0 0 0 .2rem rgba(220,53,69,.25)",
+        "count": 4
+      },
+      {
+        "value": "0 0 0 .2rem rgba(38,38,38,.5)",
+        "count": 4
+      },
+      {
+        "value": "0 0 0 .2rem rgba(0,0,0,.5)",
+        "count": 4
+      },
+      {
+        "value": "1px 3px #353e44",
+        "count": 3
+      },
+      {
+        "value": "0 0 0 .2rem hsla(208,6%,54%,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(72,180,97,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(58,176,195,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(222,170,12,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(225,83,97,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem hsla(220,4%,85%,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(82,88,93,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem hsla(240,2%,87%,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem hsla(208,7%,46%,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(40,167,69,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(23,162,184,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(255,193,7,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(220,53,69,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(248,249,250,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem rgba(52,58,64,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 0 0 .2rem hsla(0,0%,100%,.5)",
+        "count": 2
+      },
+      {
+        "value": "0 5px 9px 0 rgba(0,0,0,.25)",
+        "count": 2
+      },
+      {
+        "value": "0 0 3px -1px #000",
+        "count": 2
+      },
+      {
+        "value": "inset 0 0 0 3px var(--sg-cookie-optin-color-checkbox-box-shadow)",
+        "count": 2
+      },
+      {
+        "value": "none!important",
+        "count": 1
+      },
+      {
+        "value": "inset 0 0 6px rgba(0,0,0,.3)",
+        "count": 1
+      },
+      {
+        "value": "0 0 6px rgba(0,0,0,.4)",
+        "count": 1
+      },
+      {
+        "value": "0 0 6px 0 #000",
+        "count": 1
+      },
+      {
+        "value": "0 0 30px rgba(0,0,0,.6)",
+        "count": 1
+      },
+      {
+        "value": "0 1em 2em -.5em rgba(0,0,0,.35)",
+        "count": 1
+      },
+      {
+        "value": "0 5px 14px 0 rgba(0,0,0,.15)",
+        "count": 1
+      },
+      {
+        "value": "0 0 134px 30px #fff,0 0 134px 30px #fff,0 0 134px 30px #fff",
+        "count": 1
+      },
+      {
+        "value": "0 24px 14px 0 rgba(0,0,0,.15)",
+        "count": 1
+      },
+      {
+        "value": "0 5px 14px 0 rgba(0,0,0,.7)",
+        "count": 1
+      },
+      {
+        "value": "0 24px 14px 0 rgba(0,0,0,.7)",
+        "count": 1
+      },
+      {
+        "value": "0 0 30px -10px #000",
+        "count": 1
+      },
+      {
+        "value": "4px 0 11px -4px #000",
+        "count": 1
+      },
+      {
+        "value": "0 4px 11px -4px #000",
+        "count": 1
+      },
+      {
+        "value": "0 0 14px -7px #cacaca",
+        "count": 1
+      },
+      {
+        "value": "0 0 60px -30px #000",
+        "count": 1
+      },
+      {
+        "value": "0 0 10px var(--box-shadow-spread) #000",
+        "count": 1
+      },
+      {
+        "value": "0 0 10px #84848475",
+        "count": 1
+      }
+    ],
+    "durations": [
+      {
+        "value": ".2s",
+        "count": 45
+      },
+      {
+        "value": ".15s",
+        "count": 9
+      },
+      {
+        "value": ".1s",
+        "count": 9
+      },
+      {
+        "value": "0s",
+        "count": 8
+      },
+      {
+        "value": ".3s",
+        "count": 7
+      },
+      {
+        "value": ".4s",
+        "count": 7
+      },
+      {
+        "value": "var(--fa-animation-duration,1s)",
+        "count": 6
+      },
+      {
+        "value": ".25s",
+        "count": 5
+      },
+      {
+        "value": ".5s",
+        "count": 4
+      },
+      {
+        "value": ".475s",
+        "count": 2
+      },
+      {
+        "value": "2s",
+        "count": 2
+      },
+      {
+        "value": "var(--fa-animation-duration,2s)",
+        "count": 1
+      },
+      {
+        "value": "1ms",
+        "count": 1
+      },
+      {
+        "value": "1s",
+        "count": 1
+      },
+      {
+        "value": ".6s",
+        "count": 1
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease-in",
+        "count": 51
+      },
+      {
+        "value": "ease",
+        "count": 18
+      },
+      {
+        "value": "ease-in-out",
+        "count": 12
+      },
+      {
+        "value": "cubic-bezier(.25,.46,.45,.94)",
+        "count": 1
+      },
+      {
+        "value": "linear",
+        "count": 1
+      }
+    ],
+    "gaps": [],
+    "letterSpacings": [
+      {
+        "value": "normal",
+        "count": 1
+      }
+    ],
+    "lineHeights": [
+      {
+        "value": "1.5",
+        "count": 19
+      },
+      {
+        "value": "inherit",
+        "count": 7
+      },
+      {
+        "value": "1.2",
+        "count": 7
+      },
+      {
+        "value": "1",
+        "count": 6
+      },
+      {
+        "value": "1.1",
+        "count": 4
+      },
+      {
+        "value": "0",
+        "count": 2
+      },
+      {
+        "value": "1.25",
+        "count": 2
+      },
+      {
+        "value": "20px",
+        "count": 2
+      },
+      {
+        "value": "28px",
+        "count": 2
+      },
+      {
+        "value": "150%",
+        "count": 2
+      },
+      {
+        "value": "46px",
+        "count": 2
+      },
+      {
+        "value": "1.6",
+        "count": 2
+      },
+      {
+        "value": "1.15",
+        "count": 1
+      },
+      {
+        "value": ".1em",
+        "count": 1
+      },
+      {
+        "value": ".0833333337em",
+        "count": 1
+      },
+      {
+        "value": ".0714285718em",
+        "count": 1
+      },
+      {
+        "value": ".05em",
+        "count": 1
+      },
+      {
+        "value": ".0416666682em",
+        "count": 1
+      },
+      {
+        "value": ".03125em",
+        "count": 1
+      },
+      {
+        "value": "2em",
+        "count": 1
+      },
+      {
+        "value": "44px",
+        "count": 1
+      },
+      {
+        "value": "40px",
+        "count": 1
+      },
+      {
+        "value": "1.3",
+        "count": 1
+      },
+      {
+        "value": "var(--mm-lineheight)",
+        "count": 1
+      },
+      {
+        "value": "1.4",
+        "count": 1
+      },
+      {
+        "value": ".75em",
+        "count": 1
+      },
+      {
+        "value": "18px",
+        "count": 1
+      },
+      {
+        "value": "14px",
+        "count": 1
+      },
+      {
+        "value": "normal",
+        "count": 1
+      },
+      {
+        "value": "30px",
+        "count": 1
+      },
+      {
+        "value": "1.34",
+        "count": 1
+      },
+      {
+        "value": "2.777778rem",
+        "count": 1
+      }
+    ],
+    "paddings": [
+      {
+        "value": "0",
+        "count": 119
+      },
+      {
+        "value": "15px",
+        "count": 69
+      },
+      {
+        "value": "3rem!important",
+        "count": 42
+      },
+      {
+        "value": "0!important",
+        "count": 41
+      },
+      {
+        "value": ".75rem!important",
+        "count": 40
+      },
+      {
+        "value": "1.5rem!important",
+        "count": 40
+      },
+      {
+        "value": "4.5rem!important",
+        "count": 40
+      },
+      {
+        "value": "9rem!important",
+        "count": 40
+      },
+      {
+        "value": ".5rem",
+        "count": 28
+      },
+      {
+        "value": ".75rem",
+        "count": 19
+      },
+      {
+        "value": "3rem",
+        "count": 19
+      },
+      {
+        "value": "5px",
+        "count": 18
+      },
+      {
+        "value": "1.5rem",
+        "count": 18
+      },
+      {
+        "value": "10px",
+        "count": 16
+      },
+      {
+        "value": "4.5rem",
+        "count": 16
+      },
+      {
+        "value": "9rem",
+        "count": 16
+      },
+      {
+        "value": "1rem",
+        "count": 15
+      },
+      {
+        "value": "20px",
+        "count": 14
+      },
+      {
+        "value": "30px",
+        "count": 11
+      },
+      {
+        "value": "6px",
+        "count": 10
+      },
+      {
+        "value": "8px",
+        "count": 8
+      },
+      {
+        "value": ".25rem .5rem",
+        "count": 6
+      },
+      {
+        "value": "25px",
+        "count": 6
+      },
+      {
+        "value": "0 5px",
+        "count": 6
+      },
+      {
+        "value": "2rem",
+        "count": 6
+      },
+      {
+        "value": ".25rem",
+        "count": 5
+      },
+      {
+        "value": ".75rem 1.25rem",
+        "count": 5
+      },
+      {
+        "value": "12px",
+        "count": 5
+      },
+      {
+        "value": ".375rem .75rem",
+        "count": 4
+      },
+      {
+        "value": ".5rem 1rem",
+        "count": 4
+      },
+      {
+        "value": "1.25rem",
+        "count": 4
+      },
+      {
+        "value": "50px",
+        "count": 4
+      },
+      {
+        "value": "4px",
+        "count": 4
+      },
+      {
+        "value": "40px",
+        "count": 3
+      },
+      {
+        "value": "1em",
+        "count": 3
+      },
+      {
+        "value": "0 1rem",
+        "count": 3
+      },
+      {
+        "value": "60px",
+        "count": 3
+      },
+      {
+        "value": "56%",
+        "count": 3
+      },
+      {
+        "value": "10px 20px",
+        "count": 3
+      },
+      {
+        "value": "10px 10px 15px",
+        "count": 3
+      },
+      {
+        "value": "2rem var(--container-leftright-padding)",
+        "count": 3
+      },
+      {
+        "value": "10px 0 0",
+        "count": 3
+      },
+      {
+        "value": "calc(.375rem + 1px)",
+        "count": 2
+      },
+      {
+        "value": "calc(.5rem + 1px)",
+        "count": 2
+      },
+      {
+        "value": "calc(.25rem + 1px)",
+        "count": 2
+      },
+      {
+        "value": "calc(1.5em + .75rem)!important",
+        "count": 2
+      },
+      {
+        "value": "calc(1.5em + .75rem)",
+        "count": 2
+      },
+      {
+        "value": "calc(.75em + 2.3125rem)!important",
+        "count": 2
+      },
+      {
+        "value": ".25rem 1.5rem",
+        "count": 2
+      },
+      {
+        "value": ".3125rem",
+        "count": 2
+      },
+      {
+        "value": ".5rem .75rem",
+        "count": 2
+      },
+      {
+        "value": ".4rem 0",
+        "count": 2
+      },
+      {
+        "value": "0 .4rem",
+        "count": 2
+      },
+      {
+        "value": "0 10px",
+        "count": 2
+      },
+      {
+        "value": "44px",
+        "count": 2
+      },
+      {
+        "value": "10px 15px",
+        "count": 2
+      },
+      {
+        "value": "1px",
+        "count": 2
+      },
+      {
+        "value": "1.111rem",
+        "count": 2
+      },
+      {
+        "value": "9px 15px",
+        "count": 2
+      },
+      {
+        "value": "10px 0",
+        "count": 2
+      }
+    ],
+    "aspectRatios": [
+      {
+        "value": "1",
+        "count": 1
+      },
+      {
+        "value": "768/606",
+        "count": 1
+      }
+    ],
+    "maxWidths": [
+      {
+        "value": "100%",
+        "count": 49
+      },
+      {
+        "value": "50%",
+        "count": 27
+      },
+      {
+        "value": "25%",
+        "count": 17
+      },
+      {
+        "value": "20%",
+        "count": 17
+      },
+      {
+        "value": "33.33333333%",
+        "count": 16
+      },
+      {
+        "value": "66.66666667%",
+        "count": 16
+      },
+      {
+        "value": "33.3333333333%",
+        "count": 8
+      },
+      {
+        "value": "16.6666666667%",
+        "count": 8
+      },
+      {
+        "value": "8.33333333%",
+        "count": 8
+      },
+      {
+        "value": "16.66666667%",
+        "count": 8
+      },
+      {
+        "value": "41.66666667%",
+        "count": 8
+      },
+      {
+        "value": "58.33333333%",
+        "count": 8
+      },
+      {
+        "value": "75%",
+        "count": 8
+      },
+      {
+        "value": "83.33333333%",
+        "count": 8
+      },
+      {
+        "value": "91.66666667%",
+        "count": 8
+      },
+      {
+        "value": "30%",
+        "count": 8
+      },
+      {
+        "value": "70%",
+        "count": 8
+      },
+      {
+        "value": "1000px",
+        "count": 6
+      },
+      {
+        "value": "540px",
+        "count": 5
+      },
+      {
+        "value": "720px",
+        "count": 5
+      },
+      {
+        "value": "none",
+        "count": 5
+      },
+      {
+        "value": "1050px",
+        "count": 4
+      },
+      {
+        "value": "1340px",
+        "count": 4
+      },
+      {
+        "value": "1640px",
+        "count": 4
+      },
+      {
+        "value": "1920px",
+        "count": 4
+      },
+      {
+        "value": "800px",
+        "count": 4
+      },
+      {
+        "value": "400px",
+        "count": 3
+      },
+      {
+        "value": "550px",
+        "count": 3
+      },
+      {
+        "value": "500px",
+        "count": 3
+      },
+      {
+        "value": "1050px!important",
+        "count": 3
+      },
+      {
+        "value": "200px",
+        "count": 2
+      },
+      {
+        "value": "100%!important",
+        "count": 2
+      },
+      {
+        "value": "90%",
+        "count": 2
+      },
+      {
+        "value": "80%",
+        "count": 2
+      },
+      {
+        "value": "600px",
+        "count": 2
+      },
+      {
+        "value": "630px",
+        "count": 2
+      },
+      {
+        "value": "1440px",
+        "count": 2
+      },
+      {
+        "value": "calc(50% - 4px)",
+        "count": 1
+      },
+      {
+        "value": "calc(100% - 10px)",
+        "count": 1
+      },
+      {
+        "value": "1030px",
+        "count": 1
+      },
+      {
+        "value": "1250px",
+        "count": 1
+      },
+      {
+        "value": "350px",
+        "count": 1
+      },
+      {
+        "value": "21em",
+        "count": 1
+      },
+      {
+        "value": "calc(100vw - 10px)",
+        "count": 1
+      },
+      {
+        "value": "300px",
+        "count": 1
+      },
+      {
+        "value": "250px",
+        "count": 1
+      },
+      {
+        "value": "60%",
+        "count": 1
+      },
+      {
+        "value": "100px",
+        "count": 1
+      },
+      {
+        "value": "20px",
+        "count": 1
+      },
+      {
+        "value": "15px",
+        "count": 1
+      },
+      {
+        "value": "50px",
+        "count": 1
+      },
+      {
+        "value": "35px",
+        "count": 1
+      },
+      {
+        "value": "1200px",
+        "count": 1
+      },
+      {
+        "value": "480px",
+        "count": 1
+      },
+      {
+        "value": "110px",
+        "count": 1
+      },
+      {
+        "value": "150px",
+        "count": 1
+      },
+      {
+        "value": "700px",
+        "count": 1
+      },
+      {
+        "value": "530px",
+        "count": 1
+      },
+      {
+        "value": "520px!important",
+        "count": 1
+      },
+      {
+        "value": "430px",
+        "count": 1
+      }
+    ],
+    "backdrops": [],
+    "filters": [
+      {
+        "value": "alpha(opacity=0)",
+        "count": 2
+      },
+      {
+        "value": "progid:DXImageTransform.Microsoft.gradient(startColorstr=\"#FFFFFFFF\",endColorstr=\"#FFEEEEEE\",GradientType=0)",
+        "count": 2
+      },
+      {
+        "value": "progid:DXImageTransform.Microsoft.gradient(startColorstr=\"#FFEEEEEE\",endColorstr=\"#FFCCCCCC\",GradientType=0)",
+        "count": 1
+      },
+      {
+        "value": "progid:DXImageTransform.Microsoft.gradient(startColorstr=\"#FFEEEEEE\",endColorstr=\"#FFFFFFFF\",GradientType=0)",
+        "count": 1
+      },
+      {
+        "value": "progid:DXImageTransform.Microsoft.Alpha(opacity=25)",
+        "count": 1
+      },
+      {
+        "value": "alpha(opacity=25)",
+        "count": 1
+      }
+    ],
+    "clipPaths": [
+      {
+        "value": "inset(0 0 0 0)",
+        "count": 1
+      },
+      {
+        "value": "inset(50%)!important",
+        "count": 1
+      }
+    ],
+    "gradients": [
+      {
+        "value": "linear-gradient(45deg,transparent 50%,gray 0),linear-gradient(135deg,gray 50%,transparent 0)",
+        "count": 2
+      },
+      {
+        "value": "linear-gradient(var(--mm-color-background-highlight),var(--mm-color-background-highlight))",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(270deg,rgba(0,0,0,.5),transparent)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(90deg,rgba(0,0,0,.5),transparent)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(0deg,rgba(0,0,0,.5),transparent)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(180deg,rgba(0,0,0,.5),transparent)",
+        "count": 1
+      },
+      {
+        "value": "-webkit-linear-gradient(top,#fff 50%,#eee)",
+        "count": 1
+      },
+      {
+        "value": "-o-linear-gradient(top,#fff 50%,#eee 100%)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(180deg,#fff 50%,#eee)",
+        "count": 1
+      },
+      {
+        "value": "-webkit-linear-gradient(top,#eee 50%,#ccc)",
+        "count": 1
+      },
+      {
+        "value": "-o-linear-gradient(top,#eee 50%,#ccc 100%)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(180deg,#eee 50%,#ccc)",
+        "count": 1
+      },
+      {
+        "value": "-webkit-linear-gradient(top,#fff,#eee 50%)",
+        "count": 1
+      },
+      {
+        "value": "-o-linear-gradient(top,#fff 0,#eee 50%)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(180deg,#fff 0,#eee 50%)",
+        "count": 1
+      },
+      {
+        "value": "-webkit-linear-gradient(top,#eee 50%,#fff)",
+        "count": 1
+      },
+      {
+        "value": "-o-linear-gradient(top,#eee 50%,#fff 100%)",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(180deg,#eee 50%,#fff)",
+        "count": 1
+      }
+    ],
+    "roleVars": [
+      {
+        "value": "--mm-color-focusring: #06c",
+        "count": 4
+      },
+      {
+        "value": "--mm-color-text: #fff",
+        "count": 3
+      },
+      {
+        "value": "--mm-color-background: #000",
+        "count": 2
+      },
+      {
+        "value": "--mm-color-icon: hsla(0,0%,100%,.4)",
+        "count": 2
+      },
+      {
+        "value": "--mm-color-text-dimmed: hsla(0,0%,100%,.4)",
+        "count": 2
+      },
+      {
+        "value": "--mm-color-background-highlight: hsla(0,0%,100%,.1)",
+        "count": 2
+      },
+      {
+        "value": "--mm-color-border: hsla(0,0%,100%,.5)",
+        "count": 2
+      },
+      {
+        "value": "--mm-color-icon: hsla(0,0%,100%,.5)",
+        "count": 2
+      },
+      {
+        "value": "--mm-color-background: #333",
+        "count": 2
+      },
+      {
+        "value": "--primary: #000",
+        "count": 1
+      },
+      {
+        "value": "--fa-style-family-brands: \"Font Awesome 6 Brands\"",
+        "count": 1
+      },
+      {
+        "value": "--fa-font-brands: normal 400 1em/1 \"Font Awesome 6 Brands\"",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-border: hsla(0,0%,100%,.2)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-text: hsla(0,0%,100%,.7)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-emphasis: hsla(0,0%,100%,.06)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-text-dimmed: hsla(0,0%,100%,.6)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-highlight: hsla(0,0%,100%,.125)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-emphasis: hsla(0,0%,100%,.1)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-border: rgba(0,0,0,.4)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-text: hsla(0,0%,100%,.8)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-highlight: hsla(0,0%,100%,.08)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-emphasis: rgba(0,0,0,.1)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-text-dimmed: hsla(0,0%,100%,.7)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-emphasis: rgba(0,0,0,.3)",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-text-dimmed: #fff",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-background-highlight: none",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-text: #000",
+        "count": 1
+      },
+      {
+        "value": "--mm-color-border: rgba(0,0,0,.25)",
+        "count": 1
+      },
+      {
+        "value": "--list-circle-text-offset: 20px",
+        "count": 1
+      },
+      {
+        "value": "--list-circle-text-offset: 25px",
+        "count": 1
+      },
+      {
+        "value": "--list-circle-text-offset: 0px",
+        "count": 1
+      },
+      {
+        "value": "--swiper-theme-color: #007aff",
+        "count": 1
+      },
+      {
+        "value": "--plyr-color-main: #000",
+        "count": 1
+      },
+      {
+        "value": "--plyr-audio-controls-background: #000",
+        "count": 1
+      },
+      {
+        "value": "--plyr-audio-control-color: #fff",
+        "count": 1
+      },
+      {
+        "value": "--plyr-range-fill-background: #f7f7f7",
+        "count": 1
+      },
+      {
+        "value": "--plyr-focus-visible-color: #fff",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-text: #000",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-text-opacity: #00000060",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-box: #FFF",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-banner-color-box: #DDD",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-banner-color-text: #373737",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-banner-color-link-text: #373737",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-fingerprint-background: #143D59",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-fingerprint-image: #FFF",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-iframe-color-consent-box-background: #D6D6D6",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-iframe-color-button-load-one-text: #FFF",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-iframe-color-button-load-one: #d4b039",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-iframe-color-button-load-one-hover: #c7a52c",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-iframe-color-open-settings: #373737",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-confirmation-text: #208A20",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-confirmation-background: #C9FFC9",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-button-close-text: #373737",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-button-close-hover-text: #373737",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-button-close: #FFF",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-button-close-hover: #FFF",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-headline: #000",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-checkbox: #d4b039",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-checkbox-required: #888",
+        "count": 1
+      },
+      {
+        "value": "--sg-cookie-optin-color-button-all-text: #FFF",
+        "count": 1
+      }
+    ],
+    "fluidTypeDecls": [
+      {
+        "value": "1rem",
+        "count": 17
+      },
+      {
+        "value": ".8rem",
+        "count": 16
+      },
+      {
+        "value": ".875rem",
+        "count": 13
+      },
+      {
+        "value": "1.25rem",
+        "count": 10
+      },
+      {
+        "value": "1.444rem",
+        "count": 10
+      },
+      {
+        "value": "1.2rem",
+        "count": 8
+      },
+      {
+        "value": ".7rem",
+        "count": 7
+      },
+      {
+        "value": "2.889rem",
+        "count": 6
+      },
+      {
+        "value": "1.4rem",
+        "count": 5
+      },
+      {
+        "value": "1.1rem",
+        "count": 5
+      },
+      {
+        "value": ".9rem",
+        "count": 5
+      },
+      {
+        "value": "1.5rem",
+        "count": 4
+      },
+      {
+        "value": "2.5rem",
+        "count": 4
+      },
+      {
+        "value": "3rem",
+        "count": 4
+      },
+      {
+        "value": "1.6rem",
+        "count": 3
+      },
+      {
+        "value": ".7778rem",
+        "count": 3
+      },
+      {
+        "value": ".8125rem",
+        "count": 3
+      },
+      {
+        "value": ".888888rem",
+        "count": 3
+      },
+      {
+        "value": "6rem",
+        "count": 2
+      },
+      {
+        "value": "4.5rem",
+        "count": 2
+      },
+      {
+        "value": "3.5rem",
+        "count": 2
+      },
+      {
+        "value": ".6rem",
+        "count": 2
+      },
+      {
+        "value": ".8333rem",
+        "count": 2
+      },
+      {
+        "value": "1.66667rem",
+        "count": 2
+      },
+      {
+        "value": ".722rem",
+        "count": 2
+      },
+      {
+        "value": ".889rem",
+        "count": 2
+      },
+      {
+        "value": "1.75rem",
+        "count": 2
+      },
+      {
+        "value": ".6875rem",
+        "count": 2
+      },
+      {
+        "value": "2.125rem",
+        "count": 2
+      },
+      {
+        "value": ".7222222rem",
+        "count": 2
+      },
+      {
+        "value": "2rem",
+        "count": 1
+      },
+      {
+        "value": "1.7rem",
+        "count": 1
+      },
+      {
+        "value": "1.3rem",
+        "count": 1
+      },
+      {
+        "value": "5.5rem",
+        "count": 1
+      },
+      {
+        "value": ".6667rem",
+        "count": 1
+      },
+      {
+        "value": ".88rem",
+        "count": 1
+      },
+      {
+        "value": ".77rem",
+        "count": 1
+      },
+      {
+        "value": "5rem",
+        "count": 1
+      },
+      {
+        "value": "1.667rem",
+        "count": 1
+      },
+      {
+        "value": "1.111rem",
+        "count": 1
+      },
+      {
+        "value": ".8rem!important",
+        "count": 1
+      },
+      {
+        "value": "1.222rem",
+        "count": 1
+      },
+      {
+        "value": "3.6364rem",
+        "count": 1
+      },
+      {
+        "value": "1.1667rem",
+        "count": 1
+      },
+      {
+        "value": "1.052rem",
+        "count": 1
+      },
+      {
+        "value": ".9375rem",
+        "count": 1
+      },
+      {
+        "value": "1.8rem",
+        "count": 1
+      },
+      {
+        "value": "2.2777rem",
+        "count": 1
+      },
+      {
+        "value": "2.277rem",
+        "count": 1
+      },
+      {
+        "value": "1.1666666rem",
+        "count": 1
+      },
+      {
+        "value": "3.3333333rem",
+        "count": 1
+      },
+      {
+        "value": ".777778rem",
+        "count": 1
+      },
+      {
+        "value": "1.16666rem",
+        "count": 1
+      },
+      {
+        "value": "1.44444rem",
+        "count": 1
+      },
+      {
+        "value": ".77777778rem",
+        "count": 1
+      },
+      {
+        "value": "1.16666667rem",
+        "count": 1
+      },
+      {
+        "value": ".7777778rem",
+        "count": 1
+      },
+      {
+        "value": "1.777778rem",
+        "count": 1
+      }
+    ],
+    "focusVisibleSelectors": 6,
+    "focusSelectors": 154,
+    "pseudoElements": 3977,
+    "hoverSelectors": 212,
+    "darkModeRules": 0,
+    "reducedMotionRules": 3,
+    "printRules": 2,
+    "supportsRules": 3,
+    "layerRules": 0,
+    "modernSelectors": 3,
+    "bgImageRefs": 17,
+    "externalSheets": [
+      {
+        "href": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+        "bytes": 646296
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961",
+        "bytes": 20969
+      }
+    ]
+  }
+}

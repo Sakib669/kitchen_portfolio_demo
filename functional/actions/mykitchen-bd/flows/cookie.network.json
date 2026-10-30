@@ -1,0 +1,1479 @@
+{
+  "requests": [
+    {
+      "id": 73,
+      "flow": "cookie",
+      "ts": 6444,
+      "url": "https://www.mykitchen-bd.com/",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 74,
+      "flow": "cookie",
+      "ts": 6492,
+      "url": "https://www.mykitchen-bd.com/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 75,
+      "flow": "cookie",
+      "ts": 6492,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fkitchen-logo.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 76,
+      "flow": "cookie",
+      "ts": 6493,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 77,
+      "flow": "cookie",
+      "ts": 6493,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/157k_dg4ym0pd.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 78,
+      "flow": "cookie",
+      "ts": 6496,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 79,
+      "flow": "cookie",
+      "ts": 6497,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 80,
+      "flow": "cookie",
+      "ts": 6500,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 81,
+      "flow": "cookie",
+      "ts": 6501,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 82,
+      "flow": "cookie",
+      "ts": 6502,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 83,
+      "flow": "cookie",
+      "ts": 6502,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 84,
+      "flow": "cookie",
+      "ts": 6503,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 85,
+      "flow": "cookie",
+      "ts": 6503,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 86,
+      "flow": "cookie",
+      "ts": 6503,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 87,
+      "flow": "cookie",
+      "ts": 6504,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 88,
+      "flow": "cookie",
+      "ts": 6504,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0z3vwiwkmf4x2.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 89,
+      "flow": "cookie",
+      "ts": 6505,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0dicgzjjajhx6.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 90,
+      "flow": "cookie",
+      "ts": 6505,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/133oq166-iq2j.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 91,
+      "flow": "cookie",
+      "ts": 6505,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/01cdbuv1roxa7.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 92,
+      "flow": "cookie",
+      "ts": 6505,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0ycei2n7w7c6f.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 93,
+      "flow": "cookie",
+      "ts": 6506,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/087-ii967_iw4.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 94,
+      "flow": "cookie",
+      "ts": 6506,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d~e3k5q_g2uc.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 95,
+      "flow": "cookie",
+      "ts": 6506,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/17qh67~6.ixar.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 96,
+      "flow": "cookie",
+      "ts": 6507,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0n4jjba7ftbus.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 97,
+      "flow": "cookie",
+      "ts": 6507,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0p731x9x-lixw.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 98,
+      "flow": "cookie",
+      "ts": 6508,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0g3sw20t96_.8.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 99,
+      "flow": "cookie",
+      "ts": 6691,
+      "url": "https://www.mykitchen-bd.com/images/kitchen/footer.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 100,
+      "flow": "cookie",
+      "ts": 6693,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fnavbar%2FcolorLogo.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 101,
+      "flow": "cookie",
+      "ts": 6694,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fnavbar%2FwhiteLogo.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 102,
+      "flow": "cookie",
+      "ts": 6695,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/1.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 103,
+      "flow": "cookie",
+      "ts": 6695,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/2.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 104,
+      "flow": "cookie",
+      "ts": 6695,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/3.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 105,
+      "flow": "cookie",
+      "ts": 6696,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/4.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 106,
+      "flow": "cookie",
+      "ts": 6698,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/5.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 107,
+      "flow": "cookie",
+      "ts": 6699,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg7.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 108,
+      "flow": "cookie",
+      "ts": 6699,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg5.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 109,
+      "flow": "cookie",
+      "ts": 6700,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg6.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 110,
+      "flow": "cookie",
+      "ts": 6701,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg1.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 111,
+      "flow": "cookie",
+      "ts": 6701,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg2.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 112,
+      "flow": "cookie",
+      "ts": 6701,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg3.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 113,
+      "flow": "cookie",
+      "ts": 6702,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg4.png&w=828&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 114,
+      "flow": "cookie",
+      "ts": 6704,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg8.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 115,
+      "flow": "cookie",
+      "ts": 6705,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg9.png&w=1080&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 116,
+      "flow": "cookie",
+      "ts": 6705,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Ftilottoma.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 117,
+      "flow": "cookie",
+      "ts": 6705,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fnextbook.png&w=128&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 118,
+      "flow": "cookie",
+      "ts": 6923,
+      "url": "https://api.mykitchen-bd.com/api/v1/expertise/menu",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 119,
+      "flow": "cookie",
+      "ts": 6924,
+      "url": "https://api.mykitchen-bd.com/api/v1/category",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 120,
+      "flow": "cookie",
+      "ts": 6926,
+      "url": "https://api.mykitchen-bd.com/api/v1/hero/active",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 121,
+      "flow": "cookie",
+      "ts": 6926,
+      "url": "https://api.mykitchen-bd.com/api/v1/hero/active",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 122,
+      "flow": "cookie",
+      "ts": 6928,
+      "url": "https://api.mykitchen-bd.com/api/v1/expertise",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 123,
+      "flow": "cookie",
+      "ts": 6928,
+      "url": "https://api.mykitchen-bd.com/api/v1/ads",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 124,
+      "flow": "cookie",
+      "ts": 6930,
+      "url": "https://www.mykitchen-bd.com/contact?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 125,
+      "flow": "cookie",
+      "ts": 6930,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 126,
+      "flow": "cookie",
+      "ts": 6930,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 127,
+      "flow": "cookie",
+      "ts": 6931,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 128,
+      "flow": "cookie",
+      "ts": 7076,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638905-154905677.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 129,
+      "flow": "cookie",
+      "ts": 7076,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638922-228522306.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 130,
+      "flow": "cookie",
+      "ts": 7077,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638932-163511062.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 131,
+      "flow": "cookie",
+      "ts": 7161,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787560445883-974872016.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 132,
+      "flow": "cookie",
+      "ts": 7163,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787560418351-730030619.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 133,
+      "flow": "cookie",
+      "ts": 7163,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787488128147-4220070.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 134,
+      "flow": "cookie",
+      "ts": 7164,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787567021294-29154877.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 135,
+      "flow": "cookie",
+      "ts": 7166,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 136,
+      "flow": "cookie",
+      "ts": 7166,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 137,
+      "flow": "cookie",
+      "ts": 7199,
+      "url": "https://www.mykitchen-bd.com/contact?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 138,
+      "flow": "cookie",
+      "ts": 7200,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 139,
+      "flow": "cookie",
+      "ts": 7207,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 140,
+      "flow": "cookie",
+      "ts": 7208,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 141,
+      "flow": "cookie",
+      "ts": 7210,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 142,
+      "flow": "cookie",
+      "ts": 7212,
+      "url": "https://www.mykitchen-bd.com/?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 143,
+      "flow": "cookie",
+      "ts": 7227,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 144,
+      "flow": "cookie",
+      "ts": 14406,
+      "url": "https://www.mykitchen-bd.com/",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 145,
+      "flow": "cookie",
+      "ts": 14472,
+      "url": "https://www.mykitchen-bd.com/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 146,
+      "flow": "cookie",
+      "ts": 14473,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fkitchen-logo.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 147,
+      "flow": "cookie",
+      "ts": 14475,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 148,
+      "flow": "cookie",
+      "ts": 14475,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/157k_dg4ym0pd.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 149,
+      "flow": "cookie",
+      "ts": 14479,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 150,
+      "flow": "cookie",
+      "ts": 14479,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 151,
+      "flow": "cookie",
+      "ts": 14479,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 152,
+      "flow": "cookie",
+      "ts": 14480,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 153,
+      "flow": "cookie",
+      "ts": 14480,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 154,
+      "flow": "cookie",
+      "ts": 14480,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 155,
+      "flow": "cookie",
+      "ts": 14480,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 156,
+      "flow": "cookie",
+      "ts": 14481,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 157,
+      "flow": "cookie",
+      "ts": 14481,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 158,
+      "flow": "cookie",
+      "ts": 14481,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 159,
+      "flow": "cookie",
+      "ts": 14482,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0z3vwiwkmf4x2.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 160,
+      "flow": "cookie",
+      "ts": 14482,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0dicgzjjajhx6.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 161,
+      "flow": "cookie",
+      "ts": 14482,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/133oq166-iq2j.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 162,
+      "flow": "cookie",
+      "ts": 14486,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/01cdbuv1roxa7.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 163,
+      "flow": "cookie",
+      "ts": 14486,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0ycei2n7w7c6f.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 164,
+      "flow": "cookie",
+      "ts": 14487,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/087-ii967_iw4.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 165,
+      "flow": "cookie",
+      "ts": 14488,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d~e3k5q_g2uc.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 166,
+      "flow": "cookie",
+      "ts": 14488,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/17qh67~6.ixar.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 167,
+      "flow": "cookie",
+      "ts": 14488,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0n4jjba7ftbus.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 168,
+      "flow": "cookie",
+      "ts": 14489,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0p731x9x-lixw.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 169,
+      "flow": "cookie",
+      "ts": 14489,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0g3sw20t96_.8.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 170,
+      "flow": "cookie",
+      "ts": 14532,
+      "url": "https://www.mykitchen-bd.com/images/kitchen/footer.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 171,
+      "flow": "cookie",
+      "ts": 14536,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fnavbar%2FcolorLogo.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 172,
+      "flow": "cookie",
+      "ts": 14537,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fnavbar%2FwhiteLogo.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 173,
+      "flow": "cookie",
+      "ts": 14537,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/1.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 174,
+      "flow": "cookie",
+      "ts": 14538,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/2.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 175,
+      "flow": "cookie",
+      "ts": 14538,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/3.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 176,
+      "flow": "cookie",
+      "ts": 14538,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/4.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 177,
+      "flow": "cookie",
+      "ts": 14539,
+      "url": "https://www.mykitchen-bd.com/images/homepage/set-us-apart/5.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 178,
+      "flow": "cookie",
+      "ts": 14539,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg7.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 179,
+      "flow": "cookie",
+      "ts": 14542,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg5.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 180,
+      "flow": "cookie",
+      "ts": 14542,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg6.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 181,
+      "flow": "cookie",
+      "ts": 14543,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg1.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 182,
+      "flow": "cookie",
+      "ts": 14543,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg2.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 183,
+      "flow": "cookie",
+      "ts": 14544,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg3.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 184,
+      "flow": "cookie",
+      "ts": 14544,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg4.png&w=828&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 185,
+      "flow": "cookie",
+      "ts": 14544,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg8.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 186,
+      "flow": "cookie",
+      "ts": 14544,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg9.png&w=1080&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 187,
+      "flow": "cookie",
+      "ts": 14544,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Ftilottoma.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 188,
+      "flow": "cookie",
+      "ts": 14545,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fnextbook.png&w=128&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 189,
+      "flow": "cookie",
+      "ts": 14669,
+      "url": "https://api.mykitchen-bd.com/api/v1/expertise/menu",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 190,
+      "flow": "cookie",
+      "ts": 14671,
+      "url": "https://api.mykitchen-bd.com/api/v1/category",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 191,
+      "flow": "cookie",
+      "ts": 14672,
+      "url": "https://api.mykitchen-bd.com/api/v1/hero/active",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 192,
+      "flow": "cookie",
+      "ts": 14675,
+      "url": "https://api.mykitchen-bd.com/api/v1/hero/active",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 193,
+      "flow": "cookie",
+      "ts": 14675,
+      "url": "https://api.mykitchen-bd.com/api/v1/expertise",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 194,
+      "flow": "cookie",
+      "ts": 14676,
+      "url": "https://api.mykitchen-bd.com/api/v1/ads",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 195,
+      "flow": "cookie",
+      "ts": 14677,
+      "url": "https://www.mykitchen-bd.com/contact?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 196,
+      "flow": "cookie",
+      "ts": 14678,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 197,
+      "flow": "cookie",
+      "ts": 14678,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 198,
+      "flow": "cookie",
+      "ts": 14680,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 199,
+      "flow": "cookie",
+      "ts": 14808,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638905-154905677.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 200,
+      "flow": "cookie",
+      "ts": 14810,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638922-228522306.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 201,
+      "flow": "cookie",
+      "ts": 14810,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638932-163511062.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 202,
+      "flow": "cookie",
+      "ts": 14945,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787560445883-974872016.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 203,
+      "flow": "cookie",
+      "ts": 14946,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787560418351-730030619.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 204,
+      "flow": "cookie",
+      "ts": 14947,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787488128147-4220070.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 205,
+      "flow": "cookie",
+      "ts": 14947,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2FmainImg-1787567021294-29154877.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 206,
+      "flow": "cookie",
+      "ts": 15042,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 207,
+      "flow": "cookie",
+      "ts": 15043,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=5CB68i4pnAekjehf",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 208,
+      "flow": "cookie",
+      "ts": 15045,
+      "url": "https://www.mykitchen-bd.com/contact?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 209,
+      "flow": "cookie",
+      "ts": 15046,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 210,
+      "flow": "cookie",
+      "ts": 15089,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 211,
+      "flow": "cookie",
+      "ts": 15091,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 212,
+      "flow": "cookie",
+      "ts": 15092,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 213,
+      "flow": "cookie",
+      "ts": 15093,
+      "url": "https://www.mykitchen-bd.com/?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 214,
+      "flow": "cookie",
+      "ts": 15106,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=tXyZJ52UQVBCVsD3",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    }
+  ],
+  "summary": {
+    "total": 142,
+    "byDomain": [
+      {
+        "domain": "www.mykitchen-bd.com",
+        "count": 130
+      },
+      {
+        "domain": "api.mykitchen-bd.com",
+        "count": 12
+      }
+    ],
+    "byType": [
+      {
+        "type": "image",
+        "count": 54
+      },
+      {
+        "type": "script",
+        "count": 42
+      },
+      {
+        "type": "fetch",
+        "count": 26
+      },
+      {
+        "type": "xhr",
+        "count": 12
+      },
+      {
+        "type": "stylesheet",
+        "count": 4
+      },
+      {
+        "type": "document",
+        "count": 2
+      },
+      {
+        "type": "font",
+        "count": 2
+      }
+    ],
+    "nonGet": []
+  }
+}

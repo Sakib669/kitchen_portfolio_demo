@@ -1,0 +1,121 @@
+/* ============================================================
+   Häcker Küchen — design tokens (reverse-engineered)
+   Source: https://www.haecker-kuechen.com · 2026-10-26
+   Values observed from computed styles + CSS custom properties.
+   ============================================================ */
+
+:root {
+  /* ---- brand & accents ---- */
+  --haecker-kuechen-brand-ink: #000000; /* monochrome system: photography carries the color */
+
+  /* ---- neutrals ---- */
+  --haecker-kuechen-neutral-1: #000000; /* L0 */
+  --haecker-kuechen-neutral-2: #222222; /* L13 */
+  --haecker-kuechen-neutral-3: #7a7a7a; /* L48 */
+  --haecker-kuechen-neutral-4: #969696; /* L59 */
+  --haecker-kuechen-neutral-5: #f7f7f7; /* L97 */
+  --haecker-kuechen-neutral-6: #ffffff; /* L100 */
+
+  /* ---- surfaces & text ---- */
+  --haecker-kuechen-surface-white: #ffffff;
+  --haecker-kuechen-surface-black: #000000;
+  --haecker-kuechen-surface-mist: #f7f7f7;
+  --haecker-kuechen-surface-ink: #222222;
+  --haecker-kuechen-surface-grey: #ced4da;
+  --haecker-kuechen-surface-mist-2: #f8f8f8;
+
+  --haecker-kuechen-text-white: #ffffff;
+  --haecker-kuechen-text-black: #000000;
+  --haecker-kuechen-text-grey: #a2a2a2;
+  --haecker-kuechen-text-slate: #7a7a7a;
+  --haecker-kuechen-text-grey-2: #969696;
+
+  /* ---- type scale ---- */
+  --haecker-kuechen-font-size-90: 90px; /* w500, lh 108px */
+  --haecker-kuechen-font-size-45: 45px; /* w400, lh 50px */
+  --haecker-kuechen-font-size-36: 36px; /* w500, lh 43.2px */
+  --haecker-kuechen-font-size-32: 32px; /* w400, lh 38.4px */
+  --haecker-kuechen-font-size-30.6: 30.6px; /* w600, lh 36.72px */
+  --haecker-kuechen-font-size-30.01: 30.01px; /* w400, lh 30.006px */
+  --haecker-kuechen-font-size-25.2: 25.2px; /* w600, lh 30.24px */
+  --haecker-kuechen-font-size-23.4: 23.4px; /* w600, lh 28.08px */
+  --haecker-kuechen-font-size-18: 18px; /* w400, lh 27px */
+  --haecker-kuechen-font-size-18: 18px; /* w700, lh 27px */
+  --haecker-kuechen-font-size-16: 16px; /* w400, lh 24px */
+  --haecker-kuechen-font-size-16: 16px; /* w600, lh 24px */
+  --haecker-kuechen-font-size-16: 16px; /* w700, lh 24px */
+  --haecker-kuechen-font-size-15.84: 15.84px; /* w400, lh 23.76px */
+  --haecker-kuechen-font-size-15.75: 15.75px; /* w600, lh 18.9px */
+  --haecker-kuechen-font-size-15: 15px; /* w400, lh 19.4992px */
+  --haecker-kuechen-font-size-15: 15px; /* w800, lh 19.4992px */
+  --haecker-kuechen-font-size-14.63: 14.63px; /* w400, lh 21.9375px */
+  --haecker-kuechen-font-size-14.63: 14.63px; /* w600, lh 21.9375px */
+  --haecker-kuechen-font-size-14.4: 14.4px; /* w400, lh 21.6px */
+  --haecker-kuechen-font-size-14.4: 14.4px; /* w500, lh 21.6px */
+  --haecker-kuechen-font-size-14: 14px; /* w700, lh 16.8px */
+  --haecker-kuechen-font-size-14: 14px; /* w600, lh 16.8px */
+  --haecker-kuechen-font-size-13.86: 13.86px; /* w400, lh 20.79px */
+  --haecker-kuechen-font-size-12.6: 12.6px; /* w600, lh 15.12px */
+  --haecker-kuechen-font-size-12.6: 12.6px; /* w400, lh 18.9px */
+
+  /* ---- spacing ---- */
+  --haecker-kuechen-space-2: 2px;
+  --haecker-kuechen-space-3: 3px;
+  --haecker-kuechen-space-4.5: 4.5px;
+  --haecker-kuechen-space-5: 5px;
+  --haecker-kuechen-space-6: 6px;
+  --haecker-kuechen-space-8: 8px;
+  --haecker-kuechen-space-9: 9px;
+  --haecker-kuechen-space-10: 10px;
+  --haecker-kuechen-space-15: 15px;
+  --haecker-kuechen-space-20: 20px;
+  --haecker-kuechen-space-25: 25px;
+  --haecker-kuechen-space-30: 30px;
+  --haecker-kuechen-space-36: 36px;
+  --haecker-kuechen-space-54: 54px;
+
+  /* ---- radius ---- */
+  --haecker-kuechen-radius-1: 0;
+  --haecker-kuechen-radius-2: 100%;
+  --haecker-kuechen-radius-3: 50px;
+  --haecker-kuechen-radius-4: 10px;
+  --haecker-kuechen-radius-5: 10em;
+  --haecker-kuechen-radius-6: 5px;
+  --haecker-kuechen-radius-7: 4px;
+  --haecker-kuechen-radius-8: 20px;
+  --haecker-kuechen-radius-9: 50%;
+  --haecker-kuechen-radius-10: 0 0 0 0;
+
+  /* ---- shadow ---- */
+  --haecker-kuechen-shadow-1: none;
+  --haecker-kuechen-shadow-2: 0 0 0 .2rem rgba(0,0,0,.25);
+  --haecker-kuechen-shadow-3: 0 0 0 .2rem rgba(40,167,69,.25);
+  --haecker-kuechen-shadow-4: 0 0 0 .2rem rgba(220,53,69,.25);
+  --haecker-kuechen-shadow-5: 0 0 0 .2rem rgba(38,38,38,.5);
+  --haecker-kuechen-shadow-6: 0 0 0 .2rem rgba(0,0,0,.5);
+  --haecker-kuechen-shadow-7: 1px 3px #353e44;
+  --haecker-kuechen-shadow-8: 0 0 0 .2rem hsla(208,6%,54%,.5);
+
+  /* ---- motion ---- */
+  --haecker-kuechen-duration-1: .2s;
+  --haecker-kuechen-duration-2: .15s;
+  --haecker-kuechen-duration-3: .1s;
+  --haecker-kuechen-duration-4: 0s;
+  --haecker-kuechen-duration-5: .3s;
+  --haecker-kuechen-duration-6: .4s;
+  --haecker-kuechen-ease-1: ease-in;
+  --haecker-kuechen-ease-2: ease;
+  --haecker-kuechen-ease-3: ease-in-out;
+  --haecker-kuechen-ease-4: cubic-bezier(.25,.46,.45,.94);
+  --haecker-kuechen-ease-5: linear;
+}
+
+/* ---- breakpoints (observed) ---- */
+@media (min-width:350) { /* 11 rules */ }
+@media (min-width:550) { /* 11 rules */ }
+@media (min-width:576) { /* 11 rules */ }
+@media (min-width:768) { /* 11 rules */ }
+@media (min-width:1200) { /* 11 rules */ }
+@media (min-width:1400) { /* 11 rules */ }
+@media (min-width:1600) { /* 11 rules */ }
+@media (min-width:1850) { /* 11 rules */ }

@@ -1,0 +1,971 @@
+{
+  "site": "mykitchen-bd",
+  "name": "My Kitchen",
+  "base": "https://www.mykitchen-bd.com",
+  "generatedAt": "2026-10-26T08:49:31.222Z",
+  "flows": [
+    {
+      "id": "accordions",
+      "error": null,
+      "steps": 4,
+      "requests": 94,
+      "durationMs": 20794,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-1.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-2.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-3.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/accordions-expanded-4.png"
+      ],
+      "blockedWrites": 2
+    },
+    {
+      "id": "baseline",
+      "error": null,
+      "steps": 6,
+      "requests": 72,
+      "durationMs": 6341,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/baseline-home.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "carousel",
+      "error": null,
+      "steps": 3,
+      "requests": 80,
+      "durationMs": 25067,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-initial.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-next-1.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-next-2.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-next-3.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/carousel-prev.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "chat",
+      "error": null,
+      "steps": 2,
+      "requests": 92,
+      "durationMs": 10365,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/chat-opened.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "cookie",
+      "error": null,
+      "steps": 4,
+      "requests": 142,
+      "durationMs": 11661,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/cookie-banner.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/cookie-after.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "detailProbes",
+      "error": null,
+      "steps": 2,
+      "requests": 74,
+      "durationMs": 22983,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/detailProbes-catalogue-preview.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "finalise",
+      "error": null,
+      "steps": 1,
+      "requests": 8,
+      "durationMs": 38,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "forms",
+      "error": null,
+      "steps": 3,
+      "requests": 72,
+      "durationMs": 11959,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-form.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-validation.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/forms-contact-submit-click.png"
+      ],
+      "blockedWrites": 2
+    },
+    {
+      "id": "hoverStates",
+      "error": null,
+      "steps": 1,
+      "requests": 112,
+      "durationMs": 11240,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/hoverStates-hover-primary-cta.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/hoverStates-hover-secondary-pill.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/hoverStates-hover-image-tile.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "keyboard",
+      "error": null,
+      "steps": 3,
+      "requests": 71,
+      "durationMs": 8955,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/keyboard-keyboard-open.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "language",
+      "error": null,
+      "steps": 1,
+      "requests": 0,
+      "durationMs": 0,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "linksAssets",
+      "error": null,
+      "steps": 6,
+      "requests": 116,
+      "durationMs": 23360,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "mobileUi",
+      "error": null,
+      "steps": 2,
+      "requests": 70,
+      "durationMs": 11553,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/mobileUi-mobile-ui.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/mobileUi-mobile-scrolled.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "modal",
+      "error": null,
+      "steps": 5,
+      "requests": 214,
+      "durationMs": 17102,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/modal-onload.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/modal-closed.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "navDesktop",
+      "error": null,
+      "steps": 2,
+      "requests": 148,
+      "durationMs": 15667,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navDesktop-nav-0-open.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navDesktop-nav-1-open.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navDesktop-nav-2-open.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "navMobile",
+      "error": null,
+      "steps": 4,
+      "requests": 65,
+      "durationMs": 15348,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navMobile-home-mobile.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/navMobile-menu-open.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "notFound",
+      "error": null,
+      "steps": 1,
+      "requests": 12,
+      "durationMs": 1608,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/notFound-404.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "pageProbe",
+      "error": null,
+      "steps": 6,
+      "requests": 285,
+      "durationMs": 52219,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-catalogue.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-catalogue-clicked.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-find-store.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-products.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-gallery.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/pageProbe-company-profile.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "scroll",
+      "error": null,
+      "steps": 3,
+      "requests": 93,
+      "durationMs": 7547,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/scroll-scrolled.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/scroll-bottom.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "search",
+      "error": null,
+      "steps": 2,
+      "requests": 77,
+      "durationMs": 10079,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "tabsFilters",
+      "error": null,
+      "steps": 3,
+      "requests": 149,
+      "durationMs": 30296,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-1.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-2.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-3.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/tabsFilters-tab-4.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "videoLightbox",
+      "error": null,
+      "steps": 1,
+      "requests": 56,
+      "durationMs": 9460,
+      "shots": [],
+      "blockedWrites": 0
+    }
+  ],
+  "totals": {
+    "flows": 22,
+    "flowsOk": 22,
+    "requests": 2102
+  },
+  "blockedWrites": [
+    {
+      "flow": "accordions",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"4E7E4078-733A-4B48-A0FA-8A08BD1F8769\"]"
+    },
+    {
+      "flow": "accordions",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "postData": "[\"https://www.google.com\"]"
+    },
+    {
+      "flow": "forms",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"43C5E069-A8BE-4748-82EC-98793F462F13\"]"
+    },
+    {
+      "flow": "forms",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "postData": "[\"https://www.google.com\"]"
+    }
+  ],
+  "forms": [
+    {
+      "name": "contact",
+      "page": "https://www.mykitchen-bd.com/contact",
+      "allForms": [
+        {
+          "action": "https://www.mykitchen-bd.com/contact",
+          "method": "GET",
+          "id": "",
+          "cls": "flex flex-col gap-10 max-lg:gap-6",
+          "framework": "custom/unknown",
+          "fields": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "firstName",
+              "id": "",
+              "placeholder": "First Name",
+              "required": false,
+              "pattern": "",
+              "minLength": "",
+              "maxLength": "",
+              "autocomplete": "",
+              "label": "",
+              "disabled": false
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "lastName",
+              "id": "",
+              "placeholder": "Last Name",
+              "required": false,
+              "pattern": "",
+              "minLength": "",
+              "maxLength": "",
+              "autocomplete": "",
+              "label": "",
+              "disabled": false
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "email",
+              "id": "",
+              "placeholder": "Email",
+              "required": false,
+              "pattern": "",
+              "minLength": "",
+              "maxLength": "",
+              "autocomplete": "",
+              "label": "",
+              "disabled": false
+            },
+            {
+              "tag": "input",
+              "type": "tel",
+              "name": "phone",
+              "id": "",
+              "placeholder": "Phone",
+              "required": false,
+              "pattern": "",
+              "minLength": "",
+              "maxLength": "",
+              "autocomplete": "",
+              "label": "",
+              "disabled": false
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "subject",
+              "id": "",
+              "placeholder": "Subject",
+              "required": false,
+              "pattern": "",
+              "minLength": "",
+              "maxLength": "",
+              "autocomplete": "",
+              "label": "",
+              "disabled": false
+            },
+            {
+              "tag": "select",
+              "type": "select-one",
+              "name": "message",
+              "id": "",
+              "placeholder": "",
+              "required": false,
+              "pattern": "",
+              "minLength": "",
+              "maxLength": "",
+              "autocomplete": "",
+              "label": "",
+              "options": [
+                ":",
+                "I'd like to inquire about product availability and pricing.:",
+                "Can you provide more details about your customization option",
+                "I need assistance with an order I placed recently.:I need as",
+                "Other:Other"
+              ],
+              "disabled": false
+            }
+          ],
+          "submits": [
+            {
+              "text": "Message",
+              "type": "button",
+              "name": "",
+              "disabled": false
+            },
+            {
+              "text": "Submit",
+              "type": "submit",
+              "name": "",
+              "disabled": false
+            },
+            {
+              "text": "Cancel",
+              "type": "button",
+              "name": "",
+              "disabled": false
+            }
+          ],
+          "hidden": [],
+          "hasFile": false,
+          "hasConsent": false
+        }
+      ],
+      "picked": 0,
+      "form": {
+        "action": "https://www.mykitchen-bd.com/contact",
+        "method": "GET",
+        "id": "",
+        "cls": "flex flex-col gap-10 max-lg:gap-6",
+        "framework": "custom/unknown",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "firstName",
+            "id": "",
+            "placeholder": "First Name",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "lastName",
+            "id": "",
+            "placeholder": "Last Name",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          },
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "email",
+            "id": "",
+            "placeholder": "Email",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          },
+          {
+            "tag": "input",
+            "type": "tel",
+            "name": "phone",
+            "id": "",
+            "placeholder": "Phone",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "subject",
+            "id": "",
+            "placeholder": "Subject",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          },
+          {
+            "tag": "select",
+            "type": "select-one",
+            "name": "message",
+            "id": "",
+            "placeholder": "",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "options": [
+              ":",
+              "I'd like to inquire about product availability and pricing.:",
+              "Can you provide more details about your customization option",
+              "I need assistance with an order I placed recently.:I need as",
+              "Other:Other"
+            ],
+            "disabled": false
+          }
+        ],
+        "submits": [
+          {
+            "text": "Message",
+            "type": "button",
+            "name": "",
+            "disabled": false
+          },
+          {
+            "text": "Submit",
+            "type": "submit",
+            "name": "",
+            "disabled": false
+          },
+          {
+            "text": "Cancel",
+            "type": "button",
+            "name": "",
+            "disabled": false
+          }
+        ],
+        "hidden": [],
+        "hasFile": false,
+        "hasConsent": false
+      }
+    }
+  ],
+  "storage": {
+    "cookies": [
+      {
+        "name": "wa_ul",
+        "domain": ".api.whatsapp.com",
+        "path": "/send",
+        "expires": 1800778978.43913,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "c00dfddf-91c2-4f45-b2d0-18209182a6df"
+      },
+      {
+        "name": "wa_lang_pref",
+        "domain": ".whatsapp.com",
+        "path": "/",
+        "expires": 1793607778.439059,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax",
+        "value": "en"
+      }
+    ],
+    "local": {},
+    "session": {
+      "myKitchenAdDismissed": "6ac49f85a6a4fbd661585c4a"
+    },
+    "indexedDB": []
+  },
+  "domains": [
+    {
+      "domain": "www.mykitchen-bd.com",
+      "count": 1963
+    },
+    {
+      "domain": "api.mykitchen-bd.com",
+      "count": 144
+    },
+    {
+      "domain": "maps.googleapis.com",
+      "count": 32
+    },
+    {
+      "domain": "static.whatsapp.net",
+      "count": 17
+    },
+    {
+      "domain": "maps.gstatic.com",
+      "count": 4
+    },
+    {
+      "domain": "fonts.googleapis.com",
+      "count": 4
+    },
+    {
+      "domain": "fonts.gstatic.com",
+      "count": 4
+    },
+    {
+      "domain": "www.google.com",
+      "count": 2
+    },
+    {
+      "domain": "api.whatsapp.com",
+      "count": 2
+    },
+    {
+      "domain": "wa.me",
+      "count": 1
+    },
+    {
+      "domain": "send",
+      "count": 1
+    }
+  ],
+  "thirdParties": [
+    {
+      "provider": "Google Maps",
+      "domain": "maps.googleapis.com",
+      "count": 32
+    },
+    {
+      "provider": "Google Fonts",
+      "domain": "fonts.googleapis.com",
+      "count": 4
+    },
+    {
+      "provider": "Google Fonts",
+      "domain": "fonts.gstatic.com",
+      "count": 4
+    },
+    {
+      "provider": "Google",
+      "domain": "www.google.com",
+      "count": 2
+    }
+  ],
+  "unknownExternal": [
+    {
+      "domain": "static.whatsapp.net",
+      "count": 17
+    },
+    {
+      "domain": "maps.gstatic.com",
+      "count": 4
+    },
+    {
+      "domain": "api.whatsapp.com",
+      "count": 2
+    },
+    {
+      "domain": "wa.me",
+      "count": 1
+    },
+    {
+      "domain": "send",
+      "count": 1
+    }
+  ],
+  "assets": [],
+  "downloadHeads": [
+    {
+      "href": "http://api.mykitchen-bd.com/uploads/file-1761366144703-548596167.pdf",
+      "status": 200,
+      "type": "application/pdf",
+      "size": "29422722"
+    }
+  ],
+  "details": [
+    {
+      "flow": "detailProbes",
+      "step": "catalogue-preview:dialog",
+      "cls": "fixed left-[50%] top-[50%] z-50 grid translate-x-[-50%] translate-y-[-50%] gap-4 border p-6 shadow-lg duration-200 data-",
+      "text": "Print Download Appliance Folded Catalogue Open Document House 8, Road 138, Gulshan 1, Dhaka, Bangladesh, 1212 | 01642-912612 | www.mykitchen-bd.com Close",
+      "buttons": [
+        {
+          "text": "Print",
+          "href": "",
+          "tag": "button"
+        },
+        {
+          "text": "Download",
+          "href": "",
+          "tag": "button"
+        },
+        {
+          "text": "Open Document",
+          "href": "http://api.mykitchen-bd.com/uploads/file-1761366144703-548596167.pdf",
+          "tag": "a"
+        },
+        {
+          "text": "Close",
+          "href": "",
+          "tag": "button"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimg-1761041612727-557851981.jpeg&w=1920&q=75",
+          "alt": "img"
+        }
+      ],
+      "iframes": []
+    }
+  ],
+  "baselineCounts": {
+    "interactives": 42,
+    "links": 57,
+    "uniqueLinks": 33,
+    "buttons": 31,
+    "forms": 0,
+    "fields": 0,
+    "iframes": 0,
+    "videos": 0,
+    "svgs": 20,
+    "ariaExpanded": 3,
+    "ariaHaspopup": 0,
+    "details": 0,
+    "roleTab": 0,
+    "dialogs": 0,
+    "scripts": 53
+  },
+  "baselineInteractiveCats": {
+    "link": 33,
+    "button": 9
+  },
+  "baselineLinks": [
+    {
+      "href": "https://www.mykitchen-bd.com/",
+      "text": "",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/products",
+      "text": "Products",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/#",
+      "text": "",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/contact",
+      "text": "Contact",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/wardrobes",
+      "text": "Wardrobes",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/walk-in-closets",
+      "text": "WALK-IN CLOSETS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/vanities",
+      "text": "Vanities",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/accessories",
+      "text": "ACCESSORIES",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/sales-point",
+      "text": "Sales Point",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/events-&-news",
+      "text": "Events & News",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/catalogue",
+      "text": "Catalogue",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/gallery",
+      "text": "View Our Gallery",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/find-store",
+      "text": "Find a Store",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/company-profile",
+      "text": "Company Profile",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/history",
+      "text": "History",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/factory",
+      "text": "Factory",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/technology-our-procedure-processing-of-work",
+      "text": "Technology/Our Procedure & Processing of work",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/software",
+      "text": "Software",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/what-we-do",
+      "text": "What We Do",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/certification",
+      "text": "Certification",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/r&d",
+      "text": "R&D",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/oem-odm",
+      "text": "OEM/ODM",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/blum",
+      "text": "Learn More",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/kessebohmer",
+      "text": "Learn More",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/teka",
+      "text": "Learn More",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.facebook.com/mykitchenTBG",
+      "text": "Facebook",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://bd.linkedin.com/company/mykitchenofficial",
+      "text": "LinkedIn",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/privacy-policy",
+      "text": "Privacy Policy",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/terms-&-conditions",
+      "text": "Terms & Conditions",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/kitchen-area",
+      "text": "Kitchen",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/feedback",
+      "text": "Feedback",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.creativematter.agency/",
+      "text": "Creative Matter",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://wa.me/8801642912612",
+      "text": "Chat with us on WhatsApp",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    }
+  ]
+}

@@ -1,0 +1,7616 @@
+{
+  "site": "seaform",
+  "pages": [
+    {
+      "page": "Home",
+      "url": "https://www.seaform.com/",
+      "title": "SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "SEAFORM KITCHENS & WARDROBES"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 0,
+          "height": 828,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h1: SEAFORM KITCHENS & WARDROBES",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 116,
+          "height": 9855,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 908,
+          "height": 2607,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: SEAFORM KITCHEN COLLECTION",
+          "images": 10,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3515,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 4145,
+          "height": 1166,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: SEAFORM WARDROBE COLLECTION",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5311,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: FASCINATION",
+          "images": 1,
+          "videos": 1,
+          "childCount": 4
+        },
+        {
+          "type": "section",
+          "top": 6211,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 6841,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR DESIGN",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7741,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 8191,
+          "height": 675,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: LARGE SCALE PROJECTS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 8866,
+          "height": 197,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 9063,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: CONFIGURE YOUR KITCHEN",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 9964,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": [
+        {
+          "tag": "div",
+          "id": "elementor-popup-modal-2671",
+          "cls": "dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-popup-modal",
+          "w": 1440,
+          "h": 900,
+          "top": 0,
+          "left": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "zIndex": "9999",
+          "radius": "0px",
+          "text": "We use cookies. By continuing you consent to their use, as set out in our Cookie Policy. ACCEPT",
+          "buttons": []
+        }
+      ]
+    },
+    {
+      "page": "About",
+      "url": "https://www.seaform.com/about-seaform",
+      "title": "About | SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "SEAFORM KITCHENS & WARDROBES"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -2,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: FASCINATION SEAFORM",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 116,
+          "height": 11121,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "display: FASCINATION SEAFORM",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 898,
+          "height": 684,
+          "bg": "rgb(18, 24, 32)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: CONCIERGE SERVICE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 1582,
+          "height": 540,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: SEAFORM KITCHENS & WARDROBES",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2122,
+          "height": 675,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHEN COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2957,
+          "height": 449,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: DESIGN",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3546,
+          "height": 675,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: WARDROBES & WALK-INS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4293,
+          "height": 502,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: QUALITY",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4867,
+          "height": 821,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "40px 40px",
+          "heading": "h2: MADE IN GERMANY - SINCE 1917",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5688,
+          "height": 675,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: PRESENCE IN 72 COUNTRIES",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 6363,
+          "height": 630,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 6993,
+          "height": 540,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 7533,
+          "height": 2009,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHEN COLLECTION",
+          "images": 10,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9542,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 10172,
+          "height": 1058,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: WARDROBE COLLECTION",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 11231,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "FASCINATION SEAFORM",
+          "size": 35,
+          "weight": "300",
+          "family": "Optima, sans-serif"
+        }
+      ],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Contact",
+      "url": "https://www.seaform.com/contact-us",
+      "title": "Contact Us | SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "GET IN TOUCH"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 887,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: GET IN TOUCH",
+          "images": 0,
+          "videos": 0,
+          "childCount": 4
+        },
+        {
+          "type": "section",
+          "top": 212,
+          "height": 767,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "footer",
+          "top": 877,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Kitchen Collections",
+      "url": "https://www.seaform.com/kitchen-collections",
+      "title": "Kitchen Collection | SEAFORM - German Kitchens & Wardrobes since 1917",
+      "h1": [
+        "SEAFORM KITCHEN COLLECTION"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHEN COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 124,
+          "height": 4994,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 888,
+          "height": 2504,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: SEAFORM KITCHEN COLLECTION",
+          "images": 10,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3392,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 4022,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 4652,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "footer",
+          "top": 5103,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Hamptons Collection",
+      "url": "https://www.seaform.com/kitchen-collections/hamptons",
+      "title": "Hamptons - SEAFORM",
+      "h1": [
+        "SEAFORM KITCHEN COLLECTIONS"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: HAMPTONS",
+          "images": 0,
+          "videos": 1,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 114,
+          "height": 13539,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "display: HAMPTONS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 888,
+          "height": 700,
+          "bg": "rgb(21, 20, 18)",
+          "bgImage": false,
+          "padding": "150px 150px",
+          "heading": "h2: THE HAMPTONS COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 1804,
+          "height": 810,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 7,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2830,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 3600,
+          "height": 665,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: REFINED, TIMELESS, MAGNIFICENT",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4481,
+          "height": 810,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 7,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5507,
+          "height": 472,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: PLAYFUL DETAILS​",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6120,
+          "height": 662,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "140px 140px",
+          "heading": "h2: EAST-COAST-LIFESTYLE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6921,
+          "height": 776,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: MODERN VINTAGE DESIGN",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7837,
+          "height": 965,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: MATERIALS, PATTERNS & COLORS",
+          "images": 7,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8902,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 9761,
+          "height": 830,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 7,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 10611,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 11061,
+          "height": 2587,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: SEAFORM KITCHEN COLLECTIONS",
+          "images": 10,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 13649,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "HAMPTONS",
+          "size": 48,
+          "weight": "300",
+          "family": "Poppins, sans-serif"
+        },
+        {
+          "text": "335 - FG 387",
+          "size": 30,
+          "weight": "400",
+          "family": "Optima"
+        }
+      ],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": [
+        {
+          "tag": "div",
+          "id": "elementor-popup-modal-2671",
+          "cls": "dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-popup-modal",
+          "w": 1440,
+          "h": 900,
+          "top": 0,
+          "left": 0,
+          "bg": "rgba(0, 0, 0, 0)",
+          "zIndex": "9999",
+          "radius": "0px",
+          "text": "We use cookies. By continuing you consent to their use, as set out in our Cookie Policy. ACCEPT",
+          "buttons": []
+        }
+      ]
+    },
+    {
+      "page": "Kitchen Interiors",
+      "url": "https://www.seaform.com/kitchen-interiors",
+      "title": "Interiors Kitchen | SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "INTERIORS, ACCESSORIES & LIGHTS"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: EXPLORE THE DETAILS WHICH MAKE YOUR KITCHEN UNIQUE",
+          "images": 0,
+          "videos": 1,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 114,
+          "height": 13842,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "display: ACCESSORIESLIGHTS INTERNALS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 888,
+          "height": 540,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: INTERIORS, ACCESSORIES & LIGHTS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 1428,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 2058,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: TALL UNITS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2708,
+          "height": 639,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: POCKET DOORS",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3347,
+          "height": 934,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: LARDER UNITS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4281,
+          "height": 783,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: HEAVY DUTY STORAGE",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5064,
+          "height": 794,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: GLASS TALL BOY'S",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5858,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 6488,
+          "height": 720,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: BASE UNITS",
+          "images": 0,
+          "videos": 1,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 7208,
+          "height": 1040,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: INTERIOR PULLOUTS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8248,
+          "height": 680,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: EVERYTHING WHERE YOU NEED IT",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8928,
+          "height": 737,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: INFINITE ORGANIZATION OPTIONS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9664,
+          "height": 720,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: SPECIAL: SEAFORM CLIMBERS",
+          "images": 0,
+          "videos": 1,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 10384,
+          "height": 599,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: BLACK OR FROSTED",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 10983,
+          "height": 733,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: GLASS WALL UNITS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 11716,
+          "height": 884,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: INTERIOR LIGHTING",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 12600,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR DESIGN",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 13500,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "footer",
+          "top": 13951,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "ACCESSORIESLIGHTS INTERNALS",
+          "size": 40,
+          "weight": "400",
+          "family": "Optima, sans-serif"
+        }
+      ],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Materials & Colours",
+      "url": "https://www.seaform.com/kitchen-materials-colors",
+      "title": "Kitchen Materials & Colors | SEAFORM",
+      "h1": [
+        "MATERIALS AND COLORS"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -122,
+          "height": 1026,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h1: MATERIALS AND COLORS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "header",
+          "top": 0,
+          "height": 108,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: CONCIERGE",
+          "images": 28,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 113,
+          "height": 17987,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "display: MATERIALS AND COLORS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 904,
+          "height": 880,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "240px 240px",
+          "heading": "h2: MATERIALS, COLORS, FINISHES",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 1804,
+          "height": 888,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: UNLEASH YOUR CREATIVITY",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2692,
+          "height": 1080,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: WITHOUT BLACK NO COLOR HAS ANY DEPTH",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 3772,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 4222,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 4852,
+          "height": 760,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "40px 40px",
+          "heading": "h2: WOOD INTEGRATION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5612,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 6242,
+          "height": 929,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: WOOD COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7171,
+          "height": 749,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "144px 144px",
+          "heading": "h2: SPECIALS",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7920,
+          "height": 844,
+          "bg": "rgb(23, 23, 23)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: SPECIAL",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8764,
+          "height": 915,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: STEIN COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9678,
+          "height": 950,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: CRYSTAL COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 10628,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR DESIGN",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 11528,
+          "height": 519,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "100px 100px",
+          "heading": "h2: PLYFORM",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 12047,
+          "height": 917,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 72px",
+          "heading": "h2: METAL COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 12964,
+          "height": 758,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "144px 144px",
+          "heading": "h2: ENIGMA",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 13722,
+          "height": 667,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "140px 140px",
+          "heading": "h2: BILBAO STONE VENEER",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 14389,
+          "height": 730,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "140px 140px",
+          "heading": "h2: BURNED ASH WITH GOLDEN INLAYS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 15259,
+          "height": 776,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: VINTAGE DESIGN",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 16175,
+          "height": 941,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: CLASSIC AND CLASSY",
+          "images": 7,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 17196,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: CONFIGURE YOUR KITCHEN",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 18097,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "MATERIALS AND COLORS",
+          "size": 48,
+          "weight": "300",
+          "family": "Optima, sans-serif"
+        },
+        {
+          "text": "MATERIALS, COLORS, FINISHES",
+          "size": 30,
+          "weight": "300",
+          "family": "Optima, sans-serif"
+        },
+        {
+          "text": "WITHOUT BLACK NO COLOR HAS ANY DEPTH",
+          "size": 30,
+          "weight": "400",
+          "family": "Optima, sans-serif"
+        },
+        {
+          "text": "335 - FG 387",
+          "size": 30,
+          "weight": "400",
+          "family": "Optima"
+        }
+      ],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Manufacturing",
+      "url": "https://www.seaform.com/manufacturing",
+      "title": "Manufacturing - SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "FULLY-AUTOMATED KITCHEN PRODUCTION"
+      ],
+      "sections": [
+        {
+          "type": "header",
+          "top": 0,
+          "height": 108,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: CONCIERGE",
+          "images": 28,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 118,
+          "height": 829,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "72px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 1,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 967,
+          "height": 270,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "100px 80px",
+          "heading": "h2: MADE IN GERMANY",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 1237,
+          "height": 860,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: PLANT I",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2237,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: INDUSTRY 4.0",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 3137,
+          "height": 292,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "100px 100px",
+          "heading": "h1: FULLY-AUTOMATED KITCHEN PRODUCTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3429,
+          "height": 855,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "0px 80px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4284,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GLOBAL TRAINING & EXPERIENCE CENTER",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 5324,
+          "height": 706,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: GERMAN CRAFTSMANSHIP & ENGINEERING",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6030,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 6660,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "footer",
+          "top": 7111,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "INDUSTRY 4.0",
+          "size": 77,
+          "weight": "400",
+          "family": "Optima, sans-serif"
+        },
+        {
+          "text": "MADE IN GERMANY",
+          "size": 30,
+          "weight": "300",
+          "family": "Optima, sans-serif"
+        }
+      ],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Projects",
+      "url": "https://www.seaform.com/projects",
+      "title": "Projects - SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "GLOBAL LARGE SCALE PROJECTS"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 900,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: CONTRACT DIVISION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 116,
+          "height": 11081,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "display: CONTRACT DIVISION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 888,
+          "height": 720,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 1,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 1628,
+          "height": 741,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: MADE IN GERMANY",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2370,
+          "height": 990,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ALTAIR",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3360,
+          "height": 990,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: DESIGN DEVELOPMENT",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4350,
+          "height": 990,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: WINDCHANTS",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5340,
+          "height": 990,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: MANUFACTURING 4.0",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6330,
+          "height": 900,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: PRESENCE IN 72 COUNTRIES",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 7230,
+          "height": 990,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: AMANORA CITY",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8220,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: INSTALLATION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9120,
+          "height": 990,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: THE IVY",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 10110,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: PROJECTS AT A GLANCE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 10740,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "footer",
+          "top": 11191,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "CONTRACT DIVISION",
+          "size": 60,
+          "weight": "400",
+          "family": "Roboto, sans-serif"
+        }
+      ],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "The Brand",
+      "url": "https://www.seaform.com/the-brand",
+      "title": "The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917",
+      "h1": [
+        "SEAFORM KITCHEN COLLECTIONS"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h3: WE SHAPE EXTRAORDINARY SPACES FOR PEOPLE TO CREATE, EXPERIENCE AND LIVE IN",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 121,
+          "height": 6475,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 908,
+          "height": 630,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 1538,
+          "height": 540,
+          "bg": "rgb(14, 14, 14)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: WHAT WE BELIEVE IN",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2078,
+          "height": 1591,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: SEAFORM KITCHEN COLLECTIONS",
+          "images": 10,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3741,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 4371,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 4821,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 5451,
+          "height": 1132,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: SEAFORM WARDROBE COLLECTIONS",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 6585,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Wardrobes",
+      "url": "https://www.seaform.com/wardrobe-collections",
+      "title": "Wardrobe Collections | SEAFORM - German Kitchens & Wardrobes",
+      "h1": [
+        "SEAFORM WARDROBE COLLECTION"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": -12,
+          "height": 900,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: WARDROBE COLLECTION",
+          "images": 0,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 131,
+          "height": 3573,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 908,
+          "height": 1063,
+          "bg": "rgb(255, 255, 255)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: SEAFORM WARDROBE COLLECTION",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 1972,
+          "height": 630,
+          "bg": "rgb(20, 20, 20)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: ORDER YOUR CATALOGUE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 2602,
+          "height": 630,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "h2: GET YOUR PERSONAL CONCIERGE",
+          "images": 1,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 3232,
+          "height": 450,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": true,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "footer",
+          "top": 3683,
+          "height": 505,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: KITCHENS",
+          "images": 1,
+          "videos": 0,
+          "childCount": 4
+        }
+      ],
+      "displayHeads": [],
+      "framework": [
+        "WordPress",
+        "Elementor"
+      ],
+      "overlays": []
+    }
+  ],
+  "palette": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 100
+      },
+      "name": "white",
+      "bgArea": 183411992,
+      "textChars": 6287,
+      "cssDecls": 1299,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "body.home wp-singular page-template-default page page-id-7 wp-embed-responsive wp-the",
+        "a.elementor-button elementor-button-link elementor-size-sm",
+        "KITCHENS"
+      ],
+      "tags": [
+        "div",
+        "section",
+        "a",
+        "body"
+      ],
+      "importance": 195480212
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+      },
+      "name": "black",
+      "bgArea": 25874282,
+      "textChars": 7224,
+      "cssDecls": 1263,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-4de7",
+        "section.elementor-section elementor-top-section elementor-element elementor-element-5313",
+        "SEAFORM KITCHEN COLLECTION"
+      ],
+      "tags": [
+        "a",
+        "section",
+        "div",
+        "iframe"
+      ],
+      "importance": 37674722
+    },
+    {
+      "hex": "#141414",
+      "rgb": [
+        20,
+        20,
+        20
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 8
+      },
+      "name": "ink",
+      "bgArea": 8164800,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 9,
+      "pages": [
+        "Home",
+        "About",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Projects",
+        "The Brand"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-35e5",
+        "section.elementor-section elementor-top-section elementor-element elementor-element-0039",
+        "section.elementor-section elementor-top-section elementor-element elementor-element-1a99"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 8164800
+    },
+    {
+      "hex": "#121212",
+      "rgb": [
+        18,
+        18,
+        18
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 7
+      },
+      "name": "black",
+      "bgArea": 7955400,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-1e59",
+        "section.elementor-section elementor-top-section elementor-element elementor-element-54d1"
+      ],
+      "tags": [
+        "section",
+        "div"
+      ],
+      "importance": 7955400
+    },
+    {
+      "hex": "#13aff0",
+      "rgb": [
+        19,
+        175,
+        240
+      ],
+      "hsl": {
+        "h": 198,
+        "s": 88,
+        "l": 51
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 451,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 4059000
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 20
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 363,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 3267000
+    },
+    {
+      "hex": "#555555",
+      "rgb": [
+        85,
+        85,
+        85
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 33
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 220,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1980000
+    },
+    {
+      "hex": "#171717",
+      "rgb": [
+        23,
+        23,
+        23
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 9
+      },
+      "name": "ink",
+      "bgArea": 1215360,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "Materials & Colours"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-6f21"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 1215360
+    },
+    {
+      "hex": "#151412",
+      "rgb": [
+        21,
+        20,
+        18
+      ],
+      "hsl": {
+        "h": 40,
+        "s": 8,
+        "l": 8
+      },
+      "name": "ink",
+      "bgArea": 1008000,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "Hamptons Collection"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-40fa"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 1008000
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 13
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 110,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 990000
+    },
+    {
+      "hex": "#69727d",
+      "rgb": [
+        105,
+        114,
+        125
+      ],
+      "hsl": {
+        "h": 213,
+        "s": 9,
+        "l": 45
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 110,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 990000
+    },
+    {
+      "hex": "#121820",
+      "rgb": [
+        18,
+        24,
+        32
+      ],
+      "hsl": {
+        "h": 214,
+        "s": 28,
+        "l": 10
+      },
+      "name": "cyan-dark",
+      "bgArea": 984960,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "About"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-ad2b"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 984960
+    },
+    {
+      "hex": "#37589b",
+      "rgb": [
+        55,
+        88,
+        155
+      ],
+      "hsl": {
+        "h": 220,
+        "s": 48,
+        "l": 41
+      },
+      "name": "blue",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 99,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 891000
+    },
+    {
+      "hex": "#f1f1f1",
+      "rgb": [
+        241,
+        241,
+        241
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 95
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 88,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 792000
+    },
+    {
+      "hex": "#bbbbbb",
+      "rgb": [
+        187,
+        187,
+        187
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 73
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 88,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 792000
+    },
+    {
+      "hex": "#929292",
+      "rgb": [
+        146,
+        146,
+        146
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 57
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 88,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 792000
+    },
+    {
+      "hex": "#0e0e0e",
+      "rgb": [
+        14,
+        14,
+        14
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 5
+      },
+      "name": "black",
+      "bgArea": 777600,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "The Brand"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-adec"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 777600
+    },
+    {
+      "hex": "#101117",
+      "rgb": [
+        16,
+        17,
+        23
+      ],
+      "hsl": {
+        "h": 231,
+        "s": 18,
+        "l": 8
+      },
+      "name": "ink",
+      "bgArea": 622060,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 2,
+      "pages": [
+        "Home",
+        "Materials & Colours"
+      ],
+      "samples": [
+        "div.elementor-widget-wrap elementor-element-populated"
+      ],
+      "tags": [
+        "div"
+      ],
+      "importance": 622060
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 87
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#cccccc",
+      "rgb": [
+        204,
+        204,
+        204
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 80
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#ea4c89",
+      "rgb": [
+        234,
+        76,
+        137
+      ],
+      "hsl": {
+        "h": 337,
+        "s": 79,
+        "l": 61
+      },
+      "name": "rose",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#00aff0",
+      "rgb": [
+        0,
+        175,
+        240
+      ],
+      "hsl": {
+        "h": 196,
+        "s": 100,
+        "l": 47
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#1ab7ea",
+      "rgb": [
+        26,
+        183,
+        234
+      ],
+      "hsl": {
+        "h": 195,
+        "s": 83,
+        "l": 51
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#589442",
+      "rgb": [
+        88,
+        148,
+        66
+      ],
+      "hsl": {
+        "h": 104,
+        "s": 38,
+        "l": 42
+      },
+      "name": "green",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 60
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 429,
+      "cssDecls": 55,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "Imprint"
+      ],
+      "tags": [],
+      "importance": 520740
+    },
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 93
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#46d4fe",
+      "rgb": [
+        70,
+        212,
+        254
+      ],
+      "hsl": {
+        "h": 194,
+        "s": 99,
+        "l": 64
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#de5a49",
+      "rgb": [
+        222,
+        90,
+        73
+      ],
+      "hsl": {
+        "h": 7,
+        "s": 69,
+        "l": 58
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#cb2027",
+      "rgb": [
+        203,
+        32,
+        39
+      ],
+      "hsl": {
+        "h": 358,
+        "s": 73,
+        "l": 46
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#597ba5",
+      "rgb": [
+        89,
+        123,
+        165
+      ],
+      "hsl": {
+        "h": 213,
+        "s": 30,
+        "l": 50
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#3f729b",
+      "rgb": [
+        63,
+        114,
+        155
+      ],
+      "hsl": {
+        "h": 207,
+        "s": 42,
+        "l": 43
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#3399cc",
+      "rgb": [
+        51,
+        153,
+        204
+      ],
+      "hsl": {
+        "h": 200,
+        "s": 60,
+        "l": 50
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#2c4762",
+      "rgb": [
+        44,
+        71,
+        98
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 38,
+        "l": 28
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#60b044",
+      "rgb": [
+        96,
+        176,
+        68
+      ],
+      "hsl": {
+        "h": 104,
+        "s": 44,
+        "l": 48
+      },
+      "name": "green",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#fa4086",
+      "rgb": [
+        250,
+        64,
+        134
+      ],
+      "hsl": {
+        "h": 337,
+        "s": 95,
+        "l": 62
+      },
+      "name": "rose",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#c4302b",
+      "rgb": [
+        196,
+        48,
+        43
+      ],
+      "hsl": {
+        "h": 2,
+        "s": 64,
+        "l": 47
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#00bf8f",
+      "rgb": [
+        0,
+        191,
+        143
+      ],
+      "hsl": {
+        "h": 165,
+        "s": 100,
+        "l": 37
+      },
+      "name": "teal",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#006464",
+      "rgb": [
+        0,
+        100,
+        100
+      ],
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 20
+      },
+      "name": "teal-dark",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#c41200",
+      "rgb": [
+        196,
+        18,
+        0
+      ],
+      "hsl": {
+        "h": 6,
+        "s": 100,
+        "l": 38
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#ff7900",
+      "rgb": [
+        255,
+        121,
+        0
+      ],
+      "hsl": {
+        "h": 28,
+        "s": 100,
+        "l": 50
+      },
+      "name": "orange",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#d9534f",
+      "rgb": [
+        217,
+        83,
+        79
+      ],
+      "hsl": {
+        "h": 2,
+        "s": 64,
+        "l": 58
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#4a4a4a",
+      "rgb": [
+        74,
+        74,
+        74
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 29
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#e9e9e9",
+      "rgb": [
+        233,
+        233,
+        233
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 91
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#f8f8f8",
+      "rgb": [
+        248,
+        248,
+        248
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 97
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#00ab6c",
+      "rgb": [
+        0,
+        171,
+        108
+      ],
+      "hsl": {
+        "h": 158,
+        "s": 100,
+        "l": 34
+      },
+      "name": "teal",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#0088cc",
+      "rgb": [
+        0,
+        136,
+        204
+      ],
+      "hsl": {
+        "h": 200,
+        "s": 100,
+        "l": 40
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#00c300",
+      "rgb": [
+        0,
+        195,
+        0
+      ],
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 38
+      },
+      "name": "green",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#febf1b",
+      "rgb": [
+        254,
+        191,
+        27
+      ],
+      "hsl": {
+        "h": 43,
+        "s": 99,
+        "l": 55
+      },
+      "name": "orange",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#4a154b",
+      "rgb": [
+        74,
+        21,
+        75
+      ],
+      "hsl": {
+        "h": 299,
+        "s": 56,
+        "l": 19
+      },
+      "name": "magenta-dark",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#563acc",
+      "rgb": [
+        86,
+        58,
+        204
+      ],
+      "hsl": {
+        "h": 252,
+        "s": 59,
+        "l": 51
+      },
+      "name": "blue",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#7a7a7a",
+      "rgb": [
+        122,
+        122,
+        122
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 48
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 5937,
+      "cssDecls": 0,
+      "pagesCount": 10,
+      "pages": [
+        "Home",
+        "About",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing",
+        "Projects"
+      ],
+      "samples": [
+        "Contact us and let us explore together your projects. Whethe",
+        "Award winning designs. From the idea to the concept, selecti"
+      ],
+      "tags": [],
+      "importance": 356220
+    },
+    {
+      "hex": "#32373c",
+      "rgb": [
+        50,
+        55,
+        60
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 9,
+        "l": 22
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#dc3232",
+      "rgb": [
+        220,
+        50,
+        50
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 71,
+        "l": 53
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#8072fc",
+      "rgb": [
+        128,
+        114,
+        252
+      ],
+      "hsl": {
+        "h": 246,
+        "s": 96,
+        "l": 72
+      },
+      "name": "blue",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#f5f5f5",
+      "rgb": [
+        245,
+        245,
+        245
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 96
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#aaaaaa",
+      "rgb": [
+        170,
+        170,
+        170
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 67
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#777777",
+      "rgb": [
+        119,
+        119,
+        119
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 47
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#0b7cac",
+      "rgb": [
+        11,
+        124,
+        172
+      ],
+      "hsl": {
+        "h": 198,
+        "s": 88,
+        "l": 36
+      },
+      "name": "cyan",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#f7f7f7",
+      "rgb": [
+        247,
+        247,
+        247
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 97
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 4759,
+      "cssDecls": 0,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "HOME OWNERS",
+        "INSPIRING. EMPOWERING. AUDACIOUS",
+        "SIGNATURE"
+      ],
+      "tags": [],
+      "importance": 285540
+    },
+    {
+      "hex": "#1d1d1e",
+      "rgb": [
+        29,
+        29,
+        30
+      ],
+      "hsl": {
+        "h": 240,
+        "s": 2,
+        "l": 12
+      },
+      "name": "ink",
+      "bgArea": 150998,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "Home"
+      ],
+      "samples": [
+        "section.elementor-section elementor-inner-section elementor-element elementor-element-0f"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 150998
+    },
+    {
+      "hex": "#080b0e",
+      "rgb": [
+        8,
+        11,
+        14
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 27,
+        "l": 4
+      },
+      "name": "black",
+      "bgArea": 128021,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "The Brand"
+      ],
+      "samples": [
+        "div.elementor-widget-wrap elementor-element-populated"
+      ],
+      "tags": [
+        "div"
+      ],
+      "importance": 128021
+    },
+    {
+      "hex": "#191a1d",
+      "rgb": [
+        25,
+        26,
+        29
+      ],
+      "hsl": {
+        "h": 225,
+        "s": 7,
+        "l": 11
+      },
+      "name": "ink",
+      "bgArea": 115200,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "Home"
+      ],
+      "samples": [
+        "section.elementor-section elementor-top-section elementor-element elementor-element-cc7f"
+      ],
+      "tags": [
+        "section"
+      ],
+      "importance": 115200
+    },
+    {
+      "hex": "#c9b195",
+      "rgb": [
+        201,
+        177,
+        149
+      ],
+      "hsl": {
+        "h": 32,
+        "s": 32,
+        "l": 69
+      },
+      "name": "orange",
+      "bgArea": 0,
+      "textChars": 1093,
+      "cssDecls": 0,
+      "pagesCount": 10,
+      "pages": [
+        "Home",
+        "About",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing",
+        "Projects"
+      ],
+      "samples": [
+        "MADE IN GERMANY - SINCE 1917",
+        "BESPOKE LUXURY KITCHENS"
+      ],
+      "tags": [],
+      "importance": 65580
+    },
+    {
+      "hex": "#54595f",
+      "rgb": [
+        84,
+        89,
+        95
+      ],
+      "hsl": {
+        "h": 213,
+        "s": 6,
+        "l": 35
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 828,
+      "cssDecls": 0,
+      "pagesCount": 3,
+      "pages": [
+        "About",
+        "Projects",
+        "The Brand"
+      ],
+      "samples": [
+        "SEAFORM KITCHENS & WARDROBES",
+        "750 KITCHENS PER DAY - IN 72 COUNTRIES",
+        "FOR MORE THAN A CENTURY WE HAVE BEEN CREATING UNIQUE PRODUCT"
+      ],
+      "tags": [],
+      "importance": 49680
+    },
+    {
+      "hex": "#111111",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 7
+      },
+      "name": "black",
+      "bgArea": 40960,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 10,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "button.ButtonBase__ButtonContainer-sc-9c42ff7d-3 hPJelZ es-button-base-container Bubble"
+      ],
+      "tags": [
+        "button"
+      ],
+      "importance": 40960
+    },
+    {
+      "hex": "#16161e",
+      "rgb": [
+        22,
+        22,
+        30
+      ],
+      "hsl": {
+        "h": 240,
+        "s": 15,
+        "l": 10
+      },
+      "name": "ink",
+      "bgArea": 37208,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "About",
+        "Contact",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "a.elementor-button elementor-button-link elementor-size-sm"
+      ],
+      "tags": [
+        "a"
+      ],
+      "importance": 37208
+    },
+    {
+      "hex": "#908a7e",
+      "rgb": [
+        144,
+        138,
+        126
+      ],
+      "hsl": {
+        "h": 40,
+        "s": 7,
+        "l": 53
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 607,
+      "cssDecls": 0,
+      "pagesCount": 7,
+      "pages": [
+        "Home",
+        "About",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Materials & Colours",
+        "The Brand",
+        "Wardrobes"
+      ],
+      "samples": [
+        "BESPOKE LUXURY",
+        "MADE IN GERMANY - SINCE 1917"
+      ],
+      "tags": [],
+      "importance": 36420
+    },
+    {
+      "hex": "#c1bcad",
+      "rgb": [
+        193,
+        188,
+        173
+      ],
+      "hsl": {
+        "h": 45,
+        "s": 14,
+        "l": 72
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 474,
+      "cssDecls": 0,
+      "pagesCount": 9,
+      "pages": [
+        "Home",
+        "About",
+        "Kitchen Collections",
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing",
+        "The Brand"
+      ],
+      "samples": [
+        "APPLY NOW TO ENROLL TO OUR EXCLUSIVE CONCIERGE SERVICE",
+        "EXOERIENCE OUR EXCLUSIVE CONCIERGE SERVICE"
+      ],
+      "tags": [],
+      "importance": 28440
+    },
+    {
+      "hex": "#272933",
+      "rgb": [
+        39,
+        41,
+        51
+      ],
+      "hsl": {
+        "h": 230,
+        "s": 13,
+        "l": 18
+      },
+      "name": "ink",
+      "bgArea": 24509,
+      "textChars": 0,
+      "cssDecls": 0,
+      "pagesCount": 1,
+      "pages": [
+        "Home"
+      ],
+      "samples": [
+        "a.elementor-button elementor-button-link elementor-size-xs"
+      ],
+      "tags": [
+        "a"
+      ],
+      "importance": 24509
+    },
+    {
+      "hex": "#0c0c0c",
+      "rgb": [
+        12,
+        12,
+        12
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 5
+      },
+      "name": "black",
+      "bgArea": 0,
+      "textChars": 265,
+      "cssDecls": 0,
+      "pagesCount": 4,
+      "pages": [
+        "Hamptons Collection",
+        "Kitchen Interiors",
+        "Materials & Colours",
+        "Manufacturing"
+      ],
+      "samples": [
+        "GET INSPIRED",
+        "POCKET DOORS",
+        "PLYFORM"
+      ],
+      "tags": [],
+      "importance": 15900
+    }
+  ],
+  "roles": {
+    "brand": [
+      {
+        "hex": "#c9b195",
+        "rgb": [
+          201,
+          177,
+          149
+        ],
+        "hsl": {
+          "h": 32,
+          "s": 32,
+          "l": 69
+        },
+        "name": "orange",
+        "bgArea": 0,
+        "textChars": 1093,
+        "cssDecls": 0,
+        "pagesCount": 10,
+        "pages": [
+          "Home",
+          "About",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing",
+          "Projects"
+        ],
+        "samples": [
+          "MADE IN GERMANY - SINCE 1917",
+          "BESPOKE LUXURY KITCHENS"
+        ],
+        "tags": [],
+        "importance": 65580
+      }
+    ],
+    "neutrals": [
+      {
+        "hex": "#000000",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "name": "black",
+        "bgArea": 25874282,
+        "textChars": 7224,
+        "cssDecls": 1263,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "About",
+          "Contact",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing"
+        ],
+        "samples": [
+          "section.elementor-section elementor-top-section elementor-element elementor-element-4de7",
+          "section.elementor-section elementor-top-section elementor-element elementor-element-5313",
+          "SEAFORM KITCHEN COLLECTION"
+        ],
+        "tags": [
+          "a",
+          "section",
+          "div",
+          "iframe"
+        ],
+        "importance": 37674722
+      },
+      {
+        "hex": "#121212",
+        "rgb": [
+          18,
+          18,
+          18
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 7
+        },
+        "name": "black",
+        "bgArea": 7955400,
+        "textChars": 0,
+        "cssDecls": 0,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "About",
+          "Contact",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing"
+        ],
+        "samples": [
+          "section.elementor-section elementor-top-section elementor-element elementor-element-1e59",
+          "section.elementor-section elementor-top-section elementor-element elementor-element-54d1"
+        ],
+        "tags": [
+          "section",
+          "div"
+        ],
+        "importance": 7955400
+      },
+      {
+        "hex": "#54595f",
+        "rgb": [
+          84,
+          89,
+          95
+        ],
+        "hsl": {
+          "h": 213,
+          "s": 6,
+          "l": 35
+        },
+        "name": "slate",
+        "bgArea": 0,
+        "textChars": 828,
+        "cssDecls": 0,
+        "pagesCount": 3,
+        "pages": [
+          "About",
+          "Projects",
+          "The Brand"
+        ],
+        "samples": [
+          "SEAFORM KITCHENS & WARDROBES",
+          "750 KITCHENS PER DAY - IN 72 COUNTRIES",
+          "FOR MORE THAN A CENTURY WE HAVE BEEN CREATING UNIQUE PRODUCT"
+        ],
+        "tags": [],
+        "importance": 49680
+      },
+      {
+        "hex": "#7a7a7a",
+        "rgb": [
+          122,
+          122,
+          122
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 48
+        },
+        "name": "slate",
+        "bgArea": 0,
+        "textChars": 5937,
+        "cssDecls": 0,
+        "pagesCount": 10,
+        "pages": [
+          "Home",
+          "About",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing",
+          "Projects"
+        ],
+        "samples": [
+          "Contact us and let us explore together your projects. Whethe",
+          "Award winning designs. From the idea to the concept, selecti"
+        ],
+        "tags": [],
+        "importance": 356220
+      },
+      {
+        "hex": "#999999",
+        "rgb": [
+          153,
+          153,
+          153
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 60
+        },
+        "name": "grey",
+        "bgArea": 0,
+        "textChars": 429,
+        "cssDecls": 55,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "About",
+          "Contact",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing"
+        ],
+        "samples": [
+          "Imprint"
+        ],
+        "tags": [],
+        "importance": 520740
+      },
+      {
+        "hex": "#f7f7f7",
+        "rgb": [
+          247,
+          247,
+          247
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 97
+        },
+        "name": "mist",
+        "bgArea": 0,
+        "textChars": 4759,
+        "cssDecls": 0,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "About",
+          "Contact",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing"
+        ],
+        "samples": [
+          "HOME OWNERS",
+          "INSPIRING. EMPOWERING. AUDACIOUS",
+          "SIGNATURE"
+        ],
+        "tags": [],
+        "importance": 285540
+      },
+      {
+        "hex": "#ffffff",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 100
+        },
+        "name": "white",
+        "bgArea": 183411992,
+        "textChars": 6287,
+        "cssDecls": 1299,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "About",
+          "Contact",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors",
+          "Materials & Colours",
+          "Manufacturing"
+        ],
+        "samples": [
+          "body.home wp-singular page-template-default page page-id-7 wp-embed-responsive wp-the",
+          "a.elementor-button elementor-button-link elementor-size-sm",
+          "KITCHENS"
+        ],
+        "tags": [
+          "div",
+          "section",
+          "a",
+          "body"
+        ],
+        "importance": 195480212
+      }
+    ],
+    "tinted": [],
+    "utility": [
+      {
+        "hex": "#13aff0",
+        "rgb": [
+          19,
+          175,
+          240
+        ],
+        "hsl": {
+          "h": 198,
+          "s": 88,
+          "l": 51
+        },
+        "name": "cyan",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 451,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 4059000
+      },
+      {
+        "hex": "#333333",
+        "rgb": [
+          51,
+          51,
+          51
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 20
+        },
+        "name": "ink",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 363,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 3267000
+      },
+      {
+        "hex": "#555555",
+        "rgb": [
+          85,
+          85,
+          85
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 33
+        },
+        "name": "slate",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 220,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1980000
+      },
+      {
+        "hex": "#222222",
+        "rgb": [
+          34,
+          34,
+          34
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 13
+        },
+        "name": "ink",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 110,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 990000
+      },
+      {
+        "hex": "#69727d",
+        "rgb": [
+          105,
+          114,
+          125
+        ],
+        "hsl": {
+          "h": 213,
+          "s": 9,
+          "l": 45
+        },
+        "name": "slate",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 110,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 990000
+      },
+      {
+        "hex": "#37589b",
+        "rgb": [
+          55,
+          88,
+          155
+        ],
+        "hsl": {
+          "h": 220,
+          "s": 48,
+          "l": 41
+        },
+        "name": "blue",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 99,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 891000
+      },
+      {
+        "hex": "#f1f1f1",
+        "rgb": [
+          241,
+          241,
+          241
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 95
+        },
+        "name": "mist",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 88,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 792000
+      },
+      {
+        "hex": "#bbbbbb",
+        "rgb": [
+          187,
+          187,
+          187
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 73
+        },
+        "name": "grey",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 88,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 792000
+      },
+      {
+        "hex": "#929292",
+        "rgb": [
+          146,
+          146,
+          146
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 57
+        },
+        "name": "grey",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 88,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 792000
+      },
+      {
+        "hex": "#dddddd",
+        "rgb": [
+          221,
+          221,
+          221
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 87
+        },
+        "name": "mist",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 66,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 594000
+      },
+      {
+        "hex": "#cccccc",
+        "rgb": [
+          204,
+          204,
+          204
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 80
+        },
+        "name": "grey",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 66,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 594000
+      },
+      {
+        "hex": "#ea4c89",
+        "rgb": [
+          234,
+          76,
+          137
+        ],
+        "hsl": {
+          "h": 337,
+          "s": 79,
+          "l": 61
+        },
+        "name": "rose",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 66,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 594000
+      },
+      {
+        "hex": "#00aff0",
+        "rgb": [
+          0,
+          175,
+          240
+        ],
+        "hsl": {
+          "h": 196,
+          "s": 100,
+          "l": 47
+        },
+        "name": "cyan",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 66,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 594000
+      },
+      {
+        "hex": "#1ab7ea",
+        "rgb": [
+          26,
+          183,
+          234
+        ],
+        "hsl": {
+          "h": 195,
+          "s": 83,
+          "l": 51
+        },
+        "name": "cyan",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 66,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 594000
+      }
+    ],
+    "defined": []
+  },
+  "roleVars": [
+    {
+      "var": "--wp--preset--color--black",
+      "value": "#000000",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--cyan-bluish-gray",
+      "value": "#abb8c3",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--white",
+      "value": "#ffffff",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--pale-pink",
+      "value": "#f78da7",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--vivid-red",
+      "value": "#cf2e2e",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--luminous-vivid-orange",
+      "value": "#ff6900",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--luminous-vivid-amber",
+      "value": "#fcb900",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--light-green-cyan",
+      "value": "#7bdcb5",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--vivid-green-cyan",
+      "value": "#00d084",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--pale-cyan-blue",
+      "value": "#8ed1fc",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--vivid-cyan-blue",
+      "value": "#0693e3",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--color--vivid-purple",
+      "value": "#9b51e0",
+      "scope": ":root"
+    },
+    {
+      "var": "--wp--preset--shadow--outlined",
+      "value": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+      "scope": ":root"
+    },
+    {
+      "var": "--fa-style-family-brands",
+      "value": "\"Font Awesome 6 Brands\"",
+      "scope": ":host,:root"
+    },
+    {
+      "var": "--fa-font-brands",
+      "value": "normal 400 1em/1 \"Font Awesome 6 Brands\"",
+      "scope": ":host,:root"
+    },
+    {
+      "var": "--flex-shrink",
+      "value": "0",
+      "scope": ".elementor-element"
+    },
+    {
+      "var": "--border-radius",
+      "value": "0",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-top-width",
+      "value": "0px",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-right-width",
+      "value": "0px",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-bottom-width",
+      "value": "0px",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-left-width",
+      "value": "0px",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-style",
+      "value": "initial",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-color",
+      "value": "initial",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--text-align",
+      "value": "initial",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--margin-inline-start",
+      "value": "var(--margin-right)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--margin-inline-end",
+      "value": "var(--margin-left)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--padding-inline-start",
+      "value": "var(--padding-right)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--padding-inline-end",
+      "value": "var(--padding-left)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-block-start-width",
+      "value": "var(--border-top-width)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-block-end-width",
+      "value": "var(--border-bottom-width)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-inline-start-width",
+      "value": "var(--border-right-width)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--border-inline-end-width",
+      "value": "var(--border-left-width)",
+      "scope": ".e-con"
+    },
+    {
+      "var": "--e-social-icon-icon-color",
+      "value": "#ffffff",
+      "scope": ".elementor-social-icon"
+    }
+  ],
+  "type": {
+    "families": [
+      {
+        "value": "Roboto",
+        "count": 1782
+      },
+      {
+        "value": "Rubik",
+        "count": 924
+      },
+      {
+        "value": "Roboto Slab",
+        "count": 693
+      },
+      {
+        "value": "Poppins",
+        "count": 606
+      },
+      {
+        "value": "Josefin Sans",
+        "count": 462
+      },
+      {
+        "value": "Lato",
+        "count": 220
+      },
+      {
+        "value": "inherit",
+        "count": 99
+      },
+      {
+        "value": "\"Font Awesome 5 Free\"",
+        "count": 77
+      },
+      {
+        "value": "eicons",
+        "count": 44
+      },
+      {
+        "value": "FontAwesome",
+        "count": 44
+      },
+      {
+        "value": "Font Awesome 5 Free",
+        "count": 33
+      },
+      {
+        "value": "Optima",
+        "count": 32
+      },
+      {
+        "value": "\"Font Awesome 6 Brands\"",
+        "count": 22
+      },
+      {
+        "value": "Font Awesome 6 Free",
+        "count": 22
+      }
+    ],
+    "renderedFamilies": [
+      {
+        "value": "Optima",
+        "count": 386.59765625
+      },
+      {
+        "value": "Poppins",
+        "count": 256.28125
+      },
+      {
+        "value": "Roboto",
+        "count": 145.60546875
+      },
+      {
+        "value": "Lato",
+        "count": 74.625
+      },
+      {
+        "value": "Open Sans",
+        "count": 64.109375
+      },
+      {
+        "value": "VisueltPro",
+        "count": 4.30859375
+      }
+    ],
+    "fontFaces": [
+      {
+        "family": "Font Awesome 6 Brands",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome 6 Free",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome 6 Free",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome 5 Brands",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "FontAwesome",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "simple-line-icons",
+        "weight": "normal",
+        "style": "normal",
+        "display": "swap",
+        "src": "url('../../fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0#iefix')format('embedded-opentype'),url('../../fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0')format('woff2'),url('../../fonts"
+      }
+    ],
+    "scale": [
+      {
+        "size": 77,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "77px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "INDUSTRY 4.0"
+        ]
+      },
+      {
+        "size": 60,
+        "weight": "400",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "60px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "CONTRACT DIVISION"
+        ]
+      },
+      {
+        "size": 48,
+        "weight": "300",
+        "family": "Poppins, sans-serif",
+        "lineHeight": "48px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "HAMPTONS"
+        ]
+      },
+      {
+        "size": 48,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "48px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "MATERIALS AND COLORS"
+        ]
+      },
+      {
+        "size": 40,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "50px",
+        "letterSpacing": "1.5px",
+        "transform": "none",
+        "color": "rgb(247, 247, 247)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "ACCESSORIESLIGHTS INTERNALS"
+        ]
+      },
+      {
+        "size": 35,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "52.5px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "FASCINATION SEAFORM"
+        ]
+      },
+      {
+        "size": 30,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "40px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 3,
+        "tags": {
+          "h2": 3
+        },
+        "samples": [
+          "THE HAMPTONS COLLECTION",
+          "MATERIALS, COLORS, FINISHES",
+          "MADE IN GERMANY"
+        ]
+      },
+      {
+        "size": 30,
+        "weight": "400",
+        "family": "Optima",
+        "lineHeight": "39px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 2,
+        "tags": {
+          "span": 2
+        },
+        "samples": [
+          "335 - FG 387",
+          "335 - FG 387"
+        ]
+      },
+      {
+        "size": 30,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "30px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "WITHOUT BLACK NO COLOR HAS ANY DEPTH"
+        ]
+      },
+      {
+        "size": 25,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "37.5px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(84, 89, 95)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "SEAFORM KITCHENS & WARDROBES"
+        ]
+      },
+      {
+        "size": 25,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "50px",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "GLOBAL LARGE SCALE PROJECTS"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "count": 71,
+        "tags": {
+          "h2": 69,
+          "h1": 2
+        },
+        "samples": [
+          "GET YOUR PERSONAL CONCIERGE",
+          "CONTACT US",
+          "KITCHEN COLLECTION",
+          "DESIGN"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "600",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 7,
+        "tags": {
+          "h2": 7
+        },
+        "samples": [
+          "LARGE SCALE PROJECTS"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "1.5px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 6,
+        "tags": {
+          "h2": 6
+        },
+        "samples": [
+          "REFINED, TIMELESS, MAGNIFICENT",
+          "PLANT I"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "600",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "1.5px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 2,
+        "tags": {
+          "h2": 2
+        },
+        "samples": [
+          "PRESENCE IN 72 COUNTRIES",
+          "PRESENCE IN 72 COUNTRIES"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "400",
+        "family": "Lato, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "count": 2,
+        "tags": {
+          "h2": 1,
+          "p": 1
+        },
+        "samples": [
+          "get in touch",
+          "CREATIVITY, TRUST, FLEXIBILITY AND PERSONALISATION DRIVE EVERYTHING WE DO."
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "400",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "24px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "GET IN TOUCH"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "1.5px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "MATERIALS, PATTERNS & COLORS"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "600",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "24px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "MADE IN GERMANY"
+        ]
+      },
+      {
+        "size": 24,
+        "weight": "300",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "36px",
+        "letterSpacing": "0.8px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h3": 1
+        },
+        "samples": [
+          "We shape extraordinary spaces for people to create, experience and live in"
+        ]
+      },
+      {
+        "size": 23,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "23px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "SEAFORM KITCHENS & WARDROBES"
+        ]
+      },
+      {
+        "size": 22,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "33px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "p": 1
+        },
+        "samples": [
+          "FULLY AUTOMATED ROBOTIC FACTORYASSEMBLED & FACTORY-FITTED IN GERMANYONE OF EUROP"
+        ]
+      },
+      {
+        "size": 20,
+        "weight": "300",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "30px",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "count": 6,
+        "tags": {
+          "h2": 3,
+          "h1": 3
+        },
+        "samples": [
+          "KITCHEN COLLECTION",
+          "SEAFORM KITCHEN COLLECTIONS",
+          "SEAFORM KITCHEN COLLECTIONS",
+          "SEAFORM WARDROBE COLLECTION"
+        ]
+      },
+      {
+        "size": 20,
+        "weight": "600",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "20px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(12, 12, 12)",
+        "count": 2,
+        "tags": {
+          "h2": 2
+        },
+        "samples": [
+          "PLYFORM",
+          "BILBAO STONE VENEER"
+        ]
+      },
+      {
+        "size": 20,
+        "weight": "300",
+        "family": "Lato, sans-serif",
+        "lineHeight": "30px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "SEAFORM KITCHEN COLLECTION"
+        ]
+      },
+      {
+        "size": 20,
+        "weight": "300",
+        "family": "VisueltPro, sans-serif",
+        "lineHeight": "30px",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "SEAFORM WARDROBE COLLECTION"
+        ]
+      },
+      {
+        "size": 20,
+        "weight": "400",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "30px",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "SEAFORM KITCHEN COLLECTION"
+        ]
+      },
+      {
+        "size": 18,
+        "weight": "400",
+        "family": "\"Open Sans\", sans-serif",
+        "lineHeight": "18px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(201, 177, 149)",
+        "count": 44,
+        "tags": {
+          "span": 44
+        },
+        "samples": [
+          "Facebook",
+          "Facebook",
+          "Facebook",
+          "Facebook"
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "1px",
+        "letterSpacing": "1.6px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 44,
+        "tags": {
+          "a": 44
+        },
+        "samples": [
+          "KITCHENS",
+          "KITCHENS",
+          "KITCHENS",
+          "KITCHENS"
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "600",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "16px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 6,
+        "tags": {
+          "h2": 6
+        },
+        "samples": [
+          "SOLID"
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "300",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "24px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(84, 89, 95)",
+        "count": 2,
+        "tags": {
+          "p": 1,
+          "span": 1
+        },
+        "samples": [
+          "Exceptional design, finest materials and unrivaled quality."
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "300",
+        "family": "Lato, sans-serif",
+        "lineHeight": "24px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "p": 1
+        },
+        "samples": [
+          "Exceptional design, finest materials and unrivaled quality."
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "300",
+        "family": "Lato, sans-serif",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "span": 1
+        },
+        "samples": [
+          "We design extraordinary spaces to create, experience and live in."
+        ]
+      },
+      {
+        "size": 15,
+        "weight": "400",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "15px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 11,
+        "tags": {
+          "span": 11
+        },
+        "samples": [
+          "GET IN TOUCH",
+          "GET IN TOUCH",
+          "GET IN TOUCH",
+          "GET IN TOUCH"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "14px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 64,
+        "tags": {
+          "span": 64
+        },
+        "samples": [
+          "MONOGRAM M1",
+          "MONOGRAM M1",
+          "MONOGRAM M1",
+          "MONOGRAM M1"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "14px",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 55,
+        "tags": {
+          "h2": 55
+        },
+        "samples": [
+          "KITCHENS",
+          "KITCHENS",
+          "KITCHENS",
+          "KITCHENS"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "21px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 35,
+        "tags": {
+          "p": 34,
+          "span": 1
+        },
+        "samples": [
+          "Playful, carefully engineered and designed modern vintage details like pilasters",
+          "The Hampton collection is a carefully curated design language based on the legen",
+          "Casual and relaxed coastal lifestyle with an open plan kitchen design with large",
+          "SEAFORM pocket doors allow a clean design while integrating all functionalities "
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Lato, sans-serif",
+        "lineHeight": "21px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 12,
+        "tags": {
+          "p": 12
+        },
+        "samples": [
+          "Share your layout with one of our experienced designers, they will develop the v",
+          "Share your layout with one of our experienced designers, they will develop the v",
+          "72 HOURS BWP PLYWOOD",
+          "Share your layout with one of our experienced designers, they will develop the v"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "400",
+        "family": "\"Open Sans\", sans-serif",
+        "lineHeight": "25.2px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(201, 177, 149)",
+        "count": 11,
+        "tags": {
+          "a": 11
+        },
+        "samples": [
+          "Skip to content",
+          "Skip to content",
+          "Skip to content",
+          "Skip to content"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Poppins, sans-serif",
+        "lineHeight": "26px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(122, 122, 122)",
+        "count": 7,
+        "tags": {
+          "p": 7
+        },
+        "samples": [
+          "Award winning designs. From the idea to the concept, selection of finest materia",
+          "Step back and relax – and let our bespoke concierge service take care of every l",
+          "A kitchen reveals itself from the quality and finishing of its materials. SEAFOR",
+          "Since 1929, founded by the brothers Baumann, we produce in the city of Loehne, t"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "600",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "14px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(27, 27, 27)",
+        "count": 3,
+        "tags": {
+          "h3": 3
+        },
+        "samples": [
+          "WOODEN WORKTOPS"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Poppins",
+        "lineHeight": "18.2px",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 2,
+        "tags": {
+          "span": 2
+        },
+        "samples": [
+          "Lacquered finish with vertical grooves",
+          "Lacquered finish with vertical grooves"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "20px",
+        "letterSpacing": "1.5px",
+        "transform": "none",
+        "color": "rgb(102, 102, 102)",
+        "count": 2,
+        "tags": {
+          "h2": 2
+        },
+        "samples": [
+          "LOEHNE, GERMANY"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "400",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "21px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "color": "rgb(247, 247, 247)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "INSPIRING. EMPOWERING. AUDACIOUS"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "21px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "h2": 1
+        },
+        "samples": [
+          "COUNTRYSIDE SERENITY"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "700",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "20px",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "color": "rgb(12, 12, 12)",
+        "count": 1,
+        "tags": {
+          "h3": 1
+        },
+        "samples": [
+          "PRODUCTION PLANTS IN LOEHNE & BURG MORE THAN 750 KITCHENS PER DAY"
+        ]
+      }
+    ],
+    "display": [
+      {
+        "size": 77,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "77px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "INDUSTRY 4.0"
+        ]
+      },
+      {
+        "size": 60,
+        "weight": "400",
+        "family": "Roboto, sans-serif",
+        "lineHeight": "60px",
+        "letterSpacing": "0.5px",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "CONTRACT DIVISION"
+        ]
+      },
+      {
+        "size": 48,
+        "weight": "300",
+        "family": "Poppins, sans-serif",
+        "lineHeight": "48px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "HAMPTONS"
+        ]
+      },
+      {
+        "size": 48,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "48px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "MATERIALS AND COLORS"
+        ]
+      },
+      {
+        "size": 40,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "50px",
+        "letterSpacing": "1.5px",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "ACCESSORIESLIGHTS INTERNALS"
+        ]
+      },
+      {
+        "size": 35,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "52.5px",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "count": 1,
+        "samples": [
+          "FASCINATION SEAFORM"
+        ]
+      },
+      {
+        "size": 30,
+        "weight": "400",
+        "family": "Optima",
+        "lineHeight": "39px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "count": 2,
+        "samples": [
+          "335 - FG 387",
+          "335 - FG 387"
+        ]
+      },
+      {
+        "size": 30,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "lineHeight": "40px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "count": 2,
+        "samples": [
+          "MATERIALS, COLORS, FINISHES",
+          "MADE IN GERMANY"
+        ]
+      },
+      {
+        "size": 30,
+        "weight": "400",
+        "family": "Optima, sans-serif",
+        "lineHeight": "30px",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "WITHOUT BLACK NO COLOR HAS ANY DEPTH"
+        ]
+      }
+    ],
+    "weights": [
+      {
+        "value": "300",
+        "count": 721
+      },
+      {
+        "value": "400",
+        "count": 231
+      },
+      {
+        "value": "500",
+        "count": 54
+      },
+      {
+        "value": "600",
+        "count": 24
+      },
+      {
+        "value": "700",
+        "count": 1
+      }
+    ],
+    "fluid": [
+      {
+        "value": ".875rem",
+        "count": 11
+      }
+    ]
+  },
+  "spacing": {
+    "sectionPadY": [
+      {
+        "value": "0/0",
+        "count": 115
+      },
+      {
+        "value": "72/72",
+        "count": 14
+      },
+      {
+        "value": "140/140",
+        "count": 3
+      },
+      {
+        "value": "40/40",
+        "count": 2
+      },
+      {
+        "value": "144/144",
+        "count": 2
+      },
+      {
+        "value": "100/100",
+        "count": 2
+      },
+      {
+        "value": "150/150",
+        "count": 1
+      },
+      {
+        "value": "240/240",
+        "count": 1
+      },
+      {
+        "value": "72/0",
+        "count": 1
+      },
+      {
+        "value": "100/80",
+        "count": 1
+      },
+      {
+        "value": "0/80",
+        "count": 1
+      }
+    ],
+    "sectionPadX": [
+      {
+        "value": "72/72",
+        "count": 13
+      },
+      {
+        "value": "40/40",
+        "count": 8
+      },
+      {
+        "value": "144/144",
+        "count": 1
+      }
+    ],
+    "cssPaddings": [
+      {
+        "value": "20px",
+        "count": 338
+      },
+      {
+        "value": "0 !important",
+        "count": 308
+      },
+      {
+        "value": "30px",
+        "count": 308
+      },
+      {
+        "value": "5px",
+        "count": 176
+      },
+      {
+        "value": "10px",
+        "count": 115
+      },
+      {
+        "value": "15px",
+        "count": 99
+      },
+      {
+        "value": "6px",
+        "count": 88
+      },
+      {
+        "value": "40px",
+        "count": 66
+      },
+      {
+        "value": "0 15px",
+        "count": 55
+      },
+      {
+        "value": "8px",
+        "count": 44
+      },
+      {
+        "value": "0 6px",
+        "count": 44
+      },
+      {
+        "value": "0 8px",
+        "count": 44
+      },
+      {
+        "value": "4px",
+        "count": 33
+      },
+      {
+        "value": "12px 0",
+        "count": 33
+      },
+      {
+        "value": "20px 0",
+        "count": 33
+      },
+      {
+        "value": "6px 0",
+        "count": 33
+      },
+      {
+        "value": "30px 0",
+        "count": 33
+      },
+      {
+        "value": "1em",
+        "count": 33
+      },
+      {
+        "value": "3px",
+        "count": 33
+      },
+      {
+        "value": "calc(0.667em + 2px)",
+        "count": 22
+      },
+      {
+        "value": "calc(1.333em + 2px)",
+        "count": 22
+      },
+      {
+        "value": "9px",
+        "count": 22
+      },
+      {
+        "value": "10px 12px",
+        "count": 22
+      },
+      {
+        "value": "5px 0",
+        "count": 22
+      }
+    ],
+    "gaps": [
+      {
+        "value": "0.5em",
+        "count": 22
+      },
+      {
+        "value": "var(--row-gap) var(--column-gap)",
+        "count": 22
+      },
+      {
+        "value": "5px",
+        "count": 22
+      },
+      {
+        "value": "initial",
+        "count": 11
+      },
+      {
+        "value": "15px",
+        "count": 8
+      }
+    ],
+    "sectionHeights": [
+      {
+        "value": 650,
+        "count": 23
+      },
+      {
+        "value": 900,
+        "count": 20
+      },
+      {
+        "value": 700,
+        "count": 11
+      },
+      {
+        "value": 750,
+        "count": 8
+      },
+      {
+        "value": 450,
+        "count": 7
+      },
+      {
+        "value": 850,
+        "count": 6
+      },
+      {
+        "value": 800,
+        "count": 6
+      },
+      {
+        "value": 1000,
+        "count": 6
+      },
+      {
+        "value": 550,
+        "count": 4
+      },
+      {
+        "value": 950,
+        "count": 4
+      },
+      {
+        "value": 1050,
+        "count": 3
+      },
+      {
+        "value": 2600,
+        "count": 2
+      },
+      {
+        "value": 1150,
+        "count": 2
+      },
+      {
+        "value": 11100,
+        "count": 2
+      },
+      {
+        "value": 500,
+        "count": 2
+      },
+      {
+        "value": 9850,
+        "count": 1
+      }
+    ],
+    "letterSpacing": [
+      {
+        "value": ".6px",
+        "count": 253
+      },
+      {
+        "value": "1px",
+        "count": 123
+      },
+      {
+        "value": "2px",
+        "count": 68
+      },
+      {
+        "value": "1.5px",
+        "count": 33
+      },
+      {
+        "value": ".1em",
+        "count": 33
+      },
+      {
+        "value": "0",
+        "count": 22
+      },
+      {
+        "value": "inherit",
+        "count": 22
+      },
+      {
+        "value": "1.3px",
+        "count": 11
+      }
+    ]
+  },
+  "shape": {
+    "radii": [
+      {
+        "value": "3px",
+        "count": 153
+      },
+      {
+        "value": "50%",
+        "count": 132
+      },
+      {
+        "value": "0",
+        "count": 110
+      },
+      {
+        "value": "2px",
+        "count": 88
+      },
+      {
+        "value": "6px",
+        "count": 66
+      },
+      {
+        "value": "4px",
+        "count": 55
+      },
+      {
+        "value": "5px",
+        "count": 44
+      },
+      {
+        "value": "var(--border-radius)",
+        "count": 33
+      },
+      {
+        "value": "100%",
+        "count": 22
+      },
+      {
+        "value": "9999px",
+        "count": 11
+      },
+      {
+        "value": "0 6px 6px 0",
+        "count": 11
+      },
+      {
+        "value": "10px",
+        "count": 11
+      },
+      {
+        "value": "3px 3px 0 0",
+        "count": 11
+      },
+      {
+        "value": "1px",
+        "count": 11
+      },
+      {
+        "value": "0 0 2px 2px",
+        "count": 11
+      },
+      {
+        "value": "var(--fa-border-radius,.1em)",
+        "count": 11
+      },
+      {
+        "value": "25px",
+        "count": 11
+      },
+      {
+        "value": ".5em",
+        "count": 11
+      },
+      {
+        "value": "10%",
+        "count": 11
+      },
+      {
+        "value": "var(--e-search-form-toggle-border-radius,3px)",
+        "count": 11
+      }
+    ],
+    "shadows": [
+      {
+        "value": "none",
+        "count": 119
+      },
+      {
+        "value": "none !important",
+        "count": 22
+      },
+      {
+        "value": "0 2px 6px rgba(0,0,0,.1)",
+        "count": 22
+      },
+      {
+        "value": "0 0 10px 4px rgba(0,0,0,.1)",
+        "count": 22
+      },
+      {
+        "value": "0 0 8px rgba(0,0,0,.6)",
+        "count": 22
+      },
+      {
+        "value": "none!important",
+        "count": 11
+      },
+      {
+        "value": "0 0 0 1px hsla(0,0%,100%,.2)",
+        "count": 11
+      },
+      {
+        "value": "0 4px 6px rgba(0,0,0,.05)",
+        "count": 11
+      },
+      {
+        "value": "0 5px 30px -5px #8072fc",
+        "count": 11
+      },
+      {
+        "value": "initial",
+        "count": 11
+      },
+      {
+        "value": "0 1px 10px -2px rgb(0 0 0 / .1)",
+        "count": 11
+      },
+      {
+        "value": "0 5px 10px rgb(0 0 0 / .1)",
+        "count": 11
+      }
+    ],
+    "durations": [
+      {
+        "value": ".3s",
+        "count": 693
+      },
+      {
+        "value": ".25s",
+        "count": 165
+      },
+      {
+        "value": ".2s",
+        "count": 154
+      },
+      {
+        "value": ".4s",
+        "count": 143
+      },
+      {
+        "value": "0.5s",
+        "count": 99
+      },
+      {
+        "value": "0s",
+        "count": 77
+      },
+      {
+        "value": "0.3s",
+        "count": 71
+      },
+      {
+        "value": "1s",
+        "count": 68
+      },
+      {
+        "value": "var(--fa-animation-duration,1s)",
+        "count": 66
+      },
+      {
+        "value": "150ms",
+        "count": 55
+      },
+      {
+        "value": ".5s",
+        "count": 44
+      },
+      {
+        "value": "1.3s",
+        "count": 33
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease",
+        "count": 396
+      },
+      {
+        "value": "ease-in-out",
+        "count": 319
+      },
+      {
+        "value": "ease-out",
+        "count": 187
+      },
+      {
+        "value": "linear",
+        "count": 88
+      },
+      {
+        "value": "cubic-bezier(.77,.2,.05,1)",
+        "count": 77
+      },
+      {
+        "value": "cubic-bezier(.77,0,.175,1)",
+        "count": 44
+      },
+      {
+        "value": "cubic-bezier(.23,1,.32,1)",
+        "count": 44
+      },
+      {
+        "value": "cubic-bezier(.645,.045,.355,1)",
+        "count": 11
+      },
+      {
+        "value": "cubic-bezier(.175,.885,.32,1.075)",
+        "count": 11
+      },
+      {
+        "value": "ease-in",
+        "count": 11
+      }
+    ],
+    "keyframes": [
+      {
+        "value": "spin",
+        "count": 11
+      },
+      {
+        "value": "blink",
+        "count": 11
+      },
+      {
+        "value": "fa-beat",
+        "count": 11
+      },
+      {
+        "value": "fa-bounce",
+        "count": 11
+      },
+      {
+        "value": "fa-fade",
+        "count": 11
+      },
+      {
+        "value": "fa-beat-fade",
+        "count": 11
+      },
+      {
+        "value": "fa-flip",
+        "count": 11
+      },
+      {
+        "value": "fa-shake",
+        "count": 11
+      },
+      {
+        "value": "fa-spin",
+        "count": 11
+      },
+      {
+        "value": "reveal",
+        "count": 11
+      },
+      {
+        "value": "slide",
+        "count": 11
+      },
+      {
+        "value": "eicon-spin",
+        "count": 11
+      },
+      {
+        "value": "showcase-fade-in",
+        "count": 2
+      }
+    ],
+    "libs": {
+      "jquery": 11,
+      "elementor": 11,
+      "swiper": 2
+    },
+    "dataAttrs": {},
+    "componentTransitions": [
+      {
+        "value": "0.3s, 0.3s, 0.3s, 0.3s, 0.4s ease, ease, ease, ease, ease",
+        "count": 1620
+      },
+      {
+        "value": "0.3s ease",
+        "count": 1171
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "count": 572
+      },
+      {
+        "value": "0.5s, 0s, 0.5s cubic-bezier(0.25, 0.88, 0.54, 0.98), linear, cubic-bezier(0.25, 0.88, 0.54, 0.98)",
+        "count": 462
+      },
+      {
+        "value": "0.4s ease",
+        "count": 447
+      },
+      {
+        "value": "0.3s, 0.3s, 0.3s, 0.3s ease, ease, ease, ease",
+        "count": 333
+      },
+      {
+        "value": "1s, 1s cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23, 1, 0.32, 1)",
+        "count": 165
+      },
+      {
+        "value": "0.3s, 0.3s, 0.3s ease, ease, ease",
+        "count": 93
+      },
+      {
+        "value": "0.8s ease",
+        "count": 89
+      },
+      {
+        "value": "0.3s, 0.3s ease, ease",
+        "count": 77
+      },
+      {
+        "value": "0.2s ease",
+        "count": 74
+      },
+      {
+        "value": "0.35s ease",
+        "count": 73
+      }
+    ],
+    "badgeSpecs": [
+      {
+        "value": "12px/300/1px/uppercase",
+        "count": 16
+      },
+      {
+        "value": "12px/500/1px/uppercase",
+        "count": 15
+      },
+      {
+        "value": "14px/300/1px/none",
+        "count": 13
+      },
+      {
+        "value": "12px/300/0.5px/uppercase",
+        "count": 12
+      },
+      {
+        "value": "12px/300/normal/uppercase",
+        "count": 11
+      },
+      {
+        "value": "14px/300/2px/none",
+        "count": 6
+      },
+      {
+        "value": "12px/300/2px/none",
+        "count": 2
+      },
+      {
+        "value": "12px/500/1.2px/uppercase",
+        "count": 1
+      },
+      {
+        "value": "14px/300/0.5px/uppercase",
+        "count": 1
+      },
+      {
+        "value": "14px/300/1.5px/none",
+        "count": 1
+      }
+    ],
+    "gradients": []
+  },
+  "breakpoints": [
+    {
+      "value": "max-width:375",
+      "count": 11
+    },
+    {
+      "value": "max-width:479",
+      "count": 11
+    },
+    {
+      "value": "max-width:480",
+      "count": 11
+    },
+    {
+      "value": "min-width:480",
+      "count": 11
+    },
+    {
+      "value": "min-width:481",
+      "count": 11
+    },
+    {
+      "value": "max-width:600",
+      "count": 11
+    },
+    {
+      "value": "min-width:601",
+      "count": 11
+    },
+    {
+      "value": "max-width:660",
+      "count": 11
+    },
+    {
+      "value": "max-width:767",
+      "count": 11
+    },
+    {
+      "value": "min-width:768",
+      "count": 11
+    },
+    {
+      "value": "max-width:768",
+      "count": 11
+    },
+    {
+      "value": "max-width:782",
+      "count": 11
+    },
+    {
+      "value": "max-width:800",
+      "count": 11
+    },
+    {
+      "value": "max-width:900",
+      "count": 11
+    },
+    {
+      "value": "max-width:959",
+      "count": 11
+    },
+    {
+      "value": "min-width:959",
+      "count": 11
+    },
+    {
+      "value": "max-width:991",
+      "count": 11
+    },
+    {
+      "value": "min-width:992",
+      "count": 11
+    },
+    {
+      "value": "max-width:1024",
+      "count": 11
+    },
+    {
+      "value": "max-width:1025",
+      "count": 11
+    }
+  ],
+  "layout": {
+    "containers": [
+      {
+        "value": "1330px / pad 0px",
+        "count": 162
+      },
+      {
+        "value": "1140px / pad 0px",
+        "count": 39
+      },
+      {
+        "value": "1920px / pad 0px",
+        "count": 18
+      },
+      {
+        "value": "1000px / pad 0px",
+        "count": 11
+      },
+      {
+        "value": "1440px / pad 0px",
+        "count": 5
+      },
+      {
+        "value": "800px / pad 0px",
+        "count": 2
+      }
+    ],
+    "gridCols": [
+      {
+        "value": "1440px",
+        "count": 43
+      },
+      {
+        "value": "210.609px 210.625px 210.609px 210.625px 210.609px",
+        "count": 3
+      },
+      {
+        "value": "1400px",
+        "count": 2
+      },
+      {
+        "value": "320px",
+        "count": 2
+      },
+      {
+        "value": "292.5px 292.5px 292.5px 292.5px",
+        "count": 2
+      },
+      {
+        "value": "140px 140px 140px 140px 140px 140px",
+        "count": 2
+      },
+      {
+        "value": "318.656px 318.672px 318.656px",
+        "count": 2
+      },
+      {
+        "value": "203.484px 203.5px 203.5px 203.5px",
+        "count": 1
+      },
+      {
+        "value": "416.656px 416.672px 416.656px",
+        "count": 1
+      },
+      {
+        "value": "241.984px 241.984px 241.984px",
+        "count": 1
+      }
+    ],
+    "maxWidths": [
+      {
+        "value": "100%",
+        "count": 385
+      },
+      {
+        "value": "100% !important",
+        "count": 44
+      },
+      {
+        "value": "111% !important",
+        "count": 44
+      },
+      {
+        "value": "90%",
+        "count": 33
+      },
+      {
+        "value": "none",
+        "count": 33
+      },
+      {
+        "value": "50%",
+        "count": 33
+      },
+      {
+        "value": "220px",
+        "count": 33
+      },
+      {
+        "value": "240px",
+        "count": 22
+      },
+      {
+        "value": "none !important",
+        "count": 22
+      },
+      {
+        "value": "106%",
+        "count": 22
+      },
+      {
+        "value": "calc(100% + 64px)",
+        "count": 22
+      },
+      {
+        "value": "25%",
+        "count": 22
+      }
+    ],
+    "align": [
+      {
+        "value": "center",
+        "count": 4998
+      },
+      {
+        "value": "left",
+        "count": 4225
+      },
+      {
+        "value": "right",
+        "count": 321
+      }
+    ],
+    "counts": {
+      "flex": 3930,
+      "grid": 59,
+      "block": 14095
+    },
+    "stylesheets": [
+      {
+        "value": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+        "count": 11
+      },
+      {
+        "value": "https://www.seaform.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2",
+        "count": 11
+      },
+      {
+        "value": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0",
+        "count": 11
+      },
+      {
+        "value": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9",
+        "count": 11
+      },
+      {
+        "value": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0",
+        "count": 11
+      },
+      {
+        "value": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0",
+        "count": 11
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "variant": "filled",
+        "shape": "square",
+        "size": 12,
+        "weight": "500",
+        "family": "Lato, sans-serif",
+        "radius": "0px",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "0px solid rgb(193, 188, 173)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 42,
+        "samples": [
+          "APPLY NOW",
+          "AT A GLANCE",
+          "REQUEST CATALOGUE",
+          "DISCOVER THE KITCHEN COLLECTION"
+        ],
+        "pages": [
+          "Home",
+          "About",
+          "Kitchen Collections",
+          "Hamptons Collection",
+          "Kitchen Interiors"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "size": 0,
+        "weight": "700",
+        "family": "\"Open Sans\", sans-serif",
+        "radius": "100px",
+        "bg": "rgb(17, 17, 17)",
+        "color": "rgb(231, 241, 255)",
+        "border": "0px solid rgba(0, 0, 0, 0)",
+        "padding": "0px 0px 0px 0px",
+        "shadow": "rgba(0, 0, 0, 0.15) 0px 3px 12px 0px",
+        "transform": "none",
+        "count": 10,
+        "samples": [],
+        "pages": [
+          "Home",
+          "About",
+          "Contact",
+          "Kitchen Collections",
+          "Hamptons Collection"
+        ]
+      },
+      {
+        "variant": "text",
+        "shape": "square",
+        "size": 16,
+        "weight": "300",
+        "family": "Poppins, sans-serif",
+        "radius": "0px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(122, 122, 122)",
+        "border": "0px none rgb(122, 122, 122)",
+        "padding": "0px 0px 0px 0px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 6,
+        "samples": [],
+        "pages": [
+          "Hamptons Collection"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "square",
+        "size": 12,
+        "weight": "300",
+        "family": "Poppins, sans-serif",
+        "radius": "0px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "1px solid rgb(118, 118, 118)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 6,
+        "samples": [
+          "PRODUCTION INSIGHTS",
+          "GET AN ESTIMATE",
+          "GET YOUR DESIGN"
+        ],
+        "pages": [
+          "Projects"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "rounded",
+        "size": 12,
+        "weight": "500",
+        "family": "Lato, sans-serif",
+        "radius": "2px",
+        "bg": "rgba(39, 41, 51, 0.72)",
+        "color": "rgba(247, 247, 247, 0.9)",
+        "border": "1px solid rgba(255, 255, 255, 0.1)",
+        "padding": "10px 20px 10px 20px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 4,
+        "samples": [
+          "HOME OWNERS",
+          "ARCHITECTS",
+          "DEVELOPERS"
+        ],
+        "pages": [
+          "Home"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "square",
+        "size": 12,
+        "weight": "500",
+        "family": "Lato, sans-serif",
+        "radius": "0px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "1px solid rgb(0, 0, 0)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 4,
+        "samples": [
+          "EXPLORE OUR KITCHEN COLLECTION",
+          "EXPLORE OUR WARDROBE COLLECTION",
+          "EXPLORE OUR KITCHEN COLLECTIONS",
+          "EXPLORE OUR WARDROBE COLLECTIONS"
+        ],
+        "pages": [
+          "Home",
+          "Hamptons Collection",
+          "The Brand"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "square",
+        "size": 12,
+        "weight": "300",
+        "family": "Roboto, sans-serif",
+        "radius": "0px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "1px solid rgb(120, 120, 120)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 4,
+        "samples": [
+          "GET YOUR DESIGN",
+          "TAKE ME TO MATERIALS",
+          "ACCESSORIES & INTERIORS"
+        ],
+        "pages": [
+          "Hamptons Collection"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "rounded",
+        "size": 16,
+        "weight": "300",
+        "family": "Poppins, sans-serif",
+        "radius": "3px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(122, 122, 122)",
+        "border": "0px solid rgb(0, 0, 0)",
+        "padding": "10px 10px 10px 10px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 4,
+        "samples": [],
+        "pages": [
+          "Hamptons Collection",
+          "Materials & Colours"
+        ]
+      },
+      {
+        "variant": "outline",
+        "shape": "square",
+        "size": 12,
+        "weight": "300",
+        "family": "Roboto, sans-serif",
+        "radius": "0px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(156, 156, 156)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 3,
+        "samples": [
+          "GET IN TOUCH",
+          "REQUEST CATALOGUE"
+        ],
+        "pages": [
+          "About"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "square",
+        "size": 12,
+        "weight": "500",
+        "family": "Lato, sans-serif",
+        "radius": "0px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "1px solid rgb(184, 184, 184)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 3,
+        "samples": [
+          "GET IN TOUCH",
+          "QUALITY",
+          "PRODUCTION INSIGHTS"
+        ],
+        "pages": [
+          "About"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "rounded",
+        "size": 12,
+        "weight": "500",
+        "family": "Roboto, sans-serif",
+        "radius": "3px",
+        "bg": "rgb(3, 3, 3)",
+        "color": "rgb(255, 255, 255)",
+        "border": "3px solid rgb(255, 255, 255)",
+        "padding": "0px 20px 0px 20px",
+        "shadow": "none",
+        "transform": "uppercase",
+        "count": 1,
+        "samples": [
+          "SUBMIT"
+        ],
+        "pages": [
+          "Contact"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "square",
+        "size": 12,
+        "weight": "300",
+        "family": "Optima, sans-serif",
+        "radius": "0px",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(137, 137, 137)",
+        "padding": "12px 24px 12px 24px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "GET IN TOUCH"
+        ],
+        "pages": [
+          "Projects"
+        ]
+      }
+    ],
+    "cards": [
+      {
+        "bg": "rgba(0, 0, 0, 0)",
+        "radius": "5px",
+        "shadow": "rgba(0, 0, 0, 0.1) 0px 0px 40px 0px",
+        "border": "0px none rgb(122, 122, 122)",
+        "padding": "0px 0px 0px 0px",
+        "width": 800,
+        "hasImg": false,
+        "count": 1,
+        "sample": "GET IN TOUCH Name Email Phone Number How would you like to be contacted by our team? Call back WhatsApp Email Country Afghanistan Albania Algeria Andorra Angola",
+        "pages": [
+          "Contact"
+        ]
+      }
+    ],
+    "navs": [
+      {
+        "tag": "header",
+        "count": 11,
+        "stickyPct": 0,
+        "heights": [
+          {
+            "value": 108,
+            "count": 11
+          }
+        ],
+        "bgs": [
+          {
+            "value": "rgba(0, 0, 0, 0)",
+            "count": 11
+          }
+        ],
+        "positions": [
+          {
+            "value": "relative",
+            "count": 11
+          }
+        ],
+        "links": [
+          "KITCHENS",
+          "COLLECTIONS",
+          "MATERIALS & COLORS",
+          "INTERIORS",
+          "SPECIALS",
+          "COUNTERTOPS",
+          "APPLIANCES",
+          "NIGHT SYSTEM",
+          "CUBE",
+          "AQUATIC",
+          "PORTICO",
+          "MATERIALS & COLORS",
+          "INTERIORS",
+          "ACCESSORIES"
+        ],
+        "features": {
+          "hasLogo": true,
+          "hasSearch": true,
+          "hasLanguage": false,
+          "hamburger": true
+        }
+      },
+      {
+        "tag": "nav",
+        "count": 77,
+        "stickyPct": 0,
+        "heights": [
+          {
+            "value": 80,
+            "count": 22
+          },
+          {
+            "value": 46,
+            "count": 11
+          },
+          {
+            "value": 129,
+            "count": 11
+          },
+          {
+            "value": 64,
+            "count": 11
+          }
+        ],
+        "bgs": [
+          {
+            "value": "rgba(0, 0, 0, 0)",
+            "count": 77
+          }
+        ],
+        "positions": [
+          {
+            "value": "static",
+            "count": 77
+          }
+        ],
+        "links": [
+          "CONCIERGE SERVICE",
+          "CORPORATE",
+          "CONTRACT DIVISION"
+        ],
+        "features": {
+          "hasLogo": false,
+          "hasSearch": false,
+          "hasLanguage": false,
+          "hamburger": false
+        }
+      }
+    ],
+    "badges": [
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(247, 247, 247)",
+        "family": "Poppins, sans-serif",
+        "count": 304,
+        "samples": [
+          "SIGNATURE",
+          "MONOGRAM",
+          "MONOCLE",
+          "SOHO",
+          "SIGNATURE"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "family": "Optima, sans-serif",
+        "count": 192,
+        "samples": [
+          "MONOGRAM M1",
+          "MONOGRAM M1",
+          "MONOGRAM M1",
+          "MONOGRAM M2",
+          "MONOGRAM M1"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "500",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "family": "Lato, sans-serif",
+        "count": 126,
+        "samples": [
+          "APPLY NOW",
+          "APPLY NOW",
+          "APPLY NOW",
+          "AT A GLANCE",
+          "DISCOVER THE KITCHEN COLLECTION"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "300",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "family": "Optima, sans-serif",
+        "count": 55,
+        "samples": [
+          "KITCHENS",
+          "WARDROBES",
+          "FASCINATION",
+          "EXPERIENCE",
+          "KITCHENS"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "color": "rgb(153, 153, 153)",
+        "family": "Poppins, sans-serif",
+        "count": 44,
+        "samples": [
+          "IMPRINT",
+          "TERMS OF USE",
+          "PRIVACY POLICY",
+          "CAREER",
+          "IMPRINT"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "0.5px",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "family": "Poppins, sans-serif",
+        "count": 32,
+        "samples": [
+          "CONCIERGE SERVICE",
+          "CORPORATE",
+          "CONTRACT DIVISION",
+          "CONCIERGE SERVICE",
+          "CORPORATE"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "500",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "family": "Lato, sans-serif",
+        "count": 21,
+        "samples": [
+          "EXPLORE OUR KITCHEN COLLECTION",
+          "EXPLORE OUR KITCHEN COLLECTION",
+          "EXPLORE OUR KITCHEN COLLECTION",
+          "EXPLORE OUR WARDROBE COLLECTION",
+          "GET IN TOUCH"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "2px",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "family": "Poppins, sans-serif",
+        "count": 18,
+        "samples": [
+          "PRODUCTION INSIGHTS",
+          "PRODUCTION INSIGHTS",
+          "PRODUCTION INSIGHTS",
+          "GET AN ESTIMATE"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "500",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgba(247, 247, 247, 0.9)",
+        "family": "Lato, sans-serif",
+        "count": 12,
+        "samples": [
+          "HOME OWNERS",
+          "HOME OWNERS",
+          "HOME OWNERS",
+          "ARCHITECTS"
+        ]
+      },
+      {
+        "size": 12,
+        "weight": "300",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "family": "Roboto, sans-serif",
+        "count": 12,
+        "samples": [
+          "GET YOUR DESIGN",
+          "GET YOUR DESIGN",
+          "GET YOUR DESIGN",
+          "TAKE ME TO MATERIALS"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "color": "rgb(247, 247, 247)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 304,
+        "samples": [
+          "SIGNATURE",
+          "MONOGRAM",
+          "MONOCLE"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 14,
+        "transform": "none",
+        "count": 64,
+        "samples": [
+          "MONOGRAM M1",
+          "MONOGRAM M2",
+          "TANSU"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 16,
+        "transform": "none",
+        "count": 44,
+        "samples": [
+          "KITCHENS",
+          "WARDROBES",
+          "FASCINATION"
+        ]
+      },
+      {
+        "color": "rgb(201, 177, 149)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 18,
+        "transform": "none",
+        "count": 44,
+        "samples": [
+          "Facebook",
+          "Instagram",
+          "Pinterest"
+        ]
+      },
+      {
+        "color": "rgb(153, 153, 153)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 44,
+        "samples": [
+          "IMPRINT",
+          "TERMS OF USE",
+          "PRIVACY POLICY"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "500",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 42,
+        "samples": [
+          "APPLY NOW",
+          "AT A GLANCE",
+          "REQUEST CATALOGUE"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "300",
+        "size": 12,
+        "transform": "uppercase",
+        "count": 36,
+        "samples": [
+          "CONCIERGE SERVICE",
+          "CORPORATE",
+          "CONTRACT DIVISION"
+        ]
+      },
+      {
+        "color": "rgb(201, 177, 149)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 14,
+        "transform": "none",
+        "count": 11,
+        "samples": [
+          "Skip to content",
+          "Skip to content",
+          "Skip to content"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(105, 114, 125)",
+        "radius": "3px",
+        "size": 12,
+        "padding": "6px 12px 6px 12px",
+        "count": 6
+      },
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "0px none rgb(122, 122, 122)",
+        "radius": "0px",
+        "size": 12,
+        "padding": "0px 0px 0px 0px",
+        "count": 1
+      }
+    ]
+  },
+  "a11y": {
+    "contrastWorst": [
+      {
+        "fg": "#c9b195",
+        "bg": "#ffffff",
+        "ratio": 2.06,
+        "count": 41,
+        "sizes": [
+          12,
+          14
+        ],
+        "samples": [
+          "Skip to content",
+          "FASCINATION",
+          "TRANSFORM YOUR VISION INTO REALITY"
+        ],
+        "tags": [
+          "a",
+          "h2",
+          "h3"
+        ]
+      },
+      {
+        "fg": "#908a7e",
+        "bg": "#ffffff",
+        "ratio": 3.43,
+        "count": 25,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "BESPOKE LUXURY",
+          "WARDROBES REDEFINED",
+          "MADE IN GERMANY - SINCE 1917"
+        ],
+        "tags": [
+          "h3",
+          "h2",
+          "p"
+        ]
+      },
+      {
+        "fg": "#7a7a7a",
+        "bg": "#ffffff",
+        "ratio": 4.29,
+        "count": 29,
+        "sizes": [
+          12,
+          14
+        ],
+        "samples": [
+          "Contact us and let us explore together your projec",
+          "Award winning designs. From the idea to the concep",
+          "From the first concept to the communication, desig"
+        ],
+        "tags": [
+          "p"
+        ]
+      },
+      {
+        "fg": "#666666",
+        "bg": "#ffffff",
+        "ratio": 5.74,
+        "count": 2,
+        "sizes": [
+          14
+        ],
+        "samples": [
+          "LOEHNE, GERMANY",
+          "BURG, GERMANY"
+        ],
+        "tags": [
+          "h2"
+        ]
+      },
+      {
+        "fg": "#908a7e",
+        "bg": "#000000",
+        "ratio": 6.12,
+        "count": 2,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "LUXURIOUS BRILLIANCE WITH DIAMOND CUT FINISH",
+          "UNIQUE MATERIALS AS A HIGHLIGHT IN YOUR KITCHEN"
+        ],
+        "tags": [
+          "p"
+        ]
+      },
+      {
+        "fg": "#54595f",
+        "bg": "#ffffff",
+        "ratio": 7.07,
+        "count": 16,
+        "sizes": [
+          12,
+          14,
+          16,
+          25
+        ],
+        "samples": [
+          "SEAFORM KITCHENS & WARDROBES",
+          "Exceptional design, finest materials and unrivaled",
+          "We design extraordinary spaces to create, experien"
+        ],
+        "tags": [
+          "h1",
+          "p",
+          "span",
+          "h2"
+        ]
+      },
+      {
+        "fg": "#999999",
+        "bg": "#000000",
+        "ratio": 7.37,
+        "count": 40,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "Imprint",
+          "TERMS OF USE",
+          "Privacy Policy"
+        ],
+        "tags": [
+          "a"
+        ]
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#171717",
+        "ratio": 8.71,
+        "count": 1,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "SPECIAL"
+        ],
+        "tags": [
+          "h2"
+        ]
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#141414",
+        "ratio": 8.95,
+        "count": 9,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "AND GET INSPIRED",
+          "AND GET INSPIRED",
+          "AND GET INSPIRED"
+        ],
+        "tags": [
+          "h2"
+        ]
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#151412",
+        "ratio": 8.95,
+        "count": 1,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "COUNTRY-SIDE SERENITY"
+        ],
+        "tags": [
+          "h3"
+        ]
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#121212",
+        "ratio": 9.1,
+        "count": 49,
+        "sizes": [
+          12,
+          18
+        ],
+        "samples": [
+          "Facebook",
+          "Instagram",
+          "Pinterest"
+        ],
+        "tags": [
+          "span",
+          "a"
+        ]
+      },
+      {
+        "fg": "#c9b195",
+        "bg": "#000000",
+        "ratio": 10.21,
+        "count": 5,
+        "sizes": [
+          12,
+          20
+        ],
+        "samples": [
+          "MADE IN GERMANY - SINCE 1917",
+          "1800 partners across the globe",
+          "SUITABLE INSERTS AND DETAILING MAKE ALL THE DIFFER"
+        ],
+        "tags": [
+          "h3",
+          "h2"
+        ]
+      },
+      {
+        "fg": "#c1bcad",
+        "bg": "#000000",
+        "ratio": 11.06,
+        "count": 9,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "APPLY NOW TO ENROLL TO OUR EXCLUSIVE CONCIERGE SER",
+          "EXOERIENCE OUR EXCLUSIVE CONCIERGE SERVICE",
+          "APPLY NOW TO ENROLL TO OUR EXCLUSIVE CONCIERGE SER"
+        ],
+        "tags": [
+          "p"
+        ]
+      },
+      {
+        "fg": "#d7cfbc",
+        "bg": "#000000",
+        "ratio": 13.54,
+        "count": 1,
+        "sizes": [
+          12
+        ],
+        "samples": [
+          "SPECIALS"
+        ],
+        "tags": [
+          "h2"
+        ]
+      }
+    ],
+    "contrastSummary": {
+      "pairs": 32,
+      "failAA": 3,
+      "failAAA": 5
+    },
+    "images": 503,
+    "missingAlt": 0,
+    "altCoverage": 100,
+    "emptyLinks": 62,
+    "emptyButtons": 20,
+    "h1Total": 11,
+    "h1PerPage": [
+      {
+        "page": "Home",
+        "h1": 1
+      },
+      {
+        "page": "About",
+        "h1": 1
+      },
+      {
+        "page": "Contact",
+        "h1": 1
+      },
+      {
+        "page": "Kitchen Collections",
+        "h1": 1
+      },
+      {
+        "page": "Hamptons Collection",
+        "h1": 1
+      },
+      {
+        "page": "Kitchen Interiors",
+        "h1": 1
+      },
+      {
+        "page": "Materials & Colours",
+        "h1": 1
+      },
+      {
+        "page": "Manufacturing",
+        "h1": 1
+      },
+      {
+        "page": "Projects",
+        "h1": 1
+      },
+      {
+        "page": "The Brand",
+        "h1": 1
+      },
+      {
+        "page": "Wardrobes",
+        "h1": 1
+      }
+    ],
+    "mainCount": 11,
+    "skipLinks": 11,
+    "ariaAttributes": 400,
+    "tabbable": 1991,
+    "focusVisibleSelectorsPerPage": 0,
+    "reducedMotionRulesPerPage": 44
+  },
+  "media": {
+    "images": 503,
+    "lazyPct": 85,
+    "srcsetPct": 68,
+    "missingAlt": 0,
+    "videosPerPage": 1.8,
+    "bgImagesPerPage": 52.8,
+    "gradientsPerPage": 3.5,
+    "objectFit": [
+      {
+        "value": "fill",
+        "count": 445
+      },
+      {
+        "value": "cover",
+        "count": 45
+      },
+      {
+        "value": "contain",
+        "count": 13
+      }
+    ],
+    "aspectRatios": [
+      {
+        "value": 5.67,
+        "count": 32
+      },
+      {
+        "value": 1.78,
+        "count": 31
+      },
+      {
+        "value": 1.63,
+        "count": 30
+      },
+      {
+        "value": 1,
+        "count": 30
+      },
+      {
+        "value": 0.6,
+        "count": 11
+      },
+      {
+        "value": 1.33,
+        "count": 10
+      },
+      {
+        "value": 0.76,
+        "count": 10
+      },
+      {
+        "value": 1.1,
+        "count": 9
+      },
+      {
+        "value": 1.3,
+        "count": 6
+      },
+      {
+        "value": 1.86,
+        "count": 4
+      },
+      {
+        "value": 1.69,
+        "count": 4
+      },
+      {
+        "value": 0.66,
+        "count": 3
+      }
+    ],
+    "formats": [
+      {
+        "value": "png",
+        "count": 11
+      },
+      {
+        "value": "jpg",
+        "count": 11
+      },
+      {
+        "value": "svg",
+        "count": 9
+      },
+      {
+        "value": "webp",
+        "count": 2
+      }
+    ]
+  }
+}

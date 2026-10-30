@@ -1,0 +1,260 @@
+[
+  {
+    "id": "accordions",
+    "error": null,
+    "steps": 4,
+    "requests": 160,
+    "durationMs": 10217,
+    "shots": [],
+    "blockedWrites": 11
+  },
+  {
+    "id": "baseline",
+    "error": null,
+    "steps": 6,
+    "requests": 189,
+    "durationMs": 12736,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/baseline-home.png"
+    ],
+    "blockedWrites": 15
+  },
+  {
+    "id": "carousel",
+    "error": null,
+    "steps": 2,
+    "requests": 176,
+    "durationMs": 9360,
+    "shots": [],
+    "blockedWrites": 15
+  },
+  {
+    "id": "chat",
+    "error": null,
+    "steps": 2,
+    "requests": 180,
+    "durationMs": 15983,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/chat-opened.png"
+    ],
+    "blockedWrites": 18
+  },
+  {
+    "id": "cookie",
+    "error": null,
+    "steps": 4,
+    "requests": 400,
+    "durationMs": 41859,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/cookie-banner.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/cookie-after.png"
+    ],
+    "blockedWrites": 49
+  },
+  {
+    "id": "detailProbes",
+    "error": null,
+    "steps": 2,
+    "requests": 349,
+    "durationMs": 12469,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/detailProbes-collection-tile.png"
+    ],
+    "blockedWrites": 32
+  },
+  {
+    "id": "finalise",
+    "error": null,
+    "steps": 1,
+    "requests": 5,
+    "durationMs": 407,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "forms",
+    "error": null,
+    "steps": 9,
+    "requests": 400,
+    "durationMs": 37199,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-contact-form.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-contact-validation.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-contact-submit-click.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-catalogue-form.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-catalogue-validation.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-concierge-form.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/forms-concierge-validation.png"
+    ],
+    "blockedWrites": 64
+  },
+  {
+    "id": "hoverStates",
+    "error": null,
+    "steps": 1,
+    "requests": 186,
+    "durationMs": 12952,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/hoverStates-hover-primary-button.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/hoverStates-hover-nav-link.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/hoverStates-hover-collection-tile.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/hoverStates-hover-audience-chip.png"
+    ],
+    "blockedWrites": 16
+  },
+  {
+    "id": "keyboard",
+    "error": null,
+    "steps": 3,
+    "requests": 315,
+    "durationMs": 11312,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/keyboard-keyboard-open.png"
+    ],
+    "blockedWrites": 17
+  },
+  {
+    "id": "language",
+    "error": null,
+    "steps": 1,
+    "requests": 0,
+    "durationMs": 1,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "linksAssets",
+    "error": null,
+    "steps": 6,
+    "requests": 400,
+    "durationMs": 21380,
+    "shots": [],
+    "blockedWrites": 46
+  },
+  {
+    "id": "mobileUi",
+    "error": null,
+    "steps": 2,
+    "requests": 181,
+    "durationMs": 22405,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/mobileUi-mobile-ui.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/mobileUi-mobile-scrolled.png"
+    ],
+    "blockedWrites": 16
+  },
+  {
+    "id": "modal",
+    "error": null,
+    "steps": 5,
+    "requests": 400,
+    "durationMs": 30506,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/modal-onload.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/modal-closed.png"
+    ],
+    "blockedWrites": 45
+  },
+  {
+    "id": "navDesktop",
+    "error": null,
+    "steps": 2,
+    "requests": 205,
+    "durationMs": 21766,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navDesktop-nav-0-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navDesktop-nav-1-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navDesktop-nav-2-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navDesktop-nav-3-open.png"
+    ],
+    "blockedWrites": 22
+  },
+  {
+    "id": "navMobile",
+    "error": null,
+    "steps": 5,
+    "requests": 369,
+    "durationMs": 16828,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navMobile-home-mobile.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navMobile-menu-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/navMobile-submenu.png"
+    ],
+    "blockedWrites": 45
+  },
+  {
+    "id": "notFound",
+    "error": null,
+    "steps": 1,
+    "requests": 147,
+    "durationMs": 26380,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/notFound-404.png"
+    ],
+    "blockedWrites": 19
+  },
+  {
+    "id": "pageProbe",
+    "error": null,
+    "steps": 5,
+    "requests": 400,
+    "durationMs": 96532,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/pageProbe-locations.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/pageProbe-projects.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/pageProbe-materials.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/pageProbe-catalogue.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/pageProbe-get-your-design.png"
+    ],
+    "blockedWrites": 73
+  },
+  {
+    "id": "scroll",
+    "error": null,
+    "steps": 3,
+    "requests": 188,
+    "durationMs": 14210,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/scroll-scrolled.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/scroll-bottom.png"
+    ],
+    "blockedWrites": 15
+  },
+  {
+    "id": "search",
+    "error": null,
+    "steps": 4,
+    "requests": 400,
+    "durationMs": 21801,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/search-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/search-typed.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/search-results.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/search-no-results.png"
+    ],
+    "blockedWrites": 54
+  },
+  {
+    "id": "tabsFilters",
+    "error": null,
+    "steps": 3,
+    "requests": 400,
+    "durationMs": 57466,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/tabsFilters-tab-1.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/tabsFilters-tab-2.png"
+    ],
+    "blockedWrites": 61
+  },
+  {
+    "id": "videoLightbox",
+    "error": null,
+    "steps": 2,
+    "requests": 324,
+    "durationMs": 13745,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/videoLightbox-lightbox.png"
+    ],
+    "blockedWrites": 26
+  }
+]

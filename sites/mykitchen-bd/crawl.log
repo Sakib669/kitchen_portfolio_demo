@@ -1,0 +1,37 @@
+→ mykitchen-bd /
+  ✓ My Kitchen | 570 els | 7 sections | 19s
+→ mykitchen-bd /products
+  ✓ My Kitchen | 523 els | 4 sections | 18s
+→ mykitchen-bd /gallery
+  ✓ My Kitchen | 322 els | 3 sections | 16s
+→ mykitchen-bd /what-we-do
+  ✓ My Kitchen | 473 els | 11 sections | 16s
+→ mykitchen-bd /company-profile
+  ✓ My Kitchen | 345 els | 6 sections | 15s
+→ mykitchen-bd /expertise/kitchen-area
+  ✗ /expertise/kitchen-area: page.waitForTimeout: Target page, context or browser has been closed
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+browserContext.newPage: Target page, context or browser has been closed
+    at /home/sakib/Desktop/Projects Old/kitchen-deom/tools/extract.mjs:466:30 {
+  log: []
+}
+
+Node.js v22.23.3
+↷ skip home (exists)
+↷ skip products (exists)
+↷ skip gallery (exists)
+↷ skip what-we-do (exists)
+↷ skip company-profile (exists)
+↷ skip expertise-kitchen-area (exists)
+→ mykitchen-bd /expertise/wardrobes
+  ✓ My Kitchen | 274 els | 3 sections | 14s
+→ mykitchen-bd /factory
+  ✓ My Kitchen | 332 els | 5 sections | 13s
+→ mykitchen-bd /oem-odm
+  ✓ My Kitchen | 321 els | 5 sections | 13s
+→ mykitchen-bd /contact
+  ✓ My Kitchen | 425 els | 4 sections | 15s
+Done mykitchen-bd: 4/10 pages

@@ -1,0 +1,239 @@
+{
+  "internal": [
+    {
+      "href": "https://www.mykitchen-bd.com/",
+      "text": "",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/products",
+      "text": "Products",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/#",
+      "text": "",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/contact",
+      "text": "Contact",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/wardrobes",
+      "text": "Wardrobes",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/walk-in-closets",
+      "text": "WALK-IN CLOSETS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/vanities",
+      "text": "Vanities",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/accessories",
+      "text": "ACCESSORIES",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/sales-point",
+      "text": "Sales Point",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/events-&-news",
+      "text": "Events & News",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/catalogue",
+      "text": "Catalogue",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/gallery",
+      "text": "View Our Gallery",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/find-store",
+      "text": "Find a Store",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/company-profile",
+      "text": "Company Profile",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/history",
+      "text": "History",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/factory",
+      "text": "Factory",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/technology-our-procedure-processing-of-work",
+      "text": "Technology/Our Procedure & Processing of work",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/software",
+      "text": "Software",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/what-we-do",
+      "text": "What We Do",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/certification",
+      "text": "Certification",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/r&d",
+      "text": "R&D",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/oem-odm",
+      "text": "OEM/ODM",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/blum",
+      "text": "Learn More",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/kessebohmer",
+      "text": "Learn More",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/teka",
+      "text": "Learn More",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/privacy-policy",
+      "text": "Privacy Policy",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/terms-&-conditions",
+      "text": "Terms & Conditions",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/expertise/kitchen-area",
+      "text": "Kitchen",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.mykitchen-bd.com/feedback",
+      "text": "Feedback",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    }
+  ],
+  "external": [
+    {
+      "href": "https://www.facebook.com/mykitchenTBG",
+      "text": "Facebook",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://bd.linkedin.com/company/mykitchenofficial",
+      "text": "LinkedIn",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.creativematter.agency/",
+      "text": "Creative Matter",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://wa.me/8801642912612",
+      "text": "Chat with us on WhatsApp",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    }
+  ],
+  "assets": [],
+  "contact": []
+}

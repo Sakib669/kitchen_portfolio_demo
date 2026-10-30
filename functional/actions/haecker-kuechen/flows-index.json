@@ -1,0 +1,132 @@
+[
+  {
+    "id": "accordions",
+    "error": null,
+    "steps": 3,
+    "requests": 5,
+    "durationMs": 53362,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "baseline",
+    "error": null,
+    "steps": 6,
+    "requests": 45,
+    "durationMs": 55761,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/baseline-home.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "carousel",
+    "error": null,
+    "steps": 2,
+    "requests": 0,
+    "durationMs": 2214,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "cookie",
+    "error": "page.evaluate: Target page, context or browser has been closed",
+    "steps": 1,
+    "requests": 50,
+    "durationMs": 205442,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/cookie-banner.png (failed)"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "forms",
+    "error": null,
+    "steps": 6,
+    "requests": 183,
+    "durationMs": 64235,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-dealer-search-form.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-dealer-search-validation-empty.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-contact-form.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-contact-validation-empty.png"
+    ],
+    "blockedWrites": 43
+  },
+  {
+    "id": "keyboard",
+    "error": null,
+    "steps": 3,
+    "requests": 45,
+    "durationMs": 57049,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "modal",
+    "error": "Cannot read properties of undefined (reading 'map')",
+    "steps": 4,
+    "requests": 91,
+    "durationMs": 186455,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/modal-onload.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/modal-closed.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "navDesktop",
+    "error": null,
+    "steps": 2,
+    "requests": 45,
+    "durationMs": 64561,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-0-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-1-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-2-open.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-3-open.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "navMobile",
+    "error": null,
+    "steps": 2,
+    "requests": 49,
+    "durationMs": 56627,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navMobile-home-mobile.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "scroll",
+    "error": null,
+    "steps": 3,
+    "requests": 62,
+    "durationMs": 56132,
+    "shots": [
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/scroll-scrolled.png",
+      "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/scroll-bottom.png"
+    ],
+    "blockedWrites": 0
+  },
+  {
+    "id": "search",
+    "error": null,
+    "steps": 2,
+    "requests": 5,
+    "durationMs": 53076,
+    "shots": [],
+    "blockedWrites": 0
+  },
+  {
+    "id": "tabsFilters",
+    "error": null,
+    "steps": 2,
+    "requests": 71,
+    "durationMs": 25725,
+    "shots": [],
+    "blockedWrites": 11
+  }
+]

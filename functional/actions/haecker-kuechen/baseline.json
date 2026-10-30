@@ -1,0 +1,2089 @@
+{
+  "env": {
+    "url": "https://www.haecker-kuechen.com/en/",
+    "title": "Unique Kitchens by Häcker—Get Inspired Now.",
+    "lang": "en-US",
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    },
+    "header": {
+      "tag": "header",
+      "h": 92,
+      "pos": "fixed",
+      "bg": "rgb(255, 255, 255)",
+      "top": 0,
+      "cls": "fixed-top mm-fixed-top type-megamenu2023 initial-colored bg-white",
+      "navLinks": 48
+    },
+    "sticky": [
+      {
+        "tag": "header",
+        "cls": "fixed-top mm-fixed-top type-megamenu2023 initial-colored bg-white",
+        "pos": "fixed",
+        "h": 92
+      }
+    ],
+    "counts": {
+      "interactives": 63,
+      "links": 119,
+      "uniqueLinks": 71,
+      "buttons": 3,
+      "forms": 1,
+      "fields": 1,
+      "iframes": 0,
+      "videos": 0,
+      "svgs": 0,
+      "ariaExpanded": 0,
+      "ariaHaspopup": 0,
+      "details": 0,
+      "roleTab": 0,
+      "dialogs": 0,
+      "scripts": 7
+    },
+    "interactives": [
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Skip to content",
+        "href": "https://www.haecker-kuechen.com/en/#beforeContent",
+        "id": "skip-link",
+        "name": "",
+        "cls": "skip-link",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 720,
+          "y": -51,
+          "w": 160,
+          "h": 51
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/en/",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 54,
+          "y": 20,
+          "w": 160,
+          "h": 51
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Career Jobs & more",
+        "href": "https://www.haecker-kuechen.com/en/career",
+        "id": "",
+        "name": "",
+        "cls": "nav-link",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 801,
+          "y": 26,
+          "w": 84,
+          "h": 39
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Kitchen planner",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+        "id": "",
+        "name": "",
+        "cls": "nav-link",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1086,
+          "y": 24,
+          "w": 138,
+          "h": 43
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "search",
+        "type": "",
+        "text": "Search",
+        "href": "javascript:;",
+        "id": "",
+        "name": "",
+        "cls": "nav-link js-searchbox-trigger",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": true,
+        "inFooter": false,
+        "box": {
+          "x": 1336,
+          "y": 24,
+          "w": 41,
+          "h": 41
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Get inspired now",
+        "href": "https://www.haecker-kuechen.com/en/dealer-search",
+        "id": "",
+        "name": "",
+        "cls": "btn btn-secondary",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 637,
+          "y": 1205,
+          "w": 167,
+          "h": 37
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5075/Graugruen/AV5075_Graugruen_AV5075_Kristallweiss_Vitrine_1200x1700.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 210,
+          "y": 1381,
+          "w": 468,
+          "h": 663
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "wide range of design possibilities",
+        "href": "https://www.haecker-kuechen.com/en/kitchenideas",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 823,
+          "y": 1500,
+          "w": 273,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Go to the Kitchen Planner",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+        "id": "",
+        "name": "",
+        "cls": "btn btn-secondary",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 762,
+          "y": 2084,
+          "w": 214,
+          "h": 37
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/TORONTO/Ulme_mocca/TORONTO_Ulme_Mocca_PERFECT_SOFT_Sandgrau_M1_1700x1200.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 762,
+          "y": 2202,
+          "w": 468,
+          "h": 330
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "owner-managed family business",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 313,
+          "y": 2779,
+          "w": 265,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/AURA/Steinbeige/AURA-GL_Steinbeige_Weiss_MONTREAL-Feineiche-natur____M1____1700x1200.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 210,
+          "y": 3210,
+          "w": 488,
+          "h": 345
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/BRISTOL/Smaragdgruen/BRISTOL_Selection_Smaragdgruen_M3_1200x1700.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 742,
+          "y": 2661,
+          "w": 488,
+          "h": 692
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Unternehmen/Haecker/Produktion_1700x1200.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 224,
+          "y": 3831,
+          "w": 475,
+          "h": 335
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Apply Now",
+        "href": "https://www.haecker-kuechen.com/en/career",
+        "id": "",
+        "name": "",
+        "cls": "btn btn-secondary",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 224,
+          "y": 4835,
+          "w": 132,
+          "h": 37
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Find the Perfect Kitchen",
+        "href": "https://www.haecker-kuechen.com/en/kitchenideas",
+        "id": "",
+        "name": "",
+        "cls": "btn btn-secondary",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 742,
+          "y": 4436,
+          "w": 204,
+          "h": 37
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Intern/HR/Andre_Lange_Montageschulung.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 742,
+          "y": 4554,
+          "w": 475,
+          "h": 475
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "systemat",
+        "href": "https://www.haecker-kuechen.com/en/systemat-von-haecker-premiumkuechen-mit-charakter",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 511,
+          "y": 5383,
+          "w": 76,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "concept130,",
+        "href": "https://www.haecker-kuechen.com/en/concept130",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 627,
+          "y": 5383,
+          "w": 101,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "a wide range of possibilities",
+        "href": "https://www.haecker-kuechen.com/en/kitchenideas",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 806,
+          "y": 5383,
+          "w": 228,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Design my kitchen now",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+        "id": "",
+        "name": "",
+        "cls": "btn btn-secondary",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 394,
+          "y": 5535,
+          "w": 201,
+          "h": 37
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_7070/Bronze_2025/AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Querformat_1700x1200.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 210,
+          "y": 8328,
+          "w": 670,
+          "h": 473
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Häcker’s digital kitchen magazine",
+        "href": "https://www.haecker-kuechen.com/en/media",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 924,
+          "y": 9053,
+          "w": 272,
+          "h": 24
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Plan your own kitchen now",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+        "id": "",
+        "name": "",
+        "cls": "btn btn-secondary",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 380,
+          "y": 9511,
+          "w": 223,
+          "h": 37
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "",
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Unternehmen/Haecker/Ku__chenplanung_02_1700x1200.jpg",
+        "id": "",
+        "name": "",
+        "cls": "sp image lightbox",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": false,
+        "box": {
+          "x": 742,
+          "y": 9674,
+          "w": 488,
+          "h": 345
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "concept130",
+        "href": "https://www.haecker-kuechen.com/en/concept130",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11267,
+          "w": 86,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "systemat",
+        "href": "https://www.haecker-kuechen.com/en/systemat-von-haecker-premiumkuechen-mit-charakter",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11300,
+          "w": 68,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Novelties 2026/2027",
+        "href": "https://hausmesse.haecker-kuechen.com/en/in-house-trade-fair-2026",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11391,
+          "w": 158,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Product Portal",
+        "href": "https://produktwelt.haecker-kuechen.com/en/",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11425,
+          "w": 105,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Fronts",
+        "href": "https://produktwelt.haecker-kuechen.com/en/fronts",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11459,
+          "w": 46,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Worktops",
+        "href": "https://produktwelt.haecker-kuechen.com/en/worktops",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11492,
+          "w": 71,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Handles",
+        "href": "https://produktwelt.haecker-kuechen.com/en/handles",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11526,
+          "w": 59,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Blaupunkt",
+        "href": "https://www.haecker-kuechen.com/en/blaupunkt",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11560,
+          "w": 72,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Media Site",
+        "href": "https://www.haecker-kuechen.com/en/media",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11267,
+          "w": 75,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Brochures",
+        "href": "https://www.haecker-kuechen.com/en/media#c172782",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11300,
+          "w": 70,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Suppliers",
+        "href": "https://www.haecker-kuechen.com/en/service/supplier",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11334,
+          "w": 66,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Dealer search",
+        "href": "https://www.haecker-kuechen.com/en/dealer-search",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11368,
+          "w": 97,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Kitchen planner",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11402,
+          "w": 108,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Contact",
+        "href": "https://www.haecker-kuechen.com/en/contact",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11435,
+          "w": 55,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Downloads",
+        "href": "https://www.haecker-kuechen.com/en/download",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11469,
+          "w": 81,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Extranet",
+        "href": "https://www.haecker-kuechen.com/extranet",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 423,
+          "y": 11503,
+          "w": 62,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "About us",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 735,
+          "y": 11267,
+          "w": 65,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Our values",
+        "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer#c175151",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 735,
+          "y": 11300,
+          "w": 75,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "project business",
+        "href": "https://www.haecker-kuechen.com/en/projects",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 735,
+          "y": 11334,
+          "w": 114,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Press",
+        "href": "https://www.haecker-kuechen.com/en/media#c172766",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 735,
+          "y": 11368,
+          "w": 41,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Häcker Academy",
+        "href": "https://haecker-kuechen.training/",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 735,
+          "y": 11402,
+          "w": 119,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "All vacancies",
+        "href": "https://www.haecker-kuechen.com/en/career/current-job-offers",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11267,
+          "w": 92,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Häcker as an employer",
+        "href": "https://www.haecker-kuechen.com/en/career",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11300,
+          "w": 160,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Career starters",
+        "href": "https://www.haecker-kuechen.com/en/career#c174214",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11334,
+          "w": 107,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Experienced applicants",
+        "href": "https://www.haecker-kuechen.com/en/career#c174262",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11368,
+          "w": 162,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Dual study programme",
+        "href": "https://www.haecker-kuechen.com/en/career#c174283",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11402,
+          "w": 161,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Traineeship",
+        "href": "https://www.haecker-kuechen.com/en/career#c174283",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11435,
+          "w": 80,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Internship",
+        "href": "https://www.haecker-kuechen.com/en/career#c174438",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11469,
+          "w": 69,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Speculative application",
+        "href": "https://www.haecker-kuechen.com/en/career#c174402",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1048,
+          "y": 11503,
+          "w": 163,
+          "h": 22
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Facebook",
+        "href": "https://www.facebook.com/people/Hacker-Kitchens-International/100068193226333/",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 110,
+          "y": 11866,
+          "w": 16,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Instagram",
+        "href": "https://www.instagram.com/hacker_kitchens_international/?locale=de-DE&hl=en",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 146,
+          "y": 11866,
+          "w": 22,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "LinkedIn",
+        "href": "https://www.linkedin.com/company/h%C3%A4ckerkitcheninternational",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 188,
+          "y": 11866,
+          "w": 22,
+          "h": 38
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Terms and Conditions",
+        "href": "https://www.haecker-kuechen.com/en/terms-and-conditions",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 718,
+          "y": 12017,
+          "w": 138,
+          "h": 19
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Data privacy",
+        "href": "https://www.haecker-kuechen.com/en/data-privacy",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 874,
+          "y": 12017,
+          "w": 77,
+          "h": 19
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Compliance",
+        "href": "https://www.haecker-kuechen.com/en/compliance",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 969,
+          "y": 12017,
+          "w": 73,
+          "h": 19
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Imprint",
+        "href": "https://www.haecker-kuechen.com/en/imprint",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1060,
+          "y": 12017,
+          "w": 43,
+          "h": 19
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "Cookie settings",
+        "href": "https://www.haecker-kuechen.com/en/#open-cookie-settings",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1121,
+          "y": 12017,
+          "w": 98,
+          "h": 19
+        }
+      },
+      {
+        "cat": "link",
+        "tag": "a",
+        "role": "",
+        "type": "",
+        "text": "USA & Canada",
+        "href": "https://www.haecker-kuechen.com/en/usa-canada",
+        "id": "",
+        "name": "",
+        "cls": "",
+        "ariaExpanded": null,
+        "ariaHaspopup": null,
+        "ariaControls": null,
+        "disabled": false,
+        "inHeader": false,
+        "inFooter": true,
+        "box": {
+          "x": 1237,
+          "y": 12017,
+          "w": 93,
+          "h": 19
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/en/search",
+        "method": "GET",
+        "id": "",
+        "cls": "",
+        "framework": "custom/unknown",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "tx_kesearch_pi1[sword]",
+            "id": "",
+            "placeholder": "What are you looking for?",
+            "required": false,
+            "pattern": "",
+            "minLength": "4",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          }
+        ],
+        "submits": [
+          {
+            "text": "",
+            "type": "submit",
+            "name": "",
+            "disabled": false
+          },
+          {
+            "text": "Search",
+            "type": "submit",
+            "name": "",
+            "disabled": false
+          }
+        ],
+        "hidden": [],
+        "hasFile": false,
+        "hasConsent": false
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+        "text": "Kitchen planner",
+        "count": 6,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media",
+        "text": "Media Site",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer",
+        "text": "About Häcker",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career",
+        "text": "Career Jobs & more",
+        "count": 5,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/systemat-von-haecker-premiumkuechen-mit-charakter",
+        "text": "systemat Stylish & comfortable",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/concept130",
+        "text": "concept130 Reliable & unique",
+        "count": 4,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/",
+        "text": "",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer#c175151",
+        "text": "Values",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/dealer-search",
+        "text": "Dealer search",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career#c174283",
+        "text": "Dual study programme",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchenideas",
+        "text": "wide range of design possibilities",
+        "count": 3,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/blaupunkt",
+        "text": "Blaupunkt",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/projects",
+        "text": "Project business",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/contact",
+        "text": "Contact",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://produktwelt.haecker-kuechen.com/en/",
+        "text": "Product Portal",
+        "count": 2,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career#c174214",
+        "text": "Career starters",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career#c174262",
+        "text": "Experienced applicants",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career#c174438",
+        "text": "Internship",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career#c174402",
+        "text": "Speculative application",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/de/",
+        "text": "Deutsch",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/es/",
+        "text": "Español",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fr/",
+        "text": "Français",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/it/",
+        "text": "Italiano",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/nl/",
+        "text": "Nederlands",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/pl/",
+        "text": "Polski",
+        "count": 2,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/#beforeContent",
+        "text": "Skip to content",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-styles",
+        "text": "Kitchen styles",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-furniture",
+        "text": "Kitchen interior",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-accessories",
+        "text": "Kitchen accessories",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/in-house-exhibition",
+        "text": "In-house exhibition",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-magazine",
+        "text": "Häckers Kitchen Magazine",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/100-years-of-fitted-kitchens",
+        "text": "Limited Edition 1926 100 years of Fitted Kitchens",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer#c175214",
+        "text": "Awards and Certificates",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media/haecker-gewinnt-den-best-of-design-award-2026",
+        "text": "Häcker wins the ‘Best of Design’ award",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media/vierfache-auszeichnung-fuer-blaupunkt",
+        "text": "4 Awards for Blaupunkt",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media/100-years-of-the-fitted-kitchen",
+        "text": "Häcker launches the “Limited Edition 1926”",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/buy-a-kitchen",
+        "text": "Buy kitchen",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media#c172779",
+        "text": "Brochures",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media#c172776",
+        "text": "Videos",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/order-brochures-by-post",
+        "text": "Order brochures",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career/current-job-offers#c120849",
+        "text": "All vacancies",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career#c183166",
+        "text": "Traineeship",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/#mmainnav",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5075/Graugruen/AV5075_Graugruen_AV5075_Kristallweiss_Vitrine_1200x1700.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/TORONTO/Ulme_mocca/TORONTO_Ulme_Mocca_PERFECT_SOFT_Sandgrau_M1_1700x1200.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/AURA/Steinbeige/AURA-GL_Steinbeige_Weiss_MONTREAL-Feineiche-natur____M1____1700x1200.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/BRISTOL/Smaragdgruen/BRISTOL_Selection_Smaragdgruen_M3_1200x1700.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Unternehmen/Haecker/Produktion_1700x1200.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Intern/HR/Andre_Lange_Montageschulung.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_7070/Bronze_2025/AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Querformat_1700x1200.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Unternehmen/Haecker/Ku__chenplanung_02_1700x1200.jpg",
+        "text": "",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://hausmesse.haecker-kuechen.com/en/in-house-trade-fair-2026",
+        "text": "Novelties 2026/2027",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://produktwelt.haecker-kuechen.com/en/fronts",
+        "text": "Fronts",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://produktwelt.haecker-kuechen.com/en/worktops",
+        "text": "Worktops",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://produktwelt.haecker-kuechen.com/en/handles",
+        "text": "Handles",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media#c172782",
+        "text": "Brochures",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/service/supplier",
+        "text": "Suppliers",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/download",
+        "text": "Downloads",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/extranet",
+        "text": "Extranet",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/media#c172766",
+        "text": "Press",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://haecker-kuechen.training/",
+        "text": "Häcker Academy",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/career/current-job-offers",
+        "text": "All vacancies",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.facebook.com/people/Hacker-Kitchens-International/100068193226333/",
+        "text": "Facebook",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.instagram.com/hacker_kitchens_international/?locale=de-DE&hl=en",
+        "text": "Instagram",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.linkedin.com/company/h%C3%A4ckerkitcheninternational",
+        "text": "LinkedIn",
+        "count": 1,
+        "internal": false,
+        "kind": "external"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/terms-and-conditions",
+        "text": "Terms and Conditions",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/data-privacy",
+        "text": "Data privacy",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/compliance",
+        "text": "Compliance",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/imprint",
+        "text": "Imprint",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/#open-cookie-settings",
+        "text": "Cookie settings",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      },
+      {
+        "href": "https://www.haecker-kuechen.com/en/usa-canada",
+        "text": "USA & Canada",
+        "count": 1,
+        "internal": true,
+        "kind": "page"
+      }
+    ],
+    "iframes": [],
+    "videos": [],
+    "scripts": [
+      "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.js?1767948963",
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/app.26e11a9b-min.js?1792998402",
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/runtime.09724e43-min.js?1792998401",
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/powermail_timeslots-min.js?1792998401"
+    ],
+    "stylesheets": [
+      "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+      "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961"
+    ],
+    "largeVisibleMenuEls": 4,
+    "htmlSnippet": 101095
+  },
+  "storage": {
+    "cookies": [],
+    "local": {},
+    "session": {},
+    "indexedDB": []
+  },
+  "network": {
+    "total": 45,
+    "byDomain": [
+      {
+        "domain": "www.haecker-kuechen.com",
+        "count": 45
+      }
+    ],
+    "byType": [
+      {
+        "type": "image",
+        "count": 34
+      },
+      {
+        "type": "script",
+        "count": 4
+      },
+      {
+        "type": "font",
+        "count": 4
+      },
+      {
+        "type": "stylesheet",
+        "count": 2
+      },
+      {
+        "type": "document",
+        "count": 1
+      }
+    ],
+    "nonGet": []
+  }
+}

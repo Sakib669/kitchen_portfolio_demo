@@ -1,0 +1,88 @@
+{
+  "id": "finalise",
+  "startedAt": "2026-10-26T08:45:44.251Z",
+  "steps": [
+    {
+      "name": "done",
+      "at": 507672,
+      "data": {
+        "cookies": 47,
+        "local": 9,
+        "session": 5,
+        "blockedWrites": 659
+      }
+    }
+  ],
+  "durationMs": 407,
+  "finishedAt": "2026-10-26T08:45:44.658Z",
+  "requests": [
+    {
+      "id": 7330,
+      "flow": "finalise",
+      "ts": 507618,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/03/seaform_logo_ivory-1536x271.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 7331,
+      "flow": "finalise",
+      "ts": 507619,
+      "url": "https://www.seaform.com/wp-content/uploads/2023/12/seaform_logo_ivory-1536x271.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 7332,
+      "flow": "finalise",
+      "ts": 507620,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/03/seaform_nav_h.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 7333,
+      "flow": "finalise",
+      "ts": 507620,
+      "url": "https://www.seaform.com/wp-content/uploads/2026/07/BELVEDERE_VISTA_GENERALE_CShading_LightMix-scaled-e1722428510717-1536x955.webp",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 7334,
+      "flow": "finalise",
+      "ts": 507622,
+      "url": "https://www.seaform.com/wp-content/uploads/2026/07/cube_650x400.webp",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    }
+  ],
+  "network": {
+    "total": 5,
+    "byDomain": [
+      {
+        "domain": "www.seaform.com",
+        "count": 5
+      }
+    ],
+    "byType": [
+      {
+        "type": "image",
+        "count": 5
+      }
+    ],
+    "nonGet": []
+  },
+  "shots": [],
+  "blockedWrites": []
+}

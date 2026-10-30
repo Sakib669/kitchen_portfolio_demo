@@ -1,0 +1,135 @@
+{
+  "site": "mykitchen-bd",
+  "pages": [
+    {
+      "path": "/company-profile",
+      "label": "Company Profile",
+      "slug": "company-profile",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 345,
+      "sections": 6,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/contact",
+      "label": "Contact",
+      "slug": "contact",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 425,
+      "sections": 4,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/expertise/kitchen-area",
+      "label": "Kitchen",
+      "slug": "expertise-kitchen-area",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 269,
+      "sections": 3,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/expertise/wardrobes",
+      "label": "Wardrobes",
+      "slug": "expertise-wardrobes",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 274,
+      "sections": 3,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/factory",
+      "label": "Factory",
+      "slug": "factory",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 332,
+      "sections": 5,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/gallery",
+      "label": "Gallery",
+      "slug": "gallery",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 322,
+      "sections": 3,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/",
+      "label": "Home",
+      "slug": "home",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 570,
+      "sections": 7,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/oem-odm",
+      "label": "OEM / ODM",
+      "slug": "oem-odm",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 321,
+      "sections": 5,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/products",
+      "label": "Products",
+      "slug": "products",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 523,
+      "sections": 4,
+      "framework": [
+        "Next.js"
+      ]
+    },
+    {
+      "path": "/what-we-do",
+      "label": "What We Do",
+      "slug": "what-we-do",
+      "title": "My Kitchen",
+      "status": 200,
+      "elements": 473,
+      "sections": 11,
+      "framework": [
+        "Next.js"
+      ]
+    }
+  ],
+  "pageCount": 10,
+  "resumedRuns": true,
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "capturedAt": "2026-10-26",
+  "note": "crawl-meta lists the final snapshot set; pages were captured across resumed runs."
+}

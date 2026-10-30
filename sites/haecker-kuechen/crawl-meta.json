@@ -1,0 +1,147 @@
+{
+  "site": "haecker-kuechen",
+  "pages": [
+    {
+      "path": "/en/",
+      "label": "Home",
+      "slug": "en",
+      "title": "Unique Kitchens by Häcker—Get Inspired Now.",
+      "status": 200,
+      "elements": 1167,
+      "sections": 12,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/concept130",
+      "label": "concept130",
+      "slug": "en-concept130",
+      "title": "concept130 ⏐ Innovative Designs & Vielfalt von Häcker",
+      "status": 200,
+      "elements": 1090,
+      "sections": 10,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/concept130/perfect-soft-black",
+      "label": "Collection Detail",
+      "slug": "en-concept130-perfect-soft-black",
+      "title": "Mysterious and sophisticated: PERFECT SOFT Black",
+      "status": 200,
+      "elements": 873,
+      "sections": 9,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/kitchen-furniture",
+      "label": "Kitchen Furniture",
+      "slug": "en-kitchen-furniture",
+      "title": "Kitchen furniture from Häcker: stylish and individual",
+      "status": 200,
+      "elements": 1164,
+      "sections": 13,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/kitchen-magazine",
+      "label": "Magazine",
+      "slug": "en-kitchen-magazine",
+      "title": "Kitchen Magazine",
+      "status": 200,
+      "elements": 1173,
+      "sections": 6,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/kitchen-manufacturer",
+      "label": "Manufacturer",
+      "slug": "en-kitchen-manufacturer",
+      "title": "Kitchen manufacturer with tradition - 125 years of Häcker",
+      "status": 200,
+      "elements": 1086,
+      "sections": 14,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/kitchen-planner",
+      "label": "Kitchen Planner",
+      "slug": "en-kitchen-planner",
+      "title": "The kitchen planner - plan your kitchen quickly & easily",
+      "status": 200,
+      "elements": 917,
+      "sections": 9,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/kitchen-styles",
+      "label": "Kitchen Styles",
+      "slug": "en-kitchen-styles",
+      "title": "Discover and be inspired by a variety of kitchen styles",
+      "status": 200,
+      "elements": 1105,
+      "sections": 13,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/kitchenideas",
+      "label": "Kitchen Ideas",
+      "slug": "en-kitchenideas",
+      "title": "Discover and be inspired by a variety of kitchen styles",
+      "status": 200,
+      "elements": 1105,
+      "sections": 13,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/projects",
+      "label": "Projects",
+      "slug": "en-projects",
+      "title": "Project Business with Häcker Küchen – International Construction Projects",
+      "status": 200,
+      "elements": 1685,
+      "sections": 15,
+      "framework": [
+        "TYPO3"
+      ]
+    },
+    {
+      "path": "/en/systemat-von-haecker-premiumkuechen-mit-charakter",
+      "label": "Systemat",
+      "slug": "en-systemat-von-haecker-premiumkuechen-mit-charakter",
+      "title": "Finden Sie Ihre Traumküche in der Häcker Produktlinie systemat",
+      "status": 200,
+      "elements": 1123,
+      "sections": 11,
+      "framework": [
+        "TYPO3"
+      ]
+    }
+  ],
+  "pageCount": 11,
+  "resumedRuns": true,
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "capturedAt": "2026-10-26",
+  "note": "crawl-meta lists the final snapshot set; pages were captured across resumed runs."
+}

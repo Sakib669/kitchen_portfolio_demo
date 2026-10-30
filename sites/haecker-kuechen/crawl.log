@@ -1,0 +1,36 @@
+→ haecker-kuechen /en/
+  ✓ Unique Kitchens by Häcker—Get Inspired Now. | 1167 els | 11 sections | 81s
+→ haecker-kuechen /en/kitchen-styles
+  ✗ /en/kitchen-styles: page.waitForTimeout: Target page, context or browser has been closed
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+browserContext.newPage: Target page, context or browser has been closed
+    at /home/sakib/Desktop/Projects Old/kitchen-deom/tools/extract.mjs:466:30 {
+  log: []
+}
+
+Node.js v22.23.3
+↷ skip en (exists)
+→ haecker-kuechen /en/kitchen-styles
+  ✓ Discover and be inspired by a variety of kitchen styles | 1105 els | 13 sections | 27s
+→ haecker-kuechen /en/kitchen-furniture
+  ✓ Kitchen furniture from Häcker: stylish and individual | 1164 els | 13 sections | 98s
+→ haecker-kuechen /en/kitchen-manufacturer
+  ✓ Kitchen manufacturer with tradition - 125 years of Häcker | 1086 els | 14 sections | 30s
+→ haecker-kuechen /en/concept130
+  ✓ concept130 ⏐ Innovative Designs & Vielfalt von Häcker | 1090 els | 10 sections | 76s
+→ haecker-kuechen /en/systemat-von-haecker-premiumkuechen-mit-charakter
+  ✓ Finden Sie Ihre Traumküche in der Häcker Produktlinie systemat | 1123 els | 11 sections | 55s
+→ haecker-kuechen /en/kitchenideas
+  ✓ Discover and be inspired by a variety of kitchen styles | 1105 els | 13 sections | 47s
+→ haecker-kuechen /en/projects
+  ✓ Project Business with Häcker Küchen – International Construction Projects | 1685 els | 15 sections | 56s
+→ haecker-kuechen /en/kitchen-planner
+  ✓ The kitchen planner - plan your kitchen quickly & easily | 917 els | 9 sections | 25s
+→ haecker-kuechen /en/concept130/perfect-soft-black
+  ✓ Mysterious and sophisticated: PERFECT SOFT Black | 873 els | 9 sections | 33s
+→ haecker-kuechen /en/kitchen-magazine
+  ✓ Kitchen Magazine | 1173 els | 6 sections | 19s
+Done haecker-kuechen: 10/11 pages

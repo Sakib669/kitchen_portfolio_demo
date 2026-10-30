@@ -1,0 +1,1499 @@
+{
+  "site": "haecker-kuechen",
+  "name": "Häcker Küchen",
+  "base": "https://www.haecker-kuechen.com",
+  "generatedAt": "2026-10-26T08:49:31.238Z",
+  "flows": [
+    {
+      "id": "accordions",
+      "error": null,
+      "steps": 3,
+      "requests": 5,
+      "durationMs": 53362,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "baseline",
+      "error": null,
+      "steps": 6,
+      "requests": 45,
+      "durationMs": 55761,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/baseline-home.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "carousel",
+      "error": null,
+      "steps": 2,
+      "requests": 0,
+      "durationMs": 2214,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "cookie",
+      "error": "page.evaluate: Target page, context or browser has been closed",
+      "steps": 1,
+      "requests": 50,
+      "durationMs": 205442,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/cookie-banner.png (failed)"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "forms",
+      "error": null,
+      "steps": 6,
+      "requests": 183,
+      "durationMs": 64235,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-dealer-search-form.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-dealer-search-validation-empty.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-contact-form.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/forms-contact-validation-empty.png"
+      ],
+      "blockedWrites": 43
+    },
+    {
+      "id": "keyboard",
+      "error": null,
+      "steps": 3,
+      "requests": 45,
+      "durationMs": 57049,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "modal",
+      "error": "Cannot read properties of undefined (reading 'map')",
+      "steps": 4,
+      "requests": 91,
+      "durationMs": 186455,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/modal-onload.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/modal-closed.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "navDesktop",
+      "error": null,
+      "steps": 2,
+      "requests": 45,
+      "durationMs": 64561,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-0-open.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-1-open.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-2-open.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navDesktop-nav-3-open.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "navMobile",
+      "error": null,
+      "steps": 2,
+      "requests": 49,
+      "durationMs": 56627,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/navMobile-home-mobile.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "scroll",
+      "error": null,
+      "steps": 3,
+      "requests": 62,
+      "durationMs": 56132,
+      "shots": [
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/scroll-scrolled.png",
+        "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/haecker-kuechen/shots/scroll-bottom.png"
+      ],
+      "blockedWrites": 0
+    },
+    {
+      "id": "search",
+      "error": null,
+      "steps": 2,
+      "requests": 5,
+      "durationMs": 53076,
+      "shots": [],
+      "blockedWrites": 0
+    },
+    {
+      "id": "tabsFilters",
+      "error": null,
+      "steps": 2,
+      "requests": 71,
+      "durationMs": 25725,
+      "shots": [],
+      "blockedWrites": 11
+    }
+  ],
+  "totals": {
+    "flows": 12,
+    "flowsOk": 10,
+    "requests": 651
+  },
+  "blockedWrites": [
+    {
+      "flow": "forms",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=1524230777&cv=11&fst=1793003830285&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkcKEAjw9PvWBhCfscPfk52_tx0SMwDrXe3mIDQ243_BCAwVB3LnaG-COYOPnly_29NsZjkLWugsh-8hexxSSJaXoo5zjZ3qe_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCIvysQII9NqxAgji6rECCOjusQIIuPKxAgiS67ECCMnjsQIIl9SxAgjJ27ECCKbdsQIIsN6xAgiA27ECCM3hsQI&cerd=CgjX1b4tyOy-LQ&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGd0Kj3fFX-0AXnxPEn5nENDwbCPAHo_58w&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDcWeeo65eTCDttcRApqD1WTv2YHp37FHaqxvpYG5QHC64XwkVZOBnhoChnA&pscrd=IhMI2YK646PXlwMVH9RzAR1Q2xrNOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb29ycE1LbHJvaE1SWkRLclMtTUlVWUMxYnlhaUFxMHBqaG1mVklsR0lJWEVxYWltZnh4VGd6DAgJYggIABAAGAAgAA",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/pagead/1p-conversion/405188733/?random=1524230777&cv=11&fst=1793003830285&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=1~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkcKEAjw9PvWBhCfscPfk52_tx0SMwDrXe3mIDQ243_BCAwVB3LnaG-COYOPnly_29NsZjkLWugsh-8hexxSSJaXoo5zjZ3qe_D_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCIvysQII9NqxAgji6rECCOjusQIIuPKxAgiS67ECCMnjsQIIl9SxAgjJ27ECCKbdsQIIsN6xAgiA27ECCM3hsQI&cerd=CgjX1b4tyOy-LQ&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGd0Kj3fFX-0AXnxPEn5nENDwbCPAHo_58w&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDcWeeo65eTCDttcRApqD1WTv2YHp37FHaqxvpYG5QHC64XwkVZOBnhoChnA&pscrd=IhMI2YK646PXlwMVH9RzAR1Q2xrNOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb29ycE1LbHJvaE1SWkRLclMtTUlVWUMxYnlhaUFxMHBqaG1mVklsR0lJWEVxYWltZnh4VGd6DAgJYggIABAAGAAgAA&gcp=3",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"image_url\\\":[{\\\"rid\\\":\\\"1078416071607770\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/e/f/csm_AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Header_2560x1250_f07d775fd6.jpg\\\"]},{\\\"rid\\\":\\\"1488603419764722\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/d/e/csm_Finanzmanagement_1700x1200_08d978a61c.jpg\\\"]}],\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Kitchen styles at Häcker: your perfect match!\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Kitchen styles at Häcker: your perfect match!\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"Velvet matt, black oak fronts and elegant bronze-coloured surfaces create a sense of uncompromising elegance.\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"108969698070"
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n785535859332469\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nPageView\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.haecker-kuechen.com/en/kitchen-styles\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793003832083\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundaryOfT1XBEU96XBqvbv\r\nContent-Disposition: form-data; name=\"sw"
+    },
+    {
+      "flow": "forms",
+      "url": "https://cvw425zxroht.cloud.run/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"image_url\\\":[{\\\"rid\\\":\\\"1078416071607770\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/e/f/csm_AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Header_2560x1250_f07d775fd6.jpg\\\"]},{\\\"rid\\\":\\\"1488603419764722\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/d/e/csm_Finanzmanagement_1700x1200_08d978a61c.jpg\\\"]}],\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Kitchen styles at Häcker: your perfect match!\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Kitchen styles at Häcker: your perfect match!\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"Velvet matt, black oak fronts and elegant bronze-coloured surfaces create a sense of uncompromising elegance.\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"108969698070"
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Dealer%20search&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&scrsrc=www.googletagmanager.com&rnd=986546363.1793003841&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1793003841036&tfd=10227&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=758495772&t=pageview&_s=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&ul=en-us&dt=Dealer%20search&sr=1440x900&vp=1440x900&_u=QCCACEABBAAAACAAI~&jid=&gjid=&cid=1630181310.1793003830&tid=UA-131723162-1&_gid=1058793428.1793003830&_slc=1&gtm=45He6al1n8155MC6MXv897070612za200zd897070612xf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&z=2061493948",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"concept130 Küche in Bali Eiche-trüffelbraun\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"1089696980704583\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]},{\\\"rid\\\":\\\"1103374045805445\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]}],\\\"page_description\\\":[{\\\"rid\\\""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n785535859332469\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nPageView\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.haecker-kuechen.com/en/dealer-search\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793003841276\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundaryx0NKSqbrkEax7UuO\r\nContent-Disposition: form-data; name=\"sw\""
+    },
+    {
+      "flow": "forms",
+      "url": "https://cvw425zxroht.cloud.run/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"concept130 Küche in Bali Eiche-trüffelbraun\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"1089696980704583\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]},{\\\"rid\\\":\\\"1103374045805445\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]}],\\\"page_description\\\":[{\\\"rid\\\""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003841344&cv=11&fst=1793003841344&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&rcb=16&frm=0&tiba=Dealer%20search&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003841363&cv=11&fst=1793003841363&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&rcb=16&frm=0&tiba=Dealer%20search&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=0&auid=1753226637.1793003830&dt=Dealer%20search&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&scrsrc=www.googletagmanager.com&rnd=986546363.1793003841&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003841375&tfd=10566&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Dealer%20search&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&scrsrc=www.googletagmanager.com&rnd=986546363.1793003841&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003841375&tfd=10566&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=483699555&cv=11&fst=1793003841368&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&rcb=16&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Dealer%20search&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEAjw9PvWBhCfscPfk52_tx0SMQDrXe3mPk_lDPbcK2KpLxW0oFZHVJ291tvXG13zF-xGgvBy02sl0-0oyCD8TdcpqMnw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOLTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgjX1b4tyOy-LQ&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGdcWXMm3k32yWmo5vUmF5TacsQJtm36sN9&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDYvyy1vvj5UMCHI6UWkeRoVemsDmTDOSpGcPu-naqC9sTxDK2xFNIhoCW5I&pscrd=IhMItpW26KPXlwMVrrvYBR0GPSaZOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb3JFMExZYmRhU0xVLTBrRmFVaEhhc3hmbWdlcFpxeHJmYWkyaXAtUjRZOW4tSlBLR0pSVnd6DAgJYggIABAAGAAgAA",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/pagead/1p-conversion/405188733/?random=483699555&cv=11&fst=1793003841368&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&rcb=16&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Dealer%20search&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkUKEAjw9PvWBhCfscPfk52_tx0SMQDrXe3mPk_lDPbcK2KpLxW0oFZHVJ291tvXG13zF-xGgvBy02sl0-0oyCD8TdcpqMnw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOLTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgjX1b4tyOy-LQ&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGdcWXMm3k32yWmo5vUmF5TacsQJtm36sN9&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDYvyy1vvj5UMCHI6UWkeRoVemsDmTDOSpGcPu-naqC9sTxDK2xFNIhoCW5I&pscrd=IhMItpW26KPXlwMVrrvYBR0GPSaZOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb3JFMExZYmRhU0xVLTBrRmFVaEhhc3hmbWdlcFpxeHJmYWkyaXAtUjRZOW4tSlBLR0pSVnd6DAgJYggIABAAGAAgAA&gcp=3",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"Scroll-50%\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"concept130 Küche in Bali Eiche-trüffelbraun\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"1089696980704583\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]},{\\\"rid\\\":\\\"1103374045805445\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]}],\\\"page_description\\\":[{\\\"rid"
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n785535859332469\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nScroll-50%\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.haecker-kuechen.com/en/dealer-search\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793003841672\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundaryEmczdv2vfvukTM3A\r\nContent-Disposition: form-data; name=\"s"
+    },
+    {
+      "flow": "forms",
+      "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"TOF Conversion\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"concept130 Küche in Bali Eiche-trüffelbraun\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"1089696980704583\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]},{\\\"rid\\\":\\\"1103374045805445\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]}],\\\"page_description\\\":[{\\"
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n785535859332469\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nTOF Conversion\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.haecker-kuechen.com/en/dealer-search\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793003841685\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundarypABB70QZfeFF7FED\r\nContent-Disposition: form-data; nam"
+    },
+    {
+      "flow": "forms",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003840590&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACQC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&dt=Dealer%20search&en=page_view&tfd=10889",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://cvw425zxroht.cloud.run/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"Scroll-50%\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"concept130 Küche in Bali Eiche-trüffelbraun\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"1089696980704583\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]},{\\\"rid\\\":\\\"1103374045805445\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]}],\\\"page_description\\\":[{\\\"rid"
+    },
+    {
+      "flow": "forms",
+      "url": "https://cvw425zxroht.cloud.run/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"TOF Conversion\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"Find a Häcker partner near you\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"concept130 Küche in Bali Eiche-trüffelbraun\\\"]}],\\\"availability\\\":[{\\\"rid\\\":\\\"1089696980704583\\\",\\\"v\\\":[\\\"in stock\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]},{\\\"rid\\\":\\\"1103374045805445\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/7/8/csm_Bali_Eiche_Trueffelbraun_Top_Soft_Steinbeige_M1_1200x1700_86cb810d89.jpg\\\"]}],\\\"page_description\\\":[{\\"
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003840590&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACQC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&dt=Dealer%20search&en=page_view&tfd=10889&gaf=1",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=80342061&cv=11&fst=1793003841701&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&rcb=16&label=bfUgCJ3KzascEP3gmsEB&frm=0&tiba=Dealer%20search&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=3~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw9PvWBhCfscPfk52_tx0SMgDrXe3mz7ZGtqSzhUAAyYjd1c19-9xXz_5FC10FC3UUxGf7nJl-cdPkgmMLba8hP7Wc8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCLjysQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgyCsL4t19W-Lcjsvi0&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGd1KdwQSgjfm7Vn07jWax5AE8vW-DwpOqS&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDYew-iTO4Wv9HuGgzqrcTIHNbzxoW4SfIr2jgv3_Om2D0sfQUveVHRoC8g4&pscrd=IhMIw5rJ6KPXlwMVleZVCR2xOQtXOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb3E2ZjJOOTNDQWl2UUdVNTRqX0dlYkVkaXhHXzB6QmR5UkM1eU9ja2ExQTVDcllSUFNOeFF6DAgJYggIABAAGAAgAA",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/pagead/1p-conversion/405188733/?random=80342061&cv=11&fst=1793003841701&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&rcb=16&label=bfUgCJ3KzascEP3gmsEB&frm=0&tiba=Dealer%20search&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=3~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw9PvWBhCfscPfk52_tx0SMgDrXe3mz7ZGtqSzhUAAyYjd1c19-9xXz_5FC10FC3UUxGf7nJl-cdPkgmMLba8hP7Wc8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCLjysQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgyCsL4t19W-Lcjsvi0&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGd1KdwQSgjfm7Vn07jWax5AE8vW-DwpOqS&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDYew-iTO4Wv9HuGgzqrcTIHNbzxoW4SfIr2jgv3_Om2D0sfQUveVHRoC8g4&pscrd=IhMIw5rJ6KPXlwMVleZVCR2xOQtXOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb3E2ZjJOOTNDQWl2UUdVNTRqX0dlYkVkaXhHXzB6QmR5UkM1eU9ja2ExQTVDcllSUFNOeFF6DAgJYggIABAAGAAgAA&gcp=3",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n785535859332469\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nSubscribedButtonClick\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.haecker-kuechen.com/en/dealer-search\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793003846438\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundarypOUWCGNnDoL3VZBK\r\nContent-Disposition: form-da"
+    },
+    {
+      "flow": "forms",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802z8897070612za20gzb897070612zd897070612xf1&_p=1793003840590&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACQC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&dt=Dealer%20search&en=50%20%25%20Scroll&_et=361&tfd=15890",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802z8897070612za20gzb897070612zd897070612xf1&_p=1793003840590&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACQC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fdealer-search&dt=Dealer%20search&en=50%20%25%20Scroll&_et=361&tfd=15890&gaf=1",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&scrsrc=www.googletagmanager.com&rnd=706555735.1793003885&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385423~120469145~120469153~121246026~121246034&tft=1793003884890&tfd=36574&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=565232308&t=pageview&_s=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&ul=en-us&dt=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&sr=1440x900&vp=1440x900&_u=QCCACEABBAAAACAAI~&jid=&gjid=&cid=1630181310.1793003830&tid=UA-131723162-1&_gid=1058793428.1793003830&_slc=1&gtm=45He6al1n8155MC6MXv897070612za200zd897070612xf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385423~120469145~120469153~121246026~121246034&z=652035360",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003885122&cv=11&fst=1793003885122&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&rcb=6&frm=0&tiba=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003885137&cv=11&fst=1793003885137&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&rcb=6&frm=0&tiba=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&auid=1753226637.1793003830&dt=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&scrsrc=www.googletagmanager.com&rnd=706555735.1793003885&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793003885146&tfd=36829&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&scrsrc=www.googletagmanager.com&rnd=706555735.1793003885&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793003885146&tfd=36829&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"© Häcker Küchen 2026\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"© Häcker Küchen 2026\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"[Translate to English:] Häcker Küchen\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/9/3/csm_header_kontakt_apfel_7c3eae8741.jpg\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1628488098906493\\\",\\\"v\\\":[\\\"Note for end customers:\\\"]},{\\\"rid\\\":\\\"1081490581259884\\\",\\\"v\\\":[\\\"Note for end customers:\\\"]}],\\\"image_url\\\":[{\\\"rid\\\":\\\"1488603419764722\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/d/e/csm_Finanzmanagement_1700x1200_08d978a61c.jpg\\\"]}],\\\"variant_presence\\\":["
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n785535859332469\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nPageView\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.haecker-kuechen.com/en/contact\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793003885230\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundaryUF3BzKoPi422Zead\r\nContent-Disposition: form-data; name=\"sw\"\r\n\r\n14"
+    },
+    {
+      "flow": "forms",
+      "url": "https://cvw425zxroht.cloud.run/events?cee=no",
+      "method": "POST",
+      "postData": "{\"event_name\":\"PageView\",\"smart_setup\":{\"auto_web_details_data\":\"{\\\"page_title\\\":[{\\\"rid\\\":\\\"4237284429903831\\\",\\\"v\\\":[\\\"© Häcker Küchen 2026\\\"]},{\\\"rid\\\":\\\"1607450870851716\\\",\\\"v\\\":[\\\"© Häcker Küchen 2026\\\"]},{\\\"rid\\\":\\\"28555343117408160\\\",\\\"v\\\":[\\\"[Translate to English:] Häcker Küchen\\\"]}],\\\"all_entity_images\\\":[{\\\"rid\\\":\\\"1679888103843822\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/9/3/csm_header_kontakt_apfel_7c3eae8741.jpg\\\"]}],\\\"page_description\\\":[{\\\"rid\\\":\\\"1628488098906493\\\",\\\"v\\\":[\\\"Note for end customers:\\\"]},{\\\"rid\\\":\\\"1081490581259884\\\",\\\"v\\\":[\\\"Note for end customers:\\\"]}],\\\"image_url\\\":[{\\\"rid\\\":\\\"1488603419764722\\\",\\\"v\\\":[\\\"https://www.haecker-kuechen.com/fileadmin/_processed_/d/e/csm_Finanzmanagement_1700x1200_08d978a61c.jpg\\\"]}],\\\"variant_presence\\\":["
+    },
+    {
+      "flow": "forms",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/405188733/?random=1703795052&cv=11&fst=1793003885141&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&rcb=6&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=4~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw9PvWBhCfscPfk52_tx0SMgDrXe3me--i9h__zeNAA2e5_2ubLRXRX8zMHxxXZE4XeP32fcP477GK4-LePiVqegQf8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCLjysQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgjV1b4tueu-LQ&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGdsIVHaFGO1nghz6cyvjKTUMg5HNvgzry7&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDahgMvbEqDm_u2xW5x1oIh7jI0TyjJ5c71w-IKd2vlA1pLURbNSWAxoCfS8&pscrd=IhMIsMyn_aPXlwMV4-RzAR22diAaOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb3JwcnhRVzdibjA3QVNOeWd5cUlOMHJuRGRtclZWOVM5TWNkV3pfUnpDZjMwa0FVWHczVUF6DAgJYggIABAAGAAgAA",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://ct.pinterest.com/stats/",
+      "method": "POST",
+      "postData": "{\"messageType\":\"INFO\",\"message\":\"tag_send_attempt\",\"log\":\"attempt=1&cat=none&retryable=0&retry=na&status=200&evt=init\",\"version\":\"c61fa7c9\"}"
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/pagead/1p-conversion/405188733/?random=1703795052&cv=11&fst=1793003885141&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&rcb=6&label=DjGXCLPRzocYEP3gmsEB&frm=0&tiba=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1707215565.1793003830&_tu=CBA&gcl_ctr=4~0~0~0&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkYKEAjw9PvWBhCfscPfk52_tx0SMgDrXe3me--i9h__zeNAA2e5_2ubLRXRX8zMHxxXZE4XeP32fcP477GK4-LePiVqegQf8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCLjysQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgjV1b4tueu-LQ&eitems=Cg8I8PT71gYQ5r7wuo7Ok3ISHQBfltGdsIVHaFGO1nghz6cyvjKTUMg5HNvgzry7&fsk=ChAI8PT71gYQwaLv1_7Oif1PEiwAAZDaDahgMvbEqDm_u2xW5x1oIh7jI0TyjJ5c71w-IKd2vlA1pLURbNSWAxoCfS8&pscrd=IhMIsMyn_aPXlwMV4-RzAR22diAaOiBodHRwczovL3d3dy5oYWVja2VyLWt1ZWNoZW4uY29tL0JWQ2hFSThQVDcxZ1lRX3B5OWc2clE1cC1TQVJJckFEZzZIb3JwcnhRVzdibjA3QVNOeWd5cUlOMHJuRGRtclZWOVM5TWNkV3pfUnpDZjMwa0FVWHczVUF6DAgJYggIABAAGAAgAA&gcp=3",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003884553&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACQC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&dt=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&en=page_view&tfd=41850",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "forms",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003884553&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACQC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fcontact&dt=Your%20contact%20for%20H%C3%A4cker%20Kitchens%20-%20via%20mail%2C%20letter%20or%20phone&en=page_view&tfd=41850&gaf=1",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.haecker-kuechen.com/en/?saveOptinHistory",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryBCVLyVp9kan2Ns4u\r\nContent-Disposition: form-data; name=\"lastPreferences\"\r\n\r\n{\"timestamp\":1793003829,\"cookieValue\":\"essential:1|statistics:1|marketing:1|iframes:1\",\"isAll\":true,\"version\":1,\"identifier\":7459,\"uuid\":\"9a7f9f1b-232c-4c35-8103-6a4efdd4909a\"}\r\n------WebKitFormBoundaryBCVLyVp9kan2Ns4u--\r\n"
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6al1v897070612za200zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1793003829682&tfd=24600&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1753226637.1793003830&gtm=45He6al1v897070612za200zd897070612xeaxf1&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830245&cv=11&fst=1793003830245&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/rmkt/collect/405188733/?random=1793003830279&cv=11&fst=1793003830279&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&rcb=8&frm=0&tiba=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1753226637.1793003830&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&en=page_view&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&gtm=45be6al1v889116694za20ozb897070612zd897070612xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25210&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1753226637.1793003830&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&tid=AW-405188733&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&scrsrc=www.googletagmanager.com&rnd=1328404176.1793003830&navt=n&npa=0&_tu=CA&gtm=45be6al1v889116694z8897070612za20gzb897070612zd897070612xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793003830293&tfd=25211&tids=AW-405188733&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-GZRGMT838V&cid=1630181310.1793003830&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&rcb=2&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-GZRGMT838V&gtm=45je6al1v888170802za20ozb897070612zd897070612xf1&_p=1793003829081&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAACAC&cid=1630181310.1793003830&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=2&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1793003830&sct=1&seg=0&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=25360&gaf=1",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "tabsFilters",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=1933910774&t=pageview&_s=1&dl=https%3A%2F%2Fwww.haecker-kuechen.com%2Fen%2Fkitchen-styles&ul=en-us&dt=Discover%20and%20be%20inspired%20by%20a%20variety%20of%20kitchen%20styles&sr=1440x900&vp=1440x900&_u=YCDACEABBAAAACAAI~&jid=1683475595&gjid=911176596&cid=1630181310.1793003830&tid=UA-131723162-1&_gid=1058793428.1793003830&_r=1&_slc=1&gtm=45He6al1n8155MC6MXv897070612za200zd897070612xf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&z=1770365484",
+      "method": "POST",
+      "postData": ""
+    }
+  ],
+  "forms": [
+    {
+      "name": "contact",
+      "page": "https://www.haecker-kuechen.com/en/contact",
+      "form": {
+        "action": "/en/search",
+        "method": "GET",
+        "id": "",
+        "cls": "",
+        "framework": "custom/unknown",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "tx_kesearch_pi1[sword]",
+            "id": "",
+            "placeholder": "What are you looking for?",
+            "required": false,
+            "pattern": "",
+            "minLength": "4",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          }
+        ],
+        "submits": [
+          {
+            "text": "",
+            "type": "submit",
+            "name": "",
+            "disabled": false
+          },
+          {
+            "text": "Search",
+            "type": "submit",
+            "name": "",
+            "disabled": false
+          }
+        ],
+        "hidden": [],
+        "hasFile": false,
+        "hasConsent": false
+      }
+    },
+    {
+      "name": "dealer-search",
+      "page": "https://www.haecker-kuechen.com/en/dealer-search",
+      "form": {
+        "action": "https://www.haecker-kuechen.com/en/dealer-search",
+        "method": "GET",
+        "id": "country-redirect-260477",
+        "cls": "powermail_form form-horizontal country-redirect__form",
+        "framework": "custom/unknown",
+        "fields": [
+          {
+            "tag": "select",
+            "type": "select-one",
+            "name": "country",
+            "id": "powermail_field_country_redirect_260477",
+            "placeholder": "",
+            "required": true,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "Which country are you looking for?",
+            "options": [
+              ":Please choose …",
+              "DEU:Germany",
+              "AUT:Austria",
+              "CHE:Switzerland",
+              "FRA:France",
+              "GBR:United Kingdom",
+              "IRL:Ireland",
+              "NLD:Netherlands",
+              "BEL:Belgium",
+              "ITA:Italy",
+              "ESP:Spain",
+              "AFG:Afghanistan",
+              "ALB:Albania",
+              "DZA:Algeria",
+              "ASM:American Samoa",
+              "AND:Andorra",
+              "AGO:Angola",
+              "AIA:Anguilla",
+              "ATA:Antarctica",
+              "ATG:Antigua and Barbuda",
+              "ARG:Argentina",
+              "ARM:Armenia",
+              "ABW:Aruba",
+              "AUS:Australia",
+              "AZE:Azerbaijan",
+              "BHS:Bahamas",
+              "BHR:Bahrain",
+              "BGD:Bangladesh",
+              "BRB:Barbados",
+              "BLR:Belarus",
+              "BLZ:Belize",
+              "BEN:Benin",
+              "BMU:Bermuda",
+              "BTN:Bhutan",
+              "BOL:Bolivia, Plurinational State of",
+              "BES:Bonaire, Sint Eustatius and Saba",
+              "BIH:Bosnia and Herzegovina",
+              "BWA:Botswana",
+              "BVT:Bouvet Island",
+              "BRA:Brazil",
+              "IOT:British Indian Ocean Territory",
+              "BRN:Brunei Darussalam",
+              "BGR:Bulgaria",
+              "BFA:Burkina Faso",
+              "BDI:Burundi",
+              "CPV:Cabo Verde",
+              "KHM:Cambodia",
+              "CMR:Cameroon",
+              "CAN:Canada",
+              "CYM:Cayman Islands",
+              "CAF:Central African Republic",
+              "TCD:Chad",
+              "CHL:Chile",
+              "CHN:China",
+              "CXR:Christmas Island",
+              "CCK:Cocos (Keeling) Islands",
+              "COL:Colombia",
+              "COM:Comoros",
+              "COG:Congo",
+              "COD:Congo, The Democratic Republic of the",
+              "COK:Cook Islands",
+              "CRI:Costa Rica",
+              "HRV:Croatia",
+              "CUB:Cuba",
+              "CUW:Curaçao",
+              "CYP:Cyprus",
+              "CZE:Czechia",
+              "CIV:Côte d'Ivoire",
+              "DNK:Denmark",
+              "DJI:Djibouti",
+              "DMA:Dominica",
+              "DOM:Dominican Republic",
+              "ECU:Ecuador",
+              "EGY:Egypt",
+              "SLV:El Salvador",
+              "GNQ:Equatorial Guinea",
+              "ERI:Eritrea",
+              "EST:Estonia",
+              "SWZ:Eswatini",
+              "ETH:Ethiopia",
+              "FLK:Falkland Islands (Malvinas)",
+              "FRO:Faroe Islands",
+              "FJI:Fiji",
+              "FIN:Finland",
+              "GUF:French Guiana",
+              "PYF:French Polynesia",
+              "ATF:French Southern Territories",
+              "GAB:Gabon",
+              "GMB:Gambia",
+              "GEO:Georgia",
+              "GHA:Ghana",
+              "GIB:Gibraltar",
+              "GRC:Greece",
+              "GRL:Greenland",
+              "GRD:Grenada",
+              "GLP:Guadeloupe",
+              "GUM:Guam",
+              "GTM:Guatemala",
+              "GGY:Guernsey",
+              "GIN:Guinea",
+              "GNB:Guinea-Bissau",
+              "GUY:Guyana",
+              "HTI:Haiti",
+              "HMD:Heard Island and McDonald Islands",
+              "VAT:Holy See (Vatican City State)",
+              "HND:Honduras",
+              "HKG:Hong Kong",
+              "HUN:Hungary",
+              "ISL:Iceland",
+              "IND:India",
+              "IDN:Indonesia",
+              "IRN:Iran, Islamic Republic of",
+              "IRQ:Iraq",
+              "IMN:Isle of Man",
+              "ISR:Israel",
+              "JAM:Jamaica",
+              "JPN:Japan",
+              "JEY:Jersey",
+              "JOR:Jordan",
+              "KAZ:Kazakhstan",
+              "KEN:Kenya",
+              "KIR:Kiribati",
+              "PRK:Korea, Democratic People's Republic of",
+              "KOR:Korea, Republic of",
+              "KWT:Kuwait",
+              "KGZ:Kyrgyzstan",
+              "LAO:Lao People's Democratic Republic",
+              "LVA:Latvia",
+              "LBN:Lebanon",
+              "LSO:Lesotho",
+              "LBR:Liberia",
+              "LBY:Libya",
+              "LIE:Liechtenstein",
+              "LTU:Lithuania",
+              "LUX:Luxembourg",
+              "MAC:Macao",
+              "MDG:Madagascar",
+              "MWI:Malawi",
+              "MYS:Malaysia",
+              "MDV:Maldives",
+              "MLI:Mali",
+              "MLT:Malta",
+              "MHL:Marshall Islands",
+              "MTQ:Martinique",
+              "MRT:Mauritania",
+              "MUS:Mauritius",
+              "MYT:Mayotte",
+              "MEX:Mexico",
+              "FSM:Micronesia, Federated States of",
+              "MDA:Moldova, Republic of",
+              "MCO:Monaco",
+              "MNG:Mongolia",
+              "MNE:Montenegro",
+              "MSR:Montserrat",
+              "MAR:Morocco",
+              "MOZ:Mozambique",
+              "MMR:Myanmar",
+              "NAM:Namibia",
+              "NRU:Nauru",
+              "NPL:Nepal",
+              "NCL:New Caledonia",
+              "NZL:New Zealand",
+              "NIC:Nicaragua",
+              "NER:Niger",
+              "NGA:Nigeria",
+              "NIU:Niue",
+              "NFK:Norfolk Island",
+              "MKD:North Macedonia",
+              "MNP:Northern Mariana Islands",
+              "NOR:Norway",
+              "OMN:Oman",
+              "PAK:Pakistan",
+              "PLW:Palau",
+              "PSE:Palestine, State of",
+              "PAN:Panama",
+              "PNG:Papua New Guinea",
+              "PRY:Paraguay",
+              "PER:Peru",
+              "PHL:Philippines",
+              "PCN:Pitcairn",
+              "POL:Poland",
+              "PRT:Portugal",
+              "PRI:Puerto Rico",
+              "QAT:Qatar",
+              "ROU:Romania",
+              "RUS:Russian Federation",
+              "RWA:Rwanda",
+              "REU:Réunion",
+              "BLM:Saint Barthélemy",
+              "SHN:Saint Helena, Ascension and Tristan da Cunha",
+              "KNA:Saint Kitts and Nevis",
+              "LCA:Saint Lucia",
+              "MAF:Saint Martin (French part)",
+              "SPM:Saint Pierre and Miquelon",
+              "VCT:Saint Vincent and the Grenadines",
+              "WSM:Samoa",
+              "SMR:San Marino",
+              "STP:Sao Tome and Principe",
+              "SAU:Saudi Arabia",
+              "SEN:Senegal",
+              "SRB:Serbia",
+              "SYC:Seychelles",
+              "SLE:Sierra Leone",
+              "SGP:Singapore",
+              "SXM:Sint Maarten (Dutch part)",
+              "SVK:Slovakia",
+              "SVN:Slovenia",
+              "SLB:Solomon Islands",
+              "SOM:Somalia",
+              "ZAF:South Africa",
+              "SGS:South Georgia and the South Sandwich Islands",
+              "SSD:South Sudan",
+              "LKA:Sri Lanka",
+              "SDN:Sudan",
+              "SUR:Suriname",
+              "SJM:Svalbard and Jan Mayen",
+              "SWE:Sweden",
+              "SYR:Syrian Arab Republic",
+              "TWN:Taiwan, Province of China",
+              "TJK:Tajikistan",
+              "TZA:Tanzania, United Republic of",
+              "THA:Thailand",
+              "TLS:Timor-Leste",
+              "TGO:Togo",
+              "TKL:Tokelau",
+              "TON:Tonga",
+              "TTO:Trinidad and Tobago",
+              "TUN:Tunisia",
+              "TKM:Turkmenistan",
+              "TCA:Turks and Caicos Islands",
+              "TUV:Tuvalu",
+              "TUR:Türkiye",
+              "UGA:Uganda",
+              "UKR:Ukraine",
+              "ARE:United Arab Emirates",
+              "USA:United States",
+              "UMI:United States Minor Outlying Islands",
+              "URY:Uruguay",
+              "UZB:Uzbekistan",
+              "VUT:Vanuatu",
+              "VEN:Venezuela, Bolivarian Republic of",
+              "VNM:Viet Nam",
+              "VGB:Virgin Islands, British",
+              "VIR:Virgin Islands, U.S.",
+              "WLF:Wallis and Futuna",
+              "ESH:Western Sahara",
+              "YEM:Yemen",
+              "ZMB:Zambia",
+              "ZWE:Zimbabwe",
+              "ALA:Åland Islands"
+            ],
+            "disabled": false
+          },
+          {
+            "tag": "input",
+            "type": "submit",
+            "name": "",
+            "id": "",
+            "placeholder": "",
+            "required": false,
+            "pattern": "",
+            "minLength": "",
+            "maxLength": "",
+            "autocomplete": "",
+            "label": "",
+            "disabled": false
+          }
+        ],
+        "submits": [
+          {
+            "text": "Continue",
+            "type": "submit",
+            "name": "",
+            "disabled": false
+          }
+        ],
+        "hidden": [],
+        "hasFile": false,
+        "hasConsent": false
+      }
+    }
+  ],
+  "storage": {
+    "cookies": [],
+    "local": {},
+    "session": {},
+    "indexedDB": []
+  },
+  "domains": [
+    {
+      "domain": "www.haecker-kuechen.com",
+      "count": 563
+    },
+    {
+      "domain": "www.google.com",
+      "count": 44
+    },
+    {
+      "domain": "ct.pinterest.com",
+      "count": 10
+    },
+    {
+      "domain": "googleads.g.doubleclick.net",
+      "count": 10
+    },
+    {
+      "domain": "www.googletagmanager.com",
+      "count": 9
+    },
+    {
+      "domain": "www.googleadservices.com",
+      "count": 8
+    },
+    {
+      "domain": "www.google.com.bd",
+      "count": 7
+    },
+    {
+      "domain": "www.facebook.com",
+      "count": 6
+    },
+    {
+      "domain": "www.google-analytics.com",
+      "count": 6
+    },
+    {
+      "domain": "connect.facebook.net",
+      "count": 6
+    },
+    {
+      "domain": "s.pinimg.com",
+      "count": 6
+    },
+    {
+      "domain": "v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws",
+      "count": 5
+    },
+    {
+      "domain": "cvw425zxroht.cloud.run",
+      "count": 5
+    },
+    {
+      "domain": "analytics.google.com",
+      "count": 4
+    },
+    {
+      "domain": "cdn.mouseflow.com",
+      "count": 3
+    },
+    {
+      "domain": "ad.doubleclick.net",
+      "count": 2
+    },
+    {
+      "domain": "capi-automation.s3.us-east-2.amazonaws.com",
+      "count": 1
+    },
+    {
+      "domain": "stats.g.doubleclick.net",
+      "count": 1
+    }
+  ],
+  "thirdParties": [
+    {
+      "provider": "Google",
+      "domain": "www.google.com",
+      "count": 44
+    },
+    {
+      "provider": "Google Ads",
+      "domain": "googleads.g.doubleclick.net",
+      "count": 10
+    },
+    {
+      "provider": "Google Tag Manager",
+      "domain": "www.googletagmanager.com",
+      "count": 9
+    },
+    {
+      "provider": "Meta",
+      "domain": "www.facebook.com",
+      "count": 6
+    },
+    {
+      "provider": "Meta Pixel",
+      "domain": "connect.facebook.net",
+      "count": 6
+    },
+    {
+      "provider": "Google Analytics 4",
+      "domain": "analytics.google.com",
+      "count": 4
+    }
+  ],
+  "unknownExternal": [
+    {
+      "domain": "ct.pinterest.com",
+      "count": 10
+    },
+    {
+      "domain": "www.googleadservices.com",
+      "count": 8
+    },
+    {
+      "domain": "www.google.com.bd",
+      "count": 7
+    },
+    {
+      "domain": "www.google-analytics.com",
+      "count": 6
+    },
+    {
+      "domain": "s.pinimg.com",
+      "count": 6
+    },
+    {
+      "domain": "v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws",
+      "count": 5
+    },
+    {
+      "domain": "cvw425zxroht.cloud.run",
+      "count": 5
+    },
+    {
+      "domain": "cdn.mouseflow.com",
+      "count": 3
+    },
+    {
+      "domain": "ad.doubleclick.net",
+      "count": 2
+    },
+    {
+      "domain": "capi-automation.s3.us-east-2.amazonaws.com",
+      "count": 1
+    },
+    {
+      "domain": "stats.g.doubleclick.net",
+      "count": 1
+    }
+  ],
+  "assets": [],
+  "downloadHeads": [],
+  "details": [],
+  "baselineCounts": {
+    "interactives": 63,
+    "links": 119,
+    "uniqueLinks": 71,
+    "buttons": 3,
+    "forms": 1,
+    "fields": 1,
+    "iframes": 0,
+    "videos": 0,
+    "svgs": 0,
+    "ariaExpanded": 0,
+    "ariaHaspopup": 0,
+    "details": 0,
+    "roleTab": 0,
+    "dialogs": 0,
+    "scripts": 7
+  },
+  "baselineInteractiveCats": {
+    "link": 63
+  },
+  "baselineLinks": [
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-planner",
+      "text": "Kitchen planner",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media",
+      "text": "Media Site",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer",
+      "text": "About Häcker",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career",
+      "text": "Career Jobs & more",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/systemat-von-haecker-premiumkuechen-mit-charakter",
+      "text": "systemat Stylish & comfortable",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/concept130",
+      "text": "concept130 Reliable & unique",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/",
+      "text": "",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer#c175151",
+      "text": "Values",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/dealer-search",
+      "text": "Dealer search",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career#c174283",
+      "text": "Dual study programme",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchenideas",
+      "text": "wide range of design possibilities",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/blaupunkt",
+      "text": "Blaupunkt",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/projects",
+      "text": "Project business",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/contact",
+      "text": "Contact",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://produktwelt.haecker-kuechen.com/en/",
+      "text": "Product Portal",
+      "count": 2,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career#c174214",
+      "text": "Career starters",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career#c174262",
+      "text": "Experienced applicants",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career#c174438",
+      "text": "Internship",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career#c174402",
+      "text": "Speculative application",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/de/",
+      "text": "Deutsch",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/es/",
+      "text": "Español",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fr/",
+      "text": "Français",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/it/",
+      "text": "Italiano",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/nl/",
+      "text": "Nederlands",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/pl/",
+      "text": "Polski",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/#beforeContent",
+      "text": "Skip to content",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-styles",
+      "text": "Kitchen styles",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-furniture",
+      "text": "Kitchen interior",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-accessories",
+      "text": "Kitchen accessories",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/in-house-exhibition",
+      "text": "In-house exhibition",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-magazine",
+      "text": "Häckers Kitchen Magazine",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/100-years-of-fitted-kitchens",
+      "text": "Limited Edition 1926 100 years of Fitted Kitchens",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/kitchen-manufacturer#c175214",
+      "text": "Awards and Certificates",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media/haecker-gewinnt-den-best-of-design-award-2026",
+      "text": "Häcker wins the ‘Best of Design’ award",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media/vierfache-auszeichnung-fuer-blaupunkt",
+      "text": "4 Awards for Blaupunkt",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media/100-years-of-the-fitted-kitchen",
+      "text": "Häcker launches the “Limited Edition 1926”",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/buy-a-kitchen",
+      "text": "Buy kitchen",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media#c172779",
+      "text": "Brochures",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media#c172776",
+      "text": "Videos",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/order-brochures-by-post",
+      "text": "Order brochures",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career/current-job-offers#c120849",
+      "text": "All vacancies",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career#c183166",
+      "text": "Traineeship",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/#mmainnav",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_5075/Graugruen/AV5075_Graugruen_AV5075_Kristallweiss_Vitrine_1200x1700.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/TORONTO/Ulme_mocca/TORONTO_Ulme_Mocca_PERFECT_SOFT_Sandgrau_M1_1700x1200.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/AURA/Steinbeige/AURA-GL_Steinbeige_Weiss_MONTREAL-Feineiche-natur____M1____1700x1200.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/concept130/BRISTOL/Smaragdgruen/BRISTOL_Selection_Smaragdgruen_M3_1200x1700.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Unternehmen/Haecker/Produktion_1700x1200.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Intern/HR/Andre_Lange_Montageschulung.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Kuechen/systemat/AV_7070/Bronze_2025/AV7070_GL_Bronze_AV6088_GL_Eiche_Schwarz_M1_Querformat_1700x1200.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/fileadmin/bilder/Unternehmen/Haecker/Ku__chenplanung_02_1700x1200.jpg",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://hausmesse.haecker-kuechen.com/en/in-house-trade-fair-2026",
+      "text": "Novelties 2026/2027",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://produktwelt.haecker-kuechen.com/en/fronts",
+      "text": "Fronts",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://produktwelt.haecker-kuechen.com/en/worktops",
+      "text": "Worktops",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://produktwelt.haecker-kuechen.com/en/handles",
+      "text": "Handles",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media#c172782",
+      "text": "Brochures",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/service/supplier",
+      "text": "Suppliers",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/download",
+      "text": "Downloads",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/extranet",
+      "text": "Extranet",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/media#c172766",
+      "text": "Press",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://haecker-kuechen.training/",
+      "text": "Häcker Academy",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/career/current-job-offers",
+      "text": "All vacancies",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.facebook.com/people/Hacker-Kitchens-International/100068193226333/",
+      "text": "Facebook",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.instagram.com/hacker_kitchens_international/?locale=de-DE&hl=en",
+      "text": "Instagram",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.linkedin.com/company/h%C3%A4ckerkitcheninternational",
+      "text": "LinkedIn",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/terms-and-conditions",
+      "text": "Terms and Conditions",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/data-privacy",
+      "text": "Data privacy",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/compliance",
+      "text": "Compliance",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/imprint",
+      "text": "Imprint",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/#open-cookie-settings",
+      "text": "Cookie settings",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.haecker-kuechen.com/en/usa-canada",
+      "text": "USA & Canada",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    }
+  ]
+}

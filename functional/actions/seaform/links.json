@@ -1,0 +1,505 @@
+{
+  "internal": [
+    {
+      "href": "https://www.seaform.com/projects/",
+      "text": "ICONIC PROJECTS",
+      "count": 11,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/monogram/",
+      "text": "",
+      "count": 7,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/signature/",
+      "text": "",
+      "count": 7,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/night-system/",
+      "text": "NIGHT SYSTEM",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/cube/",
+      "text": "CUBE",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/aquatic/",
+      "text": "AQUATIC",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/portico/",
+      "text": "PORTICO",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/concierge-service-2/",
+      "text": "GET IN TOUCH",
+      "count": 6,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/monocle/",
+      "text": "",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-collections/hamptons/",
+      "text": "",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-collections/soho/",
+      "text": "",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-collections/purista/",
+      "text": "",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/gaia/",
+      "text": "",
+      "count": 5,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/at-a-glance/",
+      "text": "AT A GLANCE",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/legacy/",
+      "text": "LEGACY",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/manufacturing/",
+      "text": "MANUFACTURING",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/career/",
+      "text": "CAREER",
+      "count": 4,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-collections/",
+      "text": "COLLECTIONS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-materials-colors/",
+      "text": "MATERIALS & COLORS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-interiors/",
+      "text": "INTERIORS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/countertops/",
+      "text": "COUNTERTOPS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/appliances/",
+      "text": "APPLIANCES",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/kitchen-collections/synthesis/",
+      "text": "",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/quality/",
+      "text": "QUALITY",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/#",
+      "text": "EXPERIENCE",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/architects/",
+      "text": "ARCHITECTS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/partners/",
+      "text": "PARTNERS",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/order-catalogue/",
+      "text": "REQUEST CATALOGUE",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/elementor-2358/",
+      "text": "REQUEST DESIGN",
+      "count": 3,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/specials/",
+      "text": "SPECIALS",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/wardrobe-collections/",
+      "text": "WARDROBE COLLECTIONS",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5OTIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+      "text": "",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/locations/",
+      "text": "FIND A SHOWROOM",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/product-service/",
+      "text": "PRODUCT SERVICE",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/news/",
+      "text": "NEWS MAIN",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/mysea/",
+      "text": "MYSEA",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/imprint/",
+      "text": "IMPRINT",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/terms-of-use/",
+      "text": "TERMS OF USE",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/privacy-policy/",
+      "text": "PRIVACY POLICY",
+      "count": 2,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/#main",
+      "text": "Skip to content",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/wardrobe-materials-colors/",
+      "text": "MATERIALS & COLOURS",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/wardrobe-interiors/",
+      "text": "INTERIORS",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/concierge-service-2",
+      "text": "CONTACT US",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxMzQiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+      "text": "",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    },
+    {
+      "href": "https://www.seaform.com/about-seaform/",
+      "text": "HOME OWNERS",
+      "count": 1,
+      "internal": true,
+      "kind": "page"
+    }
+  ],
+  "external": [
+    {
+      "href": "https://seaform.com/kitchens/collections/synthesis/",
+      "text": "",
+      "count": 2,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "http://www.sea-group.de/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "http://seaform.com/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/kitchen-collections/",
+      "text": "KITCHENS",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/materials-colors/",
+      "text": "MATERIALS & COLORS",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/interiors/",
+      "text": "INTERIORS",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/accessories/",
+      "text": "ACCESSORIES",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/customizations/",
+      "text": "CUSTOMIZATIONS",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/collections/cube/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/collections/cube-plus/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/collections/cube-motion/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/collections/aquatic/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobes/collections/portico/",
+      "text": "",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/wardrobe-collections/",
+      "text": "WARDROBES",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/fascination/at-a-glance/",
+      "text": "FASCINATION",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/order-catalogue/",
+      "text": "ORDER YOUR CATALOGUE",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/elementor-2358/",
+      "text": "REQUEST FOR YOUR DESIGN",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/concierge-service/",
+      "text": "CONCIERGE SERVICE",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/locations/",
+      "text": "FIND A SHOWROOM",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/product-service/",
+      "text": "PRODUCT SERVICE",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://seaform.com/fascination/concierge-service/",
+      "text": "APPLY NOW",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.facebook.com/SEAFORMKITCHENS/",
+      "text": "Facebook",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.instagram.com/seaform_kitchens/",
+      "text": "Instagram",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.pinterest.com/seaform_kitchens",
+      "text": "Pinterest",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    },
+    {
+      "href": "https://www.linkedin.com/company/seaformkitchens/about/",
+      "text": "Linkedin",
+      "count": 1,
+      "internal": false,
+      "kind": "external"
+    }
+  ],
+  "assets": [],
+  "contact": []
+}

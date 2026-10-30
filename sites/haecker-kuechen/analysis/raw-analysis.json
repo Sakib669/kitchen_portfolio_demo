@@ -1,0 +1,6350 @@
+{
+  "site": "haecker-kuechen",
+  "pages": [
+    {
+      "page": "Home",
+      "url": "https://www.haecker-kuechen.com/en/",
+      "title": "Unique Kitchens by Häcker—Get Inspired Now.",
+      "h1": [
+        "Häcker Kitchens – Custom Designs for Your Home"
+      ],
+      "sections": [
+        {
+          "type": "hero",
+          "top": 90,
+          "height": 700,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "split: ",
+          "images": 10,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 844,
+          "height": 429,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Häcker Kitchens – Custom Designs for Your Home",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1381,
+          "height": 1171,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: A Kitchen Designed Just for You",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2661,
+          "height": 914,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: In our kitchens, people come first",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3777,
+          "height": 1271,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: A Career at Häcker Küchen",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5197,
+          "height": 407,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Do you dream of a colorful kitchen?",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 5766,
+          "height": 555,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 2,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 6483,
+          "height": 778,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: The Kitchen Magazine: Keeping Pace with the Times and Staying Ahead of Them",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7368,
+          "height": 353,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Your Kitchen—Your Choice",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 7829,
+          "height": 365,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8302,
+          "height": 993,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Häcker Kitchens – Certified Quality",
+          "images": 9,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "footer",
+          "top": 9348,
+          "height": 884,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Häcker Kitchens – Custom Designs for Your Home",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "A Kitchen Designed Just for You",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "In our kitchens, people come first",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "A Career at Häcker Küchen",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Quality starts with manufacturing",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Do you dream of a colorful kitchen?",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "concept130",
+      "url": "https://www.haecker-kuechen.com/en/concept130",
+      "title": "concept130 ⏐ Innovative Designs & Vielfalt von Häcker",
+      "h1": [
+        "concept130: Your kitchen that keeps pace with life"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 437,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: concept130: Your kitchen that keeps pace with life",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1443,
+          "height": 1402,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: What Your concept130 Kitchen Should Be Able to Do",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3007,
+          "height": 1266,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Just Show More Personality",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4435,
+          "height": 1153,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: The Right Working Height for Your Back",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 5696,
+          "height": 667,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Colors and Finishes",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6525,
+          "height": 1114,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Simply Spend More Time at Home",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7747,
+          "height": 514,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Experience the concept130 at a specialty retailer",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 8433,
+          "height": 1607,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 18,
+          "videos": 0,
+          "childCount": 18
+        },
+        {
+          "type": "footer",
+          "top": 10202,
+          "height": 473,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Find a dealer near you now!",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 10729,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "concept130: Your kitchen that keeps pace with life",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "What Your concept130 Kitchen Should Be Able to Do",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Just Show More Personality",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "The Right Working Height for Your Back",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Colors and Finishes",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Simply Spend More Time at Home",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Collection Detail",
+      "url": "https://www.haecker-kuechen.com/en/concept130/perfect-soft-black",
+      "title": "Mysterious and sophisticated: PERFECT SOFT Black",
+      "h1": [
+        "Mysterious and elegant: concept130 PERFECT SOFT Black"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 90,
+          "height": 700,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 0
+        },
+        {
+          "type": "section",
+          "top": 844,
+          "height": 429,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Mysterious and elegant: concept130 PERFECT SOFT Black",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1381,
+          "height": 969,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Showtime for black",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2459,
+          "height": 958,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Easy care and black are not opposites",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 3524,
+          "height": 530,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4162,
+          "height": 515,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: The kitchen block as a control centre",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 4785,
+          "height": 650,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Nothing to hide: stylish storage with MOVE and One",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 5543,
+          "height": 166,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Find a dealer near you now!",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 5764,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Mysterious and elegant: concept130 PERFECT SOFT Black",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Showtime for black",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Easy care and black are not opposites",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Kitchen unit as if cast from a single mould",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "The kitchen block as a control centre",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Nothing to hide: stylish storage with MOVE and One",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Kitchen Furniture",
+      "url": "https://www.haecker-kuechen.com/en/kitchen-furniture",
+      "title": "Kitchen furniture from Häcker: stylish and individual",
+      "h1": [
+        "Kitchen furniture for your home — modern design meets quality"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 266,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Kitchen furniture for your home — modern design meets quality",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1164,
+          "height": 1399,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "54px 54px",
+          "heading": "h2: Make open-plan kitchen concepts a reality with Häcker",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2563,
+          "height": 600,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 3217,
+          "height": 226,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Miraculous storage space and design elements: fitting your kitchen with cupboards",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 3551,
+          "height": 1157,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Practical larder units",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4925,
+          "height": 1234,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Welcome home: cloakrooms",
+          "images": 3,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6281,
+          "height": 340,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h4: Plan now, get advice, and buy kitchen furniture: on site at one of our dealers! Find a local dealer",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6742,
+          "height": 1700,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: More than just kitchen furniture: walk-in wardrobe design",
+          "images": 5,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8550,
+          "height": 330,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Display units for brilliant showcasing",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8988,
+          "height": 961,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Matching the kitchen furnishings: utility rooms",
+          "images": 3,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 10058,
+          "height": 352,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Buy kitchen furniture: we are here to help!",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "footer",
+          "top": 10436,
+          "height": 473,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h4: Ready to furnish your kitchen?",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 10963,
+          "height": 884,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Kitchen furniture for your home — modern design meets quality",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Make open-plan kitchen concepts a reality with Häcker",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Miraculous storage space and design elements: fitting your kitchen with cupboards",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Welcome home: cloakrooms",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "More than just kitchen furniture: walk-in wardrobe design",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Display units for brilliant showcasing",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Magazine",
+      "url": "https://www.haecker-kuechen.com/en/kitchen-magazine",
+      "title": "Kitchen Magazine",
+      "h1": [
+        "Kitchen Magazine: Your Guide to All Things Kitchen",
+        "All articles"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 256,
+          "height": 639,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Kitchen Magazine: Your Guide to All Things Kitchen",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1003,
+          "height": 3702,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Smart Storage Room Planning: A Systematic Storage Solution",
+          "images": 3,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 4758,
+          "height": 4094,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "54px 54px",
+          "heading": "h1: All articles",
+          "images": 8,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 8943,
+          "height": 243,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 9416,
+          "height": 75,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 9641,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Kitchen Magazine: Your Guide to All Things Kitchen",
+          "size": 90,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Visit us on our Social Networks",
+          "size": 45,
+          "weight": "400",
+          "family": "ACaslonPro"
+        },
+        {
+          "text": "All articles",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Smart Storage Room Planning: A Systematic Storage Solution",
+          "size": 32,
+          "weight": "400",
+          "family": "ACaslonPro"
+        },
+        {
+          "text": "Kitchen Trends for 2027: New Colors, Materials, and Cabinet Doors from Häcker",
+          "size": 32,
+          "weight": "400",
+          "family": "ACaslonPro"
+        },
+        {
+          "text": "Minimalist Kitchen: More Space, More Serenity, More Style",
+          "size": 32,
+          "weight": "400",
+          "family": "ACaslonPro"
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Manufacturer",
+      "url": "https://www.haecker-kuechen.com/en/kitchen-manufacturer",
+      "title": "Kitchen manufacturer with tradition - 125 years of Häcker",
+      "h1": [
+        "Häcker - a company with tradition and a vision for the future"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 140,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Häcker - a company with tradition and a vision for the future",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1092,
+          "height": 1139,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our history",
+          "images": 2,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 2339,
+          "height": 460,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "display: play video",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 2962,
+          "height": 739,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our philosophy",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3862,
+          "height": 352,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our Vision",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 4430,
+          "height": 523,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our mission",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5115,
+          "height": 460,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 5819,
+          "height": 271,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our values",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 6198,
+          "height": 365,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: 1. Reliable,",
+          "images": 3,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 6780,
+          "height": 861,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Numbers, data, facts",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7911,
+          "height": 406,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Awards and certificates",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "footer",
+          "top": 8398,
+          "height": 525,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 11,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "footer",
+          "top": 9112,
+          "height": 156,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Discover your dream kitchen!",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "footer",
+          "top": 9322,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Häcker - a company with tradition and a vision for the future",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our history",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our philosophy",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our Vision",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our mission",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our values",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Kitchen Planner",
+      "url": "https://www.haecker-kuechen.com/en/kitchen-planner",
+      "title": "The kitchen planner - plan your kitchen quickly & easily",
+      "h1": [
+        "Online kitchen planner – plan your kitchen in 3D from the comfort of your own home"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 144,
+          "height": 518,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Online kitchen planner – plan your kitchen in 3D from the comfort of your own home",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 770,
+          "height": 379,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Step by step to your own kitchen design",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1256,
+          "height": 523,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1887,
+          "height": 567,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 2562,
+          "height": 667,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: You can benefit from this with Häcker's kitchen planner.",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3284,
+          "height": 164,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 3
+        },
+        {
+          "type": "section",
+          "top": 3570,
+          "height": 406,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Questions about individual kitchen planning",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 4056,
+          "height": 308,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "footer",
+          "top": 4419,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Online kitchen planner – plan your kitchen in 3D from the comfort of your own home",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Step by step to your own kitchen design",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "You can benefit from this with Häcker's kitchen planner.",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Questions about individual kitchen planning",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Kitchen Styles",
+      "url": "https://www.haecker-kuechen.com/en/kitchen-styles",
+      "title": "Discover and be inspired by a variety of kitchen styles",
+      "h1": [
+        "Kitchen styles at Häcker: your perfect match!"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 402,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Kitchen styles at Häcker: your perfect match!",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1408,
+          "height": 968,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our all-rounder systemat",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2539,
+          "height": 991,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: The smart kitchen solution: concept130",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3638,
+          "height": 987,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Kitchens of unlimited functionality: Häcker technology",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4733,
+          "height": 1011,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Comfort meets minimalism",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5906,
+          "height": 979,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Trendy colours for your Häcker kitchen design",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7047,
+          "height": 813,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Accessories for your kitchen style at Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8022,
+          "height": 794,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: About Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8978,
+          "height": 651,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Kitchen styles: timeless inspirations from Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9737,
+          "height": 979,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Häcker kitchen designs for personal living spaces",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 10878,
+          "height": 551,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Technical finesse from Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 11591,
+          "height": 365,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Find kitchen styles for your home now",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 12010,
+          "height": 884,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Kitchen styles at Häcker: your perfect match!",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our all-rounder systemat",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "The smart kitchen solution: concept130",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Kitchens of unlimited functionality: Häcker technology",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Comfort meets minimalism",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Trendy colours for your Häcker kitchen design",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Kitchen Ideas",
+      "url": "https://www.haecker-kuechen.com/en/kitchenideas",
+      "title": "Discover and be inspired by a variety of kitchen styles",
+      "h1": [
+        "Kitchen styles at Häcker: your perfect match!"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 402,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Kitchen styles at Häcker: your perfect match!",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1408,
+          "height": 968,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Our all-rounder systemat",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 2539,
+          "height": 991,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: The smart kitchen solution: concept130",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3638,
+          "height": 987,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Kitchens of unlimited functionality: Häcker technology",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4733,
+          "height": 1011,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Comfort meets minimalism",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5906,
+          "height": 979,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Trendy colours for your Häcker kitchen design",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7047,
+          "height": 813,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Accessories for your kitchen style at Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8022,
+          "height": 794,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: About Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8978,
+          "height": 651,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Kitchen styles: timeless inspirations from Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9737,
+          "height": 979,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Häcker kitchen designs for personal living spaces",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 10878,
+          "height": 551,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Technical finesse from Häcker",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 11591,
+          "height": 365,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Find kitchen styles for your home now",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 12010,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Kitchen styles at Häcker: your perfect match!",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Our all-rounder systemat",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "The smart kitchen solution: concept130",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Kitchens of unlimited functionality: Häcker technology",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Comfort meets minimalism",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Trendy colours for your Häcker kitchen design",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Projects",
+      "url": "https://www.haecker-kuechen.com/en/projects",
+      "title": "Project Business with Häcker Küchen – International Construction Projects",
+      "h1": [
+        "Project-Based Business with Häcker Küchen – Your Partner for Kitchens of Any Size"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 311,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: Project-Based Business with Häcker Küchen – Your Partner for Kitchens of Any Size",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1263,
+          "height": 1009,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Why Choose Häcker for Your Construction Project?",
+          "images": 6,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 2380,
+          "height": 1081,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Kitchen Project Planning: The Collaboration Process",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3569,
+          "height": 1398,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Kitchens for Large-Scale International Projects",
+          "images": 65,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 5074,
+          "height": 433,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Product Lines & Design Variety – Ideal for Your Construction Projects",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 5616,
+          "height": 404,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: concept130: Well-designed and flexible",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 6128,
+          "height": 365,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6600,
+          "height": 350,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: systemat: Premium Kitchens with Design Freedom",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 7058,
+          "height": 365,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 7531,
+          "height": 716,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: High-quality technology from Blaupunkt",
+          "images": 2,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 8355,
+          "height": 589,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: In-House Exhibition",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 9052,
+          "height": 749,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Certified Quality for Your Construction Project",
+          "images": 11,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 9910,
+          "height": 343,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Frequently Asked Questions About Project Business",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 10361,
+          "height": 1529,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: We are your partner for kitchens in large-scale projects",
+          "images": 2,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "footer",
+          "top": 11944,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "Project-Based Business with Häcker Küchen – Your Partner for Kitchens of Any Size",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Why Choose Häcker for Your Construction Project?",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Kitchen Project Planning: The Collaboration Process",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Kitchens for Large-Scale International Projects",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Product Lines & Design Variety – Ideal for Your Construction Projects",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Certified Quality for Your Construction Project",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    },
+    {
+      "page": "Systemat",
+      "url": "https://www.haecker-kuechen.com/en/systemat-von-haecker-premiumkuechen-mit-charakter",
+      "title": "Finden Sie Ihre Traumküche in der Häcker Produktlinie systemat",
+      "h1": [
+        "systemat by Häcker: Where Quality Is at Home"
+      ],
+      "sections": [
+        {
+          "type": "section",
+          "top": 844,
+          "height": 347,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h1: systemat by Häcker: Where Quality Is at Home",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 1353,
+          "height": 2081,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Simply More Individuality",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 3609,
+          "height": 824,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Color that's spot on",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 4609,
+          "height": 1178,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Dimensions and heights that blend into the space",
+          "images": 2,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 5949,
+          "height": 685,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Simply providing more clarity",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 6741,
+          "height": 672,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Open-concept living, clearly organized",
+          "images": 1,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 7522,
+          "height": 1046,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: What you see when you open it: pull-outs, cabinet bodies, and glass-fronted cabinets",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "section",
+          "top": 8730,
+          "height": 343,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h2: Experience systemat at a specialty retailer",
+          "images": 0,
+          "videos": 0,
+          "childCount": 1
+        },
+        {
+          "type": "section",
+          "top": 9244,
+          "height": 1853,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "",
+          "images": 21,
+          "videos": 0,
+          "childCount": 21
+        },
+        {
+          "type": "footer",
+          "top": 11260,
+          "height": 327,
+          "bg": "rgba(0, 0, 0, 0)",
+          "bgImage": false,
+          "padding": "0px 0px",
+          "heading": "h3: Discover systemat now",
+          "images": 1,
+          "videos": 0,
+          "childCount": 2
+        },
+        {
+          "type": "footer",
+          "top": 11641,
+          "height": 885,
+          "bg": "rgb(0, 0, 0)",
+          "bgImage": false,
+          "padding": "36px 0px",
+          "heading": "",
+          "images": 4,
+          "videos": 0,
+          "childCount": 2
+        }
+      ],
+      "displayHeads": [
+        {
+          "text": "systemat by Häcker: Where Quality Is at Home",
+          "size": 36,
+          "weight": "500",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Simply More Individuality",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Color that's spot on",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Dimensions and heights that blend into the space",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "Simply providing more clarity",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        },
+        {
+          "text": "What you see when you open it: pull-outs, cabinet bodies, and glass-fronted cabinets",
+          "size": 30.6,
+          "weight": "600",
+          "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\""
+        }
+      ],
+      "framework": [
+        "TYPO3"
+      ],
+      "overlays": []
+    }
+  ],
+  "palette": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 100
+      },
+      "name": "white",
+      "bgArea": 341524343,
+      "textChars": 3098,
+      "cssDecls": 3069,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "concept130",
+        "Collection Detail",
+        "Kitchen Furniture",
+        "Magazine",
+        "Manufacturer",
+        "Kitchen Planner",
+        "Kitchen Styles"
+      ],
+      "samples": [
+        "body.mm-wrapper header-pinned",
+        "div.mm-page mm-slideout",
+        "Skip to content"
+      ],
+      "tags": [
+        "div",
+        "body",
+        "header",
+        "input"
+      ],
+      "importance": 369331223
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+      },
+      "name": "black",
+      "bgArea": 15245687,
+      "textChars": 49872,
+      "cssDecls": 3146,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "concept130",
+        "Collection Detail",
+        "Kitchen Furniture",
+        "Magazine",
+        "Manufacturer",
+        "Kitchen Planner",
+        "Kitchen Styles"
+      ],
+      "samples": [
+        "a.skip-link",
+        "span.swiper-pagination-bullet swiper-pagination-bullet-active",
+        "Inspiration"
+      ],
+      "tags": [
+        "a",
+        "footer",
+        "span",
+        "div"
+      ],
+      "importance": 46552007
+    },
+    {
+      "hex": "#f7f7f7",
+      "rgb": [
+        247,
+        247,
+        247
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 97
+      },
+      "name": "mist",
+      "bgArea": 36128465,
+      "textChars": 0,
+      "cssDecls": 154,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "concept130",
+        "Collection Detail",
+        "Kitchen Furniture",
+        "Magazine",
+        "Manufacturer",
+        "Kitchen Planner",
+        "Kitchen Styles"
+      ],
+      "samples": [
+        "div.bg-container bg-c bg-c-lightgrey"
+      ],
+      "tags": [
+        "div",
+        "article"
+      ],
+      "importance": 37514465
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 13
+      },
+      "name": "ink",
+      "bgArea": 3040920,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 2,
+      "pages": [
+        "Kitchen Furniture",
+        "Projects"
+      ],
+      "samples": [
+        "div.bg-container bg-c bg-c-darkgrey"
+      ],
+      "tags": [
+        "div"
+      ],
+      "importance": 3634920
+    },
+    {
+      "hex": "#28a745",
+      "rgb": [
+        40,
+        167,
+        69
+      ],
+      "hsl": {
+        "h": 134,
+        "s": 61,
+        "l": 41
+      },
+      "name": "green",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 319,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 2871000
+    },
+    {
+      "hex": "#dc3545",
+      "rgb": [
+        220,
+        53,
+        69
+      ],
+      "hsl": {
+        "h": 354,
+        "s": 70,
+        "l": 54
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 319,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 2871000
+    },
+    {
+      "hex": "#6c757d",
+      "rgb": [
+        108,
+        117,
+        125
+      ],
+      "hsl": {
+        "h": 208,
+        "s": 7,
+        "l": 46
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 308,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 2772000
+    },
+    {
+      "hex": "#212529",
+      "rgb": [
+        33,
+        37,
+        41
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 11,
+        "l": 15
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 231,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 2079000
+    },
+    {
+      "hex": "#dee2e6",
+      "rgb": [
+        222,
+        226,
+        230
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 14,
+        "l": 89
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 187,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1683000
+    },
+    {
+      "hex": "#343a40",
+      "rgb": [
+        52,
+        58,
+        64
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 10,
+        "l": 23
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 165,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1485000
+    },
+    {
+      "hex": "#f8f9fa",
+      "rgb": [
+        248,
+        249,
+        250
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 17,
+        "l": 98
+      },
+      "name": "white",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 165,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1485000
+    },
+    {
+      "hex": "#cccccc",
+      "rgb": [
+        204,
+        204,
+        204
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 80
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 165,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1485000
+    },
+    {
+      "hex": "#17a2b8",
+      "rgb": [
+        23,
+        162,
+        184
+      ],
+      "hsl": {
+        "h": 188,
+        "s": 78,
+        "l": 41
+      },
+      "name": "teal",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 143,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1287000
+    },
+    {
+      "hex": "#ffc107",
+      "rgb": [
+        255,
+        193,
+        7
+      ],
+      "hsl": {
+        "h": 45,
+        "s": 100,
+        "l": 51
+      },
+      "name": "amber",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 143,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1287000
+    },
+    {
+      "hex": "#d4b039",
+      "rgb": [
+        212,
+        176,
+        57
+      ],
+      "hsl": {
+        "h": 46,
+        "s": 64,
+        "l": 53
+      },
+      "name": "amber",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 143,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1287000
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 20
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 143,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1287000
+    },
+    {
+      "hex": "#ff4141",
+      "rgb": [
+        255,
+        65,
+        65
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 63
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 143,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 1287000
+    },
+    {
+      "hex": "#ced4da",
+      "rgb": [
+        206,
+        212,
+        218
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 14,
+        "l": 83
+      },
+      "name": "grey",
+      "bgArea": 400,
+      "textChars": 0,
+      "cssDecls": 121,
+      "pagesCount": 1,
+      "pages": [
+        "Projects"
+      ],
+      "samples": [
+        "span.checkmark"
+      ],
+      "tags": [
+        "span"
+      ],
+      "importance": 1089400
+    },
+    {
+      "hex": "#f8f8f8",
+      "rgb": [
+        248,
+        248,
+        248
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 97
+      },
+      "name": "mist",
+      "bgArea": 398520,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 2,
+      "pages": [
+        "Kitchen Planner",
+        "Projects"
+      ],
+      "samples": [
+        "div.accordion-header"
+      ],
+      "tags": [
+        "div"
+      ],
+      "importance": 992520
+    },
+    {
+      "hex": "#e9ecef",
+      "rgb": [
+        233,
+        236,
+        239
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 16,
+        "l": 93
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 99,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 891000
+    },
+    {
+      "hex": "#888888",
+      "rgb": [
+        136,
+        136,
+        136
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 53
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 88,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 792000
+    },
+    {
+      "hex": "#a2a2a2",
+      "rgb": [
+        162,
+        162,
+        162
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 64
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 6413,
+      "cssDecls": 44,
+      "pagesCount": 11,
+      "pages": [
+        "Home",
+        "concept130",
+        "Collection Detail",
+        "Kitchen Furniture",
+        "Magazine",
+        "Manufacturer",
+        "Kitchen Planner",
+        "Kitchen Styles"
+      ],
+      "samples": [
+        "concept130"
+      ],
+      "tags": [],
+      "importance": 780780
+    },
+    {
+      "hex": "#495057",
+      "rgb": [
+        73,
+        80,
+        87
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 9,
+        "l": 31
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 77,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 693000
+    },
+    {
+      "hex": "#7a7a7a",
+      "rgb": [
+        122,
+        122,
+        122
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 48
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 115,
+      "cssDecls": 66,
+      "pagesCount": 1,
+      "pages": [
+        "Projects"
+      ],
+      "samples": [
+        "Please enter the text from the image in the field below. Ple"
+      ],
+      "tags": [],
+      "importance": 600900
+    },
+    {
+      "hex": "#b8b8b8",
+      "rgb": [
+        184,
+        184,
+        184
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 72
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#ababab",
+      "rgb": [
+        171,
+        171,
+        171
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 67
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#f2f2f2",
+      "rgb": [
+        242,
+        242,
+        242
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 95
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#404040",
+      "rgb": [
+        64,
+        64,
+        64
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 25
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 87
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#5897fb",
+      "rgb": [
+        88,
+        151,
+        251
+      ],
+      "hsl": {
+        "h": 217,
+        "s": 95,
+        "l": 66
+      },
+      "name": "blue",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#353e44",
+      "rgb": [
+        53,
+        62,
+        68
+      ],
+      "hsl": {
+        "h": 204,
+        "s": 12,
+        "l": 24
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 66,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 594000
+    },
+    {
+      "hex": "#383d41",
+      "rgb": [
+        56,
+        61,
+        65
+      ],
+      "hsl": {
+        "h": 207,
+        "s": 7,
+        "l": 24
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#155724",
+      "rgb": [
+        21,
+        87,
+        36
+      ],
+      "hsl": {
+        "h": 134,
+        "s": 61,
+        "l": 21
+      },
+      "name": "green-dark",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#0c5460",
+      "rgb": [
+        12,
+        84,
+        96
+      ],
+      "hsl": {
+        "h": 189,
+        "s": 78,
+        "l": 21
+      },
+      "name": "teal-dark",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#856404",
+      "rgb": [
+        133,
+        100,
+        4
+      ],
+      "hsl": {
+        "h": 45,
+        "s": 94,
+        "l": 27
+      },
+      "name": "amber",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#721c24",
+      "rgb": [
+        114,
+        28,
+        36
+      ],
+      "hsl": {
+        "h": 354,
+        "s": 61,
+        "l": 28
+      },
+      "name": "red",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#818182",
+      "rgb": [
+        129,
+        129,
+        130
+      ],
+      "hsl": {
+        "h": 240,
+        "s": 0,
+        "l": 51
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#1b1e21",
+      "rgb": [
+        27,
+        30,
+        33
+      ],
+      "hsl": {
+        "h": 210,
+        "s": 10,
+        "l": 12
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#858585",
+      "rgb": [
+        133,
+        133,
+        133
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 52
+      },
+      "name": "slate",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 93
+      },
+      "name": "mist",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#88928c",
+      "rgb": [
+        136,
+        146,
+        140
+      ],
+      "hsl": {
+        "h": 144,
+        "s": 4,
+        "l": 55
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#aaaaaa",
+      "rgb": [
+        170,
+        170,
+        170
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 67
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 55,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 495000
+    },
+    {
+      "hex": "#262626",
+      "rgb": [
+        38,
+        38,
+        38
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 15
+      },
+      "name": "ink",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 60
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#b6b6b6",
+      "rgb": [
+        182,
+        182,
+        182
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 71
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 44,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 396000
+    },
+    {
+      "hex": "#d6d8db",
+      "rgb": [
+        214,
+        216,
+        219
+      ],
+      "hsl": {
+        "h": 216,
+        "s": 6,
+        "l": 85
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#c8cbcf",
+      "rgb": [
+        200,
+        203,
+        207
+      ],
+      "hsl": {
+        "h": 214,
+        "s": 7,
+        "l": 80
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#c3e6cb",
+      "rgb": [
+        195,
+        230,
+        203
+      ],
+      "hsl": {
+        "h": 134,
+        "s": 41,
+        "l": 83
+      },
+      "name": "green-light",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#b1dfbb",
+      "rgb": [
+        177,
+        223,
+        187
+      ],
+      "hsl": {
+        "h": 133,
+        "s": 42,
+        "l": 78
+      },
+      "name": "green",
+      "bgArea": 0,
+      "textChars": 0,
+      "cssDecls": 33,
+      "pagesCount": 0,
+      "pages": [],
+      "samples": [],
+      "tags": [],
+      "importance": 297000
+    },
+    {
+      "hex": "#969696",
+      "rgb": [
+        150,
+        150,
+        150
+      ],
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 59
+      },
+      "name": "grey",
+      "bgArea": 0,
+      "textChars": 1389,
+      "cssDecls": 0,
+      "pagesCount": 2,
+      "pages": [
+        "concept130",
+        "Systemat"
+      ],
+      "samples": [
+        "GOYA Gentian Blue | TESSIN-GL Natural Walnut",
+        "AV 7030 Black Star | AV 5015 Carbon Metallic"
+      ],
+      "tags": [],
+      "importance": 83340
+    }
+  ],
+  "roles": {
+    "brand": [],
+    "neutrals": [
+      {
+        "hex": "#000000",
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "name": "black",
+        "bgArea": 15245687,
+        "textChars": 49872,
+        "cssDecls": 3146,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "concept130",
+          "Collection Detail",
+          "Kitchen Furniture",
+          "Magazine",
+          "Manufacturer",
+          "Kitchen Planner",
+          "Kitchen Styles"
+        ],
+        "samples": [
+          "a.skip-link",
+          "span.swiper-pagination-bullet swiper-pagination-bullet-active",
+          "Inspiration"
+        ],
+        "tags": [
+          "a",
+          "footer",
+          "span",
+          "div"
+        ],
+        "importance": 46552007
+      },
+      {
+        "hex": "#222222",
+        "rgb": [
+          34,
+          34,
+          34
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 13
+        },
+        "name": "ink",
+        "bgArea": 3040920,
+        "textChars": 0,
+        "cssDecls": 66,
+        "pagesCount": 2,
+        "pages": [
+          "Kitchen Furniture",
+          "Projects"
+        ],
+        "samples": [
+          "div.bg-container bg-c bg-c-darkgrey"
+        ],
+        "tags": [
+          "div"
+        ],
+        "importance": 3634920
+      },
+      {
+        "hex": "#7a7a7a",
+        "rgb": [
+          122,
+          122,
+          122
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 48
+        },
+        "name": "slate",
+        "bgArea": 0,
+        "textChars": 115,
+        "cssDecls": 66,
+        "pagesCount": 1,
+        "pages": [
+          "Projects"
+        ],
+        "samples": [
+          "Please enter the text from the image in the field below. Ple"
+        ],
+        "tags": [],
+        "importance": 600900
+      },
+      {
+        "hex": "#969696",
+        "rgb": [
+          150,
+          150,
+          150
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 59
+        },
+        "name": "grey",
+        "bgArea": 0,
+        "textChars": 1389,
+        "cssDecls": 0,
+        "pagesCount": 2,
+        "pages": [
+          "concept130",
+          "Systemat"
+        ],
+        "samples": [
+          "GOYA Gentian Blue | TESSIN-GL Natural Walnut",
+          "AV 7030 Black Star | AV 5015 Carbon Metallic"
+        ],
+        "tags": [],
+        "importance": 83340
+      },
+      {
+        "hex": "#f7f7f7",
+        "rgb": [
+          247,
+          247,
+          247
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 97
+        },
+        "name": "mist",
+        "bgArea": 36128465,
+        "textChars": 0,
+        "cssDecls": 154,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "concept130",
+          "Collection Detail",
+          "Kitchen Furniture",
+          "Magazine",
+          "Manufacturer",
+          "Kitchen Planner",
+          "Kitchen Styles"
+        ],
+        "samples": [
+          "div.bg-container bg-c bg-c-lightgrey"
+        ],
+        "tags": [
+          "div",
+          "article"
+        ],
+        "importance": 37514465
+      },
+      {
+        "hex": "#ffffff",
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 100
+        },
+        "name": "white",
+        "bgArea": 341524343,
+        "textChars": 3098,
+        "cssDecls": 3069,
+        "pagesCount": 11,
+        "pages": [
+          "Home",
+          "concept130",
+          "Collection Detail",
+          "Kitchen Furniture",
+          "Magazine",
+          "Manufacturer",
+          "Kitchen Planner",
+          "Kitchen Styles"
+        ],
+        "samples": [
+          "body.mm-wrapper header-pinned",
+          "div.mm-page mm-slideout",
+          "Skip to content"
+        ],
+        "tags": [
+          "div",
+          "body",
+          "header",
+          "input"
+        ],
+        "importance": 369331223
+      }
+    ],
+    "tinted": [],
+    "utility": [
+      {
+        "hex": "#28a745",
+        "rgb": [
+          40,
+          167,
+          69
+        ],
+        "hsl": {
+          "h": 134,
+          "s": 61,
+          "l": 41
+        },
+        "name": "green",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 319,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 2871000
+      },
+      {
+        "hex": "#dc3545",
+        "rgb": [
+          220,
+          53,
+          69
+        ],
+        "hsl": {
+          "h": 354,
+          "s": 70,
+          "l": 54
+        },
+        "name": "red",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 319,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 2871000
+      },
+      {
+        "hex": "#6c757d",
+        "rgb": [
+          108,
+          117,
+          125
+        ],
+        "hsl": {
+          "h": 208,
+          "s": 7,
+          "l": 46
+        },
+        "name": "slate",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 308,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 2772000
+      },
+      {
+        "hex": "#212529",
+        "rgb": [
+          33,
+          37,
+          41
+        ],
+        "hsl": {
+          "h": 210,
+          "s": 11,
+          "l": 15
+        },
+        "name": "ink",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 231,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 2079000
+      },
+      {
+        "hex": "#dee2e6",
+        "rgb": [
+          222,
+          226,
+          230
+        ],
+        "hsl": {
+          "h": 210,
+          "s": 14,
+          "l": 89
+        },
+        "name": "mist",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 187,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1683000
+      },
+      {
+        "hex": "#343a40",
+        "rgb": [
+          52,
+          58,
+          64
+        ],
+        "hsl": {
+          "h": 210,
+          "s": 10,
+          "l": 23
+        },
+        "name": "ink",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 165,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1485000
+      },
+      {
+        "hex": "#f8f9fa",
+        "rgb": [
+          248,
+          249,
+          250
+        ],
+        "hsl": {
+          "h": 210,
+          "s": 17,
+          "l": 98
+        },
+        "name": "white",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 165,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1485000
+      },
+      {
+        "hex": "#cccccc",
+        "rgb": [
+          204,
+          204,
+          204
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 80
+        },
+        "name": "grey",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 165,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1485000
+      },
+      {
+        "hex": "#17a2b8",
+        "rgb": [
+          23,
+          162,
+          184
+        ],
+        "hsl": {
+          "h": 188,
+          "s": 78,
+          "l": 41
+        },
+        "name": "teal",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 143,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1287000
+      },
+      {
+        "hex": "#ffc107",
+        "rgb": [
+          255,
+          193,
+          7
+        ],
+        "hsl": {
+          "h": 45,
+          "s": 100,
+          "l": 51
+        },
+        "name": "amber",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 143,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1287000
+      },
+      {
+        "hex": "#d4b039",
+        "rgb": [
+          212,
+          176,
+          57
+        ],
+        "hsl": {
+          "h": 46,
+          "s": 64,
+          "l": 53
+        },
+        "name": "amber",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 143,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1287000
+      },
+      {
+        "hex": "#333333",
+        "rgb": [
+          51,
+          51,
+          51
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 20
+        },
+        "name": "ink",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 143,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1287000
+      },
+      {
+        "hex": "#ff4141",
+        "rgb": [
+          255,
+          65,
+          65
+        ],
+        "hsl": {
+          "h": 0,
+          "s": 100,
+          "l": 63
+        },
+        "name": "red",
+        "bgArea": 0,
+        "textChars": 0,
+        "cssDecls": 143,
+        "pagesCount": 0,
+        "pages": [],
+        "samples": [],
+        "tags": [],
+        "importance": 1287000
+      },
+      {
+        "hex": "#ced4da",
+        "rgb": [
+          206,
+          212,
+          218
+        ],
+        "hsl": {
+          "h": 210,
+          "s": 14,
+          "l": 83
+        },
+        "name": "grey",
+        "bgArea": 400,
+        "textChars": 0,
+        "cssDecls": 121,
+        "pagesCount": 1,
+        "pages": [
+          "Projects"
+        ],
+        "samples": [
+          "span.checkmark"
+        ],
+        "tags": [
+          "span"
+        ],
+        "importance": 1089400
+      }
+    ],
+    "defined": [
+      {
+        "var": "--primary",
+        "hex": "#000000",
+        "name": "black",
+        "used": true,
+        "painter": {
+          "bgArea": 15245687,
+          "textChars": 49872
+        }
+      }
+    ]
+  },
+  "roleVars": [
+    {
+      "var": "--pink",
+      "value": "#e83e8c",
+      "scope": "@charset \"UTF-8\";\n\n:root"
+    },
+    {
+      "var": "--primary",
+      "value": "#000000",
+      "scope": "@charset \"UTF-8\";\n\n:root"
+    },
+    {
+      "var": "--fa-style-family-brands",
+      "value": "\"Font Awesome 6 Brands\"",
+      "scope": ":host,:root"
+    },
+    {
+      "var": "--fa-font-brands",
+      "value": "normal 400 1em/1 \"Font Awesome 6 Brands\"",
+      "scope": ":host,:root"
+    },
+    {
+      "var": "--mm-lineheight",
+      "value": "22px",
+      "scope": ":root"
+    },
+    {
+      "var": "--mm-color-background",
+      "value": "#333333",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-border",
+      "value": "#000000",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-icon",
+      "value": "hsla(0,0%,100%,.5)",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-text",
+      "value": "#000000",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-text-dimmed",
+      "value": "#ffffff",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-background-highlight",
+      "value": "none",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-background-emphasis",
+      "value": "#000000",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--mm-color-focusring",
+      "value": "#0066cc",
+      "scope": ".mm-menu--theme-black"
+    },
+    {
+      "var": "--list-circle-text-offset",
+      "value": "0px",
+      "scope": ".scroll-nav.type-body-sidebar-scroll-nav"
+    },
+    {
+      "var": "--swiper-theme-color",
+      "value": "#007aff",
+      "scope": ":root"
+    },
+    {
+      "var": "--plyr-color-main",
+      "value": "#000000",
+      "scope": ".ce-audio-player"
+    },
+    {
+      "var": "--plyr-audio-controls-background",
+      "value": "#000000",
+      "scope": ".ce-audio-player"
+    },
+    {
+      "var": "--plyr-audio-control-color",
+      "value": "#ffffff",
+      "scope": ".ce-audio-player"
+    },
+    {
+      "var": "--plyr-range-fill-background",
+      "value": "#f7f7f7",
+      "scope": ".ce-audio-player"
+    },
+    {
+      "var": "--plyr-focus-visible-color",
+      "value": "#ffffff",
+      "scope": ".ce-audio-player"
+    },
+    {
+      "var": "--sg-cookie-optin-color-text",
+      "value": "#000000",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-text-opacity",
+      "value": "#000000",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-box",
+      "value": "#ffffff",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-banner-color-box",
+      "value": "#dddddd",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-banner-color-text",
+      "value": "#373737",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-banner-color-link-text",
+      "value": "#373737",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-fingerprint-background",
+      "value": "#143d59",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-fingerprint-image",
+      "value": "#ffffff",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-iframe-color-consent-box-background",
+      "value": "#d6d6d6",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-iframe-color-button-load-one-text",
+      "value": "#ffffff",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-iframe-color-button-load-one",
+      "value": "#d4b039",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-iframe-color-button-load-one-hover",
+      "value": "#c7a52c",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-iframe-color-open-settings",
+      "value": "#373737",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-confirmation-text",
+      "value": "#208a20",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-confirmation-background",
+      "value": "#c9ffc9",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-button-close-text",
+      "value": "#373737",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-button-close-hover-text",
+      "value": "#373737",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-button-close",
+      "value": "#ffffff",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-button-close-hover",
+      "value": "#ffffff",
+      "scope": ":root"
+    },
+    {
+      "var": "--sg-cookie-optin-color-headline",
+      "value": "#000000",
+      "scope": ":root"
+    }
+  ],
+  "type": {
+    "families": [
+      {
+        "value": "Nunito Sans",
+        "count": 165
+      },
+      {
+        "value": "ACaslonPro",
+        "count": 121
+      },
+      {
+        "value": "Font Awesome\\ 6 Pro",
+        "count": 99
+      },
+      {
+        "value": "Nunito Sans,Arial,\"sans-serif\",Helvetica Neue",
+        "count": 22
+      },
+      {
+        "value": "inherit",
+        "count": 22
+      },
+      {
+        "value": "Helvetica,Arial,sans-serif",
+        "count": 22
+      },
+      {
+        "value": "Font Awesome 6 Pro",
+        "count": 22
+      },
+      {
+        "value": "sans-serif",
+        "count": 11
+      },
+      {
+        "value": "SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "count": 11
+      },
+      {
+        "value": "SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace!important",
+        "count": 11
+      },
+      {
+        "value": "var(--fa-style-family,\"Font Awesome 6 Pro\")",
+        "count": 11
+      },
+      {
+        "value": "Font Awesome\\ 6 Brands",
+        "count": 11
+      },
+      {
+        "value": "Font Awesome\\ 6 Duotone",
+        "count": 11
+      },
+      {
+        "value": "Font Awesome\\ 6 Sharp",
+        "count": 11
+      }
+    ],
+    "renderedFamilies": [
+      {
+        "value": "Nunito Sans",
+        "count": 1462.53499921875
+      },
+      {
+        "value": "ACaslonPro",
+        "count": 51.91015625
+      }
+    ],
+    "fontFaces": [
+      {
+        "family": "Font Awesome\\ 6 Brands",
+        "weight": "400",
+        "style": "normal",
+        "display": "block",
+        "src": "url(/build/fonts/fa-brands-400.e24fcc1b.woff2) format(\"woff2\"),url(/build/fonts/fa-brands-400.0601cf57.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome\\ 6 Pro",
+        "weight": "900",
+        "style": "normal",
+        "display": "block",
+        "src": "url(/build/fonts/fa-solid-900.2f8c3742.woff2) format(\"woff2\"),url(/build/fonts/fa-solid-900.6fa0a823.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "Font Awesome\\ 6 Pro",
+        "weight": "300",
+        "style": "normal",
+        "display": "block",
+        "src": "url(/build/fonts/fa-light-300.441b5781.woff2) format(\"woff2\"),url(/build/fonts/fa-light-300.2006c9ff.ttf) format(\"truetype\")"
+      },
+      {
+        "family": "ACaslonPro",
+        "weight": "600",
+        "style": "normal",
+        "display": "",
+        "src": "local(\"ACaslonPro-Bold\"),url(/build/fonts/ACaslonPro-Bold.b305e0f0.woff2) format(\"woff2\")"
+      },
+      {
+        "family": "ACaslonPro",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "local(\"ACaslonPro-Regular\"),url(/build/fonts/ACaslonPro-Regular.3319d3e6.woff2) format(\"woff2\")"
+      },
+      {
+        "family": "ACaslonPro",
+        "weight": "400",
+        "style": "italic",
+        "display": "",
+        "src": "local(\"ACaslonPro-Italic\"),url(/build/fonts/ACaslonPro-Italic.cddf3d54.woff2) format(\"woff2\")"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "400",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.be6ce5eb.woff2) format(\"woff2\")"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "600",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.be6ce5eb.woff2) format(\"woff2\")"
+      },
+      {
+        "family": "Nunito Sans",
+        "weight": "800",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(/build/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.be6ce5eb.woff2) format(\"woff2\")"
+      },
+      {
+        "family": "pass",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA8AAAAAB2QAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABWAAAABwAAAAcg9+z70dERUYAAAF0AAAAHAAAAB4AJwANT1MvMgAAAZAAAAA/AAAAYH7AkBhjbWFwAAAB"
+      },
+      {
+        "family": "swiper-icons",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "url(\"data:application/font-woff;charset=utf-8;base64, d09GRgABAAAAAAZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdERUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAA"
+      }
+    ],
+    "scale": [
+      {
+        "size": 90,
+        "weight": "500",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "108px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "h1": 1
+        },
+        "samples": [
+          "Kitchen Magazine: Your Guide to All Things Kitchen"
+        ]
+      },
+      {
+        "size": 45,
+        "weight": "400",
+        "family": "ACaslonPro",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "p": 1
+        },
+        "samples": [
+          "Visit us on our Social Networks"
+        ]
+      },
+      {
+        "size": 36,
+        "weight": "500",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "43.2px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 11,
+        "tags": {
+          "h1": 11
+        },
+        "samples": [
+          "Häcker Kitchens – Custom Designs for Your Home",
+          "concept130: Your kitchen that keeps pace with life",
+          "Mysterious and elegant: concept130 PERFECT SOFT Black",
+          "Kitchen furniture for your home — modern design meets quality"
+        ]
+      },
+      {
+        "size": 32,
+        "weight": "400",
+        "family": "ACaslonPro",
+        "lineHeight": "38.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 11,
+        "tags": {
+          "a": 11
+        },
+        "samples": [
+          "Smart Storage Room Planning: A Systematic Storage Solution"
+        ]
+      },
+      {
+        "size": 30.6,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "36.72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 72,
+        "tags": {
+          "h2": 72
+        },
+        "samples": [
+          "A Kitchen Designed Just for You",
+          "What Your concept130 Kitchen Should Be Able to Do",
+          "Showtime for black",
+          "Make open-plan kitchen concepts a reality with Häcker"
+        ]
+      },
+      {
+        "size": 30.01,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "30.006px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "play video"
+        ],
+        "tags": {
+          "display": 1
+        }
+      },
+      {
+        "size": 25.2,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "30.24px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 30,
+        "tags": {
+          "h3": 30
+        },
+        "samples": [
+          "Find a dealer near you now!",
+          "Find a dealer near you now!",
+          "Sideboards",
+          "1. Reliable,"
+        ]
+      },
+      {
+        "size": 23.4,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "28.08px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 2,
+        "tags": {
+          "h4": 2
+        },
+        "samples": [
+          "Plan now, get advice, and buy kitchen furniture: on site at one of our dealers!",
+          "Ready to furnish your kitchen?"
+        ]
+      },
+      {
+        "size": 18,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "27px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 298,
+        "tags": {
+          "p": 186,
+          "a": 41,
+          "li": 55,
+          "span": 6,
+          "label": 10
+        },
+        "samples": [
+          "We have a mission: We want to bring our customers’ kitchen visions to life world",
+          "Kitchens",
+          "Häcker’s concept130 is designed for kitchens that do more than just cook. This i",
+          "Kitchens"
+        ]
+      },
+      {
+        "size": 18,
+        "weight": "700",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "27px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 22,
+        "tags": {
+          "a": 11,
+          "strong": 11
+        },
+        "samples": [
+          "Skip to content",
+          "Skip to content",
+          "Skip to content",
+          "Skip to content"
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 15,
+        "tags": {
+          "p": 11,
+          "span": 4
+        },
+        "samples": [
+          "A New Approach to Storage Rooms: Ideas for Planning, Shelving, and Organized Sto",
+          "What is a custom kitchen?"
+        ]
+      },
+      {
+        "size": 16,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 11,
+        "tags": {
+          "span": 11
+        },
+        "samples": []
+      },
+      {
+        "size": 16,
+        "weight": "700",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 5,
+        "tags": {
+          "strong": 5
+        },
+        "samples": [
+          "How do I begin planning my kitchen?"
+        ]
+      },
+      {
+        "size": 15.84,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "23.76px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(162, 162, 162)",
+        "count": 352,
+        "tags": {
+          "a": 319,
+          "p": 33
+        },
+        "samples": [
+          "concept130",
+          "concept130",
+          "concept130",
+          "concept130"
+        ]
+      },
+      {
+        "size": 15.75,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "18.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 3,
+        "tags": {
+          "span": 3
+        },
+        "samples": [
+          "Read more"
+        ]
+      },
+      {
+        "size": 15,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "19.4992px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 66,
+        "tags": {
+          "span": 55,
+          "a": 11
+        },
+        "samples": [
+          "Kitchens & more",
+          "Kitchen planner",
+          "Kitchens & more",
+          "Kitchen planner"
+        ]
+      },
+      {
+        "size": 15,
+        "weight": "800",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "19.4992px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 44,
+        "tags": {
+          "span": 44
+        },
+        "samples": [
+          "Inspiration",
+          "Inspiration",
+          "Inspiration",
+          "Inspiration"
+        ]
+      },
+      {
+        "size": 15,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "22.4991px",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "count": 11,
+        "tags": {
+          "span": 11
+        },
+        "samples": [
+          "en",
+          "en",
+          "en",
+          "en"
+        ]
+      },
+      {
+        "size": 14.63,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "21.9375px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 11,
+        "tags": {
+          "span": 11
+        },
+        "samples": [
+          "Organization & Maintenance"
+        ]
+      },
+      {
+        "size": 14.63,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "21.9375px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 11,
+        "tags": {
+          "span": 11
+        },
+        "samples": [
+          "9 min"
+        ]
+      },
+      {
+        "size": 14.4,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "21.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(122, 122, 122)",
+        "count": 4,
+        "tags": {
+          "span": 3,
+          "a": 1
+        },
+        "samples": [
+          "Please enter the text from the image in the field below. Please note that the te",
+          "Yes, I agree and understand the of consent and i accept the use of my data to th"
+        ]
+      },
+      {
+        "size": 14.4,
+        "weight": "500",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "21.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 1,
+        "tags": {
+          "span": 1
+        },
+        "samples": [
+          "Kitchen Magazine"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "700",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "16.8px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "count": 5,
+        "tags": {
+          "a": 5
+        },
+        "samples": [
+          "All"
+        ]
+      },
+      {
+        "size": 14,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "16.8px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 1,
+        "tags": {
+          "a": 1
+        },
+        "samples": [
+          "Load more"
+        ]
+      },
+      {
+        "size": 13.86,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "20.79px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(162, 162, 162)",
+        "count": 77,
+        "tags": {
+          "p": 11,
+          "span": 66
+        },
+        "samples": [
+          "© Häcker Küchen 2026",
+          "© Häcker Küchen 2026",
+          "© Häcker Küchen 2026",
+          "© Häcker Küchen 2026"
+        ]
+      },
+      {
+        "size": 12.6,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "15.12px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(255, 255, 255)",
+        "count": 49,
+        "tags": {
+          "a": 48,
+          "button": 1
+        },
+        "samples": [
+          "Get inspired now",
+          "Get",
+          "Contact us without obligation",
+          "View on site"
+        ]
+      },
+      {
+        "size": 12.6,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "18.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "color": "rgb(150, 150, 150)",
+        "count": 39,
+        "tags": {
+          "span": 39
+        },
+        "samples": [
+          "GOYA Gentian Blue | TESSIN-GL Natural Walnut",
+          "AV 7030 Black Star | AV 5015 Carbon Metallic"
+        ]
+      }
+    ],
+    "display": [
+      {
+        "size": 90,
+        "weight": "500",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "108px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Kitchen Magazine: Your Guide to All Things Kitchen"
+        ]
+      },
+      {
+        "size": 45,
+        "weight": "400",
+        "family": "ACaslonPro",
+        "lineHeight": "50px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Visit us on our Social Networks"
+        ]
+      },
+      {
+        "size": 36,
+        "weight": "500",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "43.2px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 11,
+        "samples": [
+          "Häcker Kitchens – Custom Designs for Your Home",
+          "concept130: Your kitchen that keeps pace with life",
+          "Mysterious and elegant: concept130 PERFECT SOFT Black",
+          "Kitchen furniture for your home — modern design meets quality"
+        ]
+      },
+      {
+        "size": 32,
+        "weight": "400",
+        "family": "ACaslonPro",
+        "lineHeight": "38.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 8,
+        "samples": [
+          "Smart Storage Room Planning: A Systematic Storage Solution",
+          "Kitchen Trends for 2027: New Colors, Materials, and Cabinet Doors from Häcker",
+          "Minimalist Kitchen: More Space, More Serenity, More Style",
+          "Industrial-Style Kitchen"
+        ]
+      },
+      {
+        "size": 30.6,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "36.72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 70,
+        "samples": [
+          "A Kitchen Designed Just for You",
+          "In our kitchens, people come first",
+          "A Career at Häcker Küchen",
+          "Quality starts with manufacturing"
+        ]
+      },
+      {
+        "size": 30.01,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "30.006px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "play video"
+        ]
+      },
+      {
+        "size": 18,
+        "weight": "400",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "lineHeight": "27px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "count": 2,
+        "samples": []
+      }
+    ],
+    "weights": [
+      {
+        "value": "400",
+        "count": 886
+      },
+      {
+        "value": "600",
+        "count": 179
+      },
+      {
+        "value": "800",
+        "count": 44
+      },
+      {
+        "value": "700",
+        "count": 32
+      },
+      {
+        "value": "500",
+        "count": 13
+      }
+    ],
+    "fluid": [
+      {
+        "value": "1rem",
+        "count": 187
+      },
+      {
+        "value": ".8rem",
+        "count": 176
+      },
+      {
+        "value": ".875rem",
+        "count": 143
+      },
+      {
+        "value": "1.25rem",
+        "count": 113
+      },
+      {
+        "value": "1.444rem",
+        "count": 110
+      },
+      {
+        "value": "1.2rem",
+        "count": 88
+      },
+      {
+        "value": ".7rem",
+        "count": 77
+      },
+      {
+        "value": "2.889rem",
+        "count": 66
+      },
+      {
+        "value": "1.4rem",
+        "count": 55
+      },
+      {
+        "value": "1.1rem",
+        "count": 55
+      }
+    ]
+  },
+  "spacing": {
+    "sectionPadY": [
+      {
+        "value": "0/0",
+        "count": 112
+      },
+      {
+        "value": "36/0",
+        "count": 11
+      },
+      {
+        "value": "54/54",
+        "count": 2
+      }
+    ],
+    "sectionPadX": [
+      {
+        "value": "15/15",
+        "count": 1
+      },
+      {
+        "value": "25/25",
+        "count": 1
+      }
+    ],
+    "cssPaddings": [
+      {
+        "value": "15px",
+        "count": 759
+      },
+      {
+        "value": "3rem!important",
+        "count": 462
+      },
+      {
+        "value": "0!important",
+        "count": 451
+      },
+      {
+        "value": ".75rem!important",
+        "count": 440
+      },
+      {
+        "value": "1.5rem!important",
+        "count": 440
+      },
+      {
+        "value": "4.5rem!important",
+        "count": 440
+      },
+      {
+        "value": "9rem!important",
+        "count": 440
+      },
+      {
+        "value": ".5rem",
+        "count": 308
+      },
+      {
+        "value": ".75rem",
+        "count": 209
+      },
+      {
+        "value": "3rem",
+        "count": 209
+      },
+      {
+        "value": "1.5rem",
+        "count": 200
+      },
+      {
+        "value": "5px",
+        "count": 198
+      },
+      {
+        "value": "10px",
+        "count": 176
+      },
+      {
+        "value": "4.5rem",
+        "count": 176
+      },
+      {
+        "value": "9rem",
+        "count": 176
+      },
+      {
+        "value": "1rem",
+        "count": 166
+      },
+      {
+        "value": "20px",
+        "count": 154
+      },
+      {
+        "value": "30px",
+        "count": 121
+      },
+      {
+        "value": "6px",
+        "count": 110
+      },
+      {
+        "value": "8px",
+        "count": 88
+      },
+      {
+        "value": ".25rem .5rem",
+        "count": 66
+      },
+      {
+        "value": "25px",
+        "count": 66
+      },
+      {
+        "value": "0 5px",
+        "count": 66
+      },
+      {
+        "value": "2rem",
+        "count": 66
+      }
+    ],
+    "gaps": [
+      {
+        "value": "1.5rem",
+        "count": 1
+      }
+    ],
+    "sectionHeights": [
+      {
+        "value": 350,
+        "count": 12
+      },
+      {
+        "value": 1000,
+        "count": 12
+      },
+      {
+        "value": 400,
+        "count": 7
+      },
+      {
+        "value": 650,
+        "count": 7
+      },
+      {
+        "value": 450,
+        "count": 6
+      },
+      {
+        "value": 800,
+        "count": 6
+      },
+      {
+        "value": 500,
+        "count": 5
+      },
+      {
+        "value": 950,
+        "count": 5
+      },
+      {
+        "value": 1150,
+        "count": 4
+      },
+      {
+        "value": 1250,
+        "count": 3
+      },
+      {
+        "value": 550,
+        "count": 3
+      },
+      {
+        "value": 1400,
+        "count": 3
+      },
+      {
+        "value": 700,
+        "count": 3
+      },
+      {
+        "value": 250,
+        "count": 3
+      },
+      {
+        "value": 1100,
+        "count": 2
+      },
+      {
+        "value": 600,
+        "count": 2
+      }
+    ],
+    "letterSpacing": [
+      {
+        "value": "normal",
+        "count": 11
+      }
+    ]
+  },
+  "shape": {
+    "radii": [
+      {
+        "value": "0",
+        "count": 330
+      },
+      {
+        "value": "100%",
+        "count": 187
+      },
+      {
+        "value": "50px",
+        "count": 132
+      },
+      {
+        "value": "10px",
+        "count": 99
+      },
+      {
+        "value": "10em",
+        "count": 88
+      },
+      {
+        "value": "5px",
+        "count": 77
+      },
+      {
+        "value": "4px",
+        "count": 55
+      },
+      {
+        "value": "20px",
+        "count": 55
+      },
+      {
+        "value": "50%",
+        "count": 23
+      },
+      {
+        "value": "0 0 0 0",
+        "count": 22
+      },
+      {
+        "value": "3px",
+        "count": 22
+      },
+      {
+        "value": "4%",
+        "count": 22
+      },
+      {
+        "value": "var(--fa-border-radius,.1em)",
+        "count": 11
+      },
+      {
+        "value": "var(--mm-toggle-size)",
+        "count": 11
+      },
+      {
+        "value": "12px",
+        "count": 11
+      },
+      {
+        "value": "0 10px 10px 0",
+        "count": 11
+      },
+      {
+        "value": ".3ch",
+        "count": 11
+      },
+      {
+        "value": "30px",
+        "count": 11
+      },
+      {
+        "value": "2px",
+        "count": 1
+      }
+    ],
+    "shadows": [
+      {
+        "value": "none",
+        "count": 100
+      },
+      {
+        "value": "0 0 0 .2rem rgba(0,0,0,.25)",
+        "count": 44
+      },
+      {
+        "value": "0 0 0 .2rem rgba(40,167,69,.25)",
+        "count": 44
+      },
+      {
+        "value": "0 0 0 .2rem rgba(220,53,69,.25)",
+        "count": 44
+      },
+      {
+        "value": "0 0 0 .2rem rgba(38,38,38,.5)",
+        "count": 44
+      },
+      {
+        "value": "0 0 0 .2rem rgba(0,0,0,.5)",
+        "count": 44
+      },
+      {
+        "value": "1px 3px #353e44",
+        "count": 33
+      },
+      {
+        "value": "0 0 0 .2rem hsla(208,6%,54%,.5)",
+        "count": 22
+      },
+      {
+        "value": "0 0 0 .2rem rgba(72,180,97,.5)",
+        "count": 22
+      },
+      {
+        "value": "0 0 0 .2rem rgba(58,176,195,.5)",
+        "count": 22
+      },
+      {
+        "value": "0 0 0 .2rem rgba(222,170,12,.5)",
+        "count": 22
+      },
+      {
+        "value": "0 0 0 .2rem rgba(225,83,97,.5)",
+        "count": 22
+      }
+    ],
+    "durations": [
+      {
+        "value": ".2s",
+        "count": 495
+      },
+      {
+        "value": ".15s",
+        "count": 99
+      },
+      {
+        "value": ".1s",
+        "count": 99
+      },
+      {
+        "value": "0s",
+        "count": 88
+      },
+      {
+        "value": ".3s",
+        "count": 77
+      },
+      {
+        "value": ".4s",
+        "count": 77
+      },
+      {
+        "value": "var(--fa-animation-duration,1s)",
+        "count": 66
+      },
+      {
+        "value": ".25s",
+        "count": 55
+      },
+      {
+        "value": ".5s",
+        "count": 44
+      },
+      {
+        "value": ".475s",
+        "count": 22
+      },
+      {
+        "value": "2s",
+        "count": 22
+      },
+      {
+        "value": "var(--fa-animation-duration,2s)",
+        "count": 11
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease-in",
+        "count": 561
+      },
+      {
+        "value": "ease",
+        "count": 198
+      },
+      {
+        "value": "ease-in-out",
+        "count": 132
+      },
+      {
+        "value": "cubic-bezier(.25,.46,.45,.94)",
+        "count": 11
+      },
+      {
+        "value": "linear",
+        "count": 11
+      }
+    ],
+    "keyframes": [
+      {
+        "value": "fa-beat",
+        "count": 11
+      },
+      {
+        "value": "fa-bounce",
+        "count": 11
+      },
+      {
+        "value": "fa-fade",
+        "count": 11
+      },
+      {
+        "value": "fa-beat-fade",
+        "count": 11
+      },
+      {
+        "value": "fa-flip",
+        "count": 11
+      },
+      {
+        "value": "fa-shake",
+        "count": 11
+      },
+      {
+        "value": "fa-spin",
+        "count": 11
+      },
+      {
+        "value": "fancybox-rotate",
+        "count": 11
+      },
+      {
+        "value": "tooltips-vert",
+        "count": 11
+      },
+      {
+        "value": "tooltips-horz",
+        "count": 11
+      },
+      {
+        "value": "swiper-pagination-animation",
+        "count": 11
+      },
+      {
+        "value": "fill-swiper-progress",
+        "count": 11
+      },
+      {
+        "value": "fadeInDown",
+        "count": 11
+      },
+      {
+        "value": "fake-marquee",
+        "count": 11
+      },
+      {
+        "value": "fade-in",
+        "count": 11
+      },
+      {
+        "value": "tabFadeEffect",
+        "count": 11
+      },
+      {
+        "value": "dealersearch-captcha-spin",
+        "count": 11
+      },
+      {
+        "value": "skeleton-shimmer",
+        "count": 11
+      },
+      {
+        "value": "skeleton-loading",
+        "count": 11
+      },
+      {
+        "value": "invalid-dealer-captcha-animation",
+        "count": 11
+      }
+    ],
+    "libs": {
+      "jquery": 11
+    },
+    "dataAttrs": {},
+    "componentTransitions": [
+      {
+        "value": "0.4s ease",
+        "count": 2116
+      },
+      {
+        "value": "0.1s ease-in",
+        "count": 124
+      },
+      {
+        "value": "0.2s ease-in",
+        "count": 41
+      },
+      {
+        "value": "0.2s, 0.2s ease-in, ease-in",
+        "count": 20
+      },
+      {
+        "value": "0.15s, 0.15s ease-in-out, ease-in-out",
+        "count": 14
+      },
+      {
+        "value": "0.3s ease",
+        "count": 11
+      },
+      {
+        "value": "0.25s ease-in",
+        "count": 11
+      },
+      {
+        "value": "0s, 0.4s, 0.4s, 0.4s ease, ease, ease, ease",
+        "count": 11
+      },
+      {
+        "value": "0.2s ease",
+        "count": 2
+      }
+    ],
+    "badgeSpecs": [
+      {
+        "value": "14.9994px/400/normal/uppercase",
+        "count": 11
+      }
+    ],
+    "gradients": [
+      {
+        "value": "linear-gradient(45deg,transparent 50%,gray 0),linear-gradient(135deg,gray 50%,transparent 0)",
+        "count": 22
+      },
+      {
+        "value": "linear-gradient(var(--mm-color-background-highlight),var(--mm-color-background-highlight))",
+        "count": 11
+      },
+      {
+        "value": "linear-gradient(270deg,rgba(0,0,0,.5),transparent)",
+        "count": 11
+      },
+      {
+        "value": "linear-gradient(90deg,rgba(0,0,0,.5),transparent)",
+        "count": 11
+      },
+      {
+        "value": "linear-gradient(0deg,rgba(0,0,0,.5),transparent)",
+        "count": 11
+      },
+      {
+        "value": "linear-gradient(180deg,rgba(0,0,0,.5),transparent)",
+        "count": 11
+      },
+      {
+        "value": "-webkit-linear-gradient(top,#fff 50%,#eee)",
+        "count": 11
+      },
+      {
+        "value": "-o-linear-gradient(top,#fff 50%,#eee 100%)",
+        "count": 11
+      },
+      {
+        "value": "linear-gradient(180deg,#fff 50%,#eee)",
+        "count": 11
+      },
+      {
+        "value": "-webkit-linear-gradient(top,#eee 50%,#ccc)",
+        "count": 11
+      }
+    ]
+  },
+  "breakpoints": [
+    {
+      "value": "min-width:350",
+      "count": 11
+    },
+    {
+      "value": "max-width:350",
+      "count": 11
+    },
+    {
+      "value": "max-width:500",
+      "count": 11
+    },
+    {
+      "value": "min-width:550",
+      "count": 11
+    },
+    {
+      "value": "min-width:576",
+      "count": 11
+    },
+    {
+      "value": "max-width:576",
+      "count": 11
+    },
+    {
+      "value": "max-width:590",
+      "count": 11
+    },
+    {
+      "value": "min-width:768",
+      "count": 11
+    },
+    {
+      "value": "max-width:768",
+      "count": 11
+    },
+    {
+      "value": "max-width:1000",
+      "count": 11
+    },
+    {
+      "value": "min-width:1200",
+      "count": 11
+    },
+    {
+      "value": "max-width:1200",
+      "count": 11
+    },
+    {
+      "value": "max-width:1250",
+      "count": 11
+    },
+    {
+      "value": "max-width:1350",
+      "count": 11
+    },
+    {
+      "value": "max-width:1400",
+      "count": 11
+    },
+    {
+      "value": "min-width:1400",
+      "count": 11
+    },
+    {
+      "value": "max-width:1450",
+      "count": 11
+    },
+    {
+      "value": "min-width:1600",
+      "count": 11
+    },
+    {
+      "value": "max-width:1600",
+      "count": 11
+    },
+    {
+      "value": "min-width:1850",
+      "count": 11
+    }
+  ],
+  "layout": {
+    "containers": [
+      {
+        "value": "1050px / pad 15px",
+        "count": 106
+      },
+      {
+        "value": "1250px / pad 15px",
+        "count": 22
+      },
+      {
+        "value": "1050px / pad 25px",
+        "count": 5
+      },
+      {
+        "value": "1050px / pad 0px",
+        "count": 3
+      }
+    ],
+    "gridCols": [
+      {
+        "value": "477.5px 477.5px",
+        "count": 1
+      }
+    ],
+    "maxWidths": [
+      {
+        "value": "100%",
+        "count": 540
+      },
+      {
+        "value": "50%",
+        "count": 297
+      },
+      {
+        "value": "25%",
+        "count": 187
+      },
+      {
+        "value": "20%",
+        "count": 187
+      },
+      {
+        "value": "33.33333333%",
+        "count": 176
+      },
+      {
+        "value": "66.66666667%",
+        "count": 176
+      },
+      {
+        "value": "33.3333333333%",
+        "count": 88
+      },
+      {
+        "value": "16.6666666667%",
+        "count": 88
+      },
+      {
+        "value": "8.33333333%",
+        "count": 88
+      },
+      {
+        "value": "16.66666667%",
+        "count": 88
+      },
+      {
+        "value": "41.66666667%",
+        "count": 88
+      },
+      {
+        "value": "58.33333333%",
+        "count": 88
+      }
+    ],
+    "align": [
+      {
+        "value": "left",
+        "count": 9440
+      },
+      {
+        "value": "center",
+        "count": 2342
+      },
+      {
+        "value": "right",
+        "count": 220
+      },
+      {
+        "value": "justify",
+        "count": 2
+      }
+    ],
+    "counts": {
+      "flex": 1681,
+      "grid": 1,
+      "block": 10806
+    },
+    "stylesheets": [
+      {
+        "value": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+        "count": 11
+      },
+      {
+        "value": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961",
+        "count": 11
+      },
+      {
+        "value": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-a7d846fc5698f746e7303e2f12d36572.css?1792537415",
+        "count": 1
+      }
+    ]
+  },
+  "components": {
+    "buttons": [
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "size": 12.6,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "radius": "126px",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "1px solid rgba(255, 255, 255, 0.25)",
+        "padding": "10px 30px 10px 30px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 46,
+        "samples": [
+          "Get inspired now",
+          "Go to the Kitchen Planner",
+          "Apply Now",
+          "Get"
+        ],
+        "pages": [
+          "Home",
+          "concept130",
+          "Collection Detail",
+          "Kitchen Furniture",
+          "Manufacturer"
+        ]
+      },
+      {
+        "variant": "outline",
+        "shape": "pill",
+        "size": 14,
+        "weight": "700",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "radius": "140px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "border": "1px solid rgb(0, 0, 0)",
+        "padding": "10px 20px 10px 20px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 5,
+        "samples": [
+          "All",
+          "Planning & Design",
+          "Technology & Accessories"
+        ],
+        "pages": [
+          "Magazine"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "size": 15.75,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "radius": "157.5px",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "1px solid rgba(255, 255, 255, 0.25)",
+        "padding": "10px 30px 10px 30px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 3,
+        "samples": [
+          "Read more"
+        ],
+        "pages": [
+          "Magazine"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "size": 12.6,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "radius": "126px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "border": "1px solid rgba(0, 0, 0, 0.25)",
+        "padding": "10px 30px 10px 30px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 3,
+        "samples": [
+          "Find a dealer",
+          "Find a Dealer",
+          "load more"
+        ],
+        "pages": [
+          "Kitchen Planner",
+          "Projects"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "pill",
+        "size": 14,
+        "weight": "600",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "radius": "140px",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "border": "1px solid rgba(255, 255, 255, 0.25)",
+        "padding": "10px 30px 10px 30px",
+        "shadow": "none",
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Load more"
+        ],
+        "pages": [
+          "Magazine"
+        ]
+      }
+    ],
+    "cards": [
+      {
+        "bg": "rgb(0, 0, 0)",
+        "radius": "0px",
+        "shadow": "none",
+        "border": "1px solid rgb(204, 204, 204)",
+        "padding": "0px 0px 413.266px 0px",
+        "width": 738,
+        "hasImg": true,
+        "count": 2,
+        "sample": "play video",
+        "pages": [
+          "Manufacturer"
+        ]
+      }
+    ],
+    "navs": [
+      {
+        "tag": "header",
+        "count": 11,
+        "stickyPct": 100,
+        "heights": [
+          {
+            "value": 92,
+            "count": 10
+          },
+          {
+            "value": 91,
+            "count": 1
+          }
+        ],
+        "bgs": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 10
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 1
+          }
+        ],
+        "positions": [
+          {
+            "value": "fixed",
+            "count": 11
+          }
+        ],
+        "links": [
+          "Kitchen styles",
+          "Kitchen interior",
+          "Kitchen accessories",
+          "In-house exhibition",
+          "Blaupunkt",
+          "Häckers Kitchen Magazine",
+          "Media Site",
+          "systemat Stylish & comfortable",
+          "concept130 Reliable & unique",
+          "Limited Edition 1926 100 years of Fitted",
+          "About Häcker",
+          "Project business",
+          "Values",
+          "Press",
+          "Awards and Certificates",
+          "Our values",
+          "About Häcker",
+          "Häcker wins the ‘Best of Design’ award",
+          "4 Awards for Blaupunkt",
+          "Häcker launches the “Limited Edition 192",
+          "All articles",
+          "Contact",
+          "Buy kitchen",
+          "Product Portal"
+        ],
+        "features": {
+          "hasLogo": true,
+          "hasSearch": true,
+          "hasLanguage": true,
+          "hamburger": true
+        }
+      },
+      {
+        "tag": "nav",
+        "count": 11,
+        "stickyPct": 0,
+        "heights": [
+          {
+            "value": 91,
+            "count": 11
+          }
+        ],
+        "bgs": [
+          {
+            "value": "rgba(0, 0, 0, 0)",
+            "count": 11
+          }
+        ],
+        "positions": [
+          {
+            "value": "static",
+            "count": 11
+          }
+        ],
+        "links": [
+          "Kitchen styles",
+          "Kitchen interior",
+          "Kitchen accessories",
+          "In-house exhibition",
+          "Blaupunkt",
+          "Häckers Kitchen Magazine",
+          "Media Site",
+          "systemat Stylish & comfortable",
+          "concept130 Reliable & unique",
+          "Limited Edition 1926 100 years of Fitted",
+          "About Häcker",
+          "Project business",
+          "Values",
+          "Press",
+          "Awards and Certificates",
+          "Our values",
+          "About Häcker",
+          "Häcker wins the ‘Best of Design’ award",
+          "4 Awards for Blaupunkt",
+          "Häcker launches the “Limited Edition 192",
+          "All articles",
+          "Contact",
+          "Buy kitchen",
+          "Product Portal"
+        ],
+        "features": {
+          "hasLogo": true,
+          "hasSearch": true,
+          "hasLanguage": true,
+          "hamburger": true
+        }
+      }
+    ],
+    "badges": [
+      {
+        "size": 14.9994,
+        "weight": "400",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "color": "rgb(0, 0, 0)",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "count": 10,
+        "samples": [
+          "EN",
+          "EN",
+          "EN",
+          "EN",
+          "EN"
+        ]
+      },
+      {
+        "size": 14.9994,
+        "weight": "400",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "family": "\"Nunito Sans\", Arial, \"sans-serif\", \"Helvetica Neue\"",
+        "count": 1,
+        "samples": [
+          "EN"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "color": "rgb(162, 162, 162)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 15.84,
+        "transform": "none",
+        "count": 319,
+        "samples": [
+          "concept130",
+          "systemat",
+          "Novelties 2026/2027"
+        ]
+      },
+      {
+        "color": "rgb(162, 162, 162)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 13.86,
+        "transform": "none",
+        "count": 66,
+        "samples": [
+          "Terms and Conditions",
+          "Data privacy",
+          "Compliance"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "600",
+        "size": 12.6,
+        "transform": "none",
+        "count": 46,
+        "samples": [
+          "Get inspired now",
+          "Go to the Kitchen Planner",
+          "Apply Now"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "underline",
+        "weight": "400",
+        "size": 18,
+        "transform": "none",
+        "count": 41,
+        "samples": [
+          "wide range of design possibilities",
+          "owner-managed family business",
+          "systemat"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 15,
+        "transform": "none",
+        "count": 20,
+        "samples": [
+          "Kitchen planner",
+          "Search",
+          "Kitchen planner"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "700",
+        "size": 18,
+        "transform": "none",
+        "count": 11,
+        "samples": [
+          "Skip to content",
+          "Skip to content",
+          "Skip to content"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 32,
+        "transform": "none",
+        "count": 11,
+        "samples": [
+          "Smart Storage Room Planning: A Systemati",
+          "Kitchen Trends for 2027: New Colors, Mat",
+          "Minimalist Kitchen: More Space, More Ser"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "800",
+        "size": 15,
+        "transform": "none",
+        "count": 10,
+        "samples": [
+          "Career Jobs & more",
+          "Career Jobs & more",
+          "Career Jobs & more"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(206, 212, 218)",
+        "radius": "20px",
+        "size": 18,
+        "padding": "6.75px 13.5px 6.75px 13.5px",
+        "count": 7
+      },
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "0px none rgb(73, 80, 87)",
+        "radius": "50px",
+        "size": 18,
+        "padding": "0px 0px 0px 0px",
+        "count": 1
+      },
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(206, 212, 218)",
+        "radius": "20px",
+        "size": 19.8,
+        "padding": "6.75px 13.5px 6.75px 13.5px",
+        "count": 1
+      },
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(0, 0, 0)",
+        "radius": "126px",
+        "size": 12.6,
+        "padding": "10px 30px 10px 30px",
+        "count": 1
+      },
+      {
+        "bg": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)",
+        "radius": "0px",
+        "size": 18,
+        "padding": "1px 2px 1px 2px",
+        "count": 1
+      }
+    ]
+  },
+  "a11y": {
+    "contrastWorst": [
+      {
+        "fg": "#a2a2a2",
+        "bg": "#ffffff",
+        "ratio": 2.55,
+        "count": 68,
+        "sizes": [
+          14
+        ],
+        "samples": [
+          "© Häcker Küchen 2026",
+          "Terms and Conditions",
+          "Data privacy"
+        ],
+        "tags": [
+          "p",
+          "span"
+        ]
+      },
+      {
+        "fg": "#969696",
+        "bg": "#f7f7f7",
+        "ratio": 2.76,
+        "count": 21,
+        "sizes": [
+          13
+        ],
+        "samples": [
+          "AV 7030 Black Star | AV 5015 Carbon Metallic",
+          "AV 6084-GL Volcanic Oak | AV 5075-GL Sand Gray",
+          "AV 6070-GL Blackwood | AV 7070 Bronze"
+        ],
+        "tags": [
+          "span"
+        ]
+      },
+      {
+        "fg": "#969696",
+        "bg": "#ffffff",
+        "ratio": 2.96,
+        "count": 18,
+        "sizes": [
+          13
+        ],
+        "samples": [
+          "GOYA Gentian Blue | TESSIN-GL Natural Walnut",
+          "TOP SOFT Caramel | BALI Truffle black oak effect",
+          "KORFU Cashmere | BALI Oak-Truffle Black"
+        ],
+        "tags": [
+          "span"
+        ]
+      },
+      {
+        "fg": "#7a7a7a",
+        "bg": "#222222",
+        "ratio": 3.71,
+        "count": 2,
+        "sizes": [
+          14
+        ],
+        "samples": [
+          "Please enter the text from the image in the field ",
+          "Reload Captcha"
+        ],
+        "tags": [
+          "span"
+        ]
+      },
+      {
+        "fg": "#a2a2a2",
+        "bg": "#000000",
+        "ratio": 8.23,
+        "count": 328,
+        "sizes": [
+          16
+        ],
+        "samples": [
+          "concept130",
+          "systemat",
+          "Novelties 2026/2027"
+        ],
+        "tags": [
+          "a",
+          "p"
+        ]
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#222222",
+        "ratio": 15.91,
+        "count": 15,
+        "sizes": [
+          14,
+          18,
+          23,
+          31
+        ],
+        "samples": [
+          "Plan now, get advice, and buy kitchen furniture: o",
+          "We are your partner for kitchens in large-scale pr",
+          "Do you have big plans? Whether it’s custom kitchen"
+        ],
+        "tags": [
+          "h4",
+          "h2",
+          "p",
+          "label",
+          "span",
+          "a"
+        ]
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f7f7f7",
+        "ratio": 19.6,
+        "count": 161,
+        "sizes": [
+          14,
+          15,
+          16,
+          18,
+          23,
+          25,
+          31,
+          32,
+          36,
+          45
+        ],
+        "samples": [
+          "In our kitchens, people come first",
+          "Häcker is an that understands the importance of a ",
+          "owner-managed family business"
+        ],
+        "tags": [
+          "h2",
+          "p",
+          "a",
+          "h1",
+          "h3",
+          "h4",
+          "span"
+        ]
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f8f8f8",
+        "ratio": 19.77,
+        "count": 9,
+        "sizes": [
+          16
+        ],
+        "samples": [
+          "How do I begin planning my kitchen?",
+          "Is the kitchen planner really free of charge?",
+          "Can I save multiple drafts?"
+        ],
+        "tags": [
+          "strong",
+          "span"
+        ]
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "count": 124,
+        "sizes": [
+          13,
+          14,
+          15,
+          16,
+          18
+        ],
+        "samples": [
+          "Skip to content",
+          "Get inspired now",
+          "Go to the Kitchen Planner"
+        ],
+        "tags": [
+          "a",
+          "li",
+          "span"
+        ]
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "count": 345,
+        "sizes": [
+          13,
+          14,
+          15,
+          18,
+          25,
+          31,
+          36,
+          90
+        ],
+        "samples": [
+          "Inspiration",
+          "Kitchens & more",
+          "Company"
+        ],
+        "tags": [
+          "span",
+          "a",
+          "h1",
+          "p",
+          "h2",
+          "h3",
+          "strong",
+          "button"
+        ]
+      }
+    ],
+    "contrastSummary": {
+      "pairs": 10,
+      "failAA": 4,
+      "failAAA": 4
+    },
+    "images": 738,
+    "missingAlt": 2,
+    "altCoverage": 100,
+    "emptyLinks": 47,
+    "emptyButtons": 25,
+    "h1Total": 12,
+    "h1PerPage": [
+      {
+        "page": "Home",
+        "h1": 1
+      },
+      {
+        "page": "concept130",
+        "h1": 1
+      },
+      {
+        "page": "Collection Detail",
+        "h1": 1
+      },
+      {
+        "page": "Kitchen Furniture",
+        "h1": 1
+      },
+      {
+        "page": "Magazine",
+        "h1": 2
+      },
+      {
+        "page": "Manufacturer",
+        "h1": 1
+      },
+      {
+        "page": "Kitchen Planner",
+        "h1": 1
+      },
+      {
+        "page": "Kitchen Styles",
+        "h1": 1
+      },
+      {
+        "page": "Kitchen Ideas",
+        "h1": 1
+      },
+      {
+        "page": "Projects",
+        "h1": 1
+      },
+      {
+        "page": "Systemat",
+        "h1": 1
+      }
+    ],
+    "mainCount": 10,
+    "skipLinks": 11,
+    "ariaAttributes": 124,
+    "tabbable": 2152,
+    "focusVisibleSelectorsPerPage": 66,
+    "reducedMotionRulesPerPage": 33
+  },
+  "media": {
+    "images": 738,
+    "lazyPct": 25,
+    "srcsetPct": 0,
+    "missingAlt": 2,
+    "videosPerPage": 0,
+    "bgImagesPerPage": 0.1,
+    "gradientsPerPage": 0.1,
+    "objectFit": [
+      {
+        "value": "fill",
+        "count": 712
+      },
+      {
+        "value": "cover",
+        "count": 26
+      }
+    ],
+    "aspectRatios": [
+      {
+        "value": 1.42,
+        "count": 49
+      },
+      {
+        "value": 1,
+        "count": 41
+      },
+      {
+        "value": 1.7,
+        "count": 39
+      },
+      {
+        "value": 1.54,
+        "count": 35
+      },
+      {
+        "value": 3.16,
+        "count": 18
+      },
+      {
+        "value": 2.06,
+        "count": 18
+      },
+      {
+        "value": 0.71,
+        "count": 13
+      },
+      {
+        "value": 1.13,
+        "count": 10
+      },
+      {
+        "value": 10.1,
+        "count": 7
+      },
+      {
+        "value": 0.88,
+        "count": 7
+      },
+      {
+        "value": 8.97,
+        "count": 7
+      },
+      {
+        "value": 1.41,
+        "count": 5
+      }
+    ],
+    "formats": [
+      {
+        "value": "svg",
+        "count": 11
+      },
+      {
+        "value": "jpg",
+        "count": 11
+      },
+      {
+        "value": "png",
+        "count": 5
+      }
+    ]
+  }
+}

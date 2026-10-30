@@ -1,0 +1,78 @@
+{
+  "requests": [
+    {
+      "id": 424,
+      "flow": "accordions",
+      "ts": 607698,
+      "url": "https://www.haecker-kuechen.com/en/kitchen-planner",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 425,
+      "flow": "accordions",
+      "ts": 642194,
+      "url": "https://www.haecker-kuechen.com/typo3temp/assets/compressed/merged-6db3e308b20289d584d933f0053b1e48.css?1792536954",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 426,
+      "flow": "accordions",
+      "ts": 642195,
+      "url": "https://www.haecker-kuechen.com/fileadmin/cookie_optin/siteroot-7459/cookieOptin.css?1767948961",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 427,
+      "flow": "accordions",
+      "ts": 642196,
+      "url": "https://www.haecker-kuechen.com/_assets/0461cac7cf841c14e085cd32e5c0799e/images/logo_white.svg",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 428,
+      "flow": "accordions",
+      "ts": 642196,
+      "url": "https://www.haecker-kuechen.com/_assets/0461cac7cf841c14e085cd32e5c0799e/images/logo_black.svg",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "byDomain": [
+      {
+        "domain": "www.haecker-kuechen.com",
+        "count": 5
+      }
+    ],
+    "byType": [
+      {
+        "type": "stylesheet",
+        "count": 2
+      },
+      {
+        "type": "image",
+        "count": 2
+      },
+      {
+        "type": "document",
+        "count": 1
+      }
+    ],
+    "nonGet": []
+  }
+}

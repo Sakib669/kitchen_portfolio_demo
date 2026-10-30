@@ -1,0 +1,1054 @@
+{
+  "requests": [
+    {
+      "id": 66,
+      "flow": "accordions",
+      "ts": 15435,
+      "url": "https://www.mykitchen-bd.com/contact",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 67,
+      "flow": "accordions",
+      "ts": 15441,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg3.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 68,
+      "flow": "accordions",
+      "ts": 15442,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg4.png&w=828&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 69,
+      "flow": "accordions",
+      "ts": 15443,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg8.png&w=640&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 70,
+      "flow": "accordions",
+      "ts": 15443,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2FgalleryImg9.png&w=1080&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 71,
+      "flow": "accordions",
+      "ts": 15444,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638922-228522306.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 72,
+      "flow": "accordions",
+      "ts": 15444,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=http%3A%2F%2Fapi.mykitchen-bd.com%2Fuploads%2Fimages-1753175638932-163511062.png&w=1200&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 73,
+      "flow": "accordions",
+      "ts": 15684,
+      "url": "https://www.mykitchen-bd.com/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 74,
+      "flow": "accordions",
+      "ts": 15684,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fkitchen-logo.png&w=384&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 75,
+      "flow": "accordions",
+      "ts": 15686,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 76,
+      "flow": "accordions",
+      "ts": 15689,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 77,
+      "flow": "accordions",
+      "ts": 15689,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 78,
+      "flow": "accordions",
+      "ts": 15689,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 79,
+      "flow": "accordions",
+      "ts": 15689,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 80,
+      "flow": "accordions",
+      "ts": 15690,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 81,
+      "flow": "accordions",
+      "ts": 15693,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 82,
+      "flow": "accordions",
+      "ts": 15694,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 83,
+      "flow": "accordions",
+      "ts": 15694,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 84,
+      "flow": "accordions",
+      "ts": 15695,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 85,
+      "flow": "accordions",
+      "ts": 15695,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 86,
+      "flow": "accordions",
+      "ts": 15695,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0z3vwiwkmf4x2.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 87,
+      "flow": "accordions",
+      "ts": 15696,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0dicgzjjajhx6.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 88,
+      "flow": "accordions",
+      "ts": 15696,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/133oq166-iq2j.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 89,
+      "flow": "accordions",
+      "ts": 15696,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/01cdbuv1roxa7.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 90,
+      "flow": "accordions",
+      "ts": 15697,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0ycei2n7w7c6f.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 91,
+      "flow": "accordions",
+      "ts": 15698,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/087-ii967_iw4.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 92,
+      "flow": "accordions",
+      "ts": 15698,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d~e3k5q_g2uc.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 93,
+      "flow": "accordions",
+      "ts": 15698,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/17qh67~6.ixar.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 94,
+      "flow": "accordions",
+      "ts": 15698,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/00mvikxow02ky.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 95,
+      "flow": "accordions",
+      "ts": 15699,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0ciux21o9ftk~.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 96,
+      "flow": "accordions",
+      "ts": 15699,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0_lt_j282a6y7.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 97,
+      "flow": "accordions",
+      "ts": 15699,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/11ewph8k3y807.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 98,
+      "flow": "accordions",
+      "ts": 15699,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0k0i8d4y8adca.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 99,
+      "flow": "accordions",
+      "ts": 15699,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/167tr_3pk0m1w.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 100,
+      "flow": "accordions",
+      "ts": 15700,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0uz2-ai541anj.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 101,
+      "flow": "accordions",
+      "ts": 15869,
+      "url": "https://www.mykitchen-bd.com/images/kitchen/footer.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 102,
+      "flow": "accordions",
+      "ts": 15872,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fnavbar%2FcolorLogo.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 103,
+      "flow": "accordions",
+      "ts": 15873,
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12280.950998026896!2d90.40216784222126!3d23.777723006367722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c79b9bb31065%3A0x11da1fffa0040020!2sMY%20KITCHEN!5e0!3m2!1sen!2sbd!4v1720418340033!5m2!1sen!2sbd&zoom=14&disableDefaultUI=false&scrollwheel=false",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 104,
+      "flow": "accordions",
+      "ts": 15874,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fproducts%2Fslide.gif&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 105,
+      "flow": "accordions",
+      "ts": 15876,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Ftilottoma.png&w=256&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 106,
+      "flow": "accordions",
+      "ts": 15876,
+      "url": "https://www.mykitchen-bd.com/_next/image?url=%2Fimages%2Fkitchen%2Fnextbook.png&w=128&q=75",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 107,
+      "flow": "accordions",
+      "ts": 16401,
+      "url": "https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 108,
+      "flow": "accordions",
+      "ts": 16402,
+      "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&experimentation=allowed&callback=onApiLoad",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 109,
+      "flow": "accordions",
+      "ts": 16470,
+      "url": "https://api.mykitchen-bd.com/api/v1/expertise/menu",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 110,
+      "flow": "accordions",
+      "ts": 16471,
+      "url": "https://api.mykitchen-bd.com/api/v1/category",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 111,
+      "flow": "accordions",
+      "ts": 16473,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 112,
+      "flow": "accordions",
+      "ts": 16474,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 113,
+      "flow": "accordions",
+      "ts": 16475,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 114,
+      "flow": "accordions",
+      "ts": 16477,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 115,
+      "flow": "accordions",
+      "ts": 16587,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/search.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 116,
+      "flow": "accordions",
+      "ts": 16587,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/geometry.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 117,
+      "flow": "accordions",
+      "ts": 16587,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/main.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 118,
+      "flow": "accordions",
+      "ts": 16953,
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 119,
+      "flow": "accordions",
+      "ts": 16976,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/common.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 120,
+      "flow": "accordions",
+      "ts": 16978,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/util.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 121,
+      "flow": "accordions",
+      "ts": 16978,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/map.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 122,
+      "flow": "accordions",
+      "ts": 16978,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/controls.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 123,
+      "flow": "accordions",
+      "ts": 16979,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/places_impl.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 124,
+      "flow": "accordions",
+      "ts": 16979,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/places.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 125,
+      "flow": "accordions",
+      "ts": 16984,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/onion.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 126,
+      "flow": "accordions",
+      "ts": 16984,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/search_impl.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 127,
+      "flow": "accordions",
+      "ts": 17237,
+      "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 128,
+      "flow": "accordions",
+      "ts": 17253,
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/11a/log.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 129,
+      "flow": "accordions",
+      "ts": 17278,
+      "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 130,
+      "flow": "accordions",
+      "ts": 17278,
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 131,
+      "flow": "accordions",
+      "ts": 17335,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"4E7E4078-733A-4B48-A0FA-8A08BD1F8769\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 132,
+      "flow": "accordions",
+      "ts": 17336,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[\"https://www.google.com\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 133,
+      "flow": "accordions",
+      "ts": 17574,
+      "url": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2iw.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 134,
+      "flow": "accordions",
+      "ts": 17575,
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 135,
+      "flow": "accordions",
+      "ts": 17979,
+      "url": "https://www.mykitchen-bd.com/?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 136,
+      "flow": "accordions",
+      "ts": 17981,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 137,
+      "flow": "accordions",
+      "ts": 17982,
+      "url": "https://www.mykitchen-bd.com/contact?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 138,
+      "flow": "accordions",
+      "ts": 17984,
+      "url": "https://www.mykitchen-bd.com/catalogue?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 139,
+      "flow": "accordions",
+      "ts": 19360,
+      "url": "https://www.mykitchen-bd.com/events-&-news?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 140,
+      "flow": "accordions",
+      "ts": 19361,
+      "url": "https://www.mykitchen-bd.com/sales-point?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 141,
+      "flow": "accordions",
+      "ts": 19362,
+      "url": "https://www.mykitchen-bd.com/products?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 142,
+      "flow": "accordions",
+      "ts": 19363,
+      "url": "https://www.mykitchen-bd.com/?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 143,
+      "flow": "accordions",
+      "ts": 20564,
+      "url": "https://www.mykitchen-bd.com/find-store?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 144,
+      "flow": "accordions",
+      "ts": 27636,
+      "url": "https://www.mykitchen-bd.com/feedback?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 145,
+      "flow": "accordions",
+      "ts": 27637,
+      "url": "https://www.mykitchen-bd.com/expertise/walk-in-closets?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 146,
+      "flow": "accordions",
+      "ts": 27637,
+      "url": "https://www.mykitchen-bd.com/expertise/wardrobes?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 147,
+      "flow": "accordions",
+      "ts": 27638,
+      "url": "https://www.mykitchen-bd.com/expertise/kitchen-area?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 148,
+      "flow": "accordions",
+      "ts": 27883,
+      "url": "https://www.mykitchen-bd.com/terms-&-conditions?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 149,
+      "flow": "accordions",
+      "ts": 27885,
+      "url": "https://www.mykitchen-bd.com/privacy-policy?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 150,
+      "flow": "accordions",
+      "ts": 27886,
+      "url": "https://www.mykitchen-bd.com/feedback?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 151,
+      "flow": "accordions",
+      "ts": 27888,
+      "url": "https://www.mykitchen-bd.com/expertise/walk-in-closets?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 152,
+      "flow": "accordions",
+      "ts": 28225,
+      "url": "https://www.mykitchen-bd.com/expertise/wardrobes?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 153,
+      "flow": "accordions",
+      "ts": 28226,
+      "url": "https://www.mykitchen-bd.com/expertise/kitchen-area?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 154,
+      "flow": "accordions",
+      "ts": 28250,
+      "url": "https://www.mykitchen-bd.com/terms-&-conditions?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 155,
+      "flow": "accordions",
+      "ts": 28251,
+      "url": "https://www.mykitchen-bd.com/privacy-policy?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 156,
+      "flow": "accordions",
+      "ts": 33286,
+      "url": "https://www.mykitchen-bd.com/expertise/accessories?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 157,
+      "flow": "accordions",
+      "ts": 33287,
+      "url": "https://www.mykitchen-bd.com/expertise/vanities?_rsc=h2vb-LAkAGynSY5z",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 158,
+      "flow": "accordions",
+      "ts": 33312,
+      "url": "https://www.mykitchen-bd.com/expertise/accessories?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "id": 159,
+      "flow": "accordions",
+      "ts": 33314,
+      "url": "https://www.mykitchen-bd.com/expertise/vanities?_rsc=mTa8tpfUvA8h8GpF",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    }
+  ],
+  "summary": {
+    "total": 94,
+    "byDomain": [
+      {
+        "domain": "www.mykitchen-bd.com",
+        "count": 69
+      },
+      {
+        "domain": "maps.googleapis.com",
+        "count": 16
+      },
+      {
+        "domain": "maps.gstatic.com",
+        "count": 2
+      },
+      {
+        "domain": "api.mykitchen-bd.com",
+        "count": 2
+      },
+      {
+        "domain": "fonts.googleapis.com",
+        "count": 2
+      },
+      {
+        "domain": "fonts.gstatic.com",
+        "count": 2
+      },
+      {
+        "domain": "www.google.com",
+        "count": 1
+      }
+    ],
+    "byType": [
+      {
+        "type": "script",
+        "count": 39
+      },
+      {
+        "type": "fetch",
+        "count": 29
+      },
+      {
+        "type": "image",
+        "count": 13
+      },
+      {
+        "type": "xhr",
+        "count": 5
+      },
+      {
+        "type": "font",
+        "count": 3
+      },
+      {
+        "type": "stylesheet",
+        "count": 3
+      },
+      {
+        "type": "document",
+        "count": 2
+      }
+    ],
+    "nonGet": [
+      {
+        "id": 131,
+        "flow": "accordions",
+        "ts": 17335,
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"4E7E4078-733A-4B48-A0FA-8A08BD1F8769\"]",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 132,
+        "flow": "accordions",
+        "ts": 17336,
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "[\"https://www.google.com\"]",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "carousel",
+  "startedAt": "2026-10-26T08:44:59.663Z",
+  "steps": [
+    {
+      "name": "controls",
+      "at": 209769,
+      "data": {
+        "next": null,
+        "prev": null
+      }
+    },
+    {
+      "name": "skipped",
+      "at": 209769,
+      "data": {
+        "reason": "no carousel next control"
+      }
+    }
+  ],
+  "durationMs": 2214,
+  "finishedAt": "2026-10-26T08:45:01.877Z",
+  "requests": [],
+  "network": {
+    "total": 0,
+    "byDomain": [],
+    "byType": [],
+    "nonGet": []
+  },
+  "shots": [],
+  "blockedWrites": []
+}

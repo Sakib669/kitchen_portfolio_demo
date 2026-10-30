@@ -1,0 +1,3904 @@
+{
+  "id": "videoLightbox",
+  "startedAt": "2026-10-26T08:44:07.375Z",
+  "steps": [
+    {
+      "name": "media",
+      "at": 420796,
+      "data": {
+        "iframes": [
+          {
+            "src": "about:blank",
+            "title": "_hjSafeContext",
+            "allow": ""
+          },
+          {
+            "src": "",
+            "title": "",
+            "allow": ""
+          }
+        ],
+        "videos": [],
+        "lightboxTriggers": 0
+      }
+    },
+    {
+      "name": "lightbox",
+      "at": 422980,
+      "data": {
+        "clicked": "",
+        "overlays": [
+          {
+            "tag": "div",
+            "cls": "elementor-background-overlay",
+            "w": 1440,
+            "h": 857,
+            "text": ""
+          },
+          {
+            "tag": "div",
+            "cls": "elementor-background-overlay",
+            "w": 1330,
+            "h": 178,
+            "text": ""
+          },
+          {
+            "tag": "div",
+            "cls": "elementor-background-overlay",
+            "w": 550,
+            "h": 326,
+            "text": ""
+          }
+        ],
+        "iframes": []
+      }
+    }
+  ],
+  "durationMs": 13745,
+  "finishedAt": "2026-10-26T08:44:21.120Z",
+  "requests": [
+    {
+      "id": 5998,
+      "flow": "videoLightbox",
+      "ts": 410394,
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004247377&ec=2",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004232418,\"id\":\"e57f474e-6d45-4950-8f74-7221575210d5\",\"source_url\":\"https://www.seaform.com/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004232498,\"id\":\"923d4328-da2b-46aa-828a-37412aeafcc1\",\"data\":{\"type\":\"diagnost",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 5999,
+      "flow": "videoLightbox",
+      "ts": 410395,
+      "url": "https://www.seaform.com/the-brand",
+      "method": "GET",
+      "type": "document",
+      "status": 301,
+      "postData": null
+    },
+    {
+      "id": 6000,
+      "flow": "videoLightbox",
+      "ts": 410981,
+      "url": "https://www.seaform.com/the-brand/",
+      "method": "GET",
+      "type": "document",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6001,
+      "flow": "videoLightbox",
+      "ts": 411463,
+      "url": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6002,
+      "flow": "videoLightbox",
+      "ts": 411465,
+      "url": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.min.css?ver=1791996698",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6003,
+      "flow": "videoLightbox",
+      "ts": 411466,
+      "url": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-alignmnet.css?ver=1791996698",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6004,
+      "flow": "videoLightbox",
+      "ts": 411467,
+      "url": "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/navigation-menu/plus-nav-menu.min.css?ver=1791996698",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6005,
+      "flow": "videoLightbox",
+      "ts": 411467,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6006,
+      "flow": "videoLightbox",
+      "ts": 411468,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6007,
+      "flow": "videoLightbox",
+      "ts": 411468,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6008,
+      "flow": "videoLightbox",
+      "ts": 411470,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6009,
+      "flow": "videoLightbox",
+      "ts": 411471,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6010,
+      "flow": "videoLightbox",
+      "ts": 411471,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6011,
+      "flow": "videoLightbox",
+      "ts": 411472,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6012,
+      "flow": "videoLightbox",
+      "ts": 411474,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6013,
+      "flow": "videoLightbox",
+      "ts": 411474,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6014,
+      "flow": "videoLightbox",
+      "ts": 411474,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6015,
+      "flow": "videoLightbox",
+      "ts": 411474,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6016,
+      "flow": "videoLightbox",
+      "ts": 411475,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6017,
+      "flow": "videoLightbox",
+      "ts": 411475,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6018,
+      "flow": "videoLightbox",
+      "ts": 411481,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6019,
+      "flow": "videoLightbox",
+      "ts": 411481,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6020,
+      "flow": "videoLightbox",
+      "ts": 411481,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6021,
+      "flow": "videoLightbox",
+      "ts": 411482,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6022,
+      "flow": "videoLightbox",
+      "ts": 411482,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6023,
+      "flow": "videoLightbox",
+      "ts": 411482,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6024,
+      "flow": "videoLightbox",
+      "ts": 411482,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6025,
+      "flow": "videoLightbox",
+      "ts": 411483,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6026,
+      "flow": "videoLightbox",
+      "ts": 411483,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6027,
+      "flow": "videoLightbox",
+      "ts": 411483,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-160.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6028,
+      "flow": "videoLightbox",
+      "ts": 411484,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-399.css?ver=1791996698",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6029,
+      "flow": "videoLightbox",
+      "ts": 411484,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-1022.css?ver=1790154091",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6030,
+      "flow": "videoLightbox",
+      "ts": 411485,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-223.css?ver=1790079879",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6031,
+      "flow": "videoLightbox",
+      "ts": 411485,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2464.css?ver=1790079879",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6032,
+      "flow": "videoLightbox",
+      "ts": 411486,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-3134.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6033,
+      "flow": "videoLightbox",
+      "ts": 411486,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2992.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6034,
+      "flow": "videoLightbox",
+      "ts": 411486,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2671.css?ver=1791222314",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6035,
+      "flow": "videoLightbox",
+      "ts": 411486,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2469.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6036,
+      "flow": "videoLightbox",
+      "ts": 411487,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2467.css?ver=1790079606",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6037,
+      "flow": "videoLightbox",
+      "ts": 411487,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2465.css?ver=1790079606",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6038,
+      "flow": "videoLightbox",
+      "ts": 411487,
+      "url": "https://www.seaform.com/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6039,
+      "flow": "videoLightbox",
+      "ts": 411487,
+      "url": "https://www.seaform.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=7.1.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6040,
+      "flow": "videoLightbox",
+      "ts": 411488,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1747932174",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6041,
+      "flow": "videoLightbox",
+      "ts": 411488,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1747932187",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6042,
+      "flow": "videoLightbox",
+      "ts": 411488,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1747932196",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6043,
+      "flow": "videoLightbox",
+      "ts": 411488,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/lato.css?ver=1747932199",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6044,
+      "flow": "videoLightbox",
+      "ts": 411488,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1747932214",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6045,
+      "flow": "videoLightbox",
+      "ts": 411489,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/josefinsans.css?ver=1747932222",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6046,
+      "flow": "videoLightbox",
+      "ts": 411489,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6047,
+      "flow": "videoLightbox",
+      "ts": 411494,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6048,
+      "flow": "videoLightbox",
+      "ts": 411494,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6049,
+      "flow": "videoLightbox",
+      "ts": 411495,
+      "url": "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/js.cookie.js?ver=7.1.3",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6050,
+      "flow": "videoLightbox",
+      "ts": 411495,
+      "url": "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/handl-utm-grabber.js?ver=7.1.3",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6051,
+      "flow": "videoLightbox",
+      "ts": 411496,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-966.css?ver=1792059107",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6052,
+      "flow": "videoLightbox",
+      "ts": 411497,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6053,
+      "flow": "videoLightbox",
+      "ts": 411497,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-351.css?ver=1792226246",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6054,
+      "flow": "videoLightbox",
+      "ts": 411497,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-377.css?ver=1792191337",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6055,
+      "flow": "videoLightbox",
+      "ts": 411497,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-409.css?ver=1792002335",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6056,
+      "flow": "videoLightbox",
+      "ts": 411498,
+      "url": "https://www.seaform.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.7.6",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6057,
+      "flow": "videoLightbox",
+      "ts": 411498,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_brand_pic_1-1536x864.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6058,
+      "flow": "videoLightbox",
+      "ts": 411498,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_monogram_1_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6059,
+      "flow": "videoLightbox",
+      "ts": 411499,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_monogram_3_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6060,
+      "flow": "videoLightbox",
+      "ts": 411876,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/01/seaform-concierge-white.svg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6061,
+      "flow": "videoLightbox",
+      "ts": 411877,
+      "url": "https://www.seaform.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6062,
+      "flow": "videoLightbox",
+      "ts": 411877,
+      "url": "https://www.seaform.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6063,
+      "flow": "videoLightbox",
+      "ts": 411877,
+      "url": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6064,
+      "flow": "videoLightbox",
+      "ts": 411878,
+      "url": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6065,
+      "flow": "videoLightbox",
+      "ts": 411878,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro-form-widget-pipedrive-integration/resources/compiled/theme/js/app.js?id=120c696893da2ebff2ac0949e663b8f5",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6066,
+      "flow": "videoLightbox",
+      "ts": 411879,
+      "url": "https://www.seaform.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.0.24",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6067,
+      "flow": "videoLightbox",
+      "ts": 411879,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6068,
+      "flow": "videoLightbox",
+      "ts": 411880,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6069,
+      "flow": "videoLightbox",
+      "ts": 411881,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6070,
+      "flow": "videoLightbox",
+      "ts": 411881,
+      "url": "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/navigation-menu/plus-nav-menu.min.js?ver=1791996698",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6071,
+      "flow": "videoLightbox",
+      "ts": 411881,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6072,
+      "flow": "videoLightbox",
+      "ts": 411882,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6073,
+      "flow": "videoLightbox",
+      "ts": 411882,
+      "url": "https://www.seaform.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6074,
+      "flow": "videoLightbox",
+      "ts": 411885,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6075,
+      "flow": "videoLightbox",
+      "ts": 411885,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6076,
+      "flow": "videoLightbox",
+      "ts": 411885,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6077,
+      "flow": "videoLightbox",
+      "ts": 411886,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6078,
+      "flow": "videoLightbox",
+      "ts": 411886,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6079,
+      "flow": "videoLightbox",
+      "ts": 411886,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6080,
+      "flow": "videoLightbox",
+      "ts": 411888,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6081,
+      "flow": "videoLightbox",
+      "ts": 411888,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6082,
+      "flow": "videoLightbox",
+      "ts": 411888,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6083,
+      "flow": "videoLightbox",
+      "ts": 411889,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6084,
+      "flow": "videoLightbox",
+      "ts": 411889,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6085,
+      "flow": "videoLightbox",
+      "ts": 411889,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6086,
+      "flow": "videoLightbox",
+      "ts": 411891,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6087,
+      "flow": "videoLightbox",
+      "ts": 411891,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6088,
+      "flow": "videoLightbox",
+      "ts": 411892,
+      "url": "https://www.seaform.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=7.1.3",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6089,
+      "flow": "videoLightbox",
+      "ts": 411892,
+      "url": "https://www.seaform.com/wp-content/plugins/events-tracker-for-elementor/frontend/js/app.js?ver=1747932072",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6090,
+      "flow": "videoLightbox",
+      "ts": 411892,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6091,
+      "flow": "videoLightbox",
+      "ts": 411892,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6092,
+      "flow": "videoLightbox",
+      "ts": 411893,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6093,
+      "flow": "videoLightbox",
+      "ts": 411893,
+      "url": "https://www.seaform.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.7.6",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6094,
+      "flow": "videoLightbox",
+      "ts": 411893,
+      "url": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/wrapper-link/plus-section-column-link.min.js?ver=6.3.5",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6095,
+      "flow": "videoLightbox",
+      "ts": 411894,
+      "url": "https://apps.elfsight.com/p/platform.js",
+      "method": "GET",
+      "type": "script",
+      "status": 301,
+      "postData": null
+    },
+    {
+      "id": 6096,
+      "flow": "videoLightbox",
+      "ts": 411894,
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6097,
+      "flow": "videoLightbox",
+      "ts": 411899,
+      "url": "https://static.hotjar.com/c/hotjar-3207225.js?sv=6",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6098,
+      "flow": "videoLightbox",
+      "ts": 411899,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WC723CB",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6099,
+      "flow": "videoLightbox",
+      "ts": 411917,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_lotus_3_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6100,
+      "flow": "videoLightbox",
+      "ts": 411917,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_concierge_blue.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6101,
+      "flow": "videoLightbox",
+      "ts": 411918,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6102,
+      "flow": "videoLightbox",
+      "ts": 411918,
+      "url": "https://seaform.com/wp-content/uploads/2020/12/Linotype-OptimaLTStd.woff",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6103,
+      "flow": "videoLightbox",
+      "ts": 411919,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6104,
+      "flow": "videoLightbox",
+      "ts": 411922,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/lato-s6uyw4bmutphjx4wxg.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6105,
+      "flow": "videoLightbox",
+      "ts": 411922,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6106,
+      "flow": "videoLightbox",
+      "ts": 411923,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6107,
+      "flow": "videoLightbox",
+      "ts": 411923,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nbrxw.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6108,
+      "flow": "videoLightbox",
+      "ts": 411923,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/03/seaform_logo_ivory-1536x271.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6109,
+      "flow": "videoLightbox",
+      "ts": 411924,
+      "url": "https://www.seaform.com/wp-content/uploads/2023/12/seaform_logo_ivory-1536x271.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6110,
+      "flow": "videoLightbox",
+      "ts": 411924,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/03/seaform_nav_h.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6111,
+      "flow": "videoLightbox",
+      "ts": 411924,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_gaia_1_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6112,
+      "flow": "videoLightbox",
+      "ts": 411925,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_mono_3_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6113,
+      "flow": "videoLightbox",
+      "ts": 411925,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_synthesis_3_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6114,
+      "flow": "videoLightbox",
+      "ts": 411925,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_soho_2_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6115,
+      "flow": "videoLightbox",
+      "ts": 411926,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_purista_2_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6116,
+      "flow": "videoLightbox",
+      "ts": 411926,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_hamptons_2_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6117,
+      "flow": "videoLightbox",
+      "ts": 411939,
+      "url": "https://script.hotjar.com/modules.fe0d6537f87c9cb831d4.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6118,
+      "flow": "videoLightbox",
+      "ts": 411949,
+      "url": "https://static.elfsight.com/platform/platform.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6119,
+      "flow": "videoLightbox",
+      "ts": 412000,
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3446914&time=1793004248984&li_adsId=7ed6ee6a-4397-4ee1-9034-10dd6180cc6e&pageLoadId=d6e60406-6d90-4ad8-a9f9-7e8c2c2976d4&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6120,
+      "flow": "videoLightbox",
+      "ts": 412106,
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-10781790144&cx=c&gtm=4e6am0h2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6121,
+      "flow": "videoLightbox",
+      "ts": 412107,
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-80QZ6KQTKG&cx=c&gtm=4e6am0h2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6122,
+      "flow": "videoLightbox",
+      "ts": 412107,
+      "url": "https://www.clarity.ms/tag/j1o33t9lpr?ref=gtm2",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6123,
+      "flow": "videoLightbox",
+      "ts": 412107,
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6124,
+      "flow": "videoLightbox",
+      "ts": 412108,
+      "url": "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6125,
+      "flow": "videoLightbox",
+      "ts": 412183,
+      "url": "https://bzrcdn.openai.com/pixel-config/v1/Rphni1ihzKtsssCAQpjUyX.json",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6126,
+      "flow": "videoLightbox",
+      "ts": 412272,
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW/BDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2/zRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6++eA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO/xbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U+58+EmuDcd1/YfZ+3Q+TQQGupHYp/1Rxtn55nj79f4L4+xE24yBffbJjhQi",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6127,
+      "flow": "videoLightbox",
+      "ts": 412275,
+      "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW/BDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2/zRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6++eA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO/xbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U+58+EmuDcd1/YfZ+3Q+TQQGupHYp/1Rxtn55nj79f4L4+xE24yBffbJjhQi",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6128,
+      "flow": "videoLightbox",
+      "ts": 412275,
+      "url": "https://px.ads.linkedin.com/insight_tag_errors.gif?v=2&pid=3446914&error=version%3A%201000039%20%7C%20WebsiteActions-1000039-TypeError%3A%20Failed%20to%20fetch%3B%20ErrorData%3A%20%7B%22domain%22%3A%22seaform.com%22%2C%22requestFetcher%22%3A%22fetch-keepalive%22%2C%22body%22%3A%22H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW%2FBDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2%2FzRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6%2B%2BeA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO%2Fxbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U%2B58%2BEmuDcd1%2FYfZ%2B3Q%2BTQQGupHYp%2F1Rxtn55nj79f4L4%2BxE24yBffbJjhQi%2B8C%2B4%2Ba2pafIOIs%2BWGK5zmvIYKQZTLhMUwbxOlD3Z93B346nm6eH9tx27wu0ISYMlq79h8aJUpQNl7LJuS6o51Wpa14OdWl1qYSWDl7%2FAtxEXFb3AQAA%22%7D&href=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6129,
+      "flow": "videoLightbox",
+      "ts": 412330,
+      "url": "https://connect.facebook.net/signals/config/6149661951771957?v=2.9.428&r=canary&domain=www.seaform.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C74%2C91%2C331%2C330%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6130,
+      "flow": "videoLightbox",
+      "ts": 412365,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10781790144/?random=1793004249335&cv=11&fst=1793004249335&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6131,
+      "flow": "videoLightbox",
+      "ts": 412366,
+      "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004249335&cv=11&fst=1793004249335&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6132,
+      "flow": "videoLightbox",
+      "ts": 412366,
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=958763914.1793003851&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=307978215.1793004249&navt=n&npa=0&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793004249349&tfd=1972&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6133,
+      "flow": "videoLightbox",
+      "ts": 412398,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6am0h2v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004248858&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=6&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&gap.plf=5&tfd=2004",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6134,
+      "flow": "videoLightbox",
+      "ts": 412399,
+      "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004249335&cv=11&fst=1793004249335&fmt=3&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6135,
+      "flow": "videoLightbox",
+      "ts": 412400,
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=958763914.1793003851&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=307978215.1793004249&navt=n&npa=0&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793004249349&tfd=1972&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=3",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6136,
+      "flow": "videoLightbox",
+      "ts": 412402,
+      "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6am0h2v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004248858&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=6&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&gap.plf=5&tfd=2004",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6137,
+      "flow": "videoLightbox",
+      "ts": 412453,
+      "url": "https://www.google.com/pagead/1p-user-list/10781790144/?random=1793004249335&cv=11&fst=1793001600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3KQ_63QLhwT_G4VrW0Zs7H7O06PnT2ve-d_s7y-5lKoMzy97AN2ek5WibU7Xd2SHumDMl4B0SuqVd3LNCDVLrbjdr6wRZrGu7_0yBhj9tu6KYE8Bw5ereGpfizYa_lB_azXkIWNlJavrduCrFrH_9GRoOzQFHMDPeTH2t6ZY6LOv5w09oVZcyYp7wuWC-VJQfwEQ_1Uq6HH3x_EI1XutGpLJaWkXpzNyICU--u9mQDH0LmACrx7eUIxQtylx_3N0jybim4O0g6ZKMKdLTvyTesfT-uEw91uXpJtCg9A&random=2303496131&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6138,
+      "flow": "videoLightbox",
+      "ts": 412454,
+      "url": "https://www.google.com.bd/pagead/1p-user-list/10781790144/?random=1793004249335&cv=11&fst=1793001600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3KQ_63QLhwT_G4VrW0Zs7H7O06PnT2ve-d_s7y-5lKoMzy97AN2ek5WibU7Xd2SHumDMl4B0SuqVd3LNCDVLrbjdr6wRZrGu7_0yBhj9tu6KYE8Bw5ereGpfizYa_lB_azXkIWNlJavrduCrFrH_9GRoOzQFHMDPeTH2t6ZY6LOv5w09oVZcyYp7wuWC-VJQfwEQ_1Uq6HH3x_EI1XutGpLJaWkXpzNyICU--u9mQDH0LmACrx7eUIxQtylx_3N0jybim4O0g6ZKMKdLTvyTesfT-uEw91uXpJtCg9A&random=2303496131&rmt_tld=1&ipr=y",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6139,
+      "flow": "videoLightbox",
+      "ts": 412749,
+      "url": "https://connect.facebook.net//log/error?p=pixel&pn=SmartSetup&sl=1&v=2.9.428&e=Error%3A%20%5BSmartSetup%5D%20Rule%20processing%20issues&s=Error%3A%20%5BSmartSetup%5D%20Rule%20processing%20issues%0A%20%20%20%20at%20r%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A50%3A237)%0A%20%20%20%20at%20Ve%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A211%3A18533)%0A%20%20%20%20at%20je%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A211%3A18893)%0A%20%20%20%20at%20Object.%3Canonymous%3E%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A223%3A921)%0A%20%20%20%20at%20https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A66%3A803%0A%20%20%20%20at%20b%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A368%3A1706)%0A%20%20%20%20at%20e.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A66%3A677)%0A%20%20%20%20at%20tt%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A482%3A12739)%0A%20%20%20%20at%20ot%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A482%3A14339)%0A%20%20%20%20at%20b.fbq.b.fbq.Xe%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A482%3A11514)&ue=0&rs=canary&ed=%5B%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221717782329292303%22%5D%2C%22key%22%3A%22media_primary_image_url%22%7D%5D&rqm=FGET",
+      "method": "GET",
+      "type": "image",
+      "status": "FAILED",
+      "postData": null,
+      "failure": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "id": 6140,
+      "flow": "videoLightbox",
+      "ts": 412750,
+      "url": "https://www.facebook.com/tr/?id=6149661951771957&ev=PageView&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rl=&if=false&ts=1793004249726&iw=false&sw=1440&sh=900&v=2.9.428&r=canary&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1793003851415.69554899378220920&cs_est=true&ler=empty&pmd[title]=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&pmd[locale]=en_US&pmd[description]=The%20SEAFORM%20brand%3A%20more%20than%20a%20century%20of%20creating%20extraordinary%20spaces%20for%20home%20owners%2C%20interior%20designers%2C%20architects%20and%20developers.&iss=1&imft=1&tz=360&it=1793004249313&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep3&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&uppt=0&uvpt=0.20000000018626451&ttf=1766.2999999998137&bdt=182.6000000005588&bdsize=451531&btsize=118882&brbs=0&cdt=360&cdsize=429395&ctsize=107302&crbs=0&let=29.699999999254942&sspt=2&ssrcl=1&mftpt=2.6000000005587935&aamrpt=6.2999999998137355&estcl=1&fcp=1528&lcp=2024&ttfb=1029&rqm=GET",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6141,
+      "flow": "videoLightbox",
+      "ts": 413207,
+      "url": "https://scripts.clarity.ms/0.8.72-beta/clarity.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6142,
+      "flow": "videoLightbox",
+      "ts": 413437,
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004250419&ec=2",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\"",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6143,
+      "flow": "videoLightbox",
+      "ts": 413784,
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003콋v#Ǒ(�+���\u001cI\u0003��~P�=+��Xwl�kyf���\u001e�\u0002P �\r\u0002\u0018<����{�[���K�DdVUF�\u0000�E��ޥe�DDFddfDT>\"#\u001e\u0014���\u0003v�.�\u0018��m>\u0018�!\u001br&����[?_�\u0007�\u0001/��͔�_j���Ƃ���v�]m�./?|�p�)��r}w1Y�]no��x�/�����A>�z��\u000fݐ+ņ�y�v�Z�!�\u0001�Y\u0004\b7�o��9�C�����|�n0|]��\u001f�?n��`�!�g�x������-\u0014Zno�5@W�Mq���*\b�W�?�\u0004\u0000h\b\u001b���@K^\u000f~��k9����e_������\\��{g���:�n��\u0017�^����^ji/�ɾ�������\u001bf��]��s1y��:���zyW\\r�/\u0018������u\u0019I\u0006o�|���.��׃?�\u0016�/\u0001�������7���Q����._d�Rn'��b��C�",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6144,
+      "flow": "videoLightbox",
+      "ts": 413806,
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "{\"e\":[\"0.8.72-beta\",1,0,102,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,0,0,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[1,8,1440,7090],[31,11,1440,900],[31,28,1],[101,34,\"_clck\",[\"1eemsd0^2^gam^0^2490\"],\"lp_market\",[\"other\"],\"page_type\",[\"other\"],\"C_IS\",[\"0\",\"0\"]],[101,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6145,
+      "flow": "videoLightbox",
+      "ts": 413840,
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "{\"e\":[\"0.8.72-beta\",1,0,102,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,0,0,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[1,8,1440,7090],[31,11,1440,900],[31,28,1],[101,34,\"_clck\",[\"1eemsd0^2^gam^0^2490\"],\"lp_market\",[\"other\"],\"page_type\",[\"other\"],\"C_IS\",[\"0\",\"0\"]],[101,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6146,
+      "flow": "videoLightbox",
+      "ts": 413842,
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "{\"e\":[\"0.8.72-beta\",2,102,50,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,1,1,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[120,2,1,1,0],[141,2,1,2,0],[101,4,1,1440,7090,1440,900,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[152,0,2,56740,4,6,25,5],[152,35,3]]}",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6147,
+      "flow": "videoLightbox",
+      "ts": 415786,
+      "url": "https://core.service.elfsight.com/p/boot/?page=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&w=93522b5c-0b56-4c49-b499-857262b8f5f8",
+      "method": "GET",
+      "type": "xhr",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6148,
+      "flow": "videoLightbox",
+      "ts": 415876,
+      "url": "https://content.hotjar.io/?site_id=3207225&gzip=1",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�i��8�(�W8Y�>e7�\u0004�=�r�feeU���\u001a/��=\")�e�T�T.���c���e�\u0000$%.\u0000\bR���7��J\"�@ \u0000\u0004\u0002�X������~\u001d����?�����\u000f��JZ���?�'�I�$�K��\f�'�2��4�O����I��AQ\r\u0002�$�Oΐ|\u0012�+\f\u0007�>�O֛Y\u0014z��ɉ|��gy�*~}�\u001b\u0000���|���7\u0005�_>�~u\"��y���M\u001ed'g_N��Ͳ\u001d�ȍ\u0017'g'A�||���M����Mi@o4pu�c�\u0001\u001e\f��a�'yp�_&q\u001e����ɧ�SN�Yo��Շ�n�n�\u0005\u0018��\u000f?)v�\u000f�h�-Q��Q��(�z��/\u001d\u0014� :9;Y��<��\u0013�d�\u0006sB�|����.V녚��ӻy|\n� �\u000e\u0005C&�x��|���\u001f:h��}��(�j\bf^\u001a��L�\"7\r�{u��\u0002�V-�̂�=�\u001e��q'H��\u0002\u0001h",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6149,
+      "flow": "videoLightbox",
+      "ts": 415879,
+      "url": "https://www.seaform.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "method": "GET",
+      "type": "script",
+      "status": 302,
+      "postData": null
+    },
+    {
+      "id": 6150,
+      "flow": "videoLightbox",
+      "ts": 415920,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6151,
+      "flow": "videoLightbox",
+      "ts": 415925,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/section-frontend-handlers.d85ab872da118940910d.bundle.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6152,
+      "flow": "videoLightbox",
+      "ts": 415926,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.30dc2f9c080845a413a6.bundle.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6153,
+      "flow": "videoLightbox",
+      "ts": 415928,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/search-form.b7065999d77832a1b764.bundle.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6154,
+      "flow": "videoLightbox",
+      "ts": 415967,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/text-editor.c084ef86600b6f11690d.bundle.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6155,
+      "flow": "videoLightbox",
+      "ts": 416026,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/nav-menu.a23fbd67486c5bedf26c.bundle.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6156,
+      "flow": "videoLightbox",
+      "ts": 416035,
+      "url": "https://www.seaform.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/d2d3316b729e/main.js?",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6157,
+      "flow": "videoLightbox",
+      "ts": 416108,
+      "url": "https://www.googletagmanager.com/a?v=3&t=l&pid=1236725449&rv=6am0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u=AAAAAAAIAAAAACA&ut=Ag&h=Ag&gtm=45je6am0h2v9101307567za20gzb9101326777zd9101326777xf1&ccid=101307567&cid=G-80QZ6KQTKG&l=L1480.S29.B25.E3734.I5392.TC39.HTC0.F1528.C1~gtm.init_consent.S1.V0.E26~gtm.init.S0.V0.E36.TS5ogtautoevents.TI17.TE0.TS5ogtgasend.TI12.TE0.TS5ogtreferralexclusion.TI14.TE0.TS5ogtsessiontimeout.TI15.TE0.TS5ogt1pdatav2.TI16.TE0.TS5setproductsettings.TI48.TE0.TS5ogtgooglesignals.TI47.TE0.TS5ccdgaregscope.TI46.TE0.TS5ccdaddecs.TI45.TE0.TS5ccdemdownload.TI44.TE0.TS5ccdemform.TI43.TE0.TS5ccdemoutboundclick.TI42.TE0.TS5ccdempageview.TI41.TE0.TS5ccdemscroll.TI40.TE0.TS5ccdemsitesearch.TI39.TE0.TS5ccdemvideo.TI38.TE0.TS5ccdconversionmarking.TI37.TE0.TS5ogteventcreate.TI36.TE0.TS5ogteventcreate.TI35.TE0.TS5ogteventcreate.TI34.TE0.TS5ogteventcreate.TI32.TE0.TS5ogteventcreate.TI30.TE0.TS5ogteventcreate.TI28.TE0.TS5ogteventcreate.TI27.TE0.TS5ogteventcreate.TI26.TE0.TS5ogteventcreate.TI25.TE0.TS5ogteventcreate.TI24.TE0.TS5ogteventcreate.TI23.TE0.TS5ccdadd1pdata.TI22.TE0.TS5ccdadd1pdata.TI21.TE0.TS5ccdautoredact.TI20.TE0.TS5ccdgafirst.TI49.TE23.TS5ogteventcreate.TI33.TE20.TS5ogteventcreate.TI31.TE20.TS5ogteventcreate.TI29.TE20.TS5ccdgaadslink.TI19.TE19.TS5ccdgalast.TI18.TE19~gtm.js.S0.V0.E19.TS5gct.TI10.TE0.TS5destga.TI8.TE0~gtm.dom.S0.V0.E47~gtm.load.S0.V0.E8~GA524",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6158,
+      "flow": "videoLightbox",
+      "ts": 416175,
+      "url": "https://www.seaform.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.6719809582932841:1793002215:U_0SA1USmBxC6H0TV-wAoAFbpmwLBHoYKITzfsX95Cs/a5082d660aa340c9",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "XdcAfFNzs4AGqez2m0SNPlSzemVO+7SFmkG7N3zUv+kY$96jqoN8y0wib65m2s50gSAdp9SZ0zU+xuIgy-UfkWqTqgcP9tZUBu2QN-+MjxQtMXhVgy2FMce4iPLiHOS1vOikTYEb41dq19nkXUbqv3n8-GNkv9tkHTIFreu1io2zCAuP6UB3pLYKwtR+LkUuqzlYOIYMSCyYwA9inQVWQCP5lkuoIaW9Is7BkXOARkw6sbMvuRe-3uicCOeQGTxfAhFFe75f8Ql-LSUVelIB7BiSqc3AZ6f9yA6oYarIzb65poUtXO$BEZVvf0K74$8YjStG0-2eMviRove4WqX-usz+tqdMhwITNpihzji6Fafu8TzixtolM+2Vm8sUyut27GYxSYauW8W-DKO8",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6159,
+      "flow": "videoLightbox",
+      "ts": 418686,
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004255668&ec=2",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\"",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6160,
+      "flow": "videoLightbox",
+      "ts": 420945,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/SEA-corporate-pdrsgm2wj16dsu6fi0pe9qgq0dm6ptkdhuq6yzvda8.png",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6161,
+      "flow": "videoLightbox",
+      "ts": 420947,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/BELVEDERE_VISTA_GENERALE_CShading_LightMix-1-scaled-qjsor5kuisu4b9xv3ol3s0c5rjrls18jvg814byy48.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6162,
+      "flow": "videoLightbox",
+      "ts": 420948,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/seaform_fascination-2-pdrsgn0t5ksd04304rup7zelrclb5ls9zsgaiuysb4.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6163,
+      "flow": "videoLightbox",
+      "ts": 420948,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/made-in-germany-pdrsgnyncetnbq1mza9bsh62cqgodaw0bx3s04xe4w.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6164,
+      "flow": "videoLightbox",
+      "ts": 420948,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/seaform_projects-2-pdrsgn0t5ksd04304rup7zelrclb5ls9zsgaiuysb4.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6165,
+      "flow": "videoLightbox",
+      "ts": 420949,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/SEA-contract-division-pdrsgm2wj16dlh06r9bgzgpf7fty05ugo49tco07wg.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6166,
+      "flow": "videoLightbox",
+      "ts": 420950,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/thumbs/notebook-pdrsgm2wj18le6mwny6296ggpfsbz4k2sppd97gj5s.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6167,
+      "flow": "videoLightbox",
+      "ts": 420950,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_cube_4_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6168,
+      "flow": "videoLightbox",
+      "ts": 420951,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_cube_plus_2_col.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6169,
+      "flow": "videoLightbox",
+      "ts": 421005,
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n6149661951771957\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nSubscribedButtonClick\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.seaform.com/the-brand/\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition:",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6170,
+      "flow": "videoLightbox",
+      "ts": 421005,
+      "url": "https://connect.facebook.net//log/error?p=pixel&pn=SmartSetup&sl=1&v=2.9.428&e=Error%3A%20%5BSmartSetup%5D%20Rule%20processing%20issues&s=Error%3A%20%5BSmartSetup%5D%20Rule%20processing%20issues%0A%20%20%20%20at%20r%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A50%3A237)%0A%20%20%20%20at%20Ve%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A211%3A18533)%0A%20%20%20%20at%20je%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A211%3A18893)%0A%20%20%20%20at%20Object.%3Canonymous%3E%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F6149661951771957%3Fv%3D2.9.428%26r%3Dcanary%26domain%3Dwww.seaform.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C74%252C91%252C331%252C330%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A223%3A921)%0A%20%20%20%20at%20https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A66%3A803%0A%20%20%20%20at%20b%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A368%3A1706)%0A%20%20%20%20at%20e.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A66%3A677)%0A%20%20%20%20at%20b.fbq.b.fbq.tt%20%5Bas%20getEventCustomParameters%5D%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A482%3A12739)%0A%20%20%20%20at%20o.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A142%3A11095)%0A%20%20%20%20at%20o.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A142%3A9905)&ue=0&rs=canary&ed=%5B%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221717782329292303%22%5D%2C%22key%22%3A%22media_primary_image_url%22%7D%5D&rqm=FGET",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6171,
+      "flow": "videoLightbox",
+      "ts": 421007,
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004257985&ec=2",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\"",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6172,
+      "flow": "videoLightbox",
+      "ts": 421009,
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "H4sIAAAAAAAAA+1ZzW7jNhB+FWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD/+i+w42W6RQ04WNcNvZr7hzJj2HRScGUg+n4ThIA7CGw9MpnlhP6E2XElIAt/3/ZPYA8tzhCSI4hPfD/unURzGHjCVUy4hAYN0onR+lKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH/KNEYy8ZJBAOfTyJ+wFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA/9ARmw2CchZUNC40lMIhxm/awfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5c",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6173,
+      "flow": "videoLightbox",
+      "ts": 421012,
+      "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "H4sIAAAAAAAAA+1ZzW7jNhB+FWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD/+i+w42W6RQ04WNcNvZr7hzJj2HRScGUg+n4ThIA7CGw9MpnlhP6E2XElIAt/3/ZPYA8tzhCSI4hPfD/unURzGHjCVUy4hAYN0onR+lKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH/KNEYy8ZJBAOfTyJ+wFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA/9ARmw2CchZUNC40lMIhxm/awfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5c",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6174,
+      "flow": "videoLightbox",
+      "ts": 421013,
+      "url": "https://px.ads.linkedin.com/insight_tag_errors.gif?v=2&pid=3446914&error=version%3A%201000039%20%7C%20WebsiteActions-1000039-TypeError%3A%20Failed%20to%20fetch%3B%20ErrorData%3A%20%7B%22domain%22%3A%22seaform.com%22%2C%22requestFetcher%22%3A%22fetch-keepalive%22%2C%22body%22%3A%22H4sIAAAAAAAAA%2B1ZzW7jNhB%2BFWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD%2F%2Bi%2Bw42W6RQ04WNcNvZr7hzJj2HRScGUg%2Bn4ThIA7CGw9MpnlhP6E2XElIAt%2F3%2FZPYA8tzhCSI4hPfD%2FunURzGHjCVUy4hAYN0onR%2BlKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH%2FKNEYy8ZJBAOfTyJ%2BwFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA%2F9ARmw2CchZUNC40lMIhxm%2FawfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5ccysQErieYe%2BNC7RHeldvz9799vFDj%2FQuUOdU9n7hNpuhNL2fe79TzbRK0fRIz3CZYS%2BIgwg8mGEOiSyF8MBUBF3fFg74%2FP3l%2BS9OrnGyRvJ8Pj9aJzpXUk01zR3PTOVn1mqelhaNiwYF5ijtFeZUWp7VyLWtRvSJinL73bqapdNfqTsQcAYepDT7OtWqlOwyp1O80lmrx7vWZ8Iu11KivsZFQ3drqSaxVslKbZSGBArFpUUN9822t7WyO747QoLLD2cXb%2BEZUV1%2BuDgwrp0ZmBckU9KitMdlIRRl5rjv94NjP2wrYtwmaRyMMyWOvhRTWKeorapeq9cLepkS8EzabpaK57rMU3OtESvuVmEz%2Fid4IO3sfMYFgyTwgLuyUKVFTeaaFuBBJqgx7iB9hkxocOfTItzce4cgdWNsba6aStfuRtDpAamEj7jhN0BNZnaG5OSUS3zg2i7AQvOc6ttdWM4W1Uif6N%2FOWFv543Br%2B5vsK706MkqTfjgIN14IlVHLlSSGy6lAJ5O2Cm3WPrhO5z6UseQkjp1XltrSkKJMBTcz8MDeFkgqvRsP6Eb7YdRSsrJn61qtrZEGekunIqXxdEtUOdFgLN%2BOBU%2B1y8f9JkEGMxfaISS1Jja4aZ4IzVJM42hDtsJ%2B8I5MSiHGc87srFM8Qz6dWcJwQkthn6piVbFm%2FAtaUlBNhaCL5evuHFSsrkJZJ3bcZmWJW0kNWsvl1EACdyNnatyaGgt6q0o7FtzYkWsr3eKqu40guRu5bwkjSEYwAm8EnK2eDf%2BGzereG8G4kZ2yeIgYVio7oceWpgLt0yzsRstVysUT%2Fe1CMwUia2Akt5X2T%2BubT%2F3m2TjybnbhuKxUm02mlRA7uWBc14kbNfOgW22yOFTz25hLhotV0F1K6XS8aGPZJa8S9M9ff29XZsfA6KzKTIkyl2RKCyLVRhk8pWfvgiaB72%2BBOnNdPaCzL%2Fh%2BPBxMggfl2cDsKcPVzq4ybPY%2FwtkjnYwUqijrb77r%2Fs05m2IzCp%2FJ3D5K%2BoNB4Ef9DpNdXtgZ5lj39OWM203aCruLtKWVSlivWtlDO0dta30myU0A33sKN0hxs%2FXA8Tkv9o3OekjvmZzV3gOGZfiMExBhOAwn9OBhmarF1hF9CXNyFcULn5PRKYtp1n%2Bdk69zsp6TXbXwEoYljZBmk8kzhuVq5wsall3tcld29t8tTjCKN79DVBf%2BfU3zf2ikT79YtHG88Ibph9GQ%2Bf5rw3xtmD%2B4YZ5%2BV79MByH2h2FHY3i8Y672vqCO%2BV9cLwYYxOkkmBx4v6iqr%2FPiUZX3uP6RhnA5Q827ELY19nC%2B5tpTryeVmz%2F6RkL3oEhFhOv%2FqVo8DPHg%2Fx7u3Y%2FO3LzjwqJG9ub2XHCXyPofk%2Ft%2FAcZquP5%2FGgAA%22%7D&href=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6175,
+      "flow": "videoLightbox",
+      "ts": 421358,
+      "url": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6176,
+      "flow": "videoLightbox",
+      "ts": 421359,
+      "url": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-extra-adv.min.css?ver=1791982880",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6177,
+      "flow": "videoLightbox",
+      "ts": 421360,
+      "url": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/css/main/plus-extra-adv/plus-alignmnet.css?ver=1791982880",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6178,
+      "flow": "videoLightbox",
+      "ts": 421360,
+      "url": "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/navigation-menu/plus-nav-menu.min.css?ver=1791982880",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6179,
+      "flow": "videoLightbox",
+      "ts": 421361,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6180,
+      "flow": "videoLightbox",
+      "ts": 421361,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6181,
+      "flow": "videoLightbox",
+      "ts": 421361,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6182,
+      "flow": "videoLightbox",
+      "ts": 421361,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6183,
+      "flow": "videoLightbox",
+      "ts": 421361,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6184,
+      "flow": "videoLightbox",
+      "ts": 421362,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6185,
+      "flow": "videoLightbox",
+      "ts": 421364,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6186,
+      "flow": "videoLightbox",
+      "ts": 421364,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6187,
+      "flow": "videoLightbox",
+      "ts": 421365,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6188,
+      "flow": "videoLightbox",
+      "ts": 421365,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6189,
+      "flow": "videoLightbox",
+      "ts": 421365,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6190,
+      "flow": "videoLightbox",
+      "ts": 421365,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6191,
+      "flow": "videoLightbox",
+      "ts": 421366,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6192,
+      "flow": "videoLightbox",
+      "ts": 421366,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6193,
+      "flow": "videoLightbox",
+      "ts": 421366,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6194,
+      "flow": "videoLightbox",
+      "ts": 421367,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6195,
+      "flow": "videoLightbox",
+      "ts": 421367,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6196,
+      "flow": "videoLightbox",
+      "ts": 421367,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6197,
+      "flow": "videoLightbox",
+      "ts": 421368,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6198,
+      "flow": "videoLightbox",
+      "ts": 421368,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6199,
+      "flow": "videoLightbox",
+      "ts": 421368,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6200,
+      "flow": "videoLightbox",
+      "ts": 421369,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6201,
+      "flow": "videoLightbox",
+      "ts": 421369,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-160.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6202,
+      "flow": "videoLightbox",
+      "ts": 421369,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-241.css?ver=1791982880",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6203,
+      "flow": "videoLightbox",
+      "ts": 421373,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-1022.css?ver=1790154091",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6204,
+      "flow": "videoLightbox",
+      "ts": 421374,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-223.css?ver=1790079879",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6205,
+      "flow": "videoLightbox",
+      "ts": 421374,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2464.css?ver=1790079879",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6206,
+      "flow": "videoLightbox",
+      "ts": 421374,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-3134.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6207,
+      "flow": "videoLightbox",
+      "ts": 421375,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2992.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6208,
+      "flow": "videoLightbox",
+      "ts": 421375,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2671.css?ver=1791222314",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6209,
+      "flow": "videoLightbox",
+      "ts": 421375,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2469.css?ver=1790079605",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6210,
+      "flow": "videoLightbox",
+      "ts": 421376,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2467.css?ver=1790079606",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6211,
+      "flow": "videoLightbox",
+      "ts": 421376,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-2465.css?ver=1790079606",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6212,
+      "flow": "videoLightbox",
+      "ts": 421376,
+      "url": "https://www.seaform.com/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6213,
+      "flow": "videoLightbox",
+      "ts": 421377,
+      "url": "https://www.seaform.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=7.1.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6214,
+      "flow": "videoLightbox",
+      "ts": 421377,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1747932174",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6215,
+      "flow": "videoLightbox",
+      "ts": 421377,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1747932187",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6216,
+      "flow": "videoLightbox",
+      "ts": 421381,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1747932196",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6217,
+      "flow": "videoLightbox",
+      "ts": 421382,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/lato.css?ver=1747932199",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6218,
+      "flow": "videoLightbox",
+      "ts": 421382,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1747932214",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6219,
+      "flow": "videoLightbox",
+      "ts": 421382,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/css/josefinsans.css?ver=1747932222",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6220,
+      "flow": "videoLightbox",
+      "ts": 421382,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6221,
+      "flow": "videoLightbox",
+      "ts": 421383,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6222,
+      "flow": "videoLightbox",
+      "ts": 421383,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6223,
+      "flow": "videoLightbox",
+      "ts": 421383,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6224,
+      "flow": "videoLightbox",
+      "ts": 421383,
+      "url": "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/js.cookie.js?ver=7.1.3",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6225,
+      "flow": "videoLightbox",
+      "ts": 421384,
+      "url": "https://www.seaform.com/wp-content/plugins/handl-utm-grabber-v3/js/handl-utm-grabber.js?ver=7.1.3",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6226,
+      "flow": "videoLightbox",
+      "ts": 421384,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-966.css?ver=1792059107",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6227,
+      "flow": "videoLightbox",
+      "ts": 421384,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.29.0",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6228,
+      "flow": "videoLightbox",
+      "ts": 421384,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-351.css?ver=1792226246",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6229,
+      "flow": "videoLightbox",
+      "ts": 421385,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-377.css?ver=1792191337",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6230,
+      "flow": "videoLightbox",
+      "ts": 421385,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/css/post-409.css?ver=1792002335",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6231,
+      "flow": "videoLightbox",
+      "ts": 421385,
+      "url": "https://www.seaform.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.7.6",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6232,
+      "flow": "videoLightbox",
+      "ts": 421386,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_monogram_3.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6233,
+      "flow": "videoLightbox",
+      "ts": 421386,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_monogram_4.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6234,
+      "flow": "videoLightbox",
+      "ts": 421386,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/01/seaform-concierge-white.svg",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6235,
+      "flow": "videoLightbox",
+      "ts": 421721,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_monogram_6.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6236,
+      "flow": "videoLightbox",
+      "ts": 421722,
+      "url": "https://www.seaform.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6237,
+      "flow": "videoLightbox",
+      "ts": 421722,
+      "url": "https://www.seaform.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6238,
+      "flow": "videoLightbox",
+      "ts": 421723,
+      "url": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6239,
+      "flow": "videoLightbox",
+      "ts": 421723,
+      "url": "https://www.seaform.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6240,
+      "flow": "videoLightbox",
+      "ts": 421724,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro-form-widget-pipedrive-integration/resources/compiled/theme/js/app.js?id=120c696893da2ebff2ac0949e663b8f5",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6241,
+      "flow": "videoLightbox",
+      "ts": 421724,
+      "url": "https://www.seaform.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.0.24",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6242,
+      "flow": "videoLightbox",
+      "ts": 421724,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6243,
+      "flow": "videoLightbox",
+      "ts": 421725,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6244,
+      "flow": "videoLightbox",
+      "ts": 421726,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6245,
+      "flow": "videoLightbox",
+      "ts": 421726,
+      "url": "https://www.seaform.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/navigation-menu/plus-nav-menu.min.js?ver=1791982880",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6246,
+      "flow": "videoLightbox",
+      "ts": 421727,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.14.2",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6247,
+      "flow": "videoLightbox",
+      "ts": 421727,
+      "url": "https://www.seaform.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6248,
+      "flow": "videoLightbox",
+      "ts": 421729,
+      "url": "https://www.seaform.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6249,
+      "flow": "videoLightbox",
+      "ts": 421730,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6250,
+      "flow": "videoLightbox",
+      "ts": 421730,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6251,
+      "flow": "videoLightbox",
+      "ts": 421730,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6252,
+      "flow": "videoLightbox",
+      "ts": 421731,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6253,
+      "flow": "videoLightbox",
+      "ts": 421731,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6254,
+      "flow": "videoLightbox",
+      "ts": 421732,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6255,
+      "flow": "videoLightbox",
+      "ts": 421734,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6256,
+      "flow": "videoLightbox",
+      "ts": 421735,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6257,
+      "flow": "videoLightbox",
+      "ts": 421735,
+      "url": "https://www.seaform.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.9",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6258,
+      "flow": "videoLightbox",
+      "ts": 421736,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6259,
+      "flow": "videoLightbox",
+      "ts": 421736,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6260,
+      "flow": "videoLightbox",
+      "ts": 421739,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6261,
+      "flow": "videoLightbox",
+      "ts": 421740,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6262,
+      "flow": "videoLightbox",
+      "ts": 421740,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6263,
+      "flow": "videoLightbox",
+      "ts": 421740,
+      "url": "https://www.seaform.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=7.1.3",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6264,
+      "flow": "videoLightbox",
+      "ts": 421741,
+      "url": "https://www.seaform.com/wp-content/plugins/events-tracker-for-elementor/frontend/js/app.js?ver=1747932072",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6265,
+      "flow": "videoLightbox",
+      "ts": 421741,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6266,
+      "flow": "videoLightbox",
+      "ts": 421741,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6267,
+      "flow": "videoLightbox",
+      "ts": 421742,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.0",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6268,
+      "flow": "videoLightbox",
+      "ts": 421742,
+      "url": "https://www.seaform.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.7.6",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6269,
+      "flow": "videoLightbox",
+      "ts": 421742,
+      "url": "https://www.seaform.com/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/wrapper-link/plus-section-column-link.min.js?ver=6.3.5",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6270,
+      "flow": "videoLightbox",
+      "ts": 421742,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6271,
+      "flow": "videoLightbox",
+      "ts": 421744,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6272,
+      "flow": "videoLightbox",
+      "ts": 421745,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6273,
+      "flow": "videoLightbox",
+      "ts": 421745,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6274,
+      "flow": "videoLightbox",
+      "ts": 421745,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Bullet/Assets/dist/w-bullet.min.js?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6275,
+      "flow": "videoLightbox",
+      "ts": 421746,
+      "url": "https://www.seaform.com/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3Pro/Widget/Indicator/IndicatorStripe/Assets/dist/w-indicator-stripe.min.js?ver=8ff2e0c4",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6276,
+      "flow": "videoLightbox",
+      "ts": 421746,
+      "url": "https://apps.elfsight.com/p/platform.js",
+      "method": "GET",
+      "type": "script",
+      "status": 301,
+      "postData": null
+    },
+    {
+      "id": 6277,
+      "flow": "videoLightbox",
+      "ts": 421746,
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6278,
+      "flow": "videoLightbox",
+      "ts": 421747,
+      "url": "https://static.hotjar.com/c/hotjar-3207225.js?sv=6",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6279,
+      "flow": "videoLightbox",
+      "ts": 421747,
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WC723CB",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6280,
+      "flow": "videoLightbox",
+      "ts": 421758,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_monogram_bg_1.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6281,
+      "flow": "videoLightbox",
+      "ts": 421758,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_monogram_bg2.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6282,
+      "flow": "videoLightbox",
+      "ts": 421759,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_concierge_blue.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6283,
+      "flow": "videoLightbox",
+      "ts": 421760,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_monogram_5.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6284,
+      "flow": "videoLightbox",
+      "ts": 421760,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6285,
+      "flow": "videoLightbox",
+      "ts": 421761,
+      "url": "https://seaform.com/wp-content/uploads/2020/12/Linotype-OptimaLTStd.woff",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6286,
+      "flow": "videoLightbox",
+      "ts": 421761,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6287,
+      "flow": "videoLightbox",
+      "ts": 421761,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/lato-s6uyw4bmutphjx4wxg.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6288,
+      "flow": "videoLightbox",
+      "ts": 421761,
+      "url": "https://www.seaform.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6289,
+      "flow": "videoLightbox",
+      "ts": 421763,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6290,
+      "flow": "videoLightbox",
+      "ts": 421763,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nbrxw.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6291,
+      "flow": "videoLightbox",
+      "ts": 421764,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/03/seaform_logo_ivory-1536x271.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6292,
+      "flow": "videoLightbox",
+      "ts": 421764,
+      "url": "https://www.seaform.com/wp-content/uploads/2023/12/seaform_logo_ivory-1536x271.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6293,
+      "flow": "videoLightbox",
+      "ts": 421765,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/03/seaform_nav_h.png",
+      "method": "GET",
+      "type": "image",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6294,
+      "flow": "videoLightbox",
+      "ts": 421791,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/08/seaform_9_stone_veneer.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6295,
+      "flow": "videoLightbox",
+      "ts": 421791,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_accessories.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6296,
+      "flow": "videoLightbox",
+      "ts": 421792,
+      "url": "https://www.seaform.com/wp-content/uploads/2021/04/seaform_monogram_m1_3_small.jpg",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6297,
+      "flow": "videoLightbox",
+      "ts": 421792,
+      "url": "https://www.seaform.com/wp-content/uploads/elementor/google-fonts/fonts/lato-s6u9w4bmutphh7usswipgq.woff2",
+      "method": "GET",
+      "type": "font",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6298,
+      "flow": "videoLightbox",
+      "ts": 421841,
+      "url": "https://static.elfsight.com/platform/platform.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6299,
+      "flow": "videoLightbox",
+      "ts": 421843,
+      "url": "https://script.hotjar.com/modules.fe0d6537f87c9cb831d4.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6300,
+      "flow": "videoLightbox",
+      "ts": 422169,
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-10781790144&cx=c&gtm=4e6al1h1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6301,
+      "flow": "videoLightbox",
+      "ts": 422169,
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-80QZ6KQTKG&cx=c&gtm=4e6al1h1",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6302,
+      "flow": "videoLightbox",
+      "ts": 422170,
+      "url": "https://www.clarity.ms/tag/j1o33t9lpr?ref=gtm2",
+      "method": "GET",
+      "type": "script",
+      "status": null,
+      "postData": null
+    },
+    {
+      "id": 6303,
+      "flow": "videoLightbox",
+      "ts": 422170,
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6304,
+      "flow": "videoLightbox",
+      "ts": 422171,
+      "url": "https://bzrcdn.openai.com/sdk/oaiq.min.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6305,
+      "flow": "videoLightbox",
+      "ts": 422689,
+      "url": "https://connect.facebook.net/signals/config/6149661951771957?v=2.9.427&r=stable&domain=www.seaform.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6306,
+      "flow": "videoLightbox",
+      "ts": 422872,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10781790144/?random=1793004259829&cv=11&fst=1793004259829&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6307,
+      "flow": "videoLightbox",
+      "ts": 422873,
+      "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004259829&cv=11&fst=1793004259829&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6308,
+      "flow": "videoLightbox",
+      "ts": 422874,
+      "url": "https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=958763914.1793003851&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=675526855.1793004260&navt=n&npa=0&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793004259855&tfd=1870&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=8",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6309,
+      "flow": "videoLightbox",
+      "ts": 422875,
+      "url": "https://bzrcdn.openai.com/pixel-config/v1/Rphni1ihzKtsssCAQpjUyX.json",
+      "method": "GET",
+      "type": "fetch",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6310,
+      "flow": "videoLightbox",
+      "ts": 422960,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1h1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004258702&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&tfd=1957",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6311,
+      "flow": "videoLightbox",
+      "ts": 422962,
+      "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004259829&cv=11&fst=1793004259829&fmt=3&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6312,
+      "flow": "videoLightbox",
+      "ts": 422963,
+      "url": "https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=958763914.1793003851&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=675526855.1793004260&navt=n&npa=0&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793004259855&tfd=1870&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=3",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6313,
+      "flow": "videoLightbox",
+      "ts": 422964,
+      "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1h1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004258702&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&tfd=1957",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6314,
+      "flow": "videoLightbox",
+      "ts": 422979,
+      "url": "https://www.google.com/pagead/1p-user-list/10781790144/?random=1793004259829&cv=11&fst=1793001600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3HWfBBvQmFZ_3CLAJ5JIlrtR7xVJIvP_b0uXaFLH3kULDv8huop2tGC9lgj2JiWtZV0jbTJYAjGLYYOPmqMtei9UXCCBFx3zxx9UP3RDLqg1egZbeFeJZW7DAaaUe6bkyQNOXf6s5L6h5oK77VzIHB04oMupncXrI2skR1tKkSE-5JDE56i_ziaHHNZ7ZhzL9mtEjhzBgDPPDRDtdW-7CNRWwHHXsb6DD7r9EvAUxCHY8FCTY-w5IdQeoeMXKDIj6NmpVbOS_BOYEdiRxlyFXrVMaeQHru6jXII6Nro&random=1200559288&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6315,
+      "flow": "videoLightbox",
+      "ts": 422979,
+      "url": "https://www.google.com.bd/pagead/1p-user-list/10781790144/?random=1793004259829&cv=11&fst=1793001600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3HWfBBvQmFZ_3CLAJ5JIlrtR7xVJIvP_b0uXaFLH3kULDv8huop2tGC9lgj2JiWtZV0jbTJYAjGLYYOPmqMtei9UXCCBFx3zxx9UP3RDLqg1egZbeFeJZW7DAaaUe6bkyQNOXf6s5L6h5oK77VzIHB04oMupncXrI2skR1tKkSE-5JDE56i_ziaHHNZ7ZhzL9mtEjhzBgDPPDRDtdW-7CNRWwHHXsb6DD7r9EvAUxCHY8FCTY-w5IdQeoeMXKDIj6NmpVbOS_BOYEdiRxlyFXrVMaeQHru6jXII6Nro&random=1200559288&rmt_tld=1&ipr=y",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6316,
+      "flow": "videoLightbox",
+      "ts": 423102,
+      "url": "https://www.facebook.com/tr/?id=6149661951771957&ev=PageView&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&rl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&if=false&ts=1793004260080&iw=false&sw=1440&sh=900&v=2.9.427&r=stable&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1793003851415.69554899378220920&cs_est=true&ler=empty&pmd[title]=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&pmd[locale]=en_US&pmd[description]=Monogram%20kitchen%20collection%20by%20SEAFORM%2C%20M1%20and%20M2%3A%20exclusive%20wood%2C%20marble%2C%20glass%20and%20metal%20with%20lavish%20interiors.%20The%20pinnacle%20of%20luxury.&iss=1&imft=1&tz=360&it=1793004259673&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep3&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv0&expv2[51]=oq0&rqm=GET",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6317,
+      "flow": "videoLightbox",
+      "ts": 423353,
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3446914&time=1793004260337&li_adsId=7ed6ee6a-4397-4ee1-9034-10dd6180cc6e&pageLoadId=09323a5c-3cdb-4db5-accf-2c72ab9a5b4c&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6318,
+      "flow": "videoLightbox",
+      "ts": 423640,
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "H4sIAAAAAAAAA02QQYvbMBCF/4qYQ09SI1uyY+mWw24w3aVlE7aHUspIGieituxaCqUs+99Lskvp8TG8b957L7DEkMF+U1q3ptLfOWS/xqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0/A4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl+XSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo/bZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB/sCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU+x+DOlzD6w",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6319,
+      "flow": "videoLightbox",
+      "ts": 423643,
+      "url": "https://px.ads.linkedin.com/insight_tag_errors.gif?v=2&pid=3446914&error=version%3A%201000039%20%7C%20WebsiteActions-1000039-TypeError%3A%20Failed%20to%20fetch%3B%20ErrorData%3A%20%7B%22domain%22%3A%22seaform.com%22%2C%22requestFetcher%22%3A%22fetch-keepalive%22%2C%22body%22%3A%22H4sIAAAAAAAAA02QQYvbMBCF%2F4qYQ09SI1uyY%2BmWw24w3aVlE7aHUspIGieituxaCqUs%2B99Lskvp8TG8b957L7DEkMF%2BU1q3ptLfOWS%2FxqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0%2FA4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl%2BXSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo%2FbZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB%2FsCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU%2Bx%2BDOlzD6wr7iGdXaUmWA5Jk%2BsMtUWOJxpApsu48gh3%2FY5%2Flmu3C%2B7%2Fd2P5%2F7QH98H6FMumDzd4hs5eNfoRmBnBoFOdgLJNMLVaqid11hvDbz%2BBfxH14f1AQAA%22%7D&href=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F",
+      "method": "GET",
+      "type": "image",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 6320,
+      "flow": "videoLightbox",
+      "ts": 423643,
+      "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+      "method": "POST",
+      "type": "ping",
+      "status": "FAILED",
+      "postData": "H4sIAAAAAAAAA02QQYvbMBCF/4qYQ09SI1uyY+mWw24w3aVlE7aHUspIGieituxaCqUs+99Lskvp8TG8b957L7DEkMF+U1q3ptLfOWS/xqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0/A4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl+XSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo/bZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB/sCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU+x+DOlzD6w",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 6321,
+      "flow": "videoLightbox",
+      "ts": 424127,
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004261110&ec=2",
+      "method": "POST",
+      "type": "fetch",
+      "status": "FAILED",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004259859,\"id\":\"068670fb-5bbe-4d47-ae38-81cb9a908bb9\",\"source_url\":\"https://www.seaform.com/monogram/\",\"referrer_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004260051,\"id\":\"d",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    }
+  ],
+  "network": {
+    "total": 324,
+    "byDomain": [
+      {
+        "domain": "www.seaform.com",
+        "count": 249
+      },
+      {
+        "domain": "www.google.com",
+        "count": 12
+      },
+      {
+        "domain": "px.ads.linkedin.com",
+        "count": 11
+      },
+      {
+        "domain": "www.googletagmanager.com",
+        "count": 7
+      },
+      {
+        "domain": "connect.facebook.net",
+        "count": 6
+      },
+      {
+        "domain": "bzr.openai.com",
+        "count": 5
+      },
+      {
+        "domain": "bzrcdn.openai.com",
+        "count": 4
+      },
+      {
+        "domain": "b.clarity.ms",
+        "count": 4
+      },
+      {
+        "domain": "www.facebook.com",
+        "count": 3
+      },
+      {
+        "domain": "apps.elfsight.com",
+        "count": 2
+      },
+      {
+        "domain": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "domain": "static.hotjar.com",
+        "count": 2
+      },
+      {
+        "domain": "seaform.com",
+        "count": 2
+      },
+      {
+        "domain": "script.hotjar.com",
+        "count": 2
+      },
+      {
+        "domain": "static.elfsight.com",
+        "count": 2
+      },
+      {
+        "domain": "www.clarity.ms",
+        "count": 2
+      },
+      {
+        "domain": "googleads.g.doubleclick.net",
+        "count": 2
+      },
+      {
+        "domain": "analytics.google.com",
+        "count": 2
+      },
+      {
+        "domain": "www.google.com.bd",
+        "count": 2
+      },
+      {
+        "domain": "scripts.clarity.ms",
+        "count": 1
+      },
+      {
+        "domain": "core.service.elfsight.com",
+        "count": 1
+      },
+      {
+        "domain": "content.hotjar.io",
+        "count": 1
+      }
+    ],
+    "byType": [
+      {
+        "type": "script",
+        "count": 117
+      },
+      {
+        "type": "stylesheet",
+        "count": 105
+      },
+      {
+        "type": "image",
+        "count": 56
+      },
+      {
+        "type": "fetch",
+        "count": 16
+      },
+      {
+        "type": "font",
+        "count": 15
+      },
+      {
+        "type": "ping",
+        "count": 7
+      },
+      {
+        "type": "xhr",
+        "count": 6
+      },
+      {
+        "type": "document",
+        "count": 2
+      }
+    ],
+    "nonGet": [
+      {
+        "id": 5998,
+        "flow": "videoLightbox",
+        "ts": 410394,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004247377&ec=2",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004232418,\"id\":\"e57f474e-6d45-4950-8f74-7221575210d5\",\"source_url\":\"https://www.seaform.com/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004232498,\"id\":\"923d4328-da2b-46aa-828a-37412aeafcc1\",\"data\":{\"type\":\"diagnost",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6126,
+        "flow": "videoLightbox",
+        "ts": 412272,
+        "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW/BDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2/zRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6++eA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO/xbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U+58+EmuDcd1/YfZ+3Q+TQQGupHYp/1Rxtn55nj79f4L4+xE24yBffbJjhQi",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6127,
+        "flow": "videoLightbox",
+        "ts": 412275,
+        "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW/BDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2/zRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6++eA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO/xbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U+58+EmuDcd1/YfZ+3Q+TQQGupHYp/1Rxtn55nj79f4L4+xE24yBffbJjhQi",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6131,
+        "flow": "videoLightbox",
+        "ts": 412366,
+        "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004249335&cv=11&fst=1793004249335&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6132,
+        "flow": "videoLightbox",
+        "ts": 412366,
+        "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=958763914.1793003851&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=307978215.1793004249&navt=n&npa=0&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793004249349&tfd=1972&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6133,
+        "flow": "videoLightbox",
+        "ts": 412398,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6am0h2v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004248858&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=6&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&gap.plf=5&tfd=2004",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6136,
+        "flow": "videoLightbox",
+        "ts": 412402,
+        "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6am0h2v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004248858&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=6&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&gap.plf=5&tfd=2004",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6142,
+        "flow": "videoLightbox",
+        "ts": 413437,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004250419&ec=2",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\"",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6143,
+        "flow": "videoLightbox",
+        "ts": 413784,
+        "url": "https://b.clarity.ms/collect",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003콋v#Ǒ(�+���\u001cI\u0003��~P�=+��Xwl�kyf���\u001e�\u0002P �\r\u0002\u0018<����{�[���K�DdVUF�\u0000�E��ޥe�DDFddfDT>\"#\u001e\u0014���\u0003v�.�\u0018��m>\u0018�!\u001br&����[?_�\u0007�\u0001/��͔�_j���Ƃ���v�]m�./?|�p�)��r}w1Y�]no��x�/�����A>�z��\u000fݐ+ņ�y�v�Z�!�\u0001�Y\u0004\b7�o��9�C�����|�n0|]��\u001f�?n��`�!�g�x������-\u0014Zno�5@W�Mq���*\b�W�?�\u0004\u0000h\b\u001b���@K^\u000f~��k9����e_������\\��{g���:�n��\u0017�^����^ji/�ɾ�������\u001bf��]��s1y��:���zyW\\r�/\u0018������u\u0019I\u0006o�|���.��׃?�\u0016�/\u0001�������7���Q����._d�Rn'��b��C�",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6144,
+        "flow": "videoLightbox",
+        "ts": 413806,
+        "url": "https://b.clarity.ms/collect",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "{\"e\":[\"0.8.72-beta\",1,0,102,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,0,0,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[1,8,1440,7090],[31,11,1440,900],[31,28,1],[101,34,\"_clck\",[\"1eemsd0^2^gam^0^2490\"],\"lp_market\",[\"other\"],\"page_type\",[\"other\"],\"C_IS\",[\"0\",\"0\"]],[101,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6145,
+        "flow": "videoLightbox",
+        "ts": 413840,
+        "url": "https://b.clarity.ms/collect",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "{\"e\":[\"0.8.72-beta\",1,0,102,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,0,0,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[1,8,1440,7090],[31,11,1440,900],[31,28,1],[101,34,\"_clck\",[\"1eemsd0^2^gam^0^2490\"],\"lp_market\",[\"other\"],\"page_type\",[\"other\"],\"C_IS\",[\"0\",\"0\"]],[101,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6146,
+        "flow": "videoLightbox",
+        "ts": 413842,
+        "url": "https://b.clarity.ms/collect",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "{\"e\":[\"0.8.72-beta\",2,102,50,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,1,1,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[120,2,1,1,0],[141,2,1,2,0],[101,4,1,1440,7090,1440,900,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[152,0,2,56740,4,6,25,5],[152,35,3]]}",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6148,
+        "flow": "videoLightbox",
+        "ts": 415876,
+        "url": "https://content.hotjar.io/?site_id=3207225&gzip=1",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�i��8�(�W8Y�>e7�\u0004�=�r�feeU���\u001a/��=\")�e�T�T.���c���e�\u0000$%.\u0000\bR���7��J\"�@ \u0000\u0004\u0002�X������~\u001d����?�����\u000f��JZ���?�'�I�$�K��\f�'�2��4�O����I��AQ\r\u0002�$�Oΐ|\u0012�+\f\u0007�>�O֛Y\u0014z��ɉ|��gy�*~}�\u001b\u0000���|���7\u0005�_>�~u\"��y���M\u001ed'g_N��Ͳ\u001d�ȍ\u0017'g'A�||���M����Mi@o4pu�c�\u0001\u001e\f��a�'yp�_&q\u001e����ɧ�SN�Yo��Շ�n�n�\u0005\u0018��\u000f?)v�\u000f�h�-Q��Q��(�z��/\u001d\u0014� :9;Y��<��\u0013�d�\u0006sB�|����.V녚��ӻy|\n� �\u000e\u0005C&�x��|���\u001f:h��}��(�j\bf^\u001a��L�\"7\r�{u��\u0002�V-�̂�=�\u001e��q'H��\u0002\u0001h",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6158,
+        "flow": "videoLightbox",
+        "ts": 416175,
+        "url": "https://www.seaform.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.6719809582932841:1793002215:U_0SA1USmBxC6H0TV-wAoAFbpmwLBHoYKITzfsX95Cs/a5082d660aa340c9",
+        "method": "POST",
+        "type": "xhr",
+        "status": "FAILED",
+        "postData": "XdcAfFNzs4AGqez2m0SNPlSzemVO+7SFmkG7N3zUv+kY$96jqoN8y0wib65m2s50gSAdp9SZ0zU+xuIgy-UfkWqTqgcP9tZUBu2QN-+MjxQtMXhVgy2FMce4iPLiHOS1vOikTYEb41dq19nkXUbqv3n8-GNkv9tkHTIFreu1io2zCAuP6UB3pLYKwtR+LkUuqzlYOIYMSCyYwA9inQVWQCP5lkuoIaW9Is7BkXOARkw6sbMvuRe-3uicCOeQGTxfAhFFe75f8Ql-LSUVelIB7BiSqc3AZ6f9yA6oYarIzb65poUtXO$BEZVvf0K74$8YjStG0-2eMviRove4WqX-usz+tqdMhwITNpihzji6Fafu8TzixtolM+2Vm8sUyut27GYxSYauW8W-DKO8",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6159,
+        "flow": "videoLightbox",
+        "ts": 418686,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004255668&ec=2",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\"",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6169,
+        "flow": "videoLightbox",
+        "ts": 421005,
+        "url": "https://www.facebook.com/tr/",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n6149661951771957\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nSubscribedButtonClick\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.seaform.com/the-brand/\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition:",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6171,
+        "flow": "videoLightbox",
+        "ts": 421007,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004257985&ec=2",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\"",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6172,
+        "flow": "videoLightbox",
+        "ts": 421009,
+        "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA+1ZzW7jNhB+FWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD/+i+w42W6RQ04WNcNvZr7hzJj2HRScGUg+n4ThIA7CGw9MpnlhP6E2XElIAt/3/ZPYA8tzhCSI4hPfD/unURzGHjCVUy4hAYN0onR+lKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH/KNEYy8ZJBAOfTyJ+wFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA/9ARmw2CchZUNC40lMIhxm/awfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5c",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6173,
+        "flow": "videoLightbox",
+        "ts": 421012,
+        "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA+1ZzW7jNhB+FWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD/+i+w42W6RQ04WNcNvZr7hzJj2HRScGUg+n4ThIA7CGw9MpnlhP6E2XElIAt/3/ZPYA8tzhCSI4hPfD/unURzGHjCVUy4hAYN0onR+lKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH/KNEYy8ZJBAOfTyJ+wFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA/9ARmw2CchZUNC40lMIhxm/awfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5c",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6307,
+        "flow": "videoLightbox",
+        "ts": 422873,
+        "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004259829&cv=11&fst=1793004259829&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6308,
+        "flow": "videoLightbox",
+        "ts": 422874,
+        "url": "https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=958763914.1793003851&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=675526855.1793004260&navt=n&npa=0&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793004259855&tfd=1870&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=8",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6310,
+        "flow": "videoLightbox",
+        "ts": 422960,
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1h1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004258702&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&tfd=1957",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6313,
+        "flow": "videoLightbox",
+        "ts": 422964,
+        "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1h1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004258702&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&tfd=1957",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6318,
+        "flow": "videoLightbox",
+        "ts": 423640,
+        "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA02QQYvbMBCF/4qYQ09SI1uyY+mWw24w3aVlE7aHUspIGieituxaCqUs+99Lskvp8TG8b957L7DEkMF+U1q3ptLfOWS/xqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0/A4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl+XSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo/bZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB/sCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU+x+DOlzD6w",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6320,
+        "flow": "videoLightbox",
+        "ts": 423643,
+        "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+        "method": "POST",
+        "type": "ping",
+        "status": "FAILED",
+        "postData": "H4sIAAAAAAAAA02QQYvbMBCF/4qYQ09SI1uyY+mWw24w3aVlE7aHUspIGieituxaCqUs+99Lskvp8TG8b957L7DEkMF+U1q3ptLfOWS/xqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0/A4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl+XSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo/bZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB/sCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU+x+DOlzD6w",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      },
+      {
+        "id": 6321,
+        "flow": "videoLightbox",
+        "ts": 424127,
+        "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004261110&ec=2",
+        "method": "POST",
+        "type": "fetch",
+        "status": "FAILED",
+        "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004259859,\"id\":\"068670fb-5bbe-4d47-ae38-81cb9a908bb9\",\"source_url\":\"https://www.seaform.com/monogram/\",\"referrer_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004260051,\"id\":\"d",
+        "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+      }
+    ]
+  },
+  "shots": [
+    "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/seaform/shots/videoLightbox-lightbox.png"
+  ],
+  "blockedWrites": [
+    {
+      "flow": "videoLightbox",
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004247377&ec=2",
+      "method": "POST",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004232418,\"id\":\"e57f474e-6d45-4950-8f74-7221575210d5\",\"source_url\":\"https://www.seaform.com/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004232498,\"id\":\"923d4328-da2b-46aa-828a-37412aeafcc1\",\"data\":{\"type\":\"diagnostic\",\"schema_version\":1,\"dropped_event_count\":0,\"dropped_event_reason_counts\":{},\"dropped_event_name_counts\":{},\"dropped_event_phase_counts\":{},\"config\":{\"automatic_advanced_matching\":\"enabled\"}}}]}"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW/BDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2/zRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6++eA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO/xbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U+58+EmuDcd1/YfZ+3Q+TQQGupHYp/1Rxtn55nj79f4L4+xE24yBffbJjhQi+8C+4+a2pafIOIs+WGK5zmvIYKQZTLhMUwbxOlD3Z93B346nm6eH9tx27wu0ISYMlq79h8aJUpQNl7LJuS6o51Wpa14OdWl1qYSWDl7/AtxEXFb3AQAA"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+      "method": "POST",
+      "postData": "H4sIAAAAAAAAA02QT2vcMBDFv4qYQ09WV5blP9JtC8limtKSNemhhDCWxrGoLbuWllJCvnvxJpQeH8P7vTfvBVbvIpgfhVKVztVjBtFufk0PtEW/BDC5EEIUOoPkZwKT17oQQkmlZakycMuMPoCBSDgs2/zRLjNkcNkmMDCmtEZzOPx3O6SReL9hcAfI4Df10Sc6++eA0z39ulBMrQMDteyx6V3JbVFV3GkreFlL5JKksrnKSTYKMljxme4WdFePq6gSSlS8clpwha7hqAfNa2qstFLXlds9PnYbhjhhIgdmwClSBpO/xbdk2MXJY0hvYvbRgnmBNfbnhInAcPW6U+58+EmuDcd1/YfZ+3Q+TQQGupHYp/1Rxtn55nj79f4L4+xE24yBffbJjhQi+8C+4+a2pafIOIs+WGK5zmvIYKQZTLhMUwbxOlD3Z93B346nm6eH9tx27wu0ISYMlq79h8aJUpQNl7LJuS6o51Wpa14OdWl1qYSWDl7/AtxEXFb3AQAA"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004249335&cv=11&fst=1793004249335&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=8&frm=0&tiba=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=958763914.1793003851&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=307978215.1793004249&navt=n&npa=0&gtm=45be6am0h2v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1793004249349&tfd=1972&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6am0h2v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004248858&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=6&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&gap.plf=5&tfd=2004",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6am0h2v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004248858&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=6&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=The%20Brand%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&gap.plf=5&tfd=2004",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004250419&ec=2",
+      "method": "POST",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\":\"diagnostic\",\"schema_version\":1,\"dropped_event_count\":0,\"dropped_event_reason_counts\":{},\"dropped_event_name_counts\":{},\"dropped_event_phase_counts\":{},\"config\":{\"automatic_advanced_matching\":\"enabled\"}}}]}"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003콋v#Ǒ(�+���\u001cI\u0003��~P�=+��Xwl�kyf���\u001e�\u0002P �\r\u0002\u0018<����{�[���K�DdVUF�\u0000�E��ޥe�DDFddfDT>\"#\u001e\u0014���\u0003v�.�\u0018��m>\u0018�!\u001br&����[?_�\u0007�\u0001/��͔�_j���Ƃ���v�]m�./?|�p�)��r}w1Y�]no��x�/�����A>�z��\u000fݐ+ņ�y�v�Z�!�\u0001�Y\u0004\b7�o��9�C�����|�n0|]��\u001f�?n��`�!�g�x������-\u0014Zno�5@W�Mq���*\b�W�?�\u0004\u0000h\b\u001b���@K^\u000f~��k9����e_������\\��{g���:�n��\u0017�^����^ji/�ɾ�������\u001bf��]��s1y��:���zyW\\r�/\u0018������u\u0019I\u0006o�|���.��׃?�\u0016�/\u0001�������7���Q����._d�Rn'��b��C���z�^��M6�6�bRd�s;x;��׃b1�ן�f�ݸ�1�\u001e~�\u0014\u0007\u0005����̋�ۡ`�\\@[��\u0017w�b�\\g�B�\u000b�m6+��n]l��|:-��r�ϯ'��vyw=^\u0017��ղ\\l7ì��/'���f���\u0017׳�b��6�\u0014�m���\\e���z�.\u0017��b{�����m�^��a����E>�\u0017�a\u0006����f5�?���v\t2���\u0001�4�P�׃\u001f�۫�F����\u0006�\u0001�h���_\\��p��\"�΋�&\f4\u0002�\u000e\u0005�%�?���@��_n�z\u0010�T@�\n\u0018S�\u0011���R��\u000b[*����7�\u0012�Q �w�2���m�.\u0007\b\f�H\u001a`.��%�8��\"��@\u0003��KƔ��h1\u0004u�C#�jh�P�� �\u0005�\n��5X#�PC��\u0006�ǡi\f�r\u0010�\r�\u001c:��\u001b���\n\u0015\u0014�C�\u0016l0��\u001e����_\u000f��E~W�����\u0007��j7���\u001f��\u0006����f[���\u0012*\u001a\u000e"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "postData": "{\"e\":[\"0.8.72-beta\",1,0,102,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,0,0,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[1,8,1440,7090],[31,11,1440,900],[31,28,1],[101,34,\"_clck\",[\"1eemsd0^2^gam^0^2490\"],\"lp_market\",[\"other\"],\"page_type\",[\"other\"],\"C_IS\",[\"0\",\"0\"]],[101,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com/the-brand/\"],3,[\"The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917\"],9,[\"en-US\"],15,[\"1epf00v\"],16,[\"en-US\"],19,[\"article\"],20,[\"The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917\"],21,[\"Elementor 3.29.0; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto\"],22,[\"Linux\"],24,[\"Not:A-Bran"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "postData": "{\"e\":[\"0.8.72-beta\",1,0,102,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,0,0,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[1,8,1440,7090],[31,11,1440,900],[31,28,1],[101,34,\"_clck\",[\"1eemsd0^2^gam^0^2490\"],\"lp_market\",[\"other\"],\"page_type\",[\"other\"],\"C_IS\",[\"0\",\"0\"]],[101,1,0,[\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"],1,[\"https://www.seaform.com/the-brand/\"],3,[\"The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917\"],9,[\"en-US\"],15,[\"1epf00v\"],16,[\"en-US\"],19,[\"article\"],20,[\"The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917\"],21,[\"Elementor 3.29.0; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto\"],22,[\"Linux\"],24,[\"Not:A-Bran"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://b.clarity.ms/collect",
+      "method": "POST",
+      "postData": "{\"e\":[\"0.8.72-beta\",2,102,50,\"j1o33t9lpr\",\"1eemsd0\",\"14ua8za\",1,1,1,0,\"https://www.seaform.com/the-brand/\"],\"a\":[[120,2,1,1,0],[141,2,1,2,0],[101,4,1,1440,7090,1440,900,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[152,0,2,56740,4,6,25,5],[152,35,3]]}"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://content.hotjar.io/?site_id=3207225&gzip=1",
+      "method": "POST",
+      "postData": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�i��8�(�W8Y�>e7�\u0004�=�r�feeU���\u001a/��=\")�e�T�T.���c���e�\u0000$%.\u0000\bR���7��J\"�@ \u0000\u0004\u0002�X������~\u001d����?�����\u000f��JZ���?�'�I�$�K��\f�'�2��4�O����I��AQ\r\u0002�$�Oΐ|\u0012�+\f\u0007�>�O֛Y\u0014z��ɉ|��gy�*~}�\u001b\u0000���|���7\u0005�_>�~u\"��y���M\u001ed'g_N��Ͳ\u001d�ȍ\u0017'g'A�||���M����Mi@o4pu�c�\u0001\u001e\f��a�'yp�_&q\u001e����ɧ�SN�Yo��Շ�n�n�\u0005\u0018��\u000f?)v�\u000f�h�-Q��Q��(�z��/\u001d\u0014� :9;Y��<��\u0013�d�\u0006sB�|����.V녚��ӻy|\n� �\u000e\u0005C&�x��|���\u001f:h��}��(�j\bf^\u001a��L�\"7\r�{u��\u0002�V-�̂�=�\u001e��q'H��\u0002\u0001h�~��\u001ft��>h�~O=?V�u\u0010���%����|���?�U\u0018��\u000b��E\u0002�6q��8\u000e�\\��^0K��j\u001c�Y���(�/���Ԅ�c��1�eAǰ�|s�TGՑ�4=���M����\r����[5\u000b�y��p��.W��e���\\`�s�̀e���!�pus�\u0007�̛\u0007�\u001f@wf�\rK3t����\t�@�}���O����9��\u0013t�t�\u0004]B\u000b\"�\t��\u0011���C\u0013�p)\u000b����M>\u0001~�\u0000�j��\u0004�n��\u0013t�W�C`��\u001e.�a�O�%.�A�7�: �\u0010?�\u0010���\u0015\r�o���kj�\b~k\u0018\u0004G\u0002���04D\u0010#m\u0010��\u001b����8�\u000e�ɧM*��&A�$�\b&\b\u0017D�\u001e�\n\t\u0002\u0016�S��<5\u000b\u0014H�F�I���t�HQ\f�*��6~�H�\u0010A��%��o\u000e\u0006�\u0010�\b\u0010��'=�FA�\u0002����I\u0002���(Z#�)���Z��dT $0l� AP!\b\u0017\u000f��"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.seaform.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.6719809582932841:1793002215:U_0SA1USmBxC6H0TV-wAoAFbpmwLBHoYKITzfsX95Cs/a5082d660aa340c9",
+      "method": "POST",
+      "postData": "XdcAfFNzs4AGqez2m0SNPlSzemVO+7SFmkG7N3zUv+kY$96jqoN8y0wib65m2s50gSAdp9SZ0zU+xuIgy-UfkWqTqgcP9tZUBu2QN-+MjxQtMXhVgy2FMce4iPLiHOS1vOikTYEb41dq19nkXUbqv3n8-GNkv9tkHTIFreu1io2zCAuP6UB3pLYKwtR+LkUuqzlYOIYMSCyYwA9inQVWQCP5lkuoIaW9Is7BkXOARkw6sbMvuRe-3uicCOeQGTxfAhFFe75f8Ql-LSUVelIB7BiSqc3AZ6f9yA6oYarIzb65poUtXO$BEZVvf0K74$8YjStG0-2eMviRove4WqX-usz+tqdMhwITNpihzji6Fafu8TzixtolM+2Vm8sUyut27GYxSYauW8W-DKO8kOlv4Km9rguhx7ydtR49XaEXSkXwu3XCjq4eKprlelCaH6V8P97ux8ROytmY38w3LLmGuZXvqQwWK-PuxScUvLUo0A6VymMqvZo44uTauDaevfeqO5kS+4VulUh0$UXvXMKwaO9f0umwj4V47AUR49fiRKEAECeBIi$$Z9toA5wy0FcvB3j+bLYrjG40IU2hwB4ysalrdGZDUsQCgtHhN4nxvYmDefosMweZivXxLHRxfjgeAimVxcbyas$Vi59OUp9gV+HriUtlkd-3sPG2CpQEfan1z8rhff$tGs359YT4KOWGVSLZfz9dDAjOqRQP-c+FxpsHq2NTaOjOahb7$SpyeKVz70mzx7awTUugfhTftoNFRl3mZ5toy5$g7cnn449dp42B6BHwqO59"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004255668&ec=2",
+      "method": "POST",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\":\"diagnostic\",\"schema_version\":1,\"dropped_event_count\":0,\"dropped_event_reason_counts\":{},\"dropped_event_name_counts\":{},\"dropped_event_phase_counts\":{},\"config\":{\"automatic_advanced_matching\":\"enabled\"}}}]}"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.facebook.com/tr/",
+      "method": "POST",
+      "postData": "------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n6149661951771957\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nSubscribedButtonClick\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.seaform.com/the-brand/\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1793004257972\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"iw\"\r\n\r\nfalse\r\n------WebKitFormBoundaryBLkMSnnfS73BACGM\r\nContent-Disposition: form-data; name=\"cd["
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004257985&ec=2",
+      "method": "POST",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004249168,\"id\":\"e5fb6705-b0a7-4144-bfb0-adcab4955a24\",\"source_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004249233,\"id\":\"86bd1556-58fa-49a6-8c33-050563a06066\",\"data\":{\"type\":\"diagnostic\",\"schema_version\":1,\"dropped_event_count\":0,\"dropped_event_reason_counts\":{},\"dropped_event_name_counts\":{},\"dropped_event_phase_counts\":{},\"config\":{\"automatic_advanced_matching\":\"enabled\"}}}]}"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "postData": "H4sIAAAAAAAAA+1ZzW7jNhB+FWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD/+i+w42W6RQ04WNcNvZr7hzJj2HRScGUg+n4ThIA7CGw9MpnlhP6E2XElIAt/3/ZPYA8tzhCSI4hPfD/unURzGHjCVUy4hAYN0onR+lKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH/KNEYy8ZJBAOfTyJ+wFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA/9ARmw2CchZUNC40lMIhxm/awfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5ccysQErieYe+NC7RHeldvz9799vFDj/QuUOdU9n7hNpuhNL2fe79TzbRK0fRIz3CZYS+Igwg8mGEOiSyF8MBUBF3fFg74/P3l+S9OrnGyRvJ8Pj9aJzpXUk01zR3PTOVn1mqelhaNiwYF5ijtFeZUWp7VyLWtRvSJinL73bqapdNfqTsQcAYepDT7OtWqlOwyp1O80lmrx7vWZ8Iu11KivsZFQ3drqSaxVslKbZSGBArFpUUN9822t7WyO747QoLLD2cXb+EZUV1+uDgwrp0ZmBckU9KitMdlIRRl5rjv94NjP2wrYtwmaRyMMyWOvhRTWKeorapeq9cLepkS8EzabpaK57rMU3OtESvuVmEz/id4IO3sfMYFgyTwgLuyUKVFTeaaFuBBJqgx7iB9"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+      "method": "POST",
+      "postData": "H4sIAAAAAAAAA+1ZzW7jNhB+FWOA9iQmkqNYlm7ZYDcIutsCm2B7WAcGJY5t7lKkSlK1s0GAPk0frE9SUD/+i+w42W6RQ04WNcNvZr7hzJj2HRScGUg+n4ThIA7CGw9MpnlhP6E2XElIAt/3/ZPYA8tzhCSI4hPfD/unURzGHjCVUy4hAYN0onR+lKkcPCi1gARm1hYmOT5ekx3bGZJUU8mOwYM5poZbvOJTScVH/KNEYy8ZJBAOfTyJ+wFJU2QkwswnEQ0mJApoHE6GSGk0AA8KOsX3irJqDxvgwA/9ARmw2CchZUNC40lMIhxm/awfRwMWggfcXGsqjaAWGSQTKgx6IPg7WlsGt7jgVNp6kXOTQXIHhUmvLLUICQnvHcp7Lr8iu5RnRbGEcf5ccysQErieYe+NC7RHeldvz9799vFDj/QuUOdU9n7hNpuhNL2fe79TzbRK0fRIz3CZYS+Igwg8mGEOiSyF8MBUBF3fFg74/P3l+S9OrnGyRvJ8Pj9aJzpXUk01zR3PTOVn1mqelhaNiwYF5ijtFeZUWp7VyLWtRvSJinL73bqapdNfqTsQcAYepDT7OtWqlOwyp1O80lmrx7vWZ8Iu11KivsZFQ3drqSaxVslKbZSGBArFpUUN9822t7WyO747QoLLD2cXb+EZUV1+uDgwrp0ZmBckU9KitMdlIRRl5rjv94NjP2wrYtwmaRyMMyWOvhRTWKeorapeq9cLepkS8EzabpaK57rMU3OtESvuVmEz/id4IO3sfMYFgyTwgLuyUKVFTeaaFuBBJqgx7iB9"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.google.com/rmkt/collect/10781790144/?random=1793004259829&cv=11&fst=1793004259829&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&ref=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&rcb=11&frm=0&tiba=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=958763914.1793003851&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=958763914.1793003851&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&tid=AW-10781790144&en=page_view&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&scrsrc=www.googletagmanager.com&rnd=675526855.1793004260&navt=n&npa=0&gtm=45be6al1h1v9260470631za20ozb9101326777zd9101326777xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~117776795~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1793004259855&tfd=1870&_gsid=LfGZM44nhcXgwijgRlAcPrG9L_b7qEj5jw&tids=AW-10781790144&fmt=8",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1h1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004258702&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&tfd=1957",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://www.google.com/g/collect?v=2&tid=G-80QZ6KQTKG&gtm=45je6al1h1v9101307567za20ozb9101326777zd9101326777xf1&_p=1793004258702&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=518778126&_eu=EAAAAGQC&cid=146248384.1793003851&ec_mode=a&frm=0&ir=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=3&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1793003851&sct=1&seg=1&dl=https%3A%2F%2Fwww.seaform.com%2Fmonogram%2F&dr=https%3A%2F%2Fwww.seaform.com%2Fthe-brand%2F&dt=Monogram%20-%20SEAFORM%20-%20German%20Kitchens%20%26%20Wardrobes%20-%20since%201917&en=page_view&tfd=1957",
+      "method": "POST",
+      "postData": ""
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+      "method": "POST",
+      "postData": "H4sIAAAAAAAAA02QQYvbMBCF/4qYQ09SI1uyY+mWw24w3aVlE7aHUspIGieituxaCqUs+99Lskvp8TG8b957L7DEkMF+U1q3ptLfOWS/xqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0/A4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl+XSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo/bZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB/sCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU+x+DOlzD6wr7iGdXaUmWA5Jk+sMtUWOJxpApsu48gh3/Y5/lmu3C+7/d2P5/7QH98H6FMumDzd4hs5eNfoRmBnBoFOdgLJNMLVaqid11hvDbz+BfxH14f1AQAA"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g",
+      "method": "POST",
+      "postData": "H4sIAAAAAAAAA02QQYvbMBCF/4qYQ09SI1uyY+mWw24w3aVlE7aHUspIGieituxaCqUs+99Lskvp8TG8b957L7DEkMF+U1q3ptLfOWS/xqU805rjnMBWUkqpDIcSJwJbbY2SUtetbGvFIcwTxgQWMuEwr9NHP0/A4bKOYOFcypLtZvPfbTPNaT6tOG2Aw29yORY6xFPC8Yl+XSiXPoCFrtUGCVH4ztRC6aBF5btGVEZXsvVNUBUChwVP9DBjuHmkUbXCxgvlgxM6uEag94Oo/bZGZ7Bx2gOHmI8rpjxioQB2wDEThzHe49tnuIp9xFTexBSzB/sCS3aHgoXACv16pTzE9JNCn3bL8g9zzXOMZSSw8Pjekwl2uNvdf356ZILtaZ0wsU+x+DOlzD6wr7iGdXaUmWA5Jk+sMtUWOJxpApsu48gh3/Y5/lmu3C+7/d2P5/7QH98H6FMumDzd4hs5eNfoRmBnBoFOdgLJNMLVaqid11hvDbz+BfxH14f1AQAA"
+    },
+    {
+      "flow": "videoLightbox",
+      "url": "https://bzr.openai.com/v1/sdk/events?pid=Rphni1ihzKtsssCAQpjUyX&st=oaiq-web&sv=0.1.93&t=1793004261110&ec=2",
+      "method": "POST",
+      "postData": "{\"obref\":\"6d27981c-8292-41cd-8558-b9253851b906\",\"events\":[{\"test_session_id\":null,\"type\":\"openai::sdk_init\",\"timestamp_ms\":1793004259859,\"id\":\"068670fb-5bbe-4d47-ae38-81cb9a908bb9\",\"source_url\":\"https://www.seaform.com/monogram/\",\"referrer_url\":\"https://www.seaform.com/the-brand/\",\"data\":{\"type\":\"sdk_lifecycle\"}},{\"test_session_id\":null,\"type\":\"oai::diagnostic\",\"timestamp_ms\":1793004260051,\"id\":\"d026750a-29fe-4cfa-ac80-54d726bfa50e\",\"data\":{\"type\":\"diagnostic\",\"schema_version\":1,\"dropped_event_count\":0,\"dropped_event_reason_counts\":{},\"dropped_event_name_counts\":{},\"dropped_event_phase_counts\":{},\"config\":{\"automatic_advanced_matching\":\"enabled\"}}}]}"
+    }
+  ]
+}

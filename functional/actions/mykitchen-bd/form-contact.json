@@ -1,0 +1,252 @@
+{
+  "page": "https://www.mykitchen-bd.com/contact",
+  "allForms": [
+    {
+      "action": "https://www.mykitchen-bd.com/contact",
+      "method": "GET",
+      "id": "",
+      "cls": "flex flex-col gap-10 max-lg:gap-6",
+      "framework": "custom/unknown",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "firstName",
+          "id": "",
+          "placeholder": "First Name",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "",
+          "disabled": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "lastName",
+          "id": "",
+          "placeholder": "Last Name",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "",
+          "disabled": false
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "email",
+          "id": "",
+          "placeholder": "Email",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "",
+          "disabled": false
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "phone",
+          "id": "",
+          "placeholder": "Phone",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "",
+          "disabled": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "subject",
+          "id": "",
+          "placeholder": "Subject",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "",
+          "disabled": false
+        },
+        {
+          "tag": "select",
+          "type": "select-one",
+          "name": "message",
+          "id": "",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "minLength": "",
+          "maxLength": "",
+          "autocomplete": "",
+          "label": "",
+          "options": [
+            ":",
+            "I'd like to inquire about product availability and pricing.:",
+            "Can you provide more details about your customization option",
+            "I need assistance with an order I placed recently.:I need as",
+            "Other:Other"
+          ],
+          "disabled": false
+        }
+      ],
+      "submits": [
+        {
+          "text": "Message",
+          "type": "button",
+          "name": "",
+          "disabled": false
+        },
+        {
+          "text": "Submit",
+          "type": "submit",
+          "name": "",
+          "disabled": false
+        },
+        {
+          "text": "Cancel",
+          "type": "button",
+          "name": "",
+          "disabled": false
+        }
+      ],
+      "hidden": [],
+      "hasFile": false,
+      "hasConsent": false
+    }
+  ],
+  "picked": 0,
+  "form": {
+    "action": "https://www.mykitchen-bd.com/contact",
+    "method": "GET",
+    "id": "",
+    "cls": "flex flex-col gap-10 max-lg:gap-6",
+    "framework": "custom/unknown",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstName",
+        "id": "",
+        "placeholder": "First Name",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "disabled": false
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastName",
+        "id": "",
+        "placeholder": "Last Name",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "disabled": false
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "disabled": false
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "disabled": false
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "id": "",
+        "placeholder": "Subject",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "disabled": false
+      },
+      {
+        "tag": "select",
+        "type": "select-one",
+        "name": "message",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "pattern": "",
+        "minLength": "",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "options": [
+          ":",
+          "I'd like to inquire about product availability and pricing.:",
+          "Can you provide more details about your customization option",
+          "I need assistance with an order I placed recently.:I need as",
+          "Other:Other"
+        ],
+        "disabled": false
+      }
+    ],
+    "submits": [
+      {
+        "text": "Message",
+        "type": "button",
+        "name": "",
+        "disabled": false
+      },
+      {
+        "text": "Submit",
+        "type": "submit",
+        "name": "",
+        "disabled": false
+      },
+      {
+        "text": "Cancel",
+        "type": "button",
+        "name": "",
+        "disabled": false
+      }
+    ],
+    "hidden": [],
+    "hasFile": false,
+    "hasConsent": false
+  }
+}

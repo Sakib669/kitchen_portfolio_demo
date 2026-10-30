@@ -1,0 +1,29 @@
+{
+  "cookies": [
+    {
+      "name": "wa_ul",
+      "domain": ".api.whatsapp.com",
+      "path": "/send",
+      "expires": 1800778978.43913,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax",
+      "value": "c00dfddf-91c2-4f45-b2d0-18209182a6df"
+    },
+    {
+      "name": "wa_lang_pref",
+      "domain": ".whatsapp.com",
+      "path": "/",
+      "expires": 1793607778.439059,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "value": "en"
+    }
+  ],
+  "local": {},
+  "session": {
+    "myKitchenAdDismissed": "6ac49f85a6a4fbd661585c4a"
+  },
+  "indexedDB": []
+}

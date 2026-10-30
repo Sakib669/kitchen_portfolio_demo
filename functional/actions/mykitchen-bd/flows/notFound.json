@@ -1,0 +1,171 @@
+{
+  "id": "notFound",
+  "startedAt": "2026-10-26T08:23:25.323Z",
+  "steps": [
+    {
+      "name": "404",
+      "at": 199623,
+      "data": {
+        "status": 404,
+        "title": "My Kitchen",
+        "h1": "404",
+        "text": "404 This page could not be found.",
+        "hasNav": false,
+        "hasFooter": false,
+        "requests": 12
+      }
+    }
+  ],
+  "durationMs": 1608,
+  "finishedAt": "2026-10-26T08:23:26.931Z",
+  "requests": [
+    {
+      "id": 1783,
+      "flow": "notFound",
+      "ts": 198050,
+      "url": "https://www.mykitchen-bd.com/this-page-does-not-exist-9137",
+      "method": "GET",
+      "type": "document",
+      "status": 404,
+      "postData": null
+    },
+    {
+      "id": 1784,
+      "flow": "notFound",
+      "ts": 198078,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1785,
+      "flow": "notFound",
+      "ts": 198079,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1786,
+      "flow": "notFound",
+      "ts": 198080,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1787,
+      "flow": "notFound",
+      "ts": 198081,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1788,
+      "flow": "notFound",
+      "ts": 198081,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1789,
+      "flow": "notFound",
+      "ts": 198082,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1790,
+      "flow": "notFound",
+      "ts": 198082,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1791,
+      "flow": "notFound",
+      "ts": 198082,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1792,
+      "flow": "notFound",
+      "ts": 198083,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1793,
+      "flow": "notFound",
+      "ts": 198083,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    },
+    {
+      "id": 1794,
+      "flow": "notFound",
+      "ts": 198083,
+      "url": "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "method": "GET",
+      "type": "script",
+      "status": 200,
+      "postData": null
+    }
+  ],
+  "network": {
+    "total": 12,
+    "byDomain": [
+      {
+        "domain": "www.mykitchen-bd.com",
+        "count": 12
+      }
+    ],
+    "byType": [
+      {
+        "type": "script",
+        "count": 10
+      },
+      {
+        "type": "document",
+        "count": 1
+      },
+      {
+        "type": "stylesheet",
+        "count": 1
+      }
+    ],
+    "nonGet": []
+  },
+  "shots": [
+    "/home/sakib/Desktop/Projects Old/kitchen-deom/functional/actions/mykitchen-bd/shots/notFound-404.png"
+  ],
+  "blockedWrites": []
+}

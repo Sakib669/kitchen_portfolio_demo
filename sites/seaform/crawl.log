@@ -1,0 +1,26 @@
+→ seaform /
+  ✓ SEAFORM - German Kitchens & Wardrobes - since 1917 | 1724 els | 13 sections | 43s
+→ seaform /the-brand
+  ✓ The Brand - SEAFORM - German Kitchens & Wardrobes - since 1917 | 1495 els | 10 sections | 24s
+→ seaform /kitchen-collections
+  ✗ /kitchen-collections: page.waitForTimeout: Target page, context or browser has been closed
+↷ skip home (exists)
+↷ skip the-brand (exists)
+↷ skip kitchen-collections (exists)
+→ seaform /kitchen-collections/hamptons
+  ✓ Hamptons - SEAFORM | 2021 els | 16 sections | 61s
+→ seaform /kitchen-materials-colors
+  ✓ Kitchen Materials & Colors | SEAFORM | 2113 els | 25 sections | 71s
+→ seaform /kitchen-interiors
+  ✓ Interiors Kitchen | SEAFORM - German Kitchens & Wardrobes - since 1917 | 1757 els | 21 sections | 45s
+→ seaform /wardrobe-collections
+  ✓ Wardrobe Collections | SEAFORM - German Kitchens & Wardrobes | 1378 els | 7 sections | 32s
+→ seaform /projects
+  ✓ Projects - SEAFORM - German Kitchens & Wardrobes - since 1917 | 1513 els | 15 sections | 43s
+→ seaform /manufacturing
+  ✓ Manufacturing - SEAFORM - German Kitchens & Wardrobes - since 1917 | 1421 els | 12 sections | 31s
+→ seaform /about-seaform
+  ✓ About | SEAFORM - German Kitchens & Wardrobes - since 1917 | 1754 els | 16 sections | 35s
+→ seaform /contact-us
+  ✓ Contact Us | SEAFORM - German Kitchens & Wardrobes - since 1917 | 1443 els | 3 sections | 24s
+Done seaform: 8/11 pages

@@ -1,0 +1,43 @@
+{
+  "page": "https://www.haecker-kuechen.com/en/contact",
+  "form": {
+    "action": "/en/search",
+    "method": "GET",
+    "id": "",
+    "cls": "",
+    "framework": "custom/unknown",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "tx_kesearch_pi1[sword]",
+        "id": "",
+        "placeholder": "What are you looking for?",
+        "required": false,
+        "pattern": "",
+        "minLength": "4",
+        "maxLength": "",
+        "autocomplete": "",
+        "label": "",
+        "disabled": false
+      }
+    ],
+    "submits": [
+      {
+        "text": "",
+        "type": "submit",
+        "name": "",
+        "disabled": false
+      },
+      {
+        "text": "Search",
+        "type": "submit",
+        "name": "",
+        "disabled": false
+      }
+    ],
+    "hidden": [],
+    "hasFile": false,
+    "hasConsent": false
+  }
+}

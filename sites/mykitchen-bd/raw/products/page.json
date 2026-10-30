@@ -1,0 +1,4677 @@
+{
+  "url": "https://www.mykitchen-bd.com/products",
+  "title": "My Kitchen",
+  "description": "Official website of my kitchen",
+  "lang": "en",
+  "viewportMeta": "width=device-width, initial-scale=1",
+  "themeColor": "",
+  "generator": "",
+  "ogImage": "",
+  "doc": {
+    "width": 1440,
+    "height": 900,
+    "scrollHeight": 3338,
+    "scrollY": 0,
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyColor": "rgb(0, 0, 0)",
+    "bodyFont": "Inter, sans-serif",
+    "bodyFontSize": "16px",
+    "htmlFontSize": "16px",
+    "scrollBehavior": "auto",
+    "bodyMaxWidth": "1440px",
+    "overflowX": "hidden"
+  },
+  "counts": {
+    "elements": 523,
+    "images": 17,
+    "svgs": 31,
+    "videos": 0,
+    "iframes": 0,
+    "buttons": 30,
+    "links": 58,
+    "forms": 0,
+    "sections": 4,
+    "divs": 197
+  },
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "colors": {
+    "bg": [
+      {
+        "key": "#f5f5f5",
+        "weight": 9613440,
+        "count": 2,
+        "tags": {
+          "div": 2
+        },
+        "samples": [
+          "div.bg-[#F5F5F5]",
+          "div.bg-backgroundColor"
+        ]
+      },
+      {
+        "key": "#000000",
+        "weight": 673920,
+        "count": 1,
+        "tags": {
+          "div": 1
+        },
+        "samples": [
+          "div.w-full bg-black bg-cover bg-center print:hidden"
+        ]
+      },
+      {
+        "key": "#ffffff",
+        "weight": 201344,
+        "count": 3,
+        "tags": {
+          "div": 1,
+          "button": 2
+        },
+        "samples": [
+          "div.navbar font-semibold bg-white text-black h-24",
+          "button.w-full flex justify-between items-center pr-3 py-2 font-bold border-b border-b-[",
+          "button.px-4 py-2 border rounded w-32 bg-white text-black hover:bg-gray-100"
+        ]
+      },
+      {
+        "key": "#0a0a0a",
+        "weight": 115200,
+        "count": 2,
+        "tags": {
+          "div": 2
+        },
+        "samples": [
+          "div.bg-brandColorLs text-white py-3",
+          "div.w-full bg-brandColorLs py-2 px-2 flex justify-center items-center text-gray-300 "
+        ]
+      },
+      {
+        "key": "#e6e6e6",
+        "weight": 22118.400000000005,
+        "count": 12,
+        "tags": {
+          "div": 12
+        },
+        "samples": [
+          "div.w-[48px] h-[48px] text-[24px] bg-graySecondary/80 lg:hover:bg-backgroundColor fl"
+        ]
+      },
+      {
+        "key": "#25d366",
+        "weight": 13238,
+        "count": 2,
+        "tags": {
+          "a": 1,
+          "span": 1
+        },
+        "samples": [
+          "a.fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-f",
+          "span.absolute inline-flex h-full w-full animate-ping rounded-full bg-[#25D366] opacit"
+        ]
+      },
+      {
+        "key": "#010202",
+        "weight": 12520,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "button.inline-flex items-center justify-center whitespace-nowrap ring-offset-background"
+        ]
+      },
+      {
+        "key": "#e5e7eb",
+        "weight": 5376,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "button.px-4 py-2 border rounded w-32 bg-gray-200 text-gray-400 cursor-not-allowed"
+        ]
+      }
+    ],
+    "text": [
+      {
+        "key": "#000000",
+        "weight": 758,
+        "count": 34,
+        "tags": {
+          "a:16": 6,
+          "div:14": 14,
+          "span:14": 1,
+          "p:24": 12,
+          "button:16": 1
+        },
+        "samples": [
+          "About",
+          "Expertise",
+          "Sales Point"
+        ]
+      },
+      {
+        "key": "#ffffff",
+        "weight": 270,
+        "count": 25,
+        "tags": {
+          "p:16": 21,
+          "h2:16": 4
+        },
+        "samples": [
+          "Home",
+          "About",
+          "Company Profile"
+        ]
+      },
+      {
+        "key": "#1c1c1c",
+        "weight": 175,
+        "count": 15,
+        "tags": {
+          "div:16": 2,
+          "div:30": 1,
+          "p:16": 12
+        },
+        "samples": [
+          "Category",
+          "Brand",
+          "Explore My Kitchen"
+        ]
+      },
+      {
+        "key": "#f5f5f5",
+        "weight": 141,
+        "count": 6,
+        "tags": {
+          "p:14": 2,
+          "div:72": 1,
+          "div:24": 2,
+          "button:16": 1
+        },
+        "samples": [
+          "Offer",
+          "Find a Store",
+          "Discover Your Perfect Space"
+        ]
+      },
+      {
+        "key": "#e5e7eb",
+        "weight": 125,
+        "count": 12,
+        "tags": {
+          "span:16": 2,
+          "a:16": 10
+        },
+        "samples": [
+          "Facebook",
+          "LinkedIn",
+          "Privacy Policy"
+        ]
+      },
+      {
+        "key": "#d1d5db",
+        "weight": 106,
+        "count": 2,
+        "tags": {
+          "p:14": 1,
+          "a:14": 1
+        },
+        "samples": [
+          "Copyright © 2026 | All rights reserved by Tilottoma Bangla G",
+          "Creative Matter"
+        ]
+      },
+      {
+        "key": "#e84538",
+        "weight": 16,
+        "count": 2,
+        "tags": {
+          "a:16": 1,
+          "p:16": 1
+        },
+        "samples": [
+          "Products"
+        ]
+      },
+      {
+        "key": "#9ca3af",
+        "weight": 8,
+        "count": 1,
+        "tags": {
+          "button:16": 1
+        },
+        "samples": [
+          "Previous"
+        ]
+      }
+    ],
+    "border": [
+      {
+        "key": "#ffffff",
+        "weight": 20,
+        "count": 20,
+        "tags": {
+          "button": 20
+        },
+        "samples": [
+          "w-full flex justify-between items-center pr-3 py-2 font-bold border-b border-b-["
+        ]
+      },
+      {
+        "key": "#1c1c1c",
+        "weight": 12,
+        "count": 12,
+        "tags": {
+          "div": 12
+        },
+        "samples": [
+          "z-20 mt-6 py-3 px-8 text-base font-normal bg-text lg:bg-transparent border borde"
+        ]
+      },
+      {
+        "key": "#e84538",
+        "weight": 1,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "w-full flex justify-between items-center pr-3 py-2 font-bold border-b border-b-["
+        ]
+      },
+      {
+        "key": "#d1d5db",
+        "weight": 1,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "flex py-4 items-center justify-between border border-gray-300 bg-background text"
+        ]
+      },
+      {
+        "key": "#9ca3af",
+        "weight": 1,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "px-4 py-2 border rounded w-32 bg-gray-200 text-gray-400 cursor-not-allowed"
+        ]
+      },
+      {
+        "key": "#000000",
+        "weight": 1,
+        "count": 1,
+        "tags": {
+          "button": 1
+        },
+        "samples": [
+          "px-4 py-2 border rounded w-32 bg-white text-black hover:bg-gray-100"
+        ]
+      }
+    ],
+    "gradient": [
+      {
+        "key": "linear-gradient(90deg, rgb(1, 2, 2) 0%, rgba(1, 2, 2, 0) 40%)",
+        "weight": 1065600,
+        "count": 1,
+        "tags": {
+          "div": 1
+        },
+        "samples": [
+          "absolute inset-0 z-10"
+        ]
+      }
+    ],
+    "varColors": []
+  },
+  "textStyles": [
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "count": 25,
+      "tags": {
+        "p": 21,
+        "h2": 4
+      },
+      "sample": "Home"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 24,
+      "weight": "700",
+      "lh": "32px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 12,
+      "tags": {
+        "p": 12
+      },
+      "sample": "Soft-Close Cabinet Door"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(28, 28, 28)",
+      "count": 12,
+      "tags": {
+        "p": 12
+      },
+      "sample": "View Product"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(229, 231, 235)",
+      "count": 12,
+      "tags": {
+        "span": 2,
+        "a": 10
+      },
+      "sample": "Facebook"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "600",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 4,
+      "tags": {
+        "a": 4
+      },
+      "sample": "Sales Point"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 14,
+      "weight": "700",
+      "lh": "20px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(245, 245, 245)",
+      "count": 2,
+      "tags": {
+        "p": 2
+      },
+      "sample": "Offer"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 2,
+      "tags": {
+        "a": 2
+      },
+      "sample": "About"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(232, 69, 56)",
+      "count": 2,
+      "tags": {
+        "a": 1,
+        "p": 1
+      },
+      "sample": "Products"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 14,
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(209, 213, 219)",
+      "count": 2,
+      "tags": {
+        "p": 1,
+        "a": 1
+      },
+      "sample": "Copyright © 2026 | All rights reserved by Tilottoma Bangla Group | Crafted & Dev"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "500",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(245, 245, 245)",
+      "count": 1,
+      "tags": {
+        "button": 1
+      },
+      "sample": "Clear"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 14,
+      "weight": "400",
+      "lh": "20px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 1,
+      "tags": {
+        "span": 1
+      },
+      "sample": "Sort by"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(156, 163, 175)",
+      "count": 1,
+      "tags": {
+        "button": 1
+      },
+      "sample": "Previous"
+    },
+    {
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(0, 0, 0)",
+      "count": 1,
+      "tags": {
+        "button": 1
+      },
+      "sample": "Next"
+    }
+  ],
+  "displayHeads": [
+    {
+      "key": "72|500|Inter, sans-serif|Discover Your Perfect Space",
+      "text": "Discover Your Perfect Space",
+      "size": 72,
+      "weight": "500",
+      "family": "Inter, sans-serif",
+      "lh": "72px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(245, 245, 245)",
+      "tag": "div",
+      "top": 422,
+      "cls": "text-backgroundColor lg:text-7xl text-5xl lg:px-0 px-2 font-medium",
+      "parts": 0
+    },
+    {
+      "key": "30|400|Inter, sans-serif|Explore My Kitchen",
+      "text": "Explore My Kitchen",
+      "size": 30,
+      "weight": "400",
+      "family": "Inter, sans-serif",
+      "lh": "36px",
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(28, 28, 28)",
+      "tag": "div",
+      "top": 936,
+      "cls": "text-3xl font-normal text-text mb-6 hidden lg:block",
+      "parts": 0
+    }
+  ],
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Social Links",
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": 24,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 2950,
+      "cls": "text-base font-bold text-white"
+    },
+    {
+      "level": "h2",
+      "text": "Useful Links",
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": 24,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 2950,
+      "cls": "text-base font-bold text-white"
+    },
+    {
+      "level": "h2",
+      "text": "Products",
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": 24,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 2950,
+      "cls": "text-base font-bold text-white"
+    },
+    {
+      "level": "h2",
+      "text": "Talk To Us",
+      "family": "Inter, sans-serif",
+      "size": 16,
+      "weight": "700",
+      "lh": 24,
+      "ls": "normal",
+      "transform": "none",
+      "color": "rgb(255, 255, 255)",
+      "top": 2950,
+      "cls": "text-base font-bold text-white"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "type": "header",
+      "tag": "div",
+      "id": "",
+      "cls": "flex items-center h-full",
+      "top": 44,
+      "height": 96,
+      "width": 1017,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "flex",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 4,
+      "heading": "",
+      "images": 2,
+      "svgs": 3,
+      "buttons": 3,
+      "links": 9,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 1,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "relative w-full bg-cover bg-center h-[calc(100vh-160px)]",
+      "top": 140,
+      "height": 740,
+      "width": 1440,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "url(\"https://www.mykitchen-bd.com/images/products/slide.gif\")",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 2,
+      "heading": "display: Discover Your Perfect Space",
+      "images": 0,
+      "svgs": 0,
+      "buttons": 0,
+      "links": 0,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 2,
+      "type": "section",
+      "tag": "div",
+      "id": "",
+      "cls": "col-span-3",
+      "top": 896,
+      "height": 1950,
+      "width": 1022,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "0px 0px",
+      "paddingX": "0px 0px",
+      "margin": "0px 0px",
+      "display": "block",
+      "gridCols": "none",
+      "gap": "normal",
+      "maxWidth": "none",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 5,
+      "heading": "display: Explore My Kitchen",
+      "images": 12,
+      "svgs": 17,
+      "buttons": 5,
+      "links": 12,
+      "videos": 0,
+      "dataAttrs": []
+    },
+    {
+      "index": 3,
+      "type": "footer",
+      "tag": "div",
+      "id": "",
+      "cls": "container mx-auto py-10 lg:py-20 px-4 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-6 gap-16",
+      "top": 2870,
+      "height": 432,
+      "width": 1400,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "none",
+      "color": "rgb(0, 0, 0)",
+      "padding": "80px 80px",
+      "paddingX": "16px 16px",
+      "margin": "0px 0px",
+      "display": "grid",
+      "gridCols": "174.656px 174.656px 174.672px 174.656px 174.672px 174.672px",
+      "gap": "64px",
+      "maxWidth": "1400px",
+      "textAlign": "start",
+      "radius": "0px",
+      "overflow": "visible",
+      "sticky": false,
+      "childCount": 5,
+      "heading": "h2: Social Links",
+      "images": 3,
+      "svgs": 2,
+      "buttons": 0,
+      "links": 12,
+      "videos": 0,
+      "dataAttrs": []
+    }
+  ],
+  "containers": [
+    {
+      "maxWidth": 1440,
+      "padX": 0,
+      "count": 2,
+      "sample": ""
+    },
+    {
+      "maxWidth": 1400,
+      "padX": 16,
+      "count": 2,
+      "sample": "container mx-auto p-4 mb-2"
+    },
+    {
+      "maxWidth": 1400,
+      "padX": 40,
+      "count": 1,
+      "sample": "container h-full flex justify-between gap-5 px-10 2xl:px-0"
+    }
+  ],
+  "components": {
+    "buttons": [
+      {
+        "variant": "text",
+        "shape": "square",
+        "tag": "button",
+        "text": "About",
+        "cls": "group inline-flex w-max items-center justify-center font-bold data-[active]:bg-accent/50 data-[state=open]:bg-accent/50 group py-10",
+        "rect": {
+          "top": 40,
+          "left": 301,
+          "w": 69,
+          "h": 104
+        },
+        "family": "Inter, sans-serif",
+        "size": 16,
+        "weight": "700",
+        "lh": 24,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImage": "none",
+        "border": "0px solid rgb(0, 0, 0)",
+        "radius": "0px",
+        "shadow": "none",
+        "padding": "40px 0px 40px 0px",
+        "margin": "0px 0px 0px 0px",
+        "display": "inline-flex",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "center",
+        "justify": "center",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "69px",
+        "height": "104px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "all",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 3,
+        "samples": [
+          "About",
+          "Expertise",
+          "Products"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "square",
+        "tag": "button",
+        "text": "Clear",
+        "cls": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visib",
+        "rect": {
+          "top": 1778,
+          "left": 36,
+          "w": 313,
+          "h": 40
+        },
+        "family": "Inter, sans-serif",
+        "size": 16,
+        "weight": "500",
+        "lh": 24,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(245, 245, 245)",
+        "bg": "rgb(1, 2, 2)",
+        "bgImage": "none",
+        "border": "0px solid rgb(245, 245, 245)",
+        "radius": "0px",
+        "shadow": "none",
+        "padding": "8px 16px 8px 16px",
+        "margin": "0px 0px 0px 0px",
+        "display": "inline-flex",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "center",
+        "justify": "center",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "313px",
+        "height": "40px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "color 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-col",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 1,
+        "samples": [
+          "Clear"
+        ]
+      },
+      {
+        "variant": "outline",
+        "shape": "square",
+        "tag": "button",
+        "text": "Sort by",
+        "cls": "flex py-4 items-center justify-between border border-gray-300 bg-background text-sm focus:outline-primary disabled:cursor-not-allowed disabl",
+        "rect": {
+          "top": 896,
+          "left": 1204,
+          "w": 200,
+          "h": 40
+        },
+        "family": "Inter, sans-serif",
+        "size": 14,
+        "weight": "400",
+        "lh": 20,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImage": "none",
+        "border": "1px solid rgb(209, 213, 219)",
+        "radius": "0px",
+        "shadow": "none",
+        "padding": "16px 8px 16px 8px",
+        "margin": "0px 0px 0px 0px",
+        "display": "flex",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "center",
+        "justify": "space-between",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "200px",
+        "height": "40px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "all",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 1,
+        "samples": [
+          "Sort by"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "rounded",
+        "tag": "button",
+        "text": "Previous",
+        "cls": "px-4 py-2 border rounded w-32 bg-gray-200 text-gray-400 cursor-not-allowed",
+        "rect": {
+          "top": 2764,
+          "left": 757,
+          "w": 128,
+          "h": 42
+        },
+        "family": "Inter, sans-serif",
+        "size": 16,
+        "weight": "400",
+        "lh": 24,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(156, 163, 175)",
+        "bg": "rgb(229, 231, 235)",
+        "bgImage": "none",
+        "border": "1px solid rgb(156, 163, 175)",
+        "radius": "4px",
+        "shadow": "none",
+        "padding": "8px 16px 8px 16px",
+        "margin": "0px 0px 0px 0px",
+        "display": "block",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "normal",
+        "justify": "normal",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "128px",
+        "height": "42px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "all",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 1,
+        "samples": [
+          "Previous"
+        ]
+      },
+      {
+        "variant": "filled",
+        "shape": "rounded",
+        "tag": "button",
+        "text": "Next",
+        "cls": "px-4 py-2 border rounded w-32 bg-white text-black hover:bg-gray-100",
+        "rect": {
+          "top": 2764,
+          "left": 901,
+          "w": 128,
+          "h": 42
+        },
+        "family": "Inter, sans-serif",
+        "size": 16,
+        "weight": "400",
+        "lh": 24,
+        "ls": "normal",
+        "transform": "none",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(255, 255, 255)",
+        "bgImage": "none",
+        "border": "1px solid rgb(0, 0, 0)",
+        "radius": "4px",
+        "shadow": "none",
+        "padding": "8px 16px 8px 16px",
+        "margin": "0px 0px 0px 0px",
+        "display": "block",
+        "gap": "normal",
+        "gridCols": "none",
+        "flexDir": "row",
+        "align": "normal",
+        "justify": "normal",
+        "textAlign": "center",
+        "maxWidth": "none",
+        "width": "128px",
+        "height": "42px",
+        "position": "static",
+        "zIndex": "auto",
+        "overflow": "visible",
+        "backdrop": "none",
+        "transition": "all",
+        "opacity": "1",
+        "decoration": "none",
+        "count": 1,
+        "samples": [
+          "Next"
+        ]
+      }
+    ],
+    "cards": [],
+    "navs": [
+      {
+        "tag": "nav",
+        "cls": "max-w-max items-center justify-center z-[200] hidden lg:block",
+        "height": 184,
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "position": "static",
+        "backdrop": "none",
+        "shadow": "none",
+        "border": "0px solid rgb(0, 0, 0)",
+        "padding": "0px 0px 0px 0px",
+        "maxWidth": "max-content",
+        "display": "block",
+        "justify": "center",
+        "gap": "normal",
+        "links": 7,
+        "hasLogo": true,
+        "hasSearch": false,
+        "hasLanguage": false,
+        "hamburger": false,
+        "links_sample": [
+          "About",
+          "Expertise",
+          "Products",
+          "Sales Point",
+          "Events & News",
+          "Catalogue",
+          "Contact"
+        ]
+      }
+    ],
+    "badges": [],
+    "inputs": [],
+    "links": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 16,
+        "transform": "none",
+        "count": 21,
+        "samples": [
+          "Home",
+          "About",
+          "Company Profile"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 16,
+        "transform": "none",
+        "count": 12,
+        "samples": [
+          "Soft-Close Cabinet Door View Product",
+          "AVENTOS HF bi-fold lift system ( set ) V",
+          "AVENTOS HF bi-fold lift system (set ) Vi"
+        ]
+      },
+      {
+        "color": "rgb(229, 231, 235)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 16,
+        "transform": "none",
+        "count": 12,
+        "samples": [
+          "Facebook",
+          "LinkedIn",
+          "Privacy Policy"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "600",
+        "size": 16,
+        "transform": "none",
+        "count": 4,
+        "samples": [
+          "Sales Point",
+          "Events & News",
+          "Catalogue"
+        ]
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "decoration": "none",
+        "weight": "700",
+        "size": 16,
+        "transform": "none",
+        "count": 2,
+        "samples": [
+          "About",
+          "Expertise"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 14,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Find a Store"
+        ]
+      },
+      {
+        "color": "rgb(232, 69, 56)",
+        "decoration": "none",
+        "weight": "700",
+        "size": 16,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Products"
+        ]
+      },
+      {
+        "color": "rgb(209, 213, 219)",
+        "decoration": "none",
+        "weight": "400",
+        "size": 14,
+        "transform": "none",
+        "count": 1,
+        "samples": [
+          "Creative Matter"
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "flex": 110,
+    "grid": 5,
+    "block": 408,
+    "gridCols": {
+      "1408px": 2,
+      "330px 330px 330px 330px": 1,
+      "314px 314px 314px": 1,
+      "174.656px 174.656px 174.672px 174.656px 174.672px 174.672px": 1
+    },
+    "gaps": {
+      "16px": 9,
+      "4px": 3,
+      "20px": 1,
+      "28px": 1,
+      "12px": 1,
+      "40px": 2,
+      "8px": 19,
+      "64px": 1
+    },
+    "textAlign": {
+      "center": 86
+    },
+    "sticky": 1,
+    "fixed": 2,
+    "overflowHiddenX": 1,
+    "borderRadiusZero": 0
+  },
+  "motion": {
+    "transitions": [
+      {
+        "duration": "0.5s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "transform",
+        "count": 12
+      },
+      {
+        "duration": "0.5s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "opacity",
+        "count": 12
+      },
+      {
+        "duration": "0.3s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "transform",
+        "count": 4
+      },
+      {
+        "duration": "0.3s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "all",
+        "count": 2
+      },
+      {
+        "duration": "0.3s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "grid-template-rows",
+        "count": 2
+      },
+      {
+        "duration": "0.5s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "all",
+        "count": 1
+      },
+      {
+        "duration": "0.3s",
+        "timing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "property": "color, background-color, border-color, text-decoration-color",
+        "count": 1
+      }
+    ],
+    "animations": [
+      {
+        "name": "ping",
+        "duration": "1s",
+        "timing": "cubic-bezier(0, 0, 0.2, 1)",
+        "iter": "infinite"
+      }
+    ],
+    "libs": {
+      "gsap": false,
+      "lenis": false,
+      "swiper": false,
+      "aos": false,
+      "jquery": false,
+      "framer": false,
+      "three": false,
+      "barba": false,
+      "locomotive": false,
+      "anime": false,
+      "splide": false,
+      "embla": false,
+      "elementor": false,
+      "wow": false
+    },
+    "dataAttrs": {}
+  },
+  "media": {
+    "images": {
+      "count": 17,
+      "missingAlt": 0,
+      "emptyAlt": 0,
+      "lazy": 16,
+      "withSrcset": 17,
+      "objectFit": {
+        "fill": 5,
+        "cover": 12
+      },
+      "formats": [],
+      "aspect": [
+        "5.00",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "1.26",
+        "4.93",
+        "4.47",
+        "4.00"
+      ],
+      "avgBox": 57218
+    },
+    "videos": [],
+    "iframes": [],
+    "bgImages": {
+      "count": 2,
+      "gradients": 1,
+      "urls": [
+        "https://www.mykitchen-bd.com/images/products/slide.gif",
+        "https://www.mykitchen-bd.com/images/kitchen/footer.png"
+      ]
+    }
+  },
+  "a11y": {
+    "lang": "en",
+    "h1Count": 0,
+    "headingOutline": [
+      "h2: Social Links",
+      "h2: Useful Links",
+      "h2: Products",
+      "h2: Talk To Us"
+    ],
+    "altMissing": 0,
+    "altEmpty": 0,
+    "images": 17,
+    "emptyLinks": 1,
+    "emptyButtons": 0,
+    "landmarks": 1,
+    "main": false,
+    "skipLink": false,
+    "ariaCount": 5,
+    "labelledInputs": 0,
+    "inputs": 0,
+    "tabbable": 88,
+    "contrast": [
+      {
+        "fg": "#f5f5f5",
+        "bg": "#0a0a0a",
+        "ratio": 18.16,
+        "size": 14,
+        "weight": "700",
+        "tag": "p",
+        "text": "Offer"
+      },
+      {
+        "fg": "#f5f5f5",
+        "bg": "#0a0a0a",
+        "ratio": 18.16,
+        "size": 14,
+        "weight": "700",
+        "tag": "p",
+        "text": "Find a Store"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "a",
+        "text": "About"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "a",
+        "text": "Expertise"
+      },
+      {
+        "fg": "#e84538",
+        "bg": "#ffffff",
+        "ratio": 3.93,
+        "size": 16,
+        "weight": "700",
+        "tag": "a",
+        "text": "Products"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "600",
+        "tag": "a",
+        "text": "Sales Point"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "600",
+        "tag": "a",
+        "text": "Events & News"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "600",
+        "tag": "a",
+        "text": "Catalogue"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "600",
+        "tag": "a",
+        "text": "Contact"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Home"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "About"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Company Profile"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "History"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Factory"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Technology/Our Procedure & Processing of work"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Software"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "What We Do"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Certification"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "R&D"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "OEM/ODM"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Expertise"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Wardrobes"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "WALK-IN CLOSETS"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Vanities"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#ffffff",
+        "ratio": 1,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "ACCESSORIES"
+      },
+      {
+        "fg": "#e84538",
+        "bg": "#ffffff",
+        "ratio": 3.93,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Products"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Sales Point"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Events & News"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Catalogue"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Contact"
+      },
+      {
+        "fg": "#f5f5f5",
+        "bg": "#010202",
+        "ratio": 19.06,
+        "size": 16,
+        "weight": "500",
+        "tag": "button",
+        "text": "Clear"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 14,
+        "weight": "400",
+        "tag": "span",
+        "text": "Sort by"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "Soft-Close Cabinet Door"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HF bi-fold lift system ( set )"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HF bi-fold lift system (set )"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HF bi-fold lift system (set)"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HF Bi-Fold Lift System, Cover Cap, Right a"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "104° opening angle stop for AVENTOS HF Deep Grey"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "Narrow hardware for Glass shutter AVENTOS HF Narro"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HK top stay lift, Light Grey Cover Caps (S"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HK top Stay Lift Cover Cap Set"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "Narrow hardware for Glass shutter (HK-TOP)"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "AVENTOS HK-S stay lift, Light Grey Cover Caps (Set"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#f5f5f5",
+        "ratio": 19.26,
+        "size": 24,
+        "weight": "700",
+        "tag": "p",
+        "text": "Narrow hardware for Glass shutter (HK-S) Aventos H"
+      },
+      {
+        "fg": "#1c1c1c",
+        "bg": "#f5f5f5",
+        "ratio": 15.63,
+        "size": 16,
+        "weight": "400",
+        "tag": "p",
+        "text": "View Product"
+      },
+      {
+        "fg": "#9ca3af",
+        "bg": "#e5e7eb",
+        "ratio": 2.05,
+        "size": 16,
+        "weight": "400",
+        "tag": "button",
+        "text": "Previous"
+      },
+      {
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21,
+        "size": 16,
+        "weight": "400",
+        "tag": "button",
+        "text": "Next"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "p",
+        "text": "Our Concerns"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "h2",
+        "text": "Social Links"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "span",
+        "text": "Facebook"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "span",
+        "text": "LinkedIn"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "h2",
+        "text": "Useful Links"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Privacy Policy"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Terms & Conditions"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "h2",
+        "text": "Products"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Kitchen"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Counter Top"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Wardrobes"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Walk-in Closets"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Vanities"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Accessories"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#000000",
+        "ratio": 21,
+        "size": 16,
+        "weight": "700",
+        "tag": "h2",
+        "text": "Talk To Us"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Feedback"
+      },
+      {
+        "fg": "#e5e7eb",
+        "bg": "#000000",
+        "ratio": 16.96,
+        "size": 16,
+        "weight": "400",
+        "tag": "a",
+        "text": "Contacts"
+      },
+      {
+        "fg": "#d1d5db",
+        "bg": "#0a0a0a",
+        "ratio": 13.44,
+        "size": 14,
+        "weight": "400",
+        "tag": "p",
+        "text": "Copyright © 2026 | All rights reserved by Tilottom"
+      },
+      {
+        "fg": "#d1d5db",
+        "bg": "#0a0a0a",
+        "ratio": 13.44,
+        "size": 14,
+        "weight": "400",
+        "tag": "a",
+        "text": "Creative Matter"
+      }
+    ]
+  },
+  "interactions": {
+    "details": 0,
+    "roleTabs": 0,
+    "roleDialogs": 0,
+    "accordions": 0,
+    "sliders": 0,
+    "searchInputs": 0,
+    "navLinks": 7,
+    "dropdowns": 1,
+    "floatingCta": [
+      {
+        "tag": "a",
+        "cls": "fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-[#2",
+        "text": "",
+        "href": "https://wa.me/8801642912612"
+      }
+    ],
+    "cookiePlatform": []
+  },
+  "framework": [
+    "Next.js"
+  ],
+  "scripts": {
+    "total": 26,
+    "srcs": [
+      "https://www.mykitchen-bd.com/_next/static/chunks/0bgn~mmw9un3s.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0yg0xd_tkxv2h.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/10u3y4bw1ayzs.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/07uz2g0_38qia.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/turbopack-0xewrqqi8olav.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0wymr0j0z9nwd.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/07cidlfs~md_c.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0d3shmwh5_nmn.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0zft~jem9i.au.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0z3vwiwkmf4x2.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0dicgzjjajhx6.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/133oq166-iq2j.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/01cdbuv1roxa7.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0ycei2n7w7c6f.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/087-ii967_iw4.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0d~e3k5q_g2uc.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/17qh67~6.ixar.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0ouisgpl0_beg.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0ciux21o9ftk~.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0uz2-ai541anj.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/1020rclb9ryea.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/13h3jnwj7f-2~.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0n4jjba7ftbus.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/03~yq9q893hmn.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/14kuthpliu47b.js",
+      "https://www.mykitchen-bd.com/_next/static/chunks/0yb2wil16uz6h.js"
+    ]
+  },
+  "stylesheetHrefs": [
+    "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css"
+  ],
+  "ia": {
+    "nav": [
+      "About",
+      "Expertise",
+      "Products",
+      "Sales Point",
+      "Events & News",
+      "Catalogue",
+      "Contact"
+    ],
+    "footer": [],
+    "h2s": [
+      "Social Links",
+      "Useful Links",
+      "Products",
+      "Talk To Us"
+    ]
+  },
+  "pageLabel": "Products",
+  "requestedUrl": "https://www.mykitchen-bd.com/products",
+  "httpStatus": 200,
+  "cookieConsent": null,
+  "overlays": [],
+  "overlaysRemoved": 0,
+  "overlayShot": null,
+  "pageErrors": [],
+  "css": {
+    "bytes": 115204,
+    "fontFaces": [
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/2c55a0e60120577a-s.0bjc5tiuqdqro.woff2)format(\"woff2\")",
+        "unicodeRange": "U+460-52F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F"
+      },
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/9c72aa0f40e4eef8-s.0m6w47a4e5dy9.woff2)format(\"woff2\")",
+        "unicodeRange": "U+301,U+400-45F,U+490-491,U+4B0-4B1,U+2116"
+      },
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/ad66f9afd8947f86-s.11u06r12fd6v_.woff2)format(\"woff2\")",
+        "unicodeRange": "U+1F??"
+      },
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/5476f68d60460930-s.0wxq9webf.ew4.woff2)format(\"woff2\")",
+        "unicodeRange": "U+370-377,U+37A-37F,U+384-38A,U+38C,U+38E-3A1,U+3A3-3FF"
+      },
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/2bbe8d2671613f1f-s.067x_6k0k23tk.woff2)format(\"woff2\")",
+        "unicodeRange": "U+102-103,U+110-111,U+128-129,U+168-169,U+1A0-1A1,U+1AF-1B0,U+300-301,U+303-304,"
+      },
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/1bffadaabf893a1e-s.16ipb6fqu393i.woff2)format(\"woff2\")",
+        "unicodeRange": "U+100-2BA,U+2BD-2C5,U+2C7-2CC,U+2CE-2D7,U+2DD-2FF,U+304,U+308,U+329,U+1D00-1DBF,"
+      },
+      {
+        "family": "Inter",
+        "weight": "100 900",
+        "style": "normal",
+        "display": "swap",
+        "src": "url(../media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2)format(\"woff2\")",
+        "unicodeRange": "U+??,U+131,U+152-153,U+2BB-2BC,U+2C6,U+2DA,U+2DC,U+304,U+308,U+329,U+2000-206F,U"
+      },
+      {
+        "family": "Inter Fallback",
+        "weight": "400",
+        "style": "normal",
+        "display": "",
+        "src": "local(Arial)",
+        "unicodeRange": ""
+      }
+    ],
+    "keyframes": [
+      "swipe-out",
+      "sonner-fade-in",
+      "sonner-fade-out",
+      "sonner-spin",
+      "ping",
+      "pulse",
+      "spin",
+      "enter",
+      "exit",
+      "accordion-up",
+      "accordion-down"
+    ],
+    "mediaQueries": [
+      {
+        "kind": "max",
+        "width": 600
+      },
+      {
+        "kind": "min",
+        "width": 640
+      },
+      {
+        "kind": "min",
+        "width": 768
+      },
+      {
+        "kind": "min",
+        "width": 1024
+      },
+      {
+        "kind": "min",
+        "width": 1280
+      },
+      {
+        "kind": "min",
+        "width": 1400
+      },
+      {
+        "kind": "min",
+        "width": 1536
+      },
+      {
+        "kind": "min",
+        "width": 1600
+      },
+      {
+        "kind": "min",
+        "width": 1750
+      }
+    ],
+    "vars": [
+      {
+        "name": "--toast-icon-margin-start",
+        "value": "4px",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-icon-margin-end",
+        "value": "-3px",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-svg-margin-start",
+        "value": "0px",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-svg-margin-end",
+        "value": "-1px",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-button-margin-start",
+        "value": "0",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-button-margin-end",
+        "value": "auto",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-close-button-start",
+        "value": "unset",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-close-button-end",
+        "value": "0",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--toast-close-button-transform",
+        "value": "translate(35%, -35%)",
+        "scopes": [
+          ":where(html[dir=\"ltr\"]),:where([data-sonner-toaster][dir=\"ltr\"])",
+          ":where(html[dir=\"rtl\"]),:where([data-sonner-toaster][dir=\"rtl\"])"
+        ]
+      },
+      {
+        "name": "--gray1",
+        "value": "hsl(0, 0%, 99%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray2",
+        "value": "hsl(0, 0%, 97.3%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray3",
+        "value": "hsl(0, 0%, 95.1%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray4",
+        "value": "hsl(0, 0%, 93%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray5",
+        "value": "hsl(0, 0%, 90.9%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray6",
+        "value": "hsl(0, 0%, 88.7%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray7",
+        "value": "hsl(0, 0%, 85.8%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray8",
+        "value": "hsl(0, 0%, 78%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray9",
+        "value": "hsl(0, 0%, 56.1%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray10",
+        "value": "hsl(0, 0%, 52.3%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray11",
+        "value": "hsl(0, 0%, 43.5%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--gray12",
+        "value": "hsl(0, 0%, 9%)",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--border-radius",
+        "value": "8px",
+        "scopes": [
+          ":where([data-sonner-toaster])"
+        ]
+      },
+      {
+        "name": "--y",
+        "value": "translateY(40%)",
+        "scopes": [
+          ":where([data-sonner-toast])",
+          ":where([data-sonner-toast][data-y-position=\"top\"])",
+          ":where([data-sonner-toast][data-y-position=\"bottom\"])",
+          ":where([data-sonner-toast][data-mounted=\"true\"])",
+          ":where([data-sonner-toast][data-expanded=\"false\"][data-front=\"false\"])",
+          ":where([data-sonner-toast][data-mounted=\"true\"][data-expanded=\"true\"])"
+        ]
+      },
+      {
+        "name": "--lift-amount",
+        "value": "calc(var(--lift) * var(--gap))",
+        "scopes": [
+          ":where([data-sonner-toast])",
+          ":where([data-sonner-toast][data-y-position=\"top\"])",
+          ":where([data-sonner-toast][data-y-position=\"bottom\"])"
+        ]
+      },
+      {
+        "name": "--lift",
+        "value": "-1",
+        "scopes": [
+          ":where([data-sonner-toast][data-y-position=\"top\"])",
+          ":where([data-sonner-toast][data-y-position=\"bottom\"])"
+        ]
+      },
+      {
+        "name": "--scale",
+        "value": "var(--toasts-before) * .05 + 1",
+        "scopes": [
+          ":where([data-sonner-toast][data-expanded=\"false\"][data-front=\"false\"])"
+        ]
+      },
+      {
+        "name": "--mobile-offset",
+        "value": "16px",
+        "scopes": [
+          "[data-sonner-toaster]"
+        ]
+      },
+      {
+        "name": "--normal-bg",
+        "value": "#000",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=light] [data-sonner-toast][data-invert=true]",
+          "[data-sonner-toaster][data-theme=dark] [data-sonner-toast][data-invert=true]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--normal-border",
+        "value": "hsl(0, 0%, 20%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=light] [data-sonner-toast][data-invert=true]",
+          "[data-sonner-toaster][data-theme=dark] [data-sonner-toast][data-invert=true]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--normal-text",
+        "value": "var(--gray1)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=light] [data-sonner-toast][data-invert=true]",
+          "[data-sonner-toaster][data-theme=dark] [data-sonner-toast][data-invert=true]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--success-bg",
+        "value": "hsl(150, 100%, 6%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--success-border",
+        "value": "hsl(147, 100%, 12%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--success-text",
+        "value": "hsl(150, 86%, 65%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--info-bg",
+        "value": "hsl(215, 100%, 6%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--info-border",
+        "value": "hsl(223, 100%, 12%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--info-text",
+        "value": "hsl(216, 87%, 65%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--warning-bg",
+        "value": "hsl(64, 100%, 6%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--warning-border",
+        "value": "hsl(60, 100%, 12%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--warning-text",
+        "value": "hsl(46, 87%, 65%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--error-bg",
+        "value": "hsl(358, 76%, 10%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--error-border",
+        "value": "hsl(357, 89%, 16%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--error-text",
+        "value": "hsl(358, 100%, 81%)",
+        "scopes": [
+          "[data-sonner-toaster][data-theme=light]",
+          "[data-sonner-toaster][data-theme=dark]"
+        ]
+      },
+      {
+        "name": "--size",
+        "value": "16px",
+        "scopes": [
+          ".sonner-loading-wrapper"
+        ]
+      },
+      {
+        "name": "--tw-content",
+        "value": "\"\"",
+        "scopes": [
+          ":before,:after"
+        ]
+      },
+      {
+        "name": "--red-brand-color-1",
+        "value": "#e84538",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--red-danger-color-1",
+        "value": "red",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--red-warning-color-1",
+        "value": "#ff5f15",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--black-brand-color-1",
+        "value": "#010202",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--black--brand-color-2",
+        "value": "#0a0a0a",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--black--brand-color-3",
+        "value": "#212424",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--black--brand-color-4",
+        "value": "#1c1c1c",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--black--brand-color-5",
+        "value": "#444",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--black--brand-color-6",
+        "value": "#646464",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-1",
+        "value": "#f5f5f5",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-2",
+        "value": "#d4d4d4",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-3",
+        "value": "#ebebeb",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-4",
+        "value": "grayPrimary",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-5",
+        "value": "#e6e6e6",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-6",
+        "value": "#d4d4d4",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-7",
+        "value": "#989898",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-8",
+        "value": "#939393",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--white--brand-color-9",
+        "value": "#fff",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--green--brand-color-1",
+        "value": "#53a653",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--green--brand-color-2",
+        "value": "#418d41",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--blue--brand-color-1",
+        "value": "#0075ff",
+        "scopes": [
+          ":root"
+        ]
+      },
+      {
+        "name": "--tw-border-spacing-x",
+        "value": "0",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-border-spacing-y",
+        "value": "0",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-translate-x",
+        "value": "-50%",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".-translate-x-1\\/2",
+          ".translate-x-0",
+          ".translate-x-\\[-50\\%\\]",
+          ".translate-x-\\[41rem\\]",
+          ".translate-x-full"
+        ]
+      },
+      {
+        "name": "--tw-translate-y",
+        "value": "-.25rem",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".-translate-y-1\\/2",
+          ".translate-y-\\[-50\\%\\]",
+          ".data-\\[side\\=bottom\\]\\:translate-y-1[data-side=bottom]",
+          ".data-\\[side\\=top\\]\\:-translate-y-1[data-side=top]"
+        ]
+      },
+      {
+        "name": "--tw-rotate",
+        "value": "180deg",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".-rotate-45",
+          ".-rotate-90",
+          ".rotate-0",
+          ".rotate-180",
+          ".rotate-45"
+        ]
+      },
+      {
+        "name": "--tw-skew-x",
+        "value": "0",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-skew-y",
+        "value": "0",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-scale-x",
+        "value": "1",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".scale-x-\\[-1\\]",
+          ".hover\\:scale-110:hover",
+          ".hover\\:scale-95:hover",
+          ".hover\\:scale-\\[1\\.06\\]:hover",
+          ".active\\:scale-95:active"
+        ]
+      },
+      {
+        "name": "--tw-scale-y",
+        "value": "1",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".scale-y-\\[-1\\]",
+          ".hover\\:scale-110:hover",
+          ".hover\\:scale-95:hover",
+          ".hover\\:scale-\\[1\\.06\\]:hover",
+          ".active\\:scale-95:active"
+        ]
+      },
+      {
+        "name": "--tw-pan-x",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-pan-y",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-pinch-zoom",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-scroll-snap-strictness",
+        "value": "proximity",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-gradient-from-position",
+        "value": "70%",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".from-70\\%"
+        ]
+      },
+      {
+        "name": "--tw-gradient-via-position",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-gradient-to-position",
+        "value": "100%",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".to-100\\%"
+        ]
+      },
+      {
+        "name": "--tw-ordinal",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-slashed-zero",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-numeric-figure",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-numeric-spacing",
+        "value": "tabular-nums",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".tabular-nums"
+        ]
+      },
+      {
+        "name": "--tw-numeric-fraction",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-ring-inset",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-ring-offset-width",
+        "value": "2px",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".ring-offset-2",
+          ".focus\\:ring-offset-2:focus",
+          ".focus-visible\\:ring-offset-2:focus-visible"
+        ]
+      },
+      {
+        "name": "--tw-ring-offset-color",
+        "value": "hsl(var(--background))",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".ring-offset-background"
+        ]
+      },
+      {
+        "name": "--tw-ring-color",
+        "value": "hsl(var(--ring) / .5)",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".ring-black\\/5",
+          ".ring-blue-700",
+          ".ring-linkPrimary",
+          ".focus\\:ring-ring:focus",
+          ".focus-visible\\:ring-ring:focus-visible"
+        ]
+      },
+      {
+        "name": "--tw-ring-offset-shadow",
+        "value": "var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color)",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".ring",
+          ".ring-1",
+          ".ring-2",
+          ".focus\\:ring-2:focus",
+          ".focus-visible\\:ring-2:focus-visible"
+        ]
+      },
+      {
+        "name": "--tw-ring-shadow",
+        "value": "var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color)",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".ring",
+          ".ring-1",
+          ".ring-2",
+          ".focus\\:ring-2:focus",
+          ".focus-visible\\:ring-2:focus-visible"
+        ]
+      },
+      {
+        "name": "--tw-shadow",
+        "value": "0 4px 6px -1px #0000001a, 0 2px 4px -2px #0000001a",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".shadow-2xl",
+          ".shadow-lg",
+          ".shadow-md",
+          ".shadow-sm",
+          ".shadow-xl"
+        ]
+      },
+      {
+        "name": "--tw-shadow-colored",
+        "value": "0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color)",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".shadow-2xl",
+          ".shadow-lg",
+          ".shadow-md",
+          ".shadow-sm",
+          ".shadow-xl"
+        ]
+      },
+      {
+        "name": "--tw-blur",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-brightness",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-contrast",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-grayscale",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-hue-rotate",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-invert",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-saturate",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-sepia",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-drop-shadow",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-blur",
+        "value": "blur(8px)",
+        "scopes": [
+          "*,:before,:after,::backdrop",
+          ".backdrop-blur"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-brightness",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-contrast",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-grayscale",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-hue-rotate",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-invert",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-opacity",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-saturate",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-backdrop-sepia",
+        "value": "",
+        "scopes": [
+          "*,:before,:after,::backdrop"
+        ]
+      },
+      {
+        "name": "--tw-text-opacity",
+        "value": "1",
+        "scopes": [
+          ".rich-text",
+          ".rich-text h1",
+          ".rich-text h2",
+          ".rich-text h3",
+          ".rich-text h4,.rich-text h5,.rich-text h6",
+          ".rich-text li::marker"
+        ]
+      },
+      {
+        "name": "--tw-space-y-reverse",
+        "value": "0",
+        "scopes": [
+          ".rich-text ul>:not([hidden])~:not([hidden])",
+          ".rich-text ol>:not([hidden])~:not([hidden])",
+          ".space-y-1>:not([hidden])~:not([hidden])",
+          ".space-y-1\\.5>:not([hidden])~:not([hidden])",
+          ".space-y-10>:not([hidden])~:not([hidden])",
+          ".space-y-2>:not([hidden])~:not([hidden])"
+        ]
+      },
+      {
+        "name": "--tw-border-opacity",
+        "value": "1",
+        "scopes": [
+          ".rich-text blockquote",
+          ".rich-text hr",
+          ".rich-text th,.rich-text td",
+          ".border-\\[\\#939494\\]",
+          ".border-\\[\\#E6E6E6\\]",
+          ".border-black"
+        ]
+      },
+      {
+        "name": "--tw-bg-opacity",
+        "value": "1",
+        "scopes": [
+          ".rich-text th",
+          ".bg-\\[\\#010202\\]",
+          ".bg-\\[\\#1A1A1A\\]",
+          ".bg-\\[\\#25D366\\]",
+          ".bg-\\[\\#3C0D9F\\]",
+          ".bg-\\[\\#47D355\\]"
+        ]
+      },
+      {
+        "name": "--tw-space-x-reverse",
+        "value": "0",
+        "scopes": [
+          ".space-x-1>:not([hidden])~:not([hidden])",
+          ".space-x-2>:not([hidden])~:not([hidden])",
+          ".space-x-4>:not([hidden])~:not([hidden])",
+          ".sm\\:space-x-2>:not([hidden])~:not([hidden])"
+        ]
+      },
+      {
+        "name": "--tw-divide-x-reverse",
+        "value": "0",
+        "scopes": [
+          ".divide-x>:not([hidden])~:not([hidden])",
+          ".lg\\:divide-x>:not([hidden])~:not([hidden])",
+          ".lg\\:divide-x-2>:not([hidden])~:not([hidden])"
+        ]
+      },
+      {
+        "name": "--tw-divide-opacity",
+        "value": "1",
+        "scopes": [
+          ".divide-textSecondary>:not([hidden])~:not([hidden])",
+          ".lg\\:divide-grayDarkPrimary>:not([hidden])~:not([hidden])"
+        ]
+      },
+      {
+        "name": "--tw-gradient-from",
+        "value": "transparent var(--tw-gradient-from-position)",
+        "scopes": [
+          ".from-transparent"
+        ]
+      },
+      {
+        "name": "--tw-gradient-to",
+        "value": "transparent var(--tw-gradient-to-position)",
+        "scopes": [
+          ".from-transparent",
+          ".via-transparent",
+          ".to-black\\/40",
+          ".to-brandColorSecondary",
+          ".to-transparent"
+        ]
+      },
+      {
+        "name": "--tw-gradient-stops",
+        "value": "var(--tw-gradient-from), transparent var(--tw-gradient-via-position), var(--tw-gradient-to)",
+        "scopes": [
+          ".from-transparent",
+          ".via-transparent"
+        ]
+      },
+      {
+        "name": "--tw-placeholder-opacity",
+        "value": "1",
+        "scopes": [
+          ".placeholder-gray-500::placeholder",
+          ".placeholder-graySecondary::placeholder",
+          ".placeholder-textSecondary::placeholder"
+        ]
+      },
+      {
+        "name": "--tw-ring-opacity",
+        "value": "1",
+        "scopes": [
+          ".ring-blue-700",
+          ".ring-linkPrimary"
+        ]
+      },
+      {
+        "name": "--tw-enter-opacity",
+        "value": "0",
+        "scopes": [
+          ".animate-in",
+          ".fade-in-0",
+          ".data-\\[motion\\^\\=from-\\]\\:animate-in[data-motion^=from-],.data-\\[state\\=open\\]\\:animate-in[data-state=open],.data-\\[state\\=visible\\]\\:animate-in[data-state=visible]",
+          ".data-\\[motion\\^\\=from-\\]\\:fade-in[data-motion^=from-]",
+          ".data-\\[state\\=open\\]\\:fade-in-0[data-state=open],.data-\\[state\\=visible\\]\\:fade-in[data-state=visible]"
+        ]
+      },
+      {
+        "name": "--tw-enter-scale",
+        "value": ".95",
+        "scopes": [
+          ".animate-in",
+          ".zoom-in-95",
+          ".data-\\[motion\\^\\=from-\\]\\:animate-in[data-motion^=from-],.data-\\[state\\=open\\]\\:animate-in[data-state=open],.data-\\[state\\=visible\\]\\:animate-in[data-state=visible]",
+          ".data-\\[state\\=open\\]\\:zoom-in-90[data-state=open]",
+          ".data-\\[state\\=open\\]\\:zoom-in-95[data-state=open]"
+        ]
+      },
+      {
+        "name": "--tw-enter-rotate",
+        "value": "initial",
+        "scopes": [
+          ".animate-in",
+          ".data-\\[motion\\^\\=from-\\]\\:animate-in[data-motion^=from-],.data-\\[state\\=open\\]\\:animate-in[data-state=open],.data-\\[state\\=visible\\]\\:animate-in[data-state=visible]"
+        ]
+      },
+      {
+        "name": "--tw-enter-translate-x",
+        "value": "100%",
+        "scopes": [
+          ".animate-in",
+          ".data-\\[motion\\^\\=from-\\]\\:animate-in[data-motion^=from-],.data-\\[state\\=open\\]\\:animate-in[data-state=open],.data-\\[state\\=visible\\]\\:animate-in[data-state=visible]",
+          ".data-\\[motion\\=from-end\\]\\:slide-in-from-right-52[data-motion=from-end]",
+          ".data-\\[motion\\=from-start\\]\\:slide-in-from-left-52[data-motion=from-start]",
+          ".data-\\[side\\=left\\]\\:slide-in-from-right-2[data-side=left]",
+          ".data-\\[side\\=right\\]\\:slide-in-from-left-2[data-side=right]"
+        ]
+      },
+      {
+        "name": "--tw-enter-translate-y",
+        "value": "-48%",
+        "scopes": [
+          ".animate-in",
+          ".data-\\[motion\\^\\=from-\\]\\:animate-in[data-motion^=from-],.data-\\[state\\=open\\]\\:animate-in[data-state=open],.data-\\[state\\=visible\\]\\:animate-in[data-state=visible]",
+          ".data-\\[side\\=bottom\\]\\:slide-in-from-top-2[data-side=bottom]",
+          ".data-\\[side\\=top\\]\\:slide-in-from-bottom-2[data-side=top]",
+          ".data-\\[state\\=open\\]\\:slide-in-from-bottom[data-state=open]",
+          ".data-\\[state\\=open\\]\\:slide-in-from-top[data-state=open]"
+        ]
+      },
+      {
+        "name": "--cell-size",
+        "value": "32px",
+        "scopes": [
+          ".\\[--cell-size\\:32px\\]"
+        ]
+      },
+      {
+        "name": "--tw-shadow-color",
+        "value": "#25d3664d",
+        "scopes": [
+          ".hover\\:shadow-\\[\\#25D366\\]\\/30:hover"
+        ]
+      },
+      {
+        "name": "--tw-exit-opacity",
+        "value": "0",
+        "scopes": [
+          ".data-\\[motion\\^\\=to-\\]\\:animate-out[data-motion^=to-],.data-\\[state\\=closed\\]\\:animate-out[data-state=closed],.data-\\[state\\=hidden\\]\\:animate-out[data-state=hidden]",
+          ".data-\\[motion\\^\\=to-\\]\\:fade-out[data-motion^=to-],.data-\\[state\\=closed\\]\\:fade-out-0[data-state=closed],.data-\\[state\\=hidden\\]\\:fade-out[data-state=hidden]"
+        ]
+      },
+      {
+        "name": "--tw-exit-scale",
+        "value": ".95",
+        "scopes": [
+          ".data-\\[motion\\^\\=to-\\]\\:animate-out[data-motion^=to-],.data-\\[state\\=closed\\]\\:animate-out[data-state=closed],.data-\\[state\\=hidden\\]\\:animate-out[data-state=hidden]",
+          ".data-\\[state\\=closed\\]\\:zoom-out-95[data-state=closed]"
+        ]
+      },
+      {
+        "name": "--tw-exit-rotate",
+        "value": "initial",
+        "scopes": [
+          ".data-\\[motion\\^\\=to-\\]\\:animate-out[data-motion^=to-],.data-\\[state\\=closed\\]\\:animate-out[data-state=closed],.data-\\[state\\=hidden\\]\\:animate-out[data-state=hidden]"
+        ]
+      },
+      {
+        "name": "--tw-exit-translate-x",
+        "value": "100%",
+        "scopes": [
+          ".data-\\[motion\\^\\=to-\\]\\:animate-out[data-motion^=to-],.data-\\[state\\=closed\\]\\:animate-out[data-state=closed],.data-\\[state\\=hidden\\]\\:animate-out[data-state=hidden]",
+          ".data-\\[motion\\=to-end\\]\\:slide-out-to-right-52[data-motion=to-end]",
+          ".data-\\[motion\\=to-start\\]\\:slide-out-to-left-52[data-motion=to-start]",
+          ".data-\\[state\\=closed\\]\\:slide-out-to-left[data-state=closed]",
+          ".data-\\[state\\=closed\\]\\:slide-out-to-left-1\\/2[data-state=closed]",
+          ".data-\\[state\\=closed\\]\\:slide-out-to-right[data-state=closed]"
+        ]
+      },
+      {
+        "name": "--tw-exit-translate-y",
+        "value": "-48%",
+        "scopes": [
+          ".data-\\[motion\\^\\=to-\\]\\:animate-out[data-motion^=to-],.data-\\[state\\=closed\\]\\:animate-out[data-state=closed],.data-\\[state\\=hidden\\]\\:animate-out[data-state=hidden]",
+          ".data-\\[state\\=closed\\]\\:slide-out-to-bottom[data-state=closed]",
+          ".data-\\[state\\=closed\\]\\:slide-out-to-top[data-state=closed]",
+          ".data-\\[state\\=closed\\]\\:slide-out-to-top-\\[48\\%\\][data-state=closed]"
+        ]
+      }
+    ],
+    "colorLiterals": [
+      {
+        "value": "#0000",
+        "count": 34
+      },
+      {
+        "value": "rgb(28 28 28/var(--tw-text-opacity)",
+        "count": 10
+      },
+      {
+        "value": "rgb(232 69 56/var(--tw-border-opacity)",
+        "count": 9
+      },
+      {
+        "value": "hsl(var(--accent)",
+        "count": 7
+      },
+      {
+        "value": "rgb(232 69 56/var(--tw-text-opacity)",
+        "count": 7
+      },
+      {
+        "value": "#d4d4d4",
+        "count": 6
+      },
+      {
+        "value": "rgb(232 69 56/var(--tw-bg-opacity)",
+        "count": 6
+      },
+      {
+        "value": "hsl(var(--accent-foreground)",
+        "count": 6
+      },
+      {
+        "value": "rgb(255 255 255/var(--tw-text-opacity)",
+        "count": 6
+      },
+      {
+        "value": "#ccc",
+        "count": 5
+      },
+      {
+        "value": "rgb(255 255 255/var(--tw-bg-opacity)",
+        "count": 5
+      },
+      {
+        "value": "rgb(245 245 245/var(--tw-text-opacity)",
+        "count": 5
+      },
+      {
+        "value": "hsl(var(--muted-foreground)",
+        "count": 5
+      },
+      {
+        "value": "hsl(var(--background)",
+        "count": 4
+      },
+      {
+        "value": "rgb(100 100 100/var(--tw-text-opacity)",
+        "count": 4
+      },
+      {
+        "value": "rgb(0 117 255/var(--tw-text-opacity)",
+        "count": 4
+      },
+      {
+        "value": "rgb(235 235 235/var(--tw-bg-opacity)",
+        "count": 4
+      },
+      {
+        "value": "rgb(245 245 245/var(--tw-bg-opacity)",
+        "count": 4
+      },
+      {
+        "value": "hsl(var(--muted)",
+        "count": 4
+      },
+      {
+        "value": "rgb(196 22 28/var(--tw-bg-opacity)",
+        "count": 4
+      },
+      {
+        "value": "hsl(var(--secondary)",
+        "count": 4
+      },
+      {
+        "value": "hsl(var(--ring)",
+        "count": 4
+      },
+      {
+        "value": "#0000001a",
+        "count": 3
+      },
+      {
+        "value": "#0fccce",
+        "count": 3
+      },
+      {
+        "value": "#9ca3af",
+        "count": 3
+      },
+      {
+        "value": "hsl(var(--foreground)",
+        "count": 3
+      },
+      {
+        "value": "rgb(68 68 68/var(--tw-text-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(212 212 212/var(--tw-border-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(235 235 235/var(--tw-border-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(242 242 242/var(--tw-bg-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(0 0 0/var(--tw-border-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(1 2 2/var(--tw-border-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(0 117 255/var(--tw-border-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(0 0 0/var(--tw-bg-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(28 28 28/var(--tw-bg-opacity)",
+        "count": 3
+      },
+      {
+        "value": "rgb(147 147 147/var(--tw-text-opacity)",
+        "count": 3
+      },
+      {
+        "value": "#0003",
+        "count": 2
+      },
+      {
+        "value": "rgba(0, 0, 0, 0.26)",
+        "count": 2
+      },
+      {
+        "value": "#999",
+        "count": 2
+      },
+      {
+        "value": "rgb(230 230 230/var(--tw-border-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(196 22 28/var(--tw-border-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(239 68 68/var(--tw-border-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(255 255 255/var(--tw-border-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(1 2 2/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "#000c",
+        "count": 2
+      },
+      {
+        "value": "rgb(33 36 36/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "hsl(var(--destructive)",
+        "count": 2
+      },
+      {
+        "value": "rgb(243 244 246/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(229 231 235/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(249 250 251/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(212 212 212/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(230 230 230/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(254 202 202/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(239 68 68/var(--tw-bg-opacity)",
+        "count": 2
+      },
+      {
+        "value": "#939393",
+        "count": 2
+      },
+      {
+        "value": "rgb(147 148 148/var(--tw-text-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(0 0 0/var(--tw-text-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(1 2 2/var(--tw-text-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(212 212 212/var(--tw-text-opacity)",
+        "count": 2
+      },
+      {
+        "value": "rgb(196 22 28/var(--tw-text-opacity)",
+        "count": 2
+      }
+    ],
+    "fontStacks": [
+      {
+        "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji",
+        "count": 1
+      },
+      {
+        "value": "Inter,Inter Fallback",
+        "count": 1
+      },
+      {
+        "value": "ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji",
+        "count": 1
+      },
+      {
+        "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "count": 1
+      },
+      {
+        "value": "inherit",
+        "count": 1
+      },
+      {
+        "value": "Inter,sans-serif",
+        "count": 1
+      }
+    ],
+    "fontSizes": [
+      {
+        "value": "1.125rem",
+        "count": 8
+      },
+      {
+        "value": "1rem",
+        "count": 7
+      },
+      {
+        "value": "2.25rem",
+        "count": 7
+      },
+      {
+        "value": "3rem",
+        "count": 6
+      },
+      {
+        "value": "1.5rem",
+        "count": 5
+      },
+      {
+        "value": "1.25rem",
+        "count": 5
+      },
+      {
+        "value": "1.875rem",
+        "count": 5
+      },
+      {
+        "value": ".875rem",
+        "count": 4
+      },
+      {
+        "value": "4.5rem",
+        "count": 4
+      },
+      {
+        "value": "12px",
+        "count": 3
+      },
+      {
+        "value": "3.75rem",
+        "count": 2
+      },
+      {
+        "value": ".75rem",
+        "count": 2
+      },
+      {
+        "value": "13px",
+        "count": 1
+      },
+      {
+        "value": "0.75rem",
+        "count": 1
+      },
+      {
+        "value": "inherit",
+        "count": 1
+      },
+      {
+        "value": "1em",
+        "count": 1
+      },
+      {
+        "value": "80%",
+        "count": 1
+      },
+      {
+        "value": "75%",
+        "count": 1
+      },
+      {
+        "value": "100%",
+        "count": 1
+      },
+      {
+        "value": ".8rem",
+        "count": 1
+      },
+      {
+        "value": "10px",
+        "count": 1
+      },
+      {
+        "value": "16px",
+        "count": 1
+      },
+      {
+        "value": "24px",
+        "count": 1
+      },
+      {
+        "value": "30px",
+        "count": 1
+      },
+      {
+        "value": "9px",
+        "count": 1
+      },
+      {
+        "value": "22px",
+        "count": 1
+      },
+      {
+        "value": "56px",
+        "count": 1
+      }
+    ],
+    "radii": [
+      {
+        "value": "0",
+        "count": 4
+      },
+      {
+        "value": "4px",
+        "count": 4
+      },
+      {
+        "value": "50%",
+        "count": 4
+      },
+      {
+        "value": "3px",
+        "count": 3
+      },
+      {
+        "value": ".5rem",
+        "count": 3
+      },
+      {
+        "value": ".375rem",
+        "count": 3
+      },
+      {
+        "value": "9999px",
+        "count": 2
+      },
+      {
+        "value": "var(--border-radius)",
+        "count": 1
+      },
+      {
+        "value": "6px",
+        "count": 1
+      },
+      {
+        "value": "5px",
+        "count": 1
+      },
+      {
+        "value": "0!important",
+        "count": 1
+      },
+      {
+        "value": ".25rem",
+        "count": 1
+      },
+      {
+        "value": ".125rem",
+        "count": 1
+      },
+      {
+        "value": ".75rem",
+        "count": 1
+      }
+    ],
+    "shadows": [
+      {
+        "value": "var(--tw-ring-offset-shadow,0 0 #0000), var(--tw-ring-shadow,0 0 #0000), var(--tw-shadow)",
+        "count": 9
+      },
+      {
+        "value": "var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow,0 0 #0000)",
+        "count": 6
+      },
+      {
+        "value": "0 4px 12px #0000001a,0 0 0 2px #0003",
+        "count": 2
+      },
+      {
+        "value": "0 2px 5px 0 rgba(0, 0, 0, 0.26)",
+        "count": 2
+      },
+      {
+        "value": "0 4px 12px #0000001a",
+        "count": 1
+      },
+      {
+        "value": "0 0 0 2px #0006",
+        "count": 1
+      },
+      {
+        "value": "none",
+        "count": 1
+      }
+    ],
+    "durations": [
+      {
+        "value": ".15s",
+        "count": 13
+      },
+      {
+        "value": ".2s",
+        "count": 9
+      },
+      {
+        "value": ".4s",
+        "count": 6
+      },
+      {
+        "value": ".3s",
+        "count": 6
+      },
+      {
+        "value": ".5s",
+        "count": 5
+      },
+      {
+        "value": "0.3s",
+        "count": 2
+      },
+      {
+        "value": ".7s",
+        "count": 2
+      },
+      {
+        "value": ".1s",
+        "count": 1
+      }
+    ],
+    "easings": [
+      {
+        "value": "cubic-bezier(0.75, -0.02, 0.2, 0.97)",
+        "count": 2
+      },
+      {
+        "value": "ease",
+        "count": 1
+      }
+    ],
+    "gaps": [
+      {
+        "value": "1rem",
+        "count": 6
+      },
+      {
+        "value": "2.5rem",
+        "count": 5
+      },
+      {
+        "value": "5rem",
+        "count": 4
+      },
+      {
+        "value": "0",
+        "count": 3
+      },
+      {
+        "value": ".5rem",
+        "count": 3
+      },
+      {
+        "value": "1.5rem",
+        "count": 3
+      },
+      {
+        "value": "2rem",
+        "count": 3
+      },
+      {
+        "value": ".25rem",
+        "count": 2
+      },
+      {
+        "value": "3.5rem",
+        "count": 2
+      },
+      {
+        "value": "4rem",
+        "count": 2
+      },
+      {
+        "value": "6rem",
+        "count": 2
+      },
+      {
+        "value": "1.25rem",
+        "count": 2
+      },
+      {
+        "value": "3rem",
+        "count": 2
+      },
+      {
+        "value": "6px",
+        "count": 1
+      },
+      {
+        "value": "2px",
+        "count": 1
+      },
+      {
+        "value": ".125rem",
+        "count": 1
+      },
+      {
+        "value": ".375rem",
+        "count": 1
+      },
+      {
+        "value": ".625rem",
+        "count": 1
+      },
+      {
+        "value": ".75rem",
+        "count": 1
+      },
+      {
+        "value": "8rem",
+        "count": 1
+      },
+      {
+        "value": "10rem",
+        "count": 1
+      },
+      {
+        "value": "1.75rem",
+        "count": 1
+      },
+      {
+        "value": "2.25rem",
+        "count": 1
+      },
+      {
+        "value": "8px",
+        "count": 1
+      },
+      {
+        "value": "11rem",
+        "count": 1
+      },
+      {
+        "value": "16rem",
+        "count": 1
+      }
+    ],
+    "letterSpacings": [
+      {
+        "value": "-.025em",
+        "count": 1
+      },
+      {
+        "value": ".05em",
+        "count": 1
+      },
+      {
+        "value": ".1em",
+        "count": 1
+      }
+    ],
+    "lineHeights": [
+      {
+        "value": "1.75rem",
+        "count": 13
+      },
+      {
+        "value": "1",
+        "count": 11
+      },
+      {
+        "value": "1.5rem",
+        "count": 7
+      },
+      {
+        "value": "2.5rem",
+        "count": 7
+      },
+      {
+        "value": "2.25rem",
+        "count": 6
+      },
+      {
+        "value": "2rem",
+        "count": 5
+      },
+      {
+        "value": "1.25rem",
+        "count": 4
+      },
+      {
+        "value": "1.5",
+        "count": 2
+      },
+      {
+        "value": "inherit",
+        "count": 2
+      },
+      {
+        "value": "1.625",
+        "count": 2
+      },
+      {
+        "value": "1rem",
+        "count": 2
+      },
+      {
+        "value": "57px",
+        "count": 2
+      },
+      {
+        "value": "0",
+        "count": 1
+      },
+      {
+        "value": "1.4",
+        "count": 1
+      },
+      {
+        "value": "21px",
+        "count": 1
+      },
+      {
+        "value": "28px",
+        "count": 1
+      },
+      {
+        "value": "39px",
+        "count": 1
+      },
+      {
+        "value": "1.25",
+        "count": 1
+      }
+    ],
+    "paddings": [
+      {
+        "value": "0",
+        "count": 25
+      },
+      {
+        "value": "2.5rem",
+        "count": 24
+      },
+      {
+        "value": "2rem",
+        "count": 22
+      },
+      {
+        "value": "1rem",
+        "count": 22
+      },
+      {
+        "value": "1.5rem",
+        "count": 16
+      },
+      {
+        "value": ".5rem",
+        "count": 13
+      },
+      {
+        "value": "3rem",
+        "count": 12
+      },
+      {
+        "value": "5rem",
+        "count": 11
+      },
+      {
+        "value": ".25rem",
+        "count": 9
+      },
+      {
+        "value": "1.25rem",
+        "count": 9
+      },
+      {
+        "value": ".75rem",
+        "count": 8
+      },
+      {
+        "value": "4rem",
+        "count": 8
+      },
+      {
+        "value": ".375rem",
+        "count": 7
+      },
+      {
+        "value": ".625rem",
+        "count": 4
+      },
+      {
+        "value": "10rem",
+        "count": 4
+      },
+      {
+        "value": "3.5rem",
+        "count": 3
+      },
+      {
+        "value": "6rem",
+        "count": 3
+      },
+      {
+        "value": "7rem",
+        "count": 3
+      },
+      {
+        "value": "8px",
+        "count": 2
+      },
+      {
+        "value": "9rem",
+        "count": 2
+      },
+      {
+        "value": "8rem",
+        "count": 2
+      },
+      {
+        "value": "16px",
+        "count": 1
+      },
+      {
+        "value": "10px",
+        "count": 1
+      },
+      {
+        "value": "3px",
+        "count": 1
+      },
+      {
+        "value": "5px",
+        "count": 1
+      },
+      {
+        "value": ".5rem .75rem",
+        "count": 1
+      },
+      {
+        "value": "0!important",
+        "count": 1
+      },
+      {
+        "value": "1px",
+        "count": 1
+      },
+      {
+        "value": "2px",
+        "count": 1
+      },
+      {
+        "value": "240px",
+        "count": 1
+      },
+      {
+        "value": "50px",
+        "count": 1
+      },
+      {
+        "value": "15rem",
+        "count": 1
+      },
+      {
+        "value": "24rem",
+        "count": 1
+      },
+      {
+        "value": "clamp(24px,2.6vw,50px)",
+        "count": 1
+      },
+      {
+        "value": "360px",
+        "count": 1
+      }
+    ],
+    "aspectRatios": [
+      {
+        "value": "1",
+        "count": 1
+      },
+      {
+        "value": "16/7",
+        "count": 1
+      }
+    ],
+    "maxWidths": [
+      {
+        "value": "1400px",
+        "count": 3
+      },
+      {
+        "value": "100%",
+        "count": 2
+      },
+      {
+        "value": "70%",
+        "count": 2
+      },
+      {
+        "value": "none",
+        "count": 2
+      },
+      {
+        "value": "24rem",
+        "count": 2
+      },
+      {
+        "value": "50%",
+        "count": 2
+      },
+      {
+        "value": "60%",
+        "count": 2
+      },
+      {
+        "value": "48rem",
+        "count": 1
+      },
+      {
+        "value": "56rem",
+        "count": 1
+      },
+      {
+        "value": "64rem",
+        "count": 1
+      },
+      {
+        "value": "1090px",
+        "count": 1
+      },
+      {
+        "value": "1372px",
+        "count": 1
+      },
+      {
+        "value": "1518px",
+        "count": 1
+      },
+      {
+        "value": "1920px",
+        "count": 1
+      },
+      {
+        "value": "200px",
+        "count": 1
+      },
+      {
+        "value": "22ch",
+        "count": 1
+      },
+      {
+        "value": "370px",
+        "count": 1
+      },
+      {
+        "value": "480px",
+        "count": 1
+      },
+      {
+        "value": "565px",
+        "count": 1
+      },
+      {
+        "value": "630px",
+        "count": 1
+      },
+      {
+        "value": "32rem",
+        "count": 1
+      },
+      {
+        "value": "max-content",
+        "count": 1
+      },
+      {
+        "value": "28rem",
+        "count": 1
+      },
+      {
+        "value": "36rem",
+        "count": 1
+      },
+      {
+        "value": "20rem",
+        "count": 1
+      },
+      {
+        "value": "100vw",
+        "count": 1
+      },
+      {
+        "value": "80vw",
+        "count": 1
+      },
+      {
+        "value": "42rem",
+        "count": 1
+      },
+      {
+        "value": "532px",
+        "count": 1
+      }
+    ],
+    "backdrops": [
+      {
+        "value": "var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)",
+        "count": 1
+      }
+    ],
+    "filters": [
+      {
+        "value": "blur(0)",
+        "count": 1
+      },
+      {
+        "value": "var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)",
+        "count": 1
+      }
+    ],
+    "clipPaths": [
+      {
+        "value": "polygon(13% 0,21% 30%,10% 30%,0 100%,18% 100%,25% 45%,40% 100%,58% 100%,50% 70%,58% 70%,65% 50%,77% 100%,96% 100%,81% 32%,70% 32%,80% 0,62% 0,45% 50%,30% 0)",
+        "count": 1
+      }
+    ],
+    "gradients": [
+      {
+        "value": "linear-gradient(to bottom, var(--tw-gradient-stops))",
+        "count": 1
+      },
+      {
+        "value": "linear-gradient(to right, var(--tw-gradient-stops))",
+        "count": 1
+      }
+    ],
+    "roleVars": [
+      {
+        "value": "--tw-text-opacity: 1",
+        "count": 82
+      },
+      {
+        "value": "--tw-bg-opacity: 1",
+        "count": 80
+      },
+      {
+        "value": "--tw-border-opacity: 1",
+        "count": 40
+      },
+      {
+        "value": "--tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color)",
+        "count": 3
+      },
+      {
+        "value": "--normal-bg: #fff",
+        "count": 2
+      },
+      {
+        "value": "--normal-text: var(--gray12)",
+        "count": 2
+      },
+      {
+        "value": "--normal-bg: #000",
+        "count": 2
+      },
+      {
+        "value": "--normal-border: hsl(0, 0%, 20%)",
+        "count": 2
+      },
+      {
+        "value": "--normal-text: var(--gray1)",
+        "count": 2
+      },
+      {
+        "value": "--tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color)",
+        "count": 2
+      },
+      {
+        "value": "--tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color)",
+        "count": 2
+      },
+      {
+        "value": "--tw-ring-color: hsl(var(--ring))",
+        "count": 2
+      },
+      {
+        "value": "--border-radius: 8px",
+        "count": 1
+      },
+      {
+        "value": "--normal-border: var(--gray4)",
+        "count": 1
+      },
+      {
+        "value": "--success-bg: hsl(143, 85%, 96%)",
+        "count": 1
+      },
+      {
+        "value": "--success-border: hsl(145, 92%, 91%)",
+        "count": 1
+      },
+      {
+        "value": "--success-text: hsl(140, 100%, 27%)",
+        "count": 1
+      },
+      {
+        "value": "--info-bg: hsl(208, 100%, 97%)",
+        "count": 1
+      },
+      {
+        "value": "--info-border: hsl(221, 91%, 91%)",
+        "count": 1
+      },
+      {
+        "value": "--info-text: hsl(210, 92%, 45%)",
+        "count": 1
+      },
+      {
+        "value": "--warning-bg: hsl(49, 100%, 97%)",
+        "count": 1
+      },
+      {
+        "value": "--warning-border: hsl(49, 91%, 91%)",
+        "count": 1
+      },
+      {
+        "value": "--warning-text: hsl(31, 92%, 45%)",
+        "count": 1
+      },
+      {
+        "value": "--error-bg: hsl(359, 100%, 97%)",
+        "count": 1
+      },
+      {
+        "value": "--error-border: hsl(359, 100%, 94%)",
+        "count": 1
+      },
+      {
+        "value": "--error-text: hsl(360, 100%, 45%)",
+        "count": 1
+      },
+      {
+        "value": "--normal-border: var(--gray3)",
+        "count": 1
+      },
+      {
+        "value": "--success-bg: hsl(150, 100%, 6%)",
+        "count": 1
+      },
+      {
+        "value": "--success-border: hsl(147, 100%, 12%)",
+        "count": 1
+      },
+      {
+        "value": "--success-text: hsl(150, 86%, 65%)",
+        "count": 1
+      },
+      {
+        "value": "--info-bg: hsl(215, 100%, 6%)",
+        "count": 1
+      },
+      {
+        "value": "--info-border: hsl(223, 100%, 12%)",
+        "count": 1
+      },
+      {
+        "value": "--info-text: hsl(216, 87%, 65%)",
+        "count": 1
+      },
+      {
+        "value": "--warning-bg: hsl(64, 100%, 6%)",
+        "count": 1
+      },
+      {
+        "value": "--warning-border: hsl(60, 100%, 12%)",
+        "count": 1
+      },
+      {
+        "value": "--warning-text: hsl(46, 87%, 65%)",
+        "count": 1
+      },
+      {
+        "value": "--error-bg: hsl(358, 76%, 10%)",
+        "count": 1
+      },
+      {
+        "value": "--error-border: hsl(357, 89%, 16%)",
+        "count": 1
+      },
+      {
+        "value": "--error-text: hsl(358, 100%, 81%)",
+        "count": 1
+      },
+      {
+        "value": "--red-brand-color-1: #e84538",
+        "count": 1
+      },
+      {
+        "value": "--red-danger-color-1: red",
+        "count": 1
+      },
+      {
+        "value": "--red-warning-color-1: #ff5f15",
+        "count": 1
+      },
+      {
+        "value": "--black-brand-color-1: #010202",
+        "count": 1
+      },
+      {
+        "value": "--black--brand-color-2: #0a0a0a",
+        "count": 1
+      },
+      {
+        "value": "--black--brand-color-3: #212424",
+        "count": 1
+      },
+      {
+        "value": "--black--brand-color-4: #1c1c1c",
+        "count": 1
+      },
+      {
+        "value": "--black--brand-color-5: #444",
+        "count": 1
+      },
+      {
+        "value": "--black--brand-color-6: #646464",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-1: #f5f5f5",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-2: #d4d4d4",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-3: #ebebeb",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-4: grayPrimary",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-5: #e6e6e6",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-6: #d4d4d4",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-7: #989898",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-8: #939393",
+        "count": 1
+      },
+      {
+        "value": "--white--brand-color-9: #fff",
+        "count": 1
+      },
+      {
+        "value": "--green--brand-color-1: #53a653",
+        "count": 1
+      },
+      {
+        "value": "--green--brand-color-2: #418d41",
+        "count": 1
+      },
+      {
+        "value": "--blue--brand-color-1: #0075ff",
+        "count": 1
+      }
+    ],
+    "fluidTypeDecls": [
+      {
+        "value": "1.125rem",
+        "count": 8
+      },
+      {
+        "value": "1rem",
+        "count": 7
+      },
+      {
+        "value": "2.25rem",
+        "count": 7
+      },
+      {
+        "value": "3rem",
+        "count": 6
+      },
+      {
+        "value": "1.5rem",
+        "count": 5
+      },
+      {
+        "value": "1.25rem",
+        "count": 5
+      },
+      {
+        "value": "1.875rem",
+        "count": 5
+      },
+      {
+        "value": ".875rem",
+        "count": 4
+      },
+      {
+        "value": "4.5rem",
+        "count": 4
+      },
+      {
+        "value": "3.75rem",
+        "count": 2
+      },
+      {
+        "value": ".75rem",
+        "count": 2
+      },
+      {
+        "value": "0.75rem",
+        "count": 1
+      },
+      {
+        "value": ".8rem",
+        "count": 1
+      }
+    ],
+    "focusVisibleSelectors": 7,
+    "focusSelectors": 14,
+    "pseudoElements": 12,
+    "hoverSelectors": 102,
+    "darkModeRules": 0,
+    "reducedMotionRules": 3,
+    "printRules": 2,
+    "supportsRules": 0,
+    "layerRules": 0,
+    "modernSelectors": 49,
+    "bgImageRefs": 0,
+    "externalSheets": [
+      {
+        "href": "https://www.mykitchen-bd.com/_next/static/chunks/07b8io9qmu1~s.css",
+        "bytes": 97894
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "language",
+  "startedAt": "2026-10-26T08:21:58.202Z",
+  "steps": [
+    {
+      "name": "skipped",
+      "at": 110927,
+      "data": {
+        "reason": "single-language site"
+      }
+    }
+  ],
+  "durationMs": 0,
+  "finishedAt": "2026-10-26T08:21:58.202Z",
+  "requests": [],
+  "network": {
+    "total": 0,
+    "byDomain": [],
+    "byType": [],
+    "nonGet": []
+  },
+  "shots": [],
+  "blockedWrites": []
+}

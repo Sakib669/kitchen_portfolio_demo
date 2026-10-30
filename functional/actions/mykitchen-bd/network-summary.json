@@ -1,0 +1,189 @@
+{
+  "total": 1872,
+  "byDomain": [
+    {
+      "domain": "www.mykitchen-bd.com",
+      "count": 1680
+    },
+    {
+      "domain": "api.mykitchen-bd.com",
+      "count": 125
+    },
+    {
+      "domain": "maps.googleapis.com",
+      "count": 32
+    },
+    {
+      "domain": "static.whatsapp.net",
+      "count": 17
+    },
+    {
+      "domain": "maps.gstatic.com",
+      "count": 4
+    },
+    {
+      "domain": "fonts.googleapis.com",
+      "count": 4
+    },
+    {
+      "domain": "fonts.gstatic.com",
+      "count": 4
+    },
+    {
+      "domain": "www.google.com",
+      "count": 2
+    },
+    {
+      "domain": "api.whatsapp.com",
+      "count": 2
+    },
+    {
+      "domain": "wa.me",
+      "count": 1
+    },
+    {
+      "domain": "send",
+      "count": 1
+    }
+  ],
+  "byType": [
+    {
+      "type": "script",
+      "count": 595
+    },
+    {
+      "type": "image",
+      "count": 569
+    },
+    {
+      "type": "fetch",
+      "count": 465
+    },
+    {
+      "type": "xhr",
+      "count": 131
+    },
+    {
+      "type": "stylesheet",
+      "count": 50
+    },
+    {
+      "type": "document",
+      "count": 31
+    },
+    {
+      "type": "font",
+      "count": 30
+    },
+    {
+      "type": "manifest",
+      "count": 1
+    }
+  ],
+  "nonGet": [
+    {
+      "id": 807,
+      "flow": "accordions",
+      "ts": 69660,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"69C73815-4809-4AC5-AB97-B612FC3B8960\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 808,
+      "flow": "accordions",
+      "ts": 69662,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[\"https://www.google.com\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 944,
+      "flow": "forms",
+      "ts": 83417,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"01C9FDD4-C021-4DEA-B465-AAC6EAFFE22B\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "id": 945,
+      "flow": "forms",
+      "ts": 83417,
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "type": "xhr",
+      "status": "FAILED",
+      "postData": "[\"https://www.google.com\"]",
+      "failure": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    }
+  ],
+  "unknownDomains": [
+    {
+      "domain": "www.mykitchen-bd.com",
+      "count": 1680
+    },
+    {
+      "domain": "api.mykitchen-bd.com",
+      "count": 125
+    },
+    {
+      "domain": "static.whatsapp.net",
+      "count": 17
+    },
+    {
+      "domain": "maps.gstatic.com",
+      "count": 4
+    },
+    {
+      "domain": "www.google.com",
+      "count": 2
+    },
+    {
+      "domain": "api.whatsapp.com",
+      "count": 2
+    },
+    {
+      "domain": "wa.me",
+      "count": 1
+    },
+    {
+      "domain": "send",
+      "count": 1
+    }
+  ],
+  "blockedWrites": [
+    {
+      "flow": "accordions",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"69C73815-4809-4AC5-AB97-B612FC3B8960\"]"
+    },
+    {
+      "flow": "accordions",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "postData": "[\"https://www.google.com\"]"
+    },
+    {
+      "flow": "forms",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "method": "POST",
+      "postData": "[[[23.725252378588728,90.30456586344114],[23.832387531354385,90.5326600596519]],14,null,\"en\",0,\"m@800000000\",0,0,null,null,289,1,\"https://www.google.com/maps/embed\",1,null,null,\"01C9FDD4-C021-4DEA-B465-AAC6EAFFE22B\"]"
+    },
+    {
+      "flow": "forms",
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+      "method": "POST",
+      "postData": "[\"https://www.google.com\"]"
+    }
+  ]
+}
