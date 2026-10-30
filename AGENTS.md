@@ -33,6 +33,7 @@ Architecture decisions live in `docs/specs/` when created.
 
 ## Rules
 
+- After each small, coherent change, verify it and make a Git commit. Keep unrelated changes in separate commits.
 - Treat `sites/*/raw/` and `functional/actions/` as captured evidence. Change the scripts, then regenerate derived files when a method changes.
 - Keep observed, inferred, and unknown claims distinct in reports.
 - Crawl only the public pages listed in `tools/sites.mjs`. Respect each site's configured delay.
