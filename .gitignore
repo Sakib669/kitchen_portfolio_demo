@@ -1,0 +1,9 @@
+node_modules/
+node_modules.shared-link
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+playwright-report/
+test-results/
