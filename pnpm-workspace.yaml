@@ -1,0 +1,7 @@
+# pnpm 12 refuses to install when a package wants to run a setup script nobody approved (error ERR_PNPM_IGNORED_BUILDS,
+# which is what made the Vercel build fail). These two are approved:
+#   sharp: Next.js uses it to resize images
+#   unrs-resolver: ESLint uses it to find files quickly
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
