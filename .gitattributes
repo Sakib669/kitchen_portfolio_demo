@@ -1,0 +1,7 @@
+# The repository contains a design research archive beside the application.
+# Keep those captured artifacts available, but exclude them from GitHub's
+# primary language statistics so the app stack is represented accurately.
+compare.html linguist-vendored
+functional/** linguist-vendored
+sites/** linguist-vendored
+shared/** linguist-vendored
